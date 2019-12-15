@@ -2,8 +2,7 @@
 
 - core problem - brief summary of the core problem you try to solve;
 Analyse the relationships among researchers in Computer Science who publish in top journals.
-
-- application domain - description of the domain, the data to be handled, and the possible sources;
+- application domain - description of the domain, the data to be handled, and the possible sources;<br>
 Historical data about papers published in top journals of each field (e.g. Artificial Intelligence, Machine Learning).
 The data to be handled are metadata about papers, like authors, title and year. 
 One possible source is DBLP https://dblp.uni-trier.de/ , which provides access to historical meta-data of publications in 
@@ -29,6 +28,6 @@ Features to be implemented:
     - filtering options on visualizations    
 
 
-- development team - students part of the team (max 4).
+- development team - students part of the team (max 4).<br>
 Berto D'Attoma
 Luca Giorgi
