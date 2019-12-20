@@ -3,7 +3,7 @@
 Interesting and helfpul for researcher, we only ask you to better specify few points:
 * About the graph, how (if) you intend to display the graph
 * Explain which type of statistics you intend to implement (and show) about authors
-* Explain the type (level) of visual interaction you would to provide
+* Explain the type (level) of visual interaction you would like to provide
 
 
 # ddp_project
