@@ -1,15 +1,23 @@
+# Notes
 
-## ddp_project
+Interesting and helfpul for researcher, we only ask you to better specify few points:
+* About the graph, how (if) you intend to display the graph
+* Explain which type of statistics you intend to implement (and show) about authors
+* Explain the type (level) of visual interaction you would to provide
+
+
+# ddp_project
 
 - core problem - brief summary of the core problem you try to solve;
 Analyse the relationships among researchers in Computer Science who publish in top journals.
-- application domain - description of the domain, the data to be handled, and the possible sources;<br>
+- application domain - description of the domain, the data to be handled, and the possible sources;
 Historical data about papers published in top journals of each field (e.g. Artificial Intelligence, Machine Learning).
 The data to be handled are metadata about papers, like authors, title and year. 
 One possible source is DBLP https://dblp.uni-trier.de/ , which provides access to historical meta-data of publications in 
 computer science.
 
-- categorization - from both internal (raw data, derived data, algorithms, decision support, decision making) and external (APIs, visualization, interactive dashboard) perspectives;
+## categorization
+From both internal (raw data, derived data, algorithms, decision support, decision making) and external (APIs, visualization, interactive dashboard) perspectives;
     - Internal tasks:
         - WebScraping
         - Algorithms to: 
@@ -19,8 +27,8 @@ computer science.
     - External tasks:
         - Visualization of graphs and statistics
         
-- objective - major objectives that should be achieved in terms of implemented features;
-Features to be implemented:
+## objective
+Major objectives that should be achieved in terms of implemented features:
     - web scraper
     - data parser
     - graph builder
@@ -29,6 +37,5 @@ Features to be implemented:
     - filtering options on visualizations    
 
 
-- development team - students part of the team (max 4).<br>
-Berto D'Attoma
-Luca Giorgi
+## Development team
+Berto D'Attoma, Luca Giorgi
