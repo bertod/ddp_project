@@ -1,4 +1,5 @@
-# ddp_project
+
+## ddp_project
 
 - core problem - brief summary of the core problem you try to solve;
 Analyse the relationships among researchers in Computer Science who publish in top journals.
