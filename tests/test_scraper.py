@@ -7,7 +7,7 @@ class TestScraper:
         self.scraper = Scraper()
 
     def test_get_html_from_url(self):
-        url = "https://dblp.org/db/conf/icml/icml2017"
+        url = "https://dblp.org/db/about/team.html"
         response = self.scraper.get_html_from_url(url)
         f = open("html_response.html", "r", encoding="utf8")
         html_response = f.read()
