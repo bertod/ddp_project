@@ -29,9 +29,6 @@ class TestScraper:
         scrape_result = f_xml.read()
         f_scrape = open("tests/resources/real_scrape_response.xml", "r")
         real_scrape_response = f_scrape.read()
-        # f_out = open("scrape.xml","w")
-        # f_out.write(scrape_result)
-        # f_out.close()
         scrape_result = remove_control_characters(scrape_result)
         real_scrape_response = remove_control_characters(real_scrape_response)
         assert scrape_result == real_scrape_response

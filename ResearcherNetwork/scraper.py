@@ -8,11 +8,12 @@ from bs4 import BeautifulSoup
 class Scraper:
 
     def get_html_from_url(self, url: str):
-        #f = open("response.txt","w")
-        #f.write(requests.get(url).text)
+        # f = open("response.txt","w")
+        # f.write(requests.get(url).text)
         return requests.get(url).text
 
-    def scrape(self, target_tag: str, html_page: str, path_to_save: str, target_title: str) -> None:
+    def scrape(self, target_tag: str, html_page: str,
+               path_to_save: str, target_title: str) -> None:
         """
         :param target_tag: HTML tag you want to get from scraping
         :param html_page: HTML Code obtained from the get_html_from_url method
