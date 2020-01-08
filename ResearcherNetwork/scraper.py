@@ -1,5 +1,6 @@
 import requests
 import urllib.request
+import os
 import time
 from bs4 import BeautifulSoup
 
@@ -11,17 +12,25 @@ class Scraper:
         #f.write(requests.get(url).text)
         return requests.get(url).text
 
-    def scrape(self, target_tag: str, html_page: str) -> None:
-        # Parse HTML and save to BeautifulSoup object
+    def scrape(self, target_tag: str, html_page: str, path_to_save: str, target_title: str) -> None:
+        """
+        :param target_tag: HTML tag you want to get from scraping
+        :param html_page: HTML Code obtained from the get_html_from_url method
+        :param path_to_save: the directory path where you want to save results
+        :param target_title: the name of the journal or conference you are looking for
+        :return:
+        """
+        if not path_to_save:
+            path_to_save = ""
+        if not os.path.exists(path_to_save+'/'+target_title):
+            os.makedirs(path_to_save+'/'+target_title)
         soup = BeautifulSoup(html_page, "html.parser")
-        # To download the whole data set, let's do a for loop through all a tags
         a_tags = soup.findAll('a')
         for a in a_tags:
             link = a[target_tag]
             if ".xml" in link:
                 download_url = link
-                filename = link[link.find('/jmlr') + 1:]
-                # filename = link
+                filename = path_to_save+link[link.find('/'+target_title) + 1:]
                 print(link, "----", filename)
                 urllib.request.urlretrieve(download_url, './' + filename)
             else:
