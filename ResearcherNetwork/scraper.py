@@ -13,7 +13,7 @@ class Scraper:
         return requests.get(url).text
 
     def scrape(self, target_tag: str, html_page: str,
-               path_to_save: str, target_title: str) -> None:
+               target_title: str, path_to_save: str = "ResearcherNetwork/resources/") -> None:
         """
         :param target_tag: HTML tag you want to get from scraping
         :param html_page: HTML Code obtained from the get_html_from_url method
@@ -28,12 +28,16 @@ class Scraper:
         soup = BeautifulSoup(html_page, "html.parser")
         a_tags = soup.findAll('a')
         for a in a_tags:
-            link = a[target_tag]
+            try:
+                link = a[target_tag]
+            except KeyError:
+                continue
             if ".xml" in link:
                 download_url = link
                 filename = path_to_save+link[link.find('/'+target_title) + 1:]
-                print(link, "----", filename)
-                urllib.request.urlretrieve(download_url, './' + filename)
+                if not os.path.exists(filename):
+                    print(link, "----", filename)
+                    urllib.request.urlretrieve(download_url, './' + filename)
             else:
                 continue
             # time.sleep(1) #pause the code for a sec
