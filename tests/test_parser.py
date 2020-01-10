@@ -1,6 +1,7 @@
 import unicodedata
 
 import pytest
+import os
 from lxml import etree
 from ResearcherNetwork.parser import Parser
 
@@ -17,6 +18,7 @@ class TestScraper:
         fout.close()
         with open('tests/resources/test.txt', 'r') as f:
             assert remove_control_characters(f.read()) == test_string
+        os.remove('tests/resources/test.txt')
 
     def test_parse(self):
         self.parser = Parser(books=['XML_TEST'])
@@ -27,6 +29,24 @@ class TestScraper:
         fout.close()
         with open('tests/resources/xml_out.txt', 'r') as f:
             assert remove_control_characters(f.read()) == expected
+        os.remove('tests/resources/xml_out.txt')
+
+    def test_parse_multiline(self):
+        self.parser = Parser(books=['XML_TEST'])
+        expected = "Dev Team 1||Dev Team 2||2019||XML_TEST||Append\n"\
+                   "Dev Team 1||Dev Team 2||2019||XML_TEST||Append\n"
+        fout = open('tests/resources/xml_out.txt', 'w')
+        context = etree.iterparse("tests/resources/test_append.xml", load_dtd=True, html=True, events=["start", "end"])
+        self.parser.fast_iter(context, self.parser.process_element, fout)
+        fout.close()
+        fout = open('tests/resources/xml_out.txt', 'a')
+        context = etree.iterparse("tests/resources/test_append.xml", load_dtd=True, html=True, events=["start", "end"])
+        self.parser.fast_iter(context, self.parser.process_element, fout)
+        fout.close()
+        with open('tests/resources/xml_out.txt', 'r') as f:
+            assert f.read() == expected
+        os.remove('tests/resources/xml_out.txt')
+
 
 def remove_control_characters(s):
     """
