@@ -1,0 +1,9 @@
+Giovanni Amendola||Francesco Ricca||Miroslaw Truszczynski||2020||Artif. Intell.||New models for generating hard random boolean formulas and disjunctive logic programs.
+Simon Burton||Ibrahim Habli||Tom Lawton||John McDermid||Phillip Morgan||Zoe Porter||2020||Artif. Intell.||Mind the gaps: Assuring the safety of autonomous systems from an engineering, ethical, and legal perspective.
+Liel Cohen||Rotem Galiki||Roie Zivan||2020||Artif. Intell.||Governing convergence of Max-sum on DCOPs through damping and splitting.
+Prashant Doshi||Piotr J. Gmytrasiewicz||Edmund H. Durfee||2020||Artif. Intell.||Recursively modeling other agents for decision making: A research perspective.
+Sarah Alice Gaggl||Thomas Linsbichler||Marco Maratea||Stefan Woltran||2020||Artif. Intell.||Design and results of the Second International Competition on Computational Models of Argumentation.
+Chu-Min Li||Fan Xiao||Mao Luo||Felip Manya||Zhipeng Lu||Yu Li||2020||Artif. Intell.||Clause vivification by unit propagation in CDCL SAT solvers.
+Tyler Lu||Craig Boutilier||2020||Artif. Intell.||Preference elicitation and robust winner determination for single- and multi-winner social choice.
+Tommaso Pasini||Roberto Navigli||2020||Artif. Intell.||Train-O-Matic: Supervised Word Sense Disambiguation with no (manual) effort.
+Ramon Fraga Pereira||Nir Oren||Felipe Meneguzzi||2020||Artif. Intell.||Landmark-based approaches for goal recognition as planning.
