@@ -1,6 +1,6 @@
 #xml files
 *.xml
-!tests/*.xml
+!tests/resources/*.xml
 
 # pycharm
 .idea
