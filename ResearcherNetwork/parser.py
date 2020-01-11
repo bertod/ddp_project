@@ -5,7 +5,7 @@ from unidecode import unidecode
 class Parser:
 
     def __init__(self, collab=[u'inproceedings', u'article'],
-                 years=[2016, 2017, 2018, 2019],
+                 years=[2016, 2017, 2018, 2019, 2020],
                  conferences=[u'ijcai', u'aaai', u'icml'],
                  books=[u'IJCAI', u'AAAI', u'ICML'],
                  journals=[u'J. Artif. Intell. Res.', u'Journal of Machine Learning Research', u'Artif. Intell.']):

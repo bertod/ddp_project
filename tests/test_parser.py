@@ -6,7 +6,7 @@ from lxml import etree
 from ResearcherNetwork.parser import Parser
 
 
-class TestScraper:
+class TestParser:
 
     def setup_method(self):
         self.parser = Parser()

@@ -1,5 +1,6 @@
 import pytest
 import unicodedata
+import shutil
 from ResearcherNetwork.scraper import Scraper
 
 
@@ -23,6 +24,10 @@ class TestScraper:
         scrape_result = remove_control_characters(scrape_result)
         real_scrape_response = remove_control_characters(real_scrape_response)
         assert scrape_result == real_scrape_response
+        f_scrape.close()
+        f_xml.close()
+        f.close()
+        shutil.rmtree("tests/resources/jmlr")
 
 
 def remove_control_characters(s):
