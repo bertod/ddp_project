@@ -7,15 +7,6 @@ class TestScraper:
     def setup_method(self):
         self.scraper = Scraper()
 
-    def test_get_html_from_url(self):
-        url = "https://dblp.org/db/about/team.html"
-        response = self.scraper.get_html_from_url(url)
-        f = open("tests/resources/html_response.html", "r", encoding="utf8")
-        html_response = f.read()
-        html_response = remove_control_characters(html_response)
-        response = remove_control_characters(response)
-        assert response == html_response
-
     def test_scrape(self):
         f = open("tests/resources/page_html_to_scrape.html", "r")
         html_page = f.read()
