@@ -27,7 +27,7 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
     fout = open(output_file_path, 'w')
 
     for folder in folders:
-        for file in os.listdir(scraper_output_path+folder):
+        for file in sorted(os.listdir(scraper_output_path+folder)):
             context = etree.iterparse(scraper_output_path+folder+"/"+file,
                                       load_dtd=True, html=True, events=["start", "end"])
             parser_instance.fast_iter(context, parser_instance.process_element, fout)

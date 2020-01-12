@@ -2,6 +2,7 @@ import pytest
 import unicodedata
 import shutil
 from ResearcherNetwork.scraper import Scraper
+from ResearcherNetwork.helper_functions import remove_control_characters
 
 
 class TestScraper:
@@ -29,12 +30,3 @@ class TestScraper:
         f.close()
         shutil.rmtree("tests/resources/jmlr")
 
-
-def remove_control_characters(s):
-    """
-    Helper Function for removing control chars from strings
-    before comparison
-    :param s:
-    :return:
-    """
-    return "".join(ch for ch in s if unicodedata.category(ch)[0] != "C")

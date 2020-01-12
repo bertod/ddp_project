@@ -4,6 +4,7 @@ import pytest
 import os
 from lxml import etree
 from ResearcherNetwork.parser import Parser
+from ResearcherNetwork.helper_functions import remove_control_characters
 
 
 class TestParser:
@@ -46,13 +47,3 @@ class TestParser:
         with open('tests/resources/xml_out.txt', 'r') as f:
             assert f.read() == expected
         os.remove('tests/resources/xml_out.txt')
-
-
-def remove_control_characters(s):
-    """
-    Helper Function for removing control chars from strings
-    before comparison
-    :param s:
-    :return:
-    """
-    return "".join(ch for ch in s if unicodedata.category(ch)[0] != "C")
