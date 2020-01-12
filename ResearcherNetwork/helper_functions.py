@@ -20,6 +20,7 @@ class ParserReader:
 
     def __iter__(self):
         self.lines = self.f.readlines()
+        self.f.close()
         return self
 
     def __next__(self):

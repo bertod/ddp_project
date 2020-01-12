@@ -22,7 +22,7 @@ class TestParser:
         os.remove('tests/resources/test.txt')
 
     def test_parse(self):
-        self.parser = Parser(books=['XML_TEST'])
+        self.parser = Parser()
         expected = "Dev Team 1||Dev Team 2||2019||XML_TEST||Test XML file"
         fout = open('tests/resources/xml_out.txt', 'w')
         context = etree.iterparse("tests/resources/test.xml", load_dtd=True, html=True, events=["start", "end"])
@@ -33,7 +33,7 @@ class TestParser:
         os.remove('tests/resources/xml_out.txt')
 
     def test_parse_multiline(self):
-        self.parser = Parser(books=['XML_TEST'])
+        self.parser = Parser()
         expected = "Dev Team 1||Dev Team 2||2019||XML_TEST||Append\n"\
                    "Dev Team 1||Dev Team 2||2019||XML_TEST||Append\n"
         fout = open('tests/resources/xml_out.txt', 'w')

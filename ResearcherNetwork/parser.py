@@ -4,16 +4,8 @@ from unidecode import unidecode
 
 class Parser:
 
-    def __init__(self, collab=[u'inproceedings', u'article'],
-                 years=[2016, 2017, 2018, 2019, 2020],
-                 conferences=[u'ijcai', u'aaai', u'icml'],
-                 books=[u'IJCAI', u'AAAI', u'ICML'],
-                 journals=[u'J. Artif. Intell. Res.', u'Journal of Machine Learning Research', u'Artif. Intell.']):
+    def __init__(self, collab=[u'inproceedings', u'article']):
         self.collaborations = collab
-        self.years = years
-        self.confs = conferences
-        self.books = books
-        self.journals = journals
 
     def fast_iter(self, context, func, *args, **kwargs):
         # xml categories
@@ -52,8 +44,7 @@ class Parser:
             if elem.tag == 'booktitle' and event == 'start':
                 book = unidecode(elem.text)
 
-            if elem.tag in self.collaborations and year in self.years and (
-                    journal in self.journals or book in self.books) and event == "end":
+            if elem.tag in self.collaborations and event == "end":
                 if len(author_array) is not 0 and title is not '':
                     # rejected paper has no author or title
                     # it should be check
@@ -83,7 +74,6 @@ class Parser:
                 title = ''
                 book = ''
                 del author_array[:]
-                # print(elem.tag,event)
 
             if event == "end" and elem.tag != "html":
                 elem.clear()
