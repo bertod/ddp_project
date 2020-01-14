@@ -8,11 +8,12 @@ import pandas as pd
 class StatisticsGrabber:
 
     def __init__(self, file):
-        self.reader = ParserReader(file)
+        self.file = file
+        self.reader = ParserReader(self.file)
         # self.reader_iterator = iter(reader)
-        self.parsed_lines = []
-        for line in self.reader:
-            self.parsed_lines.append(line)
+        #self.parsed_lines = []
+        #for line in self.reader:
+            #self.parsed_lines.append(line)
 
     def get_statistics(self):
         statistics_dict = {}
@@ -24,8 +25,10 @@ class StatisticsGrabber:
         papers_year_count = {}
         papers_avenue_count = {}
         authors_to_print_dict = {}
-
-        for line in self.parsed_lines:
+        n_papers = 0
+        #for line in self.parsed_lines:
+        for line in self.reader:
+            n_papers += 1
             avg_authors_paper_list.append(len(line['authors']))
             if line['year'] not in year_list:
                 year_list.append(line['year'])
@@ -46,13 +49,13 @@ class StatisticsGrabber:
             else:
                 papers_avenue_count[line['avenue']] += 1
 
-        print("# Papers : ", len(self.parsed_lines))
-        statistics_dict['n_papers'] = len(self.parsed_lines)  # n.of papers
+        print("# Papers : ", n_papers)
+        statistics_dict['n_papers'] = n_papers  # n.of papers
         print("# Distinct Authors : ", len(set(authors_list)))
         statistics_dict['n_authors'] = len(set(authors_list))  # n.of authors
-        print("avg number of authors in a paper: ", str(int(sum(avg_authors_paper_list) / len(self.parsed_lines))))
+        print("avg number of authors in a paper: ", str(int(sum(avg_authors_paper_list) / n_papers)))
         statistics_dict['avg_authors_paper'] = int(sum(avg_authors_paper_list) /
-                                       len(self.parsed_lines))  # avg authors per paper
+                                                   n_papers)  # avg authors per paper
 
         authors_dict_sorted = sorted(authors_dict.items(), key=lambda kv: kv[1], reverse=True)
         if len(year_list) > 1:
@@ -67,7 +70,7 @@ class StatisticsGrabber:
             avg_papers_author = avg_papers_author + c
             if i <= 4:
                 authors_to_print_dict[a] = c
-                authors_to_print.append(a+" : "+str(c))
+                authors_to_print.append(a + " : " + str(c))
 
             i += 1
         print(authors_to_print)
@@ -82,28 +85,41 @@ class StatisticsGrabber:
         statistics_dict['avg_papers_year'] = avg_papers_year  # avg n. papers per year
         print("#papers per avenue: ", papers_avenue_count)
         statistics_dict['papers_avenue'] = papers_avenue_count  # papers per avenue
+
+        f_out = open("resources/statistics_out.txt", "w")
+        print(statistics_dict, file=f_out)
+        f_out.close()
         return statistics_dict
 
-    # def get_graph_data(self):
-    #     nodes = []
-    #     edges = []
-    #     for line in self.parsed_lines:
-    #         authors = line['authors']
-    #         year = line['year']
-    #         for a in authors:
-    #             if a not in nodes:
-    #                 nodes.append(a)
-    #         collab = list(itertools.combinations(authors, 2))
-    #         for c in collab:
-    #             if c not in edges:
-    #                 edges.append(c)
-    #
-    #     print(edges)
-
+    def get_graph_data(self):
+        nodes = []
+        edges = []
+        self.reader = ParserReader(self.file)
+        for line in self.reader:
+            authors = line['authors']
+            for a in authors:
+                if a not in nodes:
+                    nodes.append(a)
+            collab = list(itertools.combinations(authors, 2))
+            for c in collab:
+                if c not in edges:
+                    edges.append(c)
+        #print(edges)
+        egdes_list = []
+        centrality_dict = {}
+        for t in edges:
+            egdes_list += list(t)
+        counts = Counter(egdes_list)
+        for a in nodes:
+            if a not in counts.keys():
+                counts[a] = 0
+            centrality_dict[a] = counts[a] / (len(nodes) - 1)
+        print(counts)
+        print(centrality_dict)
 
 if __name__ == "__main__":
-    stat = StatisticsGrabber("../tests/resources/parser_out_statistics_test.txt")
-    #stat = StatisticsGrabber("resources/parser_out.txt")
-    #statistics_dict = stat.get_statistics()
-    #stat.get_statistics_v2()
-    stat.get_graph_data()
+    #stat = StatisticsGrabber("../tests/resources/parser_out_statistics_test.txt")
+    stat = StatisticsGrabber("resources/parser_out.txt")
+    statistics_dict = stat.get_statistics()
+    # stat.get_statistics_v2()
+    #stat.get_graph_data()
