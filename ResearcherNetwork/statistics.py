@@ -2,18 +2,14 @@ import itertools
 
 from ResearcherNetwork.helper_functions import ParserReader
 from collections import Counter
-import pandas as pd
 
 
 class StatisticsGrabber:
 
-    def __init__(self, file):
+    def __init__(self, file, output_file_path="resources/statistics_out.txt"):
         self.file = file
+        self.output_file_path = output_file_path
         self.reader = ParserReader(self.file)
-        # self.reader_iterator = iter(reader)
-        #self.parsed_lines = []
-        #for line in self.reader:
-            #self.parsed_lines.append(line)
 
     def get_statistics(self):
         statistics_dict = {}
@@ -24,9 +20,7 @@ class StatisticsGrabber:
         avenue_list = []
         papers_year_count = {}
         papers_avenue_count = {}
-        authors_to_print_dict = {}
         n_papers = 0
-        #for line in self.parsed_lines:
         for line in self.reader:
             n_papers += 1
             avg_authors_paper_list.append(len(line['authors']))
@@ -63,18 +57,10 @@ class StatisticsGrabber:
         else:
             time_span_str = "in " + str(year_list[0])
         print("Total number of paper by author (first 5 ones) ", time_span_str)
-        i = 0
         avg_papers_author = 0
-        authors_to_print = []
         for a, c in authors_dict_sorted:
             avg_papers_author = avg_papers_author + c
-            if i <= 4:
-                authors_to_print_dict[a] = c
-                authors_to_print.append(a + " : " + str(c))
-
-            i += 1
-        print(authors_to_print)
-        statistics_dict['papers_authors_count'] = authors_to_print_dict  # first 5 authors per n. of papers
+        statistics_dict['papers_authors_count'] = authors_dict_sorted
         avg_papers_author = avg_papers_author / len(authors_dict_sorted)
         print("avg number of paper per author ", str(round(avg_papers_author, 1)), time_span_str)
         statistics_dict['avg_papers_author'] = round(avg_papers_author, 1)  # avg n. papers per author
@@ -85,8 +71,8 @@ class StatisticsGrabber:
         statistics_dict['avg_papers_year'] = avg_papers_year  # avg n. papers per year
         print("#papers per avenue: ", papers_avenue_count)
         statistics_dict['papers_avenue'] = papers_avenue_count  # papers per avenue
-
-        f_out = open("resources/statistics_out.txt", "w")
+        # f_out = open("resources/statistics_out.txt", "w")
+        f_out = open(self.output_file_path, "w")
         print(statistics_dict, file=f_out)
         f_out.close()
         return statistics_dict
@@ -104,7 +90,6 @@ class StatisticsGrabber:
             for c in collab:
                 if c not in edges:
                     edges.append(c)
-        #print(edges)
         egdes_list = []
         centrality_dict = {}
         for t in edges:
@@ -117,9 +102,10 @@ class StatisticsGrabber:
         print(counts)
         print(centrality_dict)
 
+
 if __name__ == "__main__":
     #stat = StatisticsGrabber("../tests/resources/parser_out_statistics_test.txt")
     stat = StatisticsGrabber("resources/parser_out.txt")
-    statistics_dict = stat.get_statistics()
+    statistics_dict_ = stat.get_statistics()
     # stat.get_statistics_v2()
     #stat.get_graph_data()
