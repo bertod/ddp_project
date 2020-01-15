@@ -1,0 +1,12 @@
+Manuel Fernandez||Zhenyu Huang||Jiancheng Lv||Hongyuan Zhu||Ali Rahimi||2018||AAAI||COMIC: Multi-view Clustering Without Parameter Selection.
+Ehsan Kazemi 0001||Marko Mitrovic||Ali Rahimi||Silvio Lattanzi||Amin Karbasi||2018||ICML||Submodular Streaming in All Its Glory: Tight Approximation, Minimum Memory and Low Adaptive Complexity.
+Tao Lin||Rina Panigrahy||Ali Rahimi||David P. Woodruff||2019||ICML||Faster Algorithms for Binary Matrix Factorization.
+Tao Lin||Ehsan Kazemi 0001||Manuel Fernandez||Geoffrey J. Gordon||2019||ICML||On Learning Invariant Representations for Domain Adaptation.
+Donghwan Lee 0002||Niao He||2019||ICML||Target-Based Temporal-Difference Learning.
+Cameron Voloshin||Tao Lin||EManuel Fernandez||2019||AAAI||Exploring interpretable LSTM neural networks over multi-variable data.
+Gabriele Abbati||Tianle Liu||Manuel Fernandez||Michael I. Jordan||2018||ICML||Bridging Theory and Algorithm for Domain Adaptation.
+Tao Lin||Anirudh Vemula||Cameron Voloshin||Manuel Fernandez||2018||ICML||Provably Efficient Imitation Learning from Observation Alone.
+Hoang Minh Le 0002||Cameron Voloshin||Yisong Yue||2018||ICML||Batch Policy Learning under Constraints.
+Taisuke Yasuda 0002||David P. Woodruff||Manuel Fernandez||2019||AAAI||Tight Kernel Query Complexity of Kernel Ridge Regression and Kernel $k$-means Clustering.
+Gabriele Abbati||Ali Rahimi||Manuel Fernandez||2018||ICML||Hyperbolic Disk Embeddings for Directed Acyclic Graphs.
+Gabriele Abbati||Philippe Wenk||Ali Rahimi||Andreas Krause 0001||Bernhard Scholkopf||Stefan Bauer||2019||ICML||AReS and MaRS Adversarial and MMD-Minimizing Regression for SDEs.
