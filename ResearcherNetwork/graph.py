@@ -3,8 +3,12 @@ import matplotlib.pyplot as plt
 import networkx as nx
 # noinspection PyUnresolvedReferences
 from helper_functions import ParserReader
-from graph_tool.all import *
-
+try:
+    from graph_tool.all import *
+    graphtool_flag = True
+except ImportError:
+    print("You don't have graph-tool installed. Fix it")
+    graphtool_flag = False
 from bokeh.io import show, output_file
 from bokeh.models import Plot, Range1d, MultiLine, Circle, HoverTool, BoxZoomTool, ResetTool
 from bokeh.models.graphs import from_networkx
@@ -58,6 +62,8 @@ class GraphBuilder:
             self.networkx_graph_bokeh_layout = nx.spring_layout(self.networkx_graph_bokeh)
 
     def build_graphtool(self):
+        if not graphtool_flag:
+            return
         self.graphtool_graph = Graph(directed=False)
         for a in self.nodes:
             c = self.graphtool_graph.add_vertex()
@@ -81,6 +87,8 @@ class GraphBuilder:
         print("Image saved at {}networkx_graph.png".format(self.output_path))
 
     def snap_with_graphtool(self):
+        if not graphtool_flag:
+            return
         if self.graphtool_graph is None:
             self.build_graphtool()
         graph_draw(self.graphtool_graph, output_size=(1920, 1080), output="{}graphtool_graph.png".format(self.output_path))
@@ -99,6 +107,8 @@ class GraphBuilder:
         plt.show()
 
     def draw_with_graphtool(self):
+        if not graphtool_flag:
+            return
         if self.graphtool_graph is None:
             self.build_graphtool()
         self.v_label = self.graphtool_graph.new_vertex_property("string")

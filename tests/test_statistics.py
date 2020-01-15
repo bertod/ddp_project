@@ -33,3 +33,6 @@ class TestStatistics:
         assert statistics_dict['papers_year_count'] == {2018: 6, 2019: 6}
         assert statistics_dict['avg_papers_year'] == 6.0
         assert statistics_dict['papers_avenue'] == {'AAAI': 3, 'ICML': 9}
+        assert "author_centrality" not in statistics_dict.keys()
+
+

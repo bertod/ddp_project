@@ -1,0 +1,1 @@
+{'n_papers': 772, 'n_authors': 2410, 'avg_authors_paper': 3, 'papers_authors_count': {'Michael I. Jordan': 7, 'Volkan Cevher': 6, 'Sergey Levine': 6, 'Michael A. Osborne': 5, 'Andreas Krause 0001': 5}, 'avg_papers_author': 1.2, 'papers_year_count': {2019: 772}, 'avg_papers_year': 772.0, 'papers_avenue': {'ICML': 772}}
