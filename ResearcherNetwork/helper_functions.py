@@ -14,21 +14,23 @@ def remove_control_characters(s):
 class ParserReader:
 
     def __init__(self, file):
-        self.f = open(file, 'r')
+        self.file = file
         self.lines = []
         self.pointer = 0
 
     def __iter__(self):
-        self.lines = self.f.readlines()
-        self.f.close()
+        f = open(self.file, 'r')
+        self.lines = f.readlines()
+        f.close()
         return self
 
     def __next__(self):
-        line = self.lines[self.pointer]
+        try:
+            line = self.lines[self.pointer]
+        except:
+            raise StopIteration
         tmp = self.parse_line(line)
         self.pointer += 1
-        if self.pointer >= len(self.lines):
-            raise StopIteration
         return tmp
 
     def parse_line(self, line):

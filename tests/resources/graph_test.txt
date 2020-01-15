@@ -1,0 +1,2 @@
+Giovanni Amendola||Francesco Ricca||Miroslaw Truszczynski||2020||Artif. Intell.||New models for generating hard random boolean formulas and disjunctive logic programs.
+Tommaso Pasini||Roberto Navigli||2020||Artif. Intell.||Train-O-Matic: Supervised Word Sense Disambiguation with no (manual) effort.
