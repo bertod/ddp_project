@@ -1,13 +1,44 @@
-from lxml import etree
+from __future__ import annotations
+from abc import ABC, abstractmethod
 from unidecode import unidecode
+from lxml import etree
 
 
-class Parser:
+class ParserCreator:
 
-    def __init__(self, collab=[u'inproceedings', u'article']):
-        self.collaborations = collab
+    @abstractmethod
+    def factory_method(self):
+        pass
 
+    def run_fast_iter(self, context, func, collab=[u'inproceedings', u'article'], *args, **kwargs):
+        product = self.factory_method()
+        product.fast_iter(context, func, collab, *args, **kwargs)
+
+    def run_process_element(self, elem, fout):
+        product = self.factory_method()
+        product.process_element(elem, fout)
+
+
+class ConcreteParserDblpCreator(ParserCreator):
+
+    def factory_method(self) -> ConcreteParserDblp:
+        return ConcreteParserDblp()
+
+
+class Parser(ABC):
+
+    @abstractmethod
     def fast_iter(self, context, func, *args, **kwargs):
+        pass
+
+    @abstractmethod
+    def process_element(self, elem, fout):
+        pass
+
+
+class ConcreteParserDblp(Parser):
+
+    def fast_iter(self, context, func, collab=[u'inproceedings', u'article'], *args, **kwargs):
         # xml categories
         author_array = []
         title = ''
@@ -15,12 +46,11 @@ class Parser:
         year = 0
         tag = ''
         book = ''
-
+        collaborations = collab
         # read chunk line by line
         # we focus author and title
         for event, elem in context:
-
-            if elem.tag in self.collaborations and event == "start":
+            if elem.tag in collaborations and event == "start":
                 tag = elem.tag
                 print(elem.tag, event)
 
@@ -44,7 +74,7 @@ class Parser:
             if elem.tag == 'booktitle' and event == 'start':
                 book = unidecode(elem.text)
 
-            if elem.tag in self.collaborations and event == "end":
+            if elem.tag in collaborations and event == "end":
                 if len(author_array) is not 0 and title is not '':
                     # rejected paper has no author or title
                     # it should be check
