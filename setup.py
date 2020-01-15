@@ -20,4 +20,5 @@ except VersionConflict:
 
 
 if __name__ == "__main__":
-    setup(use_pyscaffold=True, install_requires=['beautifulsoup4', 'requests', 'unidecode', 'lxml', 'pytest'])
+    setup(use_pyscaffold=True, install_requires=['beautifulsoup4', 'requests', 'unidecode', 'lxml', 'pytest',
+                                                 'networkx', 'matplotlib', 'bokeh'])
