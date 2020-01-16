@@ -12,16 +12,12 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
         output_file_path="ResearcherNetwork/resources/parser_out.txt"):
     df_links = pd.read_csv(links_file_path, sep=";")
     for index, row in df_links.iterrows():
-        break
         # get html code from url
         # if index == 0:
         print("Downloading ", row['name'], "-", row['year'])
         scraper_instance = ConcreteScraperDblpCreator()
-        # scraper_instance = Scraper()
         html_content = scraper_instance.get_html_from_url(url=row['link'])
         # searching for links inside html page
-        # scraper_instance.scrape(target_tag="href", html_page=html_content,
-        #                         target_title=row['name'], path_to_save=scraper_output_path)
         scraper_instance.run_scrape(target_tag="href", html_page=html_content,
                                      target_title=row['name'], path_to_save=scraper_output_path)
 

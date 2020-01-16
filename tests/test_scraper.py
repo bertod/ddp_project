@@ -2,18 +2,19 @@ import pytest
 import unicodedata
 import shutil
 from ResearcherNetwork.scraper import Scraper
+from ResearcherNetwork.scraper import ConcreteScraperDblpCreator
 from ResearcherNetwork.helper_functions import remove_control_characters
 
 
 class TestScraper:
     def setup_method(self):
-        self.scraper = Scraper()
+        self.scraper = ConcreteScraperDblpCreator()
 
     def test_scrape(self):
         f = open("tests/resources/page_html_to_scrape.html", "r")
         html_page = f.read()
-        self.scraper.scrape(target_tag='href', html_page=html_page,
-                            path_to_save="tests/resources/", target_title="jmlr")
+        self.scraper.run_scrape(target_tag='href', html_page=html_page,
+                                path_to_save="tests/resources/", target_title="jmlr")
         try:
             f_xml = open("tests/resources/jmlr/ChenLZ15.xml", "r", encoding="utf8")
         except FileNotFoundError:
@@ -29,4 +30,3 @@ class TestScraper:
         f_xml.close()
         f.close()
         shutil.rmtree("tests/resources/jmlr")
-
