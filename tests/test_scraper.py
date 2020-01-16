@@ -13,7 +13,7 @@ class TestScraper:
     def test_scrape(self):
         f = open("tests/resources/page_html_to_scrape.html", "r")
         html_page = f.read()
-        self.scraper.run_scrape(target_tag='href', html_page=html_page,
+        self.scraper.run_scrape(target_tag='href', url=None, html_page=html_page,
                                 path_to_save="tests/resources/", target_title="jmlr")
         try:
             f_xml = open("tests/resources/jmlr/ChenLZ15.xml", "r", encoding="utf8")

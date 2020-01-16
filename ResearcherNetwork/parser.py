@@ -10,9 +10,9 @@ class ParserCreator:
     def factory_method(self):
         pass
 
-    def run_fast_iter(self, context, func, collab=[u'inproceedings', u'article'], *args, **kwargs):
+    def run_fast_iter(self, context, collab=[u'inproceedings', u'article'], *args, **kwargs):
         product = self.factory_method()
-        product.fast_iter(context, func, collab, *args, **kwargs)
+        product.fast_iter(context, product.process_element, collab, *args, **kwargs)
 
     def run_process_element(self, elem, fout):
         product = self.factory_method()

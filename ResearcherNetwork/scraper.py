@@ -13,12 +13,13 @@ class ScraperCreator(ABC):
     def factory_method(self):
         pass
 
-    def get_html_from_url(self, url: str) -> str:
-        return requests.get(url).text
-
-    def run_scrape(self, target_tag: str, html_page: str,
+    def run_scrape(self, target_tag: str, url: str, html_page: str,
                    target_title: str, path_to_save: str = "ResearcherNetwork/resources/"):
         product = self.factory_method()
+
+        if url:
+            html_page = product.get_html_from_url(url)
+
         return product.scrape(target_tag, html_page,
                               target_title, path_to_save)
 
@@ -37,6 +38,9 @@ class Scraper(ABC):
         :param target_title: the name of the journal or conference you are looking for
         :return:
         """
+    @abstractmethod
+    def get_html_from_url(self, url: str) -> str:
+        pass
 
     @abstractmethod
     def scrape(self, target_tag: str, html_page: str,
@@ -45,6 +49,9 @@ class Scraper(ABC):
 
 
 class ConcreteScraperDblp(Scraper):
+
+    def get_html_from_url(self, url: str) -> str:
+        return requests.get(url).text
 
     def scrape(self, target_tag: str, html_page: str,
                target_title: str, path_to_save: str = "ResearcherNetwork/resources/") -> None:
@@ -68,6 +75,3 @@ class ConcreteScraperDblp(Scraper):
             else:
                 continue
             # time.sleep(1) #pause the code for a sec
-
-    def operation(self):
-        print("DBLP Concrete Scraper")

@@ -16,10 +16,10 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
         # if index == 0:
         print("Downloading ", row['name'], "-", row['year'])
         scraper_instance = ConcreteScraperDblpCreator()
-        html_content = scraper_instance.get_html_from_url(url=row['link'])
+        #html_content = scraper_instance.get_html_from_url(url=row['link'])
         # searching for links inside html page
-        scraper_instance.run_scrape(target_tag="href", html_page=html_content,
-                                     target_title=row['name'], path_to_save=scraper_output_path)
+        scraper_instance.run_scrape(target_tag="href", url=row['link'], html_page=None,
+                                    target_title=row['name'], path_to_save=scraper_output_path)
 
     parser_instance = ConcreteParserDblpCreator()
     folders = df_links.name.unique()
@@ -30,12 +30,13 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
         for file in sorted(os.listdir(scraper_output_path + folder)):
             context = etree.iterparse(scraper_output_path + folder + "/" + file,
                                       load_dtd=True, html=True, events=["start", "end"])
-            parser_instance.run_fast_iter(context, parser_instance.run_process_element, fout=fout)
+            parser_instance.run_fast_iter(context, fout=fout)
+            #parser_instance.run_fast_iter(context, parser_instance.run_process_element, fout=fout)
     fout.close()
 
 
 if __name__ == "__main__":
-    run()
+    #run()
     arguments = argparse.ArgumentParser('DBLP Researcher Graph Builder')
     arguments.add_argument('-s', '--scraperout',
                            default="ResearcherNetwork/resources/",
