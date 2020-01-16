@@ -1,51 +1,101 @@
-# Notes
-(Our answers in _italics_)
+# Project Proposal
 
-Interesting and helfpul for researcher, we only ask you to better specify few points:
-* About the graph, how (if) you intend to display the graph
-    - _Build a graph representation internally (Probably with adjacency lists, since I am guessing a matrix would be very sparse and a waste of space)_
-    - _Build a visual representation with either [NetworkX](https://networkx.github.io/) or [Graph-Tool](https://graph-tool.skewed.de/) starting from our internal view of the graph. Graph-Tool provides [dynamic visualizations](https://graph-tool.skewed.de/static/doc/demos/animation/animation.html#interactive-visualizations) and instead NetworkX seems to only provide [static visualizations](https://networkx.github.io/documentation/stable/reference/drawing.html), albeit with the possibility to import its output format into more specialized pieces of software for interactive visualizations._
-* Explain which type of statistics you intend to implement (and show) about authors
-    - _As of now, the only statistic we have settled on is author centrality in the graph. Starting from that we might also compare the change in centrality YoY or aggregate data from multiple years, but it still has not been defined._
-* Explain the type (level) of visual interaction you would like to provide
-    - _Regarding author centrality (and more "baseline" statistics, i.e. number of authors, papers etc.) we are aiming for an interactive webpage that enables the user to filter the data from which statistics are computed and gets back appropriate visualizations for each stat. We still have not set in stone how we want this to look, and implementing a dynamic webpage might prove too much work given the timeframe, in which case we might produce static visualizations when running the code and then show them in a static document or html page._
+You can read the project proposal [here](project_proposal.md)
+
+# Project Description
 
 
-# ddp_project
+This python project aims to gather and visualize data regarding researchers and their collaborations in writing papers for journals and conferences
+Data are collected by a Web Scraper module and then elaborated by a Parser.
+Based on the output from the Parser, a set of baseline statistics (e.g. number of authors, average n. of paper per author, etc)
+and a graph representation are computed.
 
-- core problem - brief summary of the core problem you try to solve;
+The project is implemented to work with DBLP https://dblp.uni-trier.de/ as source of data, but
+the code allows to easily add new Scrapers and Parsers in order extend its funcionalities to new data sources.
 
-    - Analyse the relationships among researchers in Computer Science who publish in top journals.
-    
-- application domain - description of the domain, the data to be handled, and the possible sources;
-
-    - Historical data about papers published in top journals of each field (e.g. Artificial Intelligence, Machine Learning).
-The data to be handled are metadata about papers, like authors, title and year. 
-One possible source is DBLP https://dblp.uni-trier.de/ , which provides access to historical meta-data of publications in 
-computer science.
-
-## categorization
-From both internal (raw data, derived data, algorithms, decision support, decision making) and external (APIs, visualization, interactive dashboard) perspectives;
-
-    - Internal tasks:
-        - WebScraping
-        - Algorithms to: 
-            - parse data
-            - build graph
-            - compute statistics (e.g. centrality) about authors
-    - External tasks:
-        - Visualization of graphs and statistics
-        
-## objective
-Major objectives that should be achieved in terms of implemented features:
-
-    - web scraper
-    - data parser
-    - graph builder
-    - statistics on the graph
-    - interactive/static visualizations of the data
-    - filtering options on visualizations    
+In the proposal we mentioned also an interactive Web Page where the user could filter data based on its preferencies, but we didn't managed to implement it due to lack of time.
 
 
-## Development team
-Berto D'Attoma, Luca Giorgi
+## Usage
+
+### How to run via CLI
+
+- move into ddp_project directory
+
+```bash
+cd ddp_project
+```
+- run the project main script
+
+
+```bash
+python3 researcher_network.py
+```
+_Attention. Depending on your system configuration, you may need to use either python or python3 command_
+
+
+You could also send parameters while calling the main script.
+Please, look at the help menù
+```bash
+python3 researcher_network.py --help
+```
+
+### How to run tests
+You should run setup.py script from the main directory of the project
+
+```bash
+python3 setup.py test
+```
+
+Alternatively, you could use your Python Editor/IDE if it has testing functionalities. If you choose this way, from the test configurations of the Editor, you must properly set the working directory to the project root directory.
+For instance, pycharm set /ddp_project/ResearcherNetwork/tests as default.
+
+### Requirements
+- Strict requirements
+  - pandas
+  - shutil
+  - beautifulsoup4,
+  - requests,
+  - unidecode,
+  - lxml,
+  - pytest,
+  - networkx,
+  - matplotlib,
+  - bokeh
+
+- Optional
+  - graph-tool (see [intructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions))
+
+## The Process
+The entire project process (including design and development phases) was composed by two iterations and
+it was supported by a Kanban Board for tracking User Stories and relatives Tasks.
+### Iteration 1
+
+#### Plannig Game
+The very first User Story of the project is the following:
+_As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
+In order to accomplish this story, we decided to split it in 6 Tasks (1 to 6 in the Kanban Board).
+Tasks 1 to 5, which were necessary for implementing the main components, were faced during this iteration.
+To sum up, the five tasks were about the implementation of the Web Scraper, Parser and the integration of both.
+The acceptance tests were:
+- the scraper is able to extract XML files from an HTML code (obtained from a given URL)
+and store them locally.
+- the parser can extract needed information from all the XML files and write them in a CSV file.
+
+_Note. We omitted to test the function (i.e. a method of the Scraper) in charge of sending HTTP requests, because it relies on a well tested library
+in python, named **requests** without additional code_
+
+The expected time to accomplish those tasks was around 10 hours and the real development time met the expectations
+
+#### Architecture
+##### Class Digram
+![Class Diagram](resources/uml_1.jpg)
+
+##### Design Choices
+- We decided to implement both the Scraper and Parser components following the Factory Method creational pattern.
+The choice was guided by the will to provide the possibility of easily adding different classes of scraping and parsing, depending on
+future alternative data sources, without changing the code which actually uses them.
+
+### Iteration 2
+
+
