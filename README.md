@@ -82,7 +82,7 @@ it was supported by a Kanban Board for tracking User Stories and relatives Tasks
 #### Plannig Game
 The very first User Story of the project, User Story 1, states as follows:
 
-_As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
+_As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_.
 In order to accomplish this story, we decided to split it in 6 Tasks (1 to 6 in the Kanban Board).
 Tasks 1 to 5, which were necessary for implementing the main components, were faced during this iteration.
 To sum up, the five tasks were about the implementation of the Web Scraper, Parser and the integration of both.
@@ -111,7 +111,7 @@ In addition, after the User Story 3, the entire project went under a Refactoring
 and the completion of the main script which runs all the functionalities implemented.
 
 #### Plannig Game
-- **User Story** 1: _As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
+- **User Story** 1: _As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_.
 During this iteration we accomplished the Task 6 which consisted in computing the baseline statistics based on the Parser output analysis.
 For the sake of clarity we report the statistics implemented till now:
     - total number of papers collected
@@ -126,13 +126,19 @@ For the sake of clarity we report the statistics implemented till now:
     \* the centrality measure represents an importance indicator used in Social Network Analysis.
 It is based on the number of connections that a node in the network has. In a undirected graph (i.e. as our case)
 the centrality for an author (i.e. a node) is computed with the following formula:
-![Author Centrality](resources/centrality.svg)
+
+    ![Author Centrality](resources/centrality.svg)
+    
+    where :
+    - _A_ represents an author (more precisely its node in the graph)
+    - _edgesCount(A)_ is the amount of connection of _A_ (i.e. its edges)
+    - _n_ is the total number of nodes in the graph (i.e. the number of authors)
 
     Acceptance test:
 
     - The module has to correctly compute the above statistics given the output of the Parser
 
-- **User Story 2**: _As a User, I want to access the system through CLI in order to get a static Graph visualization_
+- **User Story 2**: _As a User, I want to access the system through CLI in order to get a static Graph visualization_.
 The python class containing methods which implement this feature is GraphBuilder (i.e. graph.py). 
 At the time of instantiation, the constructor method (i.e. __init__) is in responsible for generate two lists
 containing respectively the authors (i.e. nodes in the graph) and collaboration between them (i.e. egdes). 
@@ -152,7 +158,7 @@ networkx and graph-tool. The latter has better performance (less time consuming)
     - given a list of wanted authors, both the rendering methods should write a label, 
     corresponding to the author's name, only on those authors' nodes
 
-- **User Story 3**: _As a User, I want to access the system through CLI in order to get an interactive Graph visualization_
+- **User Story 3**: _As a User, I want to access the system through CLI in order to get an interactive Graph visualization_.
 Now, the Graph class is enriched with 3 methods in order to realise interactive visualizations
 for the previous built graphs. This story was divided into Task 9 and Task 10. 
 In addition, we introduced a third library for rendering, that is called Bokeh. It leverages on
