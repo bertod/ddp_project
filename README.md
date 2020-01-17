@@ -175,7 +175,6 @@ went under a refactoring process in order to make the code more readable and,
 in some cases, better scalable.
  
 - **Final Integration and test**:
-
 We implemented a main script which, given some optional user input (via CLI), run all the 
 needed components and returns to the user, statistics and the graph on data from target source
  
