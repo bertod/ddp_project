@@ -11,10 +11,10 @@ Based on the output from the Parser, a set of baseline statistics (e.g. number o
 and a graph representation are computed.
 
 The project is implemented to work with DBLP https://dblp.uni-trier.de/ as source of data, but
-the code allows to easily add new Scrapers and Parsers in order extend its funcionalities to new data sources.
+the code allows to easily add new Scrapers and Parsers in order extend its functionalities to new data sources.
 
-In the proposal we mentioned also an interactive Web Page where the user could filter data based on its preferencies, but we didn't managed to implement it due to lack of time.
-
+In the proposal we mentioned also an interactive Web Page where the user could filter data based on its preferences, but we didn't managed to implement it due to lack of time.
+Therefore at this step, the project can be run through Command Line Interface, as explained in the next paragraph.
 
 ## Usage
 
@@ -52,27 +52,36 @@ For instance, pycharm set /ddp_project/ResearcherNetwork/tests as default.
 
 ### Requirements
 - Strict requirements
-  - pandas
-  - shutil
-  - beautifulsoup4,
-  - requests,
-  - unidecode,
-  - lxml,
-  - pytest,
-  - networkx,
-  - matplotlib,
-  - bokeh
+    - Data Handling
+        - pandas : used for reading csv
+        - lxml : used for processing XML
+        - unidecode : used for read data in Unicode format
+        - beautifulsoup4 : used for pulling data from Html code
+    - HTTP request handler
+        - requests
+    - File and Directory Handling
+        - shutil
+    - Testing libraries
+        - pytest
+    - Graphical Libraries
+        - networkx : used for graph visualizations
+        - bokeh : used for graph visualizations
+        - matplotlib
 
 - Optional
-  - graph-tool (see [intructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions))
-
+    - Graphical Libraries
+        - graph-tool (see [intructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions))   
+    _We decided to make optional this requirements due to the difficulty in installing and running it in a Windows environment.
+    However, it is easy to install under Linux and Mac OS. 
+    Despite the possible compatibility issue with Windows, it has really good performance in rendering graphs and in exploration of them._
 ## The Process
 The entire project process (including design and development phases) was composed by two iterations and
 it was supported by a Kanban Board for tracking User Stories and relatives Tasks.
 ### Iteration 1
 
 #### Plannig Game
-The very first User Story of the project is the following:
+The very first User Story of the project, User Story 1, states as follows:
+
 _As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
 In order to accomplish this story, we decided to split it in 6 Tasks (1 to 6 in the Kanban Board).
 Tasks 1 to 5, which were necessary for implementing the main components, were faced during this iteration.
@@ -97,5 +106,97 @@ The choice was guided by the will to provide the possibility of easily adding di
 future alternative data sources, without changing the code which actually uses them.
 
 ### Iteration 2
+The second iteration started with the last task which makes the first user story completed, and finished with user story n.3.
+In addition, after the User Story 3, the entire project went under a Refactoring process (including the implementation of Builder design pattern)
+and the completion of the main script which runs all the functionalities implemented.
 
+#### User Stories:
+- **User Story** 1: _As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
+During this iteration we accomplished the Task 6 which consisted in computing the baseline statistics based on the Parser output analysis.
+For the sake of clarity we report the statistics implemented till now:
+    - total number of papers collected
+    - total number of authors collected
+    - average number of authors per paper
+    - number of papers for each author
+    - average number of papers per author
+    - number of papers for each year
+    - number of papers for each avenue (i.e. journal or conference)
+    - author centrality*
+    
+    \* the centrality measure represents an importance indicator used in Social Network Analysis.
+It is based on the number of connections that a node in the network has. In a undirected graph (i.e. as our case)
+the centrality for an author (i.e. a node) is computed with the following formula:
+![Author Centrality](resources/centrality.svg)
+
+    Acceptance test:
+
+    - The module has to correctly compute the above statistics given the output of the Parser
+
+- **User Story 2**: _As a User, I want to access the system through CLI in order to get a static Graph visualization_
+The python class containing methods which implement this feature is GraphBuilder (i.e. graph.py). 
+At the time of instantiation, the constructor method (i.e. __init__) is in responsible for generate two lists
+containing respectively the authors (i.e. nodes in the graph) and collaboration between them (i.e. egdes). 
+In order to achieve that, it relies on a Iterator (located into helper_function.py), named ParserReader,
+which reads and returns data (as dictionary) from the output file of the Parser module.
+The implementation was split up in two tasks, i.e. Task 8 and Task 9 from the Kanban board.
+Each task consists in building and rendering (i.e. a static snapshot for these two task) the graph leveraging on two different library:
+networkx and graph-tool. The latter has better performance (less time consuming) and a nicer quality of the render.
+
+    Acceptance tests:
+    
+    - given an output from the Parser, the lists of nodes and edges are equals to all the authors
+    and corresponding collaborations written in the file
+    - the graph built with both the libraries, contains the right collection of authors (nodes) and
+    collaborations (edges)
+    - the methods in charge of printing the snapshots, correctly generate a .jpg file in a given path
+    - given a list of wanted authors, both the rendering methods should write a label, 
+    corresponding to the author's name, only on those authors' nodes
+
+- **User Story 3**: _As a User, I want to access the system through CLI in order to get an interactive Graph visualization_
+Now, the Graph class is enriched with 3 methods in order to realise interactive visualizations
+for the previous built graphs. This story was divided into Task 9 and Task 10. 
+In addition, we introduced a third library for rendering, that is called Bokeh. It leverages on
+the networkx graph for building the structure, and then tries to make a better
+graphic representation than the one made by the former lib. For example, it allows to read info about a node
+just going over with the pointer, differently from networkx where if you want all the labels, those are badly
+display on the graph, making tough the visualization.
+
+    Acceptance tests:
+    
+    - the methods which display the bokeh visualization has to write an HTML
+    file to a given path
+    
+    _We were able to test only this method because both networkx and graph-tool directly
+    open an interactive windows without generating files_
+
+- **Further Refactoring**:
+Once the previous user stories and relative tasks were done, the whole code
+went under a refactoring process in order to make the code more readable and,
+in some cases, better scalable.
+ 
+- **Final Integration and test**:
+
+We implemented a main script which, given some optional user input (via CLI), run all the 
+needed components and returns to the user, statistics and the graph on data from target source
+ 
+#### Class Digram
+![Class Diagram](resources/uml_1.jpg)
+
+#### Design Choices
+- We adopted the Iterator design pattern to implement ParserReader class. It is in charge of
+reading the parser output file and return data in a more comfortable structure. It does the job
+hiding the complexity of the parser output and let us change it easier in the future, for example
+to consider changes in the parser output due to new data sources.
+
+- As result of the last refactoring step, we implemented the Builder design patterns
+to let this project to be extended with new data sources which might either need to reuse existent
+Scraper/Parser or new implementations of them. Therefore, based on the data source selected
+(e.g. by the user input), the builder will choose the right components (e.g. which scraper among all)
+to use.
+
+
+The expected time to accomplish those tasks was around 12 hours and the real development ....
+
+
+## Considerations:
 
