@@ -110,7 +110,7 @@ The second iteration started with the last task which makes the first user story
 In addition, after the User Story 3, the entire project went under a Refactoring process (including the implementation of Builder design pattern)
 and the completion of the main script which runs all the functionalities implemented.
 
-#### User Stories:
+#### Plannig Game
 - **User Story** 1: _As a User, I want to access the system through CLI in order to get baseline statistics (i.e. number of authors)_
 During this iteration we accomplished the Task 6 which consisted in computing the baseline statistics based on the Parser output analysis.
 For the sake of clarity we report the statistics implemented till now:
@@ -178,10 +178,11 @@ in some cases, better scalable.
 We implemented a main script which, given some optional user input (via CLI), run all the 
 needed components and returns to the user, statistics and the graph on data from target source
  
-#### Class Digram
-![Class Diagram](resources/uml_1.jpg)
+#### Architecture
+##### Class Digram
+![Class Diagram - working in progress](resources/uml_2.jpg)
 
-#### Design Choices
+##### Design Choices
 - We adopted the Iterator design pattern to implement ParserReader class. It is in charge of
 reading the parser output file and return data in a more comfortable structure. It does the job
 hiding the complexity of the parser output and let us change it easier in the future, for example
