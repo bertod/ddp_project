@@ -5,12 +5,19 @@ import os
 from lxml import etree
 from ResearcherNetwork.parser import ConcreteParserDblpCreator
 from ResearcherNetwork.helper_functions import remove_control_characters
+from ResearcherNetwork.system_builder import ConcreteAnalyzerBuilder, Director
 
 
 class TestParser:
 
     def setup_method(self):
-        self.parser = ConcreteParserDblpCreator()
+        # self.parser = ConcreteParserDblpCreator()
+        builder = ConcreteAnalyzerBuilder()
+        director = Director()
+        director.builder = builder
+        director.build_dblp_analyzer()
+        source_analyzer = builder.product
+        self.parser = source_analyzer.parts['parser']
 
     def test_write_to_file(self):
         test_string = "This is a test string"

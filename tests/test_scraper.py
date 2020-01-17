@@ -4,11 +4,18 @@ import shutil
 from ResearcherNetwork.scraper import Scraper
 from ResearcherNetwork.scraper import ConcreteScraperDblpCreator
 from ResearcherNetwork.helper_functions import remove_control_characters
+from ResearcherNetwork.system_builder import ConcreteAnalyzerBuilder, Director
 
 
 class TestScraper:
     def setup_method(self):
-        self.scraper = ConcreteScraperDblpCreator()
+        # self.scraper = ConcreteScraperDblpCreator()
+        builder = ConcreteAnalyzerBuilder()
+        director = Director()
+        director.builder = builder
+        director.build_dblp_analyzer()
+        source_analyzer = builder.product
+        self.scraper = source_analyzer.parts['scraper']
 
     def test_scrape(self):
         f = open("tests/resources/page_html_to_scrape.html", "r")

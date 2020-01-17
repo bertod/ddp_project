@@ -4,24 +4,32 @@ import os
 import argparse
 from ResearcherNetwork.scraper import ConcreteScraperDblpCreator
 from ResearcherNetwork.parser import ConcreteParserDblpCreator
-from ResearcherNetwork.parser import Parser
+from ResearcherNetwork.system_builder import ConcreteAnalyzerBuilder, Director
 
 
 def run(scraper_output_path="ResearcherNetwork/resources/",
         links_file_path="resources/links.csv",
         output_file_path="ResearcherNetwork/resources/parser_out.txt"):
     df_links = pd.read_csv(links_file_path, sep=";")
+    # scraper_instance = ConcreteScraperDblpCreator()
+
+    builder = ConcreteAnalyzerBuilder()
+    director = Director()
+    director.builder = builder
+    director.build_dblp_analyzer()
+    source_analyzer = builder.product
+
     for index, row in df_links.iterrows():
         # get html code from url
         # if index == 0:
         print("Downloading ", row['name'], "-", row['year'])
-        scraper_instance = ConcreteScraperDblpCreator()
-        #html_content = scraper_instance.get_html_from_url(url=row['link'])
+        # html_content = scraper_instance.get_html_from_url(url=row['link'])
         # searching for links inside html page
-        scraper_instance.run_scrape(target_tag="href", url=row['link'], html_page=None,
-                                    target_title=row['name'], path_to_save=scraper_output_path)
+        # scraper_instance.run_scrape(target_tag="href", url=row['link'], html_page=None,
+        source_analyzer.parts['scraper'].run_scrape(target_tag="href", url=row['link'], html_page=None,
+                                                    target_title=row['name'], path_to_save=scraper_output_path)
 
-    parser_instance = ConcreteParserDblpCreator()
+    # parser_instance = ConcreteParserDblpCreator()
     folders = df_links.name.unique()
 
     fout = open(output_file_path, 'w')
@@ -30,13 +38,14 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
         for file in sorted(os.listdir(scraper_output_path + folder)):
             context = etree.iterparse(scraper_output_path + folder + "/" + file,
                                       load_dtd=True, html=True, events=["start", "end"])
-            parser_instance.run_fast_iter(context, fout=fout)
-            #parser_instance.run_fast_iter(context, parser_instance.run_process_element, fout=fout)
+            source_analyzer.parts['parser'].run_fast_iter(context, fout=fout)
+            # parser_instance.run_fast_iter(context, fout=fout)
+            # parser_instance.run_fast_iter(context, parser_instance.run_process_element, fout=fout)
     fout.close()
 
 
 if __name__ == "__main__":
-    #run()
+    run()
     arguments = argparse.ArgumentParser('DBLP Researcher Graph Builder')
     arguments.add_argument('-s', '--scraperout',
                            default="ResearcherNetwork/resources/",
