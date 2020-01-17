@@ -75,7 +75,7 @@ class GraphBuilder:
     def snap_with_networkx(self):
         if self.networkx_graph is None:
             self.build_networkx()
-        plt.figure(figsize=(20,20))
+        plt.figure(figsize=(20, 20))
         nx.draw(self.networkx_graph, pos=self.networkx_graph_layout,
                 with_labels=False, node_size=10, label="NetworkX Graph")
         for author in self.wanted_authors:
@@ -91,7 +91,12 @@ class GraphBuilder:
             return
         if self.graphtool_graph is None:
             self.build_graphtool()
-        graph_draw(self.graphtool_graph, output_size=(1920, 1080), output="{}graphtool_graph.png".format(self.output_path))
+        self.v_label = self.graphtool_graph.new_vertex_property("string")
+        for a in self.nodes:
+            if a in self.wanted_authors:
+                self.v_label[self.conv[a]] = self.conv_rev[self.conv[a]]
+
+        graph_draw(self.graphtool_graph, vertex_text=self.v_label, output_size=(1920, 1080), output="{}graphtool_graph.png".format(self.output_path))
         print("Image saved at {}graphtool_graph.png".format(self.output_path))
 
     def draw_with_networkx(self):
@@ -135,3 +140,10 @@ class GraphBuilder:
 
         output_file("{}interactive_graph_bokeh.html".format(self.output_path))
         show(plot)
+
+
+if __name__ == "__main__":
+    g = GraphBuilder("../tests/resources/graph_test.txt", output="../tests/resources/", authors=['Roberto Navigli'])
+    #g.snap_with_graphtool()
+    g.draw_with_networkx()
+    #g.draw_with_bokeh()
