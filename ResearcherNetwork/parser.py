@@ -28,7 +28,7 @@ class ConcreteParserDblpCreator(ParserCreator):
 class Parser(ABC):
 
     @abstractmethod
-    def fast_iter(self, context, func, *args, **kwargs):
+    def fast_iter(self, context, func, collab=[u'inproceedings', u'article'], *args, **kwargs):
         pass
 
     @abstractmethod

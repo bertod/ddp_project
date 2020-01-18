@@ -29,11 +29,11 @@ class ParserReader:
             line = self.lines[self.pointer]
         except:
             raise StopIteration
-        tmp = self.parse_line(line)
+        tmp = self.__parse_line(line)
         self.pointer += 1
         return tmp
 
-    def parse_line(self, line):
+    def __parse_line(self, line):
         line = remove_control_characters(line)
         row_list = line.split("||")
         authors = row_list[:-3]
