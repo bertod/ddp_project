@@ -35,7 +35,7 @@ _Attention. Depending on your system configuration, you may need to use either p
 
 
 You could also send parameters while calling the main script.
-Please, look at the help menù
+Please, look at the help menu
 ```bash
 python3 researcher_network.py --help
 ```
@@ -78,6 +78,7 @@ For instance, pycharm set /ddp_project/ResearcherNetwork/tests as default.
 The entire project process (including design and development phases) was composed by two iterations and
 it was supported by a Kanban Board for tracking User Stories and relatives Tasks.
 ### Iteration 1
+start: 2019/12/20 - end: 2020/01/10
 
 #### Plannig Game
 The very first User Story of the project, User Story 1, states as follows:
@@ -106,6 +107,8 @@ The choice was guided by the will to provide the possibility of easily adding di
 future alternative data sources, without changing the code which actually uses them.
 
 ### Iteration 2
+start: 2019/01/11 - end: 2020/01/22
+
 The second iteration started with the last task which makes the first user story completed, and finished with user story n.3.
 In addition, after the User Story 3, the entire project went under a Refactoring process (including the implementation of Builder design pattern)
 and the completion of the main script which runs all the functionalities implemented.
@@ -123,16 +126,16 @@ For the sake of clarity we report the statistics implemented till now:
     - number of papers for each avenue (i.e. journal or conference)
     - author centrality*
     
-    \* the centrality measure represents an importance indicator used in Social Network Analysis.
-It is based on the number of connections that a node in the network has. In a undirected graph (i.e. as our case)
-the centrality for an author (i.e. a node) is computed with the following formula:
-
-    ![Author Centrality](resources/centrality.svg)
+        \* the centrality measure represents an importance indicator used in Social Network Analysis.
+    It is based on the number of connections that a node in the network has. In a undirected graph (i.e. as our case)
+    the centrality for an author (i.e. a node) is computed with the following formula:
     
-    where :
-    - _A_ represents an author (more precisely its node in the graph)
-    - _edgesCount(A)_ is the amount of connection of _A_ (i.e. its edges)
-    - _n_ is the total number of nodes in the graph (i.e. the number of authors)
+        ![Author Centrality](resources/centrality.svg)
+        
+        where :
+        - _A_ represents an author (more precisely its node in the graph)
+        - _edgesCount(A)_ is the amount of connection of _A_ (i.e. its edges)
+        - _n_ is the total number of nodes in the graph (i.e. the number of authors)
 
     Acceptance test:
 
@@ -140,7 +143,7 @@ the centrality for an author (i.e. a node) is computed with the following formul
 
 - **User Story 2**: _As a User, I want to access the system through CLI in order to get a static Graph visualization_.
 The python class containing methods which implement this feature is GraphBuilder (i.e. graph.py). 
-At the time of instantiation, the constructor method (i.e. __init__) is in responsible for generate two lists
+At the time of instantiation, the constructor method (i.e. __init__) is in responsible for generating two lists
 containing respectively the authors (i.e. nodes in the graph) and collaboration between them (i.e. egdes). 
 In order to achieve that, it relies on a Iterator (located into helper_function.py), named ParserReader,
 which reads and returns data (as dictionary) from the output file of the Parser module.
@@ -182,8 +185,11 @@ in some cases, better scalable.
  
 - **Final Integration and test**:
 We implemented a main script which, given some optional user input (via CLI), run all the 
-needed components and returns to the user, statistics and the graph on data from target source
- 
+needed components and returns statistics and the graph, on data from target source, to the user.
+
+**Unimplemented stories**: we left unresolved the user stories n. 4 and 5. We would have needed
+ another iteration to accomplish them.
+
 #### Architecture
 ##### Class Digram
 ![Class Diagram](resources/uml_3.jpg)
