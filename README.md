@@ -107,7 +107,7 @@ The choice was guided by the will to provide the possibility of easily adding di
 future alternative data sources, without changing the code which actually uses them.
 
 ### Iteration 2
-start: 2019/01/11 - end: 2020/01/22
+start: 2020/01/11 - end: 2020/01/22
 
 The second iteration started with the last task which makes the first user story completed, and finished with user story n.3.
 In addition, after the User Story 3, the entire project went under a Refactoring process (including the implementation of Builder design pattern)
