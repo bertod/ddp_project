@@ -186,7 +186,15 @@ needed components and returns to the user, statistics and the graph on data from
  
 #### Architecture
 ##### Class Digram
-![Class Diagram - working in progress](resources/uml_2.jpg)
+![Class Diagram](resources/uml_3.jpg)
+
+_In order to keep the diagram as clear as possible, we replace the real structure of Parser and Scraper classes
+with two placeholder. The actual structure of those classes is reported as UML diagram in Iteration 1._
+
+_Let us avoid to write every methods of the Graph Builder class in order to keep the diagram short.
+We summarized using just 3 methods: one for building the graph structure, one for 
+rendering a static graph and one for the interactive graph._ 
+ 
 
 ##### Design Choices
 - We adopted the Iterator design pattern to implement ParserReader class. It is in charge of
