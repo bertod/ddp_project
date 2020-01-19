@@ -45,38 +45,35 @@ class StatisticsGrabber:
             else:
                 papers_avenue_count[line['avenue']] += 1
 
-        # print("# Papers : ", n_papers)
-        statistics_dict['n_papers'] = n_papers  # n.of papers
-        # print("# Distinct Authors : ", len(set(authors_list)))
-        statistics_dict['n_authors'] = len(set(authors_list))  # n.of authors
-        # print("avg number of authors in a paper: ", str(int(sum(avg_authors_paper_list) / n_papers)))
-        statistics_dict['avg_authors_paper'] = int(sum(avg_authors_paper_list) /
-                                                   n_papers)  # avg authors per paper
+        tmp_dict = {'title': "Total Number of Papers", 'value': n_papers}
+        statistics_dict['n_papers'] = tmp_dict  # n.of papers
+        tmp_dict = {'title': "Total Number of Authors", 'value': len(set(authors_list))}
+        statistics_dict['n_authors'] = tmp_dict  # n.of authors
+        tmp_dict = {'title': "Average Number of Authors per Paper", 'value': int(sum(avg_authors_paper_list) /
+                                                                                 n_papers)}
+        statistics_dict['avg_authors_paper'] = tmp_dict
 
         authors_dict_sorted = sorted(authors_dict.items(), key=lambda kv: kv[1], reverse=True)
-        if len(year_list) > 1:
-            time_span_str = "between " + str(min(year_list)) + " and " + str(max(year_list))
-        else:
-            time_span_str = "in " + str(year_list[0])
-        # print("Total number of paper by author (first 5 ones) ", time_span_str)
         avg_papers_author = 0
         for a, c in authors_dict_sorted:
             avg_papers_author = avg_papers_author + c
-        statistics_dict['papers_authors_count'] = authors_dict_sorted
+
+        tmp_dict = {'title': "Number Papers for each Author", 'value': authors_dict_sorted}
+        statistics_dict['papers_authors_count'] = tmp_dict
         avg_papers_author = avg_papers_author / len(authors_dict_sorted)
-        # print("avg number of paper per author ", str(round(avg_papers_author, 1)), time_span_str)
-        statistics_dict['avg_papers_author'] = round(avg_papers_author, 1)  # avg n. papers per author
-        # print("#papers per year: ", papers_year_count)
-        statistics_dict['papers_year_count'] = papers_year_count  # papers per year
+        tmp_dict = {'title': "Average number of Papers per Author", 'value': int(avg_papers_author)}
+        statistics_dict['avg_papers_author'] = tmp_dict  # avg n. papers per author
+        tmp_dict = {'title': "Number of Papers per year", 'value': papers_year_count}
+        statistics_dict['papers_year_count'] = tmp_dict  # papers per year
         avg_papers_year = round(sum(papers_year_count.values()) / len(papers_year_count.keys()), 1)
-        # print("avg number of papers per year: ", avg_papers_year)
-        statistics_dict['avg_papers_year'] = avg_papers_year  # avg n. papers per year
-        # print("#papers per avenue: ", papers_avenue_count)
-        statistics_dict['papers_avenue'] = papers_avenue_count  # papers per avenue
+        tmp_dict = {'title': "Average Number of Papers per year", 'value': int(avg_papers_year)}
+        statistics_dict['avg_papers_year'] = tmp_dict  # avg n. papers per year
+        tmp_dict = {'title': "Number of Papers per Avenue", 'value': papers_avenue_count}
+        statistics_dict['papers_avenue'] = tmp_dict  # papers per avenue
 
         if isinstance(self.graph_builder, GraphBuilder):
-            statistics_dict['author_centrality'] = self.get_graph_data()
-        # f_out = open("resources/statistics_out.txt", "w")
+            tmp_dict = {'title': "Centrality measure for each author", 'value': self.get_graph_data()}
+            statistics_dict['author_centrality'] = tmp_dict
         f_out = open(self.output_file_path, "w")
         print(statistics_dict, file=f_out)
         f_out.close()
@@ -93,6 +90,6 @@ class StatisticsGrabber:
         for a in nodes:
             if a not in counts.keys():
                 counts[a] = 0
-            centrality_dict[a] = counts[a] / (len(nodes) - 1)
+            centrality_dict[a] = round((counts[a] / (len(nodes) - 1)), 2)
         # print(centrality_dict)
         return centrality_dict
