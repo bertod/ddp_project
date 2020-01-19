@@ -2,7 +2,7 @@ import itertools
 import matplotlib.pyplot as plt
 import networkx as nx
 # noinspection PyUnresolvedReferences
-from helper_functions import ParserReader
+from ResearcherNetwork.helper_functions import ParserReader
 try:
     from graph_tool.all import *
     graphtool_flag = True
@@ -12,11 +12,12 @@ except ImportError:
 from bokeh.io import show, output_file
 from bokeh.models import Plot, Range1d, MultiLine, Circle, HoverTool, BoxZoomTool, ResetTool
 from bokeh.models.graphs import from_networkx
+from contextlib import redirect_stderr
 
 
 class GraphBuilder:
 
-    def __init__(self, parser_input, authors=[], output="../resources/"):
+    def __init__(self, parser_input, authors=[], output="resources/"):
         self.nodes = []
         self.edges = []
         self.wanted_authors = authors
@@ -120,8 +121,21 @@ class GraphBuilder:
         for a in self.nodes:
             if a in self.wanted_authors:
                 self.v_label[self.conv[a]] = self.conv_rev[self.conv[a]]
-        graph_tool.draw.interactive_window(self.graphtool_graph, vertex_text=self.v_label, vertex_font_size=6,
-                                           geometry=(1920, 1080))
+
+        # Graph-Tool will raise an exception due to its implementation of the __del__ method if one closes the
+        # interactive window before it finishes displaying and laying out the whole graph. This particular exception
+        # is not catchable and will print regardless after the project is closed. This is quite ugly to see and could
+        # skew the perception of the end user, making him/her think that an actual error happened during the execution
+        # of our code. Redirecting stderr seems to be the only sane solution (other than fixing the issue upstream in
+        # Graph-Tool, but since we don't want to lose actual error messages that might happen, we redirect it to a log
+        # file (that is overwritten after each execution!).
+        # cfr. https://bugs.python.org/issue35743 and https://bit.ly/2NJYgLd
+        # It doesn't work! Need to find alternative solution.
+        with open("resources/log.txt", "w") as f:
+            with redirect_stderr(f):
+                graph_tool.draw.interactive_window(self.graphtool_graph, vertex_text=self.v_label, vertex_font_size=6,
+                                                   geometry=(1920, 1080))
+
 
     def draw_with_bokeh(self):
         self.build_networkx(bokeh=True)

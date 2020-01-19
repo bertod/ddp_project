@@ -2,8 +2,8 @@ import pandas as pd
 from lxml import etree
 import os
 import argparse
-from ResearcherNetwork.scraper import ConcreteScraperDblpCreator
-from ResearcherNetwork.parser import ConcreteParserDblpCreator
+from ResearcherNetwork.graph import GraphBuilder
+from ResearcherNetwork.statistics import StatisticsGrabber
 from ResearcherNetwork.system_builder import ConcreteAnalyzerBuilder, Director
 
 
@@ -11,7 +11,6 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
         links_file_path="resources/links.csv",
         output_file_path="ResearcherNetwork/resources/parser_out.txt"):
     df_links = pd.read_csv(links_file_path, sep=";")
-    # scraper_instance = ConcreteScraperDblpCreator()
 
     builder = ConcreteAnalyzerBuilder()
     director = Director()
@@ -20,16 +19,10 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
     source_analyzer = builder.product
 
     for index, row in df_links.iterrows():
-        # get html code from url
-        # if index == 0:
         print("Downloading ", row['name'], "-", row['year'])
-        # html_content = scraper_instance.get_html_from_url(url=row['link'])
-        # searching for links inside html page
-        # scraper_instance.run_scrape(target_tag="href", url=row['link'], html_page=None,
         source_analyzer.parts['scraper'].run_scrape(target_tag="href", url=row['link'], html_page=None,
                                                     target_title=row['name'], path_to_save=scraper_output_path)
 
-    # parser_instance = ConcreteParserDblpCreator()
     folders = df_links.name.unique()
 
     fout = open(output_file_path, 'w')
@@ -39,9 +32,59 @@ def run(scraper_output_path="ResearcherNetwork/resources/",
             context = etree.iterparse(scraper_output_path + folder + "/" + file,
                                       load_dtd=True, html=True, events=["start", "end"])
             source_analyzer.parts['parser'].run_fast_iter(context, fout=fout)
-            # parser_instance.run_fast_iter(context, fout=fout)
-            # parser_instance.run_fast_iter(context, parser_instance.run_process_element, fout=fout)
     fout.close()
+
+    g = GraphBuilder(output_file_path, output=scraper_output_path)
+
+    s = StatisticsGrabber(output_file_path)
+    print("\nComputing Statistics...")
+    s.get_statistics(g)
+    print("Done! You can find them in {}".format(s.output_file_path))
+
+    while True:
+        print("\nYou can either generate a static image file visualizing the graph or see an interactive visualization.")
+        print("What would you like to do? (1) Static Image (2) Interactive Window (q) to quit")
+        choice = input("> ")
+        if choice == "1":
+            while True:
+                print("\nYou can either use NetworkX or Graph-Tool.")
+                print("What would you like to do? (1) NetworkX (2) Graph-Tool (q) to quit")
+                choice_sv = input("> ")
+                if choice_sv == "1":
+                    g.snap_with_networkx()
+                    break
+                elif choice_sv == "2":
+                    g.snap_with_graphtool()
+                    break
+                elif choice_sv == "q":
+                    break
+                else:
+                    print("\nI didn't understand your choice, use either 1 or 2. Enter q to quit.")
+                    continue
+        elif choice == "2":
+            while True:
+                print("\nYou can either use NetworkX, Graph-Tool or Bokeh.")
+                print("What would you like to do? (1) NetworkX (2) Graph-Tool (3) Bokeh (q) to quit")
+                choice_iv = input("> ")
+                if choice_iv == "1":
+                    g.draw_with_networkx()
+                    break
+                elif choice_iv == "2":
+                    g.draw_with_graphtool()
+                    break
+                elif choice_iv == "3":
+                    g.draw_with_bokeh()
+                    break
+                elif choice_iv == "q":
+                    break
+                else:
+                    print("\nI didn't understand your choice, use either 1, 2 or 3. Enter q to quit.")
+                    continue
+        elif choice == "q":
+            break
+        else:
+            print("\nI didn't understand your choice, use either 1 or 2. Enter q to quit.")
+            continue
 
 
 if __name__ == "__main__":

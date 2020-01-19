@@ -1,4 +1,4 @@
-from __future__ import annotations
+# from __future__ import annotations
 from abc import ABC, abstractmethod, abstractproperty
 from typing import Any
 from ResearcherNetwork.scraper import ScraperCreator, ConcreteScraperDblpCreator
@@ -22,31 +22,6 @@ class AnalyzerBuilder(ABC):
     @abstractmethod
     def produce_part_parser(self, parser_creator: ParserCreator) -> None:
         pass
-
-
-class ConcreteAnalyzerBuilder(AnalyzerBuilder):
-
-    def __init__(self) -> None:
-        """
-        A fresh builder instance should contain a blank product object, which is
-        used in further assembly.
-        """
-        self.reset()
-
-    def reset(self) -> None:
-        self._product = SourceAnalyzer()
-
-    @property
-    def product(self) -> SourceAnalyzer:
-        product = self._product
-        self.reset()
-        return product
-
-    def produce_part_scraper(self, scraper_creator: ScraperCreator) -> None:
-        self._product.add(scraper_creator, "scraper")
-
-    def produce_part_parser(self, parser_creator: ParserCreator) -> None:
-        self._product.add(parser_creator, "parser")
 
 
 class SourceAnalyzer:
@@ -104,3 +79,28 @@ class Director:
         parser_creator = ConcreteParserDblpCreator()
         self.builder.produce_part_scraper(scraper_creator)
         self.builder.produce_part_parser(parser_creator)
+
+
+class ConcreteAnalyzerBuilder(AnalyzerBuilder):
+
+    def __init__(self) -> None:
+        """
+        A fresh builder instance should contain a blank product object, which is
+        used in further assembly.
+        """
+        self.reset()
+
+    def reset(self) -> None:
+        self._product = SourceAnalyzer()
+
+    @property
+    def product(self) -> SourceAnalyzer:
+        product = self._product
+        self.reset()
+        return product
+
+    def produce_part_scraper(self, scraper_creator: ScraperCreator) -> None:
+        self._product.add(scraper_creator, "scraper")
+
+    def produce_part_parser(self, parser_creator: ParserCreator) -> None:
+        self._product.add(parser_creator, "parser")

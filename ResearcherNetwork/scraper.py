@@ -1,4 +1,4 @@
-from __future__ import annotations
+# from __future__ import annotations
 from abc import ABC, abstractmethod
 import requests
 import urllib.request
@@ -22,12 +22,6 @@ class ScraperCreator(ABC):
 
         return product.scrape(target_tag, html_page,
                               target_title, path_to_save)
-
-
-class ConcreteScraperDblpCreator(ScraperCreator):
-
-    def factory_method(self) -> ConcreteScraperDblp:
-        return ConcreteScraperDblp()
 
 
 class Scraper(ABC):
@@ -75,3 +69,8 @@ class ConcreteScraperDblp(Scraper):
             else:
                 continue
             # time.sleep(1) #pause the code for a sec
+
+class ConcreteScraperDblpCreator(ScraperCreator):
+
+    def factory_method(self) -> ConcreteScraperDblp:
+        return ConcreteScraperDblp()

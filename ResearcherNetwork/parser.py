@@ -1,4 +1,4 @@
-from __future__ import annotations
+# from __future__ import annotations
 from abc import ABC, abstractmethod
 from unidecode import unidecode
 from lxml import etree
@@ -17,12 +17,6 @@ class ParserCreator:
     def run_process_element(self, elem, fout):
         product = self.factory_method()
         product.process_element(elem, fout)
-
-
-class ConcreteParserDblpCreator(ParserCreator):
-
-    def factory_method(self) -> ConcreteParserDblp:
-        return ConcreteParserDblp()
 
 
 class Parser(ABC):
@@ -119,3 +113,9 @@ class ConcreteParserDblp(Parser):
     def process_element(self, elem, fout):
         print("writing ... " + elem)
         print(elem, file=fout)
+
+
+class ConcreteParserDblpCreator(ParserCreator):
+
+    def factory_method(self) -> ConcreteParserDblp:
+        return ConcreteParserDblp()
