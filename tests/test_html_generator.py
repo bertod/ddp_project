@@ -14,7 +14,7 @@ class TestHtmlGenerator:
                                          html_output_file="static.html", year_list=[2016], avenue_list=['DDPJ'])
 
     def test_html_generation(self):
-        g = GraphBuilder(self.parser_output_file_path, output=self.scraper_output_path)
+        g = GraphBuilder(self.parser_output_file_path, authors=['Gabriele Abbati'], output=self.scraper_output_path)
         g.snap_with_networkx()
         s = StatisticsGrabber(self.parser_output_file_path)
         statistics_dict = s.get_statistics(g)

@@ -67,7 +67,8 @@ class StaticHtml:
         row = "<tr><td>" + value['title'] + "</td><td>"
         row_count = 0
         if len(value['value']) > 5:
-            row += "<button onclick=\"readMore('" + dots_id_title + "','" + more_id_title + "','" + btn_id_title + "' )\" id=\"" + btn_id_title + "\">" \
+            row += "<button onclick=\"readMore('" + dots_id_title + "','" + \
+                   more_id_title + "','" + btn_id_title + "' )\" id=\"" + btn_id_title + "\">" \
                    "load more</button><table class = \"rankingTable\">\n"
         else:
             row += "<table class = \"rankingTable\">\n"

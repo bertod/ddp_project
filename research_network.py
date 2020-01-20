@@ -13,7 +13,9 @@ from ResearcherNetwork.html_generator import StaticHtml
 def run(datasource="dblp",
         scraper_output_path="ResearcherNetwork/resources/",
         links_file_path="resources/links.csv",
-        output_file_path="ResearcherNetwork/resources/parser_out.txt"):
+        output_file_path="ResearcherNetwork/resources/parser_out.txt",
+        statistics_output_file="ResearcherNetwork/resources/statistics_out.txt",
+        run_html=1):
     df_links = pd.read_csv(links_file_path, sep=";")
 
     if datasource.lower() == "dblp":
@@ -54,9 +56,9 @@ def run(datasource="dblp",
 
     g = GraphBuilder(output_file_path, output=scraper_output_path)  # output_file_path is the parser output file
 
-    s = StatisticsGrabber(output_file_path)
+    s = StatisticsGrabber(file=output_file_path, output_file_path=statistics_output_file)
     print("\nComputing Statistics...")
-    statistics_dict = s.get_statistics(g)
+    statistics_dict = s.get_statistics(graph_builder=g)
     print("Done! You can find them in {}".format(s.output_file_path))
     html_generator.write_statistics(statistics_dict)
 
@@ -103,15 +105,18 @@ def run(datasource="dblp",
                     continue
         elif choice == "q":
             html_generator.close_page()
-            print("Now, I'm going to open the static html page with statistics and static graphs (if you chose them)")
-            try:
-                print("opening..")
-                url = "file:///{}".format(os.path.abspath(html_generator.html_output_file))
-                webbrowser.open(url, new=1)
-            except:
-                print("ops..something with opening your browser went wrong. "
-                      "Open {} to visualize the page.".format(os.path.abspath(html_generator.html_output_file)))
-                pass
+            if run_html == 1:
+                print("Now, I'm going to open the static html page with statistics and static graphs (if you chose them)")
+                try:
+                    print("opening..")
+                    url = "file:///{}".format(os.path.abspath(html_generator.html_output_file))
+                    webbrowser.open(url, new=1)
+                except:
+                    print("ops..something with opening your browser went wrong. "
+                          "Open {} to visualize the page.".format(os.path.abspath(html_generator.html_output_file)))
+                    pass
+            else:
+               print("Goodbye...")
             break
         else:
             print("\nI didn't understand your choice, use either 1 or 2. Enter q to quit.")
@@ -135,8 +140,16 @@ if __name__ == "__main__":
                            default="ResearcherNetwork/resources/parser_out.txt",
                            help='output file path of the parser, '
                                  'default value: ResearcherNetwork/resources/parser_out.txt ')
+    arguments.add_argument('-t', '--statsout',
+                           default="ResearcherNetwork/resources/statistics_out.txt",
+                           help='output file path where statistics have to been saved, '
+                                 'default value: ResearcherNetwork/resources/statistics_out.txt ')
+    arguments.add_argument('-r', '--runhtml',
+                           default=1,
+                           help='if you want me to open the static html '
+                                'page with results after you quit, pass 1. Otherwise 0')
     args = arguments.parse_args()
 
-    run(args.origin, args.scraperout, args.linksfile, args.parserout)
+    run(args.origin, args.scraperout, args.linksfile, args.parserout, args.statsout, args.runhtml)
 
 
