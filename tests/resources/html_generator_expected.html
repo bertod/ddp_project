@@ -1,0 +1,87 @@
+<html><head><script type="text/javascript" src="scripts.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css"><title>Researcher Network Builder</title></head><body>
+<div class="headrow_home"><h1>DBLP Researcher Network</h1>
+<h2>Development of Data Products Project </h2>
+<h3><i>years: year: 2016<br>
+avenues: DDPJ</i></h3><br><br><br>
+<br><div class="headrow"><h1>Baseline Statistics</h1></div>
+<button id = 'statistics_show' class = 'button' onclick="myFunction('statistics')">Show/Hide</button>
+<div id = 'statistics' style="display : block"><p> In the table below, some baseline statistics computed on data extracted from the selected DataSource are reported.</p><br>
+<table class="blueTable">
+<thead><tr><td>Statistic title</td><td>Value</td><tr></thead>
+<tr><td>Total Number of Papers</td><td>12<tr><td>Total Number of Authors</td><td>28<tr><td>Average Number of Authors per Paper</td><td>3<tr><td>Number Papers for each Author</td><td><button onclick="readMore('dots_papers_authors_count','more_papers_authors_count','myBtn_papers_authors_count' )" id="myBtn_papers_authors_count">load more</button><table class = "rankingTable">
+<tr><td>Manuel Fernandez</td><td>6</td></tr>
+<tr><td>Ali Rahimi</td><td>5</td></tr>
+<tr><td>Tao Lin</td><td>4</td></tr>
+<tr><td>Cameron Voloshin</td><td>3</td></tr>
+<tr><td>Gabriele Abbati</td><td>3</td></tr>
+<tr><td>Ehsan Kazemi 0001</td><td>2</td></tr>
+<span id =dots_papers_authors_count></span></table><span id = "more_papers_authors_count"><table class = "rankingTable"><tr><td>David P. Woodruff</td><td>2</td></tr>
+<tr><td>Zhenyu Huang</td><td>1</td></tr>
+<tr><td>Jiancheng Lv</td><td>1</td></tr>
+<tr><td>Hongyuan Zhu</td><td>1</td></tr>
+<tr><td>Marko Mitrovic</td><td>1</td></tr>
+<tr><td>Silvio Lattanzi</td><td>1</td></tr>
+<tr><td>Amin Karbasi</td><td>1</td></tr>
+<tr><td>Rina Panigrahy</td><td>1</td></tr>
+<tr><td>Geoffrey J. Gordon</td><td>1</td></tr>
+<tr><td>Donghwan Lee 0002</td><td>1</td></tr>
+<tr><td>Niao He</td><td>1</td></tr>
+<tr><td>EManuel Fernandez</td><td>1</td></tr>
+<tr><td>Tianle Liu</td><td>1</td></tr>
+<tr><td>Michael I. Jordan</td><td>1</td></tr>
+<tr><td>Anirudh Vemula</td><td>1</td></tr>
+<tr><td>Hoang Minh Le 0002</td><td>1</td></tr>
+<tr><td>Yisong Yue</td><td>1</td></tr>
+<tr><td>Taisuke Yasuda 0002</td><td>1</td></tr>
+<tr><td>Philippe Wenk</td><td>1</td></tr>
+<tr><td>Andreas Krause 0001</td><td>1</td></tr>
+<tr><td>Bernhard Scholkopf</td><td>1</td></tr>
+<tr><td>Stefan Bauer</td><td>1</td></tr>
+</span></table></td></tr><tr><td>Average number of Papers per Author</td><td>1<tr><td>Number of Papers per year</td><td><table class = "rankingTable">
+<tr><td>2018</td><td>6</td></tr>
+<tr><td>2019</td><td>6</td></tr>
+</span></table></td></tr><tr><td>Average Number of Papers per year</td><td>6<tr><td>Number of Papers per Avenue</td><td><table class = "rankingTable">
+<tr><td>AAAI</td><td>3</td></tr>
+<tr><td>ICML</td><td>9</td></tr>
+</span></table></td></tr><tr><td>Centrality measure for each author</td><td><button onclick="readMore('dots_author_centrality','more_author_centrality','myBtn_author_centrality' )" id="myBtn_author_centrality">load more</button><table class = "rankingTable">
+<tr><td>Manuel Fernandez</td><td>0.56</td></tr>
+<tr><td>Zhenyu Huang</td><td>0.15</td></tr>
+<tr><td>Jiancheng Lv</td><td>0.15</td></tr>
+<tr><td>Hongyuan Zhu</td><td>0.15</td></tr>
+<tr><td>Ali Rahimi</td><td>0.63</td></tr>
+<tr><td>Ehsan Kazemi 0001</td><td>0.26</td></tr>
+<span id ="dots_author_centrality"></span></table><span id = "more_author_centrality"><table class = "rankingTable"><tr><td>Marko Mitrovic</td><td>0.15</td></tr>
+<tr><td>Silvio Lattanzi</td><td>0.15</td></tr>
+<tr><td>Amin Karbasi</td><td>0.15</td></tr>
+<tr><td>Tao Lin</td><td>0.37</td></tr>
+<tr><td>Rina Panigrahy</td><td>0.11</td></tr>
+<tr><td>David P. Woodruff</td><td>0.19</td></tr>
+<tr><td>Geoffrey J. Gordon</td><td>0.11</td></tr>
+<tr><td>Donghwan Lee 0002</td><td>0.04</td></tr>
+<tr><td>Niao He</td><td>0.04</td></tr>
+<tr><td>Cameron Voloshin</td><td>0.26</td></tr>
+<tr><td>EManuel Fernandez</td><td>0.07</td></tr>
+<tr><td>Gabriele Abbati</td><td>0.3</td></tr>
+<tr><td>Tianle Liu</td><td>0.11</td></tr>
+<tr><td>Michael I. Jordan</td><td>0.11</td></tr>
+<tr><td>Anirudh Vemula</td><td>0.11</td></tr>
+<tr><td>Hoang Minh Le 0002</td><td>0.07</td></tr>
+<tr><td>Yisong Yue</td><td>0.07</td></tr>
+<tr><td>Taisuke Yasuda 0002</td><td>0.07</td></tr>
+<tr><td>Philippe Wenk</td><td>0.19</td></tr>
+<tr><td>Andreas Krause 0001</td><td>0.19</td></tr>
+<tr><td>Bernhard Scholkopf</td><td>0.19</td></tr>
+<tr><td>Stefan Bauer</td><td>0.19</td></tr>
+</span></table></td></tr>
+</table>
+<br>
+
+</div>
+<br><div class="headrow"><h1>networkx Static Graph</h1></div>
+<button id = 'graphnetworkx'_show' class = 'button' onclick="myFunction('networkx')">Show/Hide</button>
+<div id = 'networkx' style="display : block"><p>Below the static graph, generated with networkx library.</p>         <br><table class = 'tableImg'><tr><td><img src='tests/resources/networkx_graph.png' width = '1500' height = '700'></td></tr></table>
+</div>
+<p> Developed by Berto D'Attoma and Luca Giorgi</p>
+</body>
+</html>
