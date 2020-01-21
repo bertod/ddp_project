@@ -1,4 +1,3 @@
-import itertools
 from ResearcherNetwork.graph import GraphBuilder
 from ResearcherNetwork.helper_functions import ParserReader
 from collections import Counter
@@ -6,13 +5,13 @@ from collections import Counter
 
 class StatisticsGrabber:
 
-    def __init__(self, file, output_file_path="resources/statistics_out.txt"):
+    def __init__(self, file: str, output_file_path: str = "resources/statistics_out.txt"):
         self.file = file
         self.output_file_path = output_file_path
         self.reader = ParserReader(self.file)
         self.graph_builder = None
 
-    def get_statistics(self, graph_builder: GraphBuilder = None):
+    def get_statistics(self, graph_builder: GraphBuilder = None) -> dict:
         self.graph_builder = graph_builder
         statistics_dict = {}
         authors_list = []
@@ -79,7 +78,7 @@ class StatisticsGrabber:
         f_out.close()
         return statistics_dict
 
-    def get_graph_data(self):
+    def get_graph_data(self) -> dict:
         nodes = self.graph_builder.nodes
         edges = self.graph_builder.edges
         egdes_list = []
@@ -90,6 +89,6 @@ class StatisticsGrabber:
         for a in nodes:
             if a not in counts.keys():
                 counts[a] = 0
-            centrality_dict[a] = round((counts[a] / (len(nodes) - 1)), 2)
+            centrality_dict[a] = round((counts[a] / (len(nodes) - 1)), 5)
         # print(centrality_dict)
         return centrality_dict

@@ -31,6 +31,8 @@ def run(datasource="dblp",
 
     avenue_list = []
     year_list = []
+    print("I'm going to run the web scraper. It might take time..."
+          "so don't worry if it seems stuck, because it isn't actually")
     for index, row in df_links.iterrows():
         if row['name'] not in avenue_list:
             avenue_list.append(row['name'])
@@ -46,7 +48,7 @@ def run(datasource="dblp",
     folders = df_links.name.unique()
 
     fout = open(output_file_path, 'w')
-
+    print("The scraping is Done. Now it's time to parse data.")
     for folder in folders:
         for file in sorted(os.listdir(scraper_output_path + folder)):
             context = etree.iterparse(scraper_output_path + folder + "/" + file,
