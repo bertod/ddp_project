@@ -1,5 +1,16 @@
 class StaticHtml:
-    def __init__(self, datasource, html_output_file="static.html", year_list=[0], avenue_list=['']):
+    def __init__(self, datasource: str, html_output_file: str = "static.html",
+                 year_list: list = [0], avenue_list: list = ['']):
+        """
+        :param datasource: name of data source (e.g. dblp)
+        :param html_output_file: name of the html file the module should write
+        (it is intended to be located in the project root)
+        :param year_list: the list of years included into the analysis
+        :param avenue_list: the list of avenue (i.e. journals/conferences) included into the analysis
+
+        The constructor method opens output file and starts writing the HTML header,
+        including also CSS and javascript file
+        """
         self.html_output_file = html_output_file
         self.datasource = datasource
         self.htmlf = open(self.html_output_file, "w+")
@@ -13,17 +24,23 @@ class StaticHtml:
                  "<title>Researcher Network Builder</title></head><body>\n" \
                  "<div class=\"headrow_home\"><h1>" + self.datasource.upper() + " Researcher Network</h1>\n"
         header += "<h2>Development of Data Products Project </h2>\n" \
-                  "<h3><i>years: " + year_span + "<br>\navenues: " + ', '.join(avenue_list) + "</i></h3><br><br><br>"
+                  "<h3><i>" + year_span + "<br>\navenues: " + ', '.join(avenue_list) + "</i></h3><br><br><br>"
 
         self.htmlf.write(header)
         self.statistics_dict = None
 
-    def close_page(self):
+    def close_page(self) -> None:
         self.htmlf.write("\n<p> Developed by Berto D'Attoma and Luca Giorgi</p>")
         self.htmlf.write("\n</body>\n</html>")
         self.htmlf.close()
 
-    def write_statistics(self, statistics_dict):
+    def write_statistics(self, statistics_dict: dict) -> None:
+        """
+        :param statistics_dict: dictionary containing the baseline statistics to print
+
+        It write a html table where the first column contains the title
+        of the statistic and the second column the value of its.
+        """
         self.statistics_dict = statistics_dict
         self.htmlf.write("\n<br><div class=\"headrow\"><h1>Baseline Statistics</h1></div>\n")
         self.htmlf.write(
@@ -41,7 +58,7 @@ class StaticHtml:
         self.htmlf.write("\n</div>")
         # self.htmlf.close()
 
-    def add_graph_image(self, lib_name, output_path):
+    def add_graph_image(self, lib_name: str, output_path: str) -> None:
         self.htmlf.write("\n<br><div class=\"headrow\"><h1>" + lib_name + " Static Graph</h1></div>\n")
         self.htmlf.write(
             "<button id = 'graph" + lib_name + "'_show' class = 'button' "
@@ -52,7 +69,10 @@ class StaticHtml:
         <br><table class = 'tableImg'><tr><td><img src='" + image_path + "' width = '1500' height = '700'></td></tr></table>")
         self.htmlf.write("\n</div>")
 
-    def print_details(self):
+    def print_details(self) -> None:
+        """
+        Method called from write_statistics to actually write the statistics table
+        """
         for column_name, value in self.statistics_dict.items():
             if column_name in ["papers_authors_count"] or type(value['value']) == dict:
                 row = self.print_inner_table(value, column_name)
@@ -60,7 +80,14 @@ class StaticHtml:
             else:
                 self.htmlf.write("<tr><td>" + value['title'] + "</td><td>" + str(value['value']))
 
-    def print_inner_table(self, value, column_name):
+    def print_inner_table(self, value, column_name: str) -> None:
+        """
+        :param value: value columns of statistics table
+        :param column_name: statistic title
+
+        This method writes statistics which are reported as dictionary (e.g. author's centrality measures)
+        into a table contained in the value column
+        """
         dots_id_title = "dots_" + column_name
         btn_id_title = "myBtn_" + column_name
         more_id_title = "more_" + column_name

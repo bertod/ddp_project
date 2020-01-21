@@ -1,7 +1,7 @@
 import unicodedata
 
 
-def remove_control_characters(s):
+def remove_control_characters(s: str) -> str:
     """
     Helper Function for removing control chars from strings
     before comparison
@@ -13,7 +13,7 @@ def remove_control_characters(s):
 
 class ParserReader:
 
-    def __init__(self, file):
+    def __init__(self, file: str):
         self.file = file
         self.lines = []
         self.pointer = 0
@@ -24,7 +24,7 @@ class ParserReader:
         f.close()
         return self
 
-    def __next__(self):
+    def __next__(self) -> dict:
         try:
             line = self.lines[self.pointer]
         except:
@@ -33,7 +33,7 @@ class ParserReader:
         self.pointer += 1
         return tmp
 
-    def __parse_line(self, line):
+    def __parse_line(self, line: str) -> dict:
         line = remove_control_characters(line)
         row_list = line.split("||")
         authors = row_list[:-3]

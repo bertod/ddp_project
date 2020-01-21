@@ -65,7 +65,8 @@ def run(datasource="dblp",
     html_generator.write_statistics(statistics_dict)
 
     while True:
-        print("\nYou can either generate a static image file visualizing the graph or see an interactive visualization.")
+        print(
+            "\nYou can either generate a static image file visualizing the graph or see an interactive visualization.")
         print("What would you like to do? (1) Static Image (2) Interactive Window (q) to quit")
         choice = input("> ")
         if choice == "1":
@@ -108,7 +109,8 @@ def run(datasource="dblp",
         elif choice == "q":
             html_generator.close_page()
             if run_html == 1:
-                print("Now, I'm going to open the static html page with statistics and static graphs (if you chose them)")
+                print("Now, I'm going to open the static html page with 3"
+                      "statistics and static graphs (if you chose them)")
                 try:
                     print("opening..")
                     url = "file:///{}".format(os.path.abspath(html_generator.html_output_file))
@@ -118,7 +120,9 @@ def run(datasource="dblp",
                           "Open {} to visualize the page.".format(os.path.abspath(html_generator.html_output_file)))
                     pass
             else:
-               print("Goodbye...")
+                print("You'll find the static html page at the following "
+                      "path:{}".format(os.path.abspath(html_generator.html_output_file)))
+                print("Goodbye...")
             break
         else:
             print("\nI didn't understand your choice, use either 1 or 2. Enter q to quit.")
@@ -126,6 +130,11 @@ def run(datasource="dblp",
 
 
 if __name__ == "__main__":
+    """
+    This is the main function called when the project is run via CLI. 
+    It calls the run() method (see above) which is in charge of
+    calling all the modules in the project (e.g. Scraper, graph builder etc)   
+    """
     # run()
     print("Welcome to Research Network builder\n")
     arguments = argparse.ArgumentParser('DBLP Researcher Graph Builder')
@@ -141,11 +150,11 @@ if __name__ == "__main__":
     arguments.add_argument('-p', '--parserout',
                            default="ResearcherNetwork/resources/parser_out.txt",
                            help='output file path of the parser, '
-                                 'default value: ResearcherNetwork/resources/parser_out.txt ')
+                                'default value: ResearcherNetwork/resources/parser_out.txt ')
     arguments.add_argument('-t', '--statsout',
                            default="ResearcherNetwork/resources/statistics_out.txt",
                            help='output file path where statistics have to been saved, '
-                                 'default value: ResearcherNetwork/resources/statistics_out.txt ')
+                                'default value: ResearcherNetwork/resources/statistics_out.txt ')
     arguments.add_argument('-r', '--runhtml',
                            default=1,
                            help='if you want me to open the static html '
@@ -153,5 +162,3 @@ if __name__ == "__main__":
     args = arguments.parse_args()
 
     run(args.origin, args.scraperout, args.linksfile, args.parserout, args.statsout, args.runhtml)
-
-

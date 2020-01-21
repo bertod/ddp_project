@@ -45,10 +45,21 @@ class Scraper(ABC):
 class ConcreteScraperDblp(Scraper):
 
     def get_html_from_url(self, url: str) -> str:
+        """
+        :param url: url to fetch
+        :return: the HTML of the requested url
+        """
         return requests.get(url).text
 
     def scrape(self, target_tag: str, html_page: str,
                target_title: str, path_to_save: str = "ResearcherNetwork/resources/") -> None:
+        """
+        :param target_tag: attribute of HTML tag we know we'll find what we are looking for (e.g. href)
+        :param html_page: HTML code obtained by get_html_from_url
+        :param target_title: the title (possibly the abbreviation) of avenue (e.g. icml)
+        :param path_to_save: where the scraper must locate the downloaded files
+        :return:
+        """
         if not path_to_save:
             path_to_save = ""
         if not os.path.exists(path_to_save + '/' + target_title):

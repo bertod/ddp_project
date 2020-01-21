@@ -26,12 +26,7 @@ class AnalyzerBuilder(ABC):
 
 class SourceAnalyzer:
     """
-    It makes sense to use the Builder pattern only when your products are quite
-    complex and require extensive configuration.
-
-    Unlike in other creational patterns, different concrete builders can produce
-    unrelated products. In other words, results of various builders may not
-    always follow the same interface.
+    This represents the product we want the builder to build
     """
 
     def __init__(self) -> None:
@@ -47,10 +42,12 @@ class SourceAnalyzer:
 
 class Director:
     """
-    The Director is only responsible for executing the building steps in a
-    particular sequence. It is helpful when producing products according to a
-    specific order or configuration. Strictly speaking, the Director class is
-    optional, since the client can control builders directly.
+    The Director is responsible for executing the building steps.
+    It is helpful when producing products according to a
+    specific order/configuration or when you want to keep
+    hidden the building steps for a product.
+    However, the Director class is optional, since
+    the client can control builders directly.
     """
 
     def __init__(self) -> None:
@@ -63,18 +60,15 @@ class Director:
     @builder.setter
     def builder(self, builder: AnalyzerBuilder) -> None:
         """
-        The Director works with any builder instance that the client code passes
-        to it. This way, the client code may alter the final type of the newly
-        assembled product.
+        The Director uses the builder the client code passed to it.
         """
         self._builder = builder
 
-    """
-    The Director can construct several product variations using the same
-    building steps.
-    """
-
     def build_dblp_analyzer(self) -> None:
+        """
+        Calling this method, the builder constructs this specific product
+        using predefined components
+        """
         scraper_creator = ConcreteScraperDblpCreator()
         parser_creator = ConcreteParserDblpCreator()
         self.builder.produce_part_scraper(scraper_creator)

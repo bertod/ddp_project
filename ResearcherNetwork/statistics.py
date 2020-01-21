@@ -12,6 +12,13 @@ class StatisticsGrabber:
         self.graph_builder = None
 
     def get_statistics(self, graph_builder: GraphBuilder = None) -> dict:
+        """
+        :param graph_builder: object of class GraphBuilder used for generating nodes and egdes
+        :return: a dictionary containing statistic code as keys and statistic data as value
+
+        The function read the parser output file and gather aggregated information about them
+        in order to compute baseline statistics
+        """
         self.graph_builder = graph_builder
         statistics_dict = {}
         authors_list = []
@@ -79,6 +86,13 @@ class StatisticsGrabber:
         return statistics_dict
 
     def get_graph_data(self) -> dict:
+        """
+        :return: a dictionary containing the centrality value for each author (node)
+
+        Get the graph structure (nodes and edges) from the graph builder and compute the
+        node centrality measure
+
+        """
         nodes = self.graph_builder.nodes
         edges = self.graph_builder.edges
         egdes_list = []

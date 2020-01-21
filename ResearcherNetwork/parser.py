@@ -1,7 +1,6 @@
 # from __future__ import annotations
 from abc import ABC, abstractmethod
 from unidecode import unidecode
-from lxml import etree
 
 
 class ParserCreator:
@@ -33,6 +32,19 @@ class Parser(ABC):
 class ConcreteParserDblp(Parser):
 
     def fast_iter(self, context, func, collab=[u'inproceedings', u'article'], *args, **kwargs):
+        """
+        :param context: piece of XML file to parse
+        :param func: function used to write the output file
+        :param collab: type of paper to keep
+        :param args: other arguments like out put file reference
+        :param kwargs: other arguments
+        :return:
+
+        The function parse pieces of XML closed into the same tag (e.g. inproceedings)
+        representing the paper. It parses in order to obtain authors,
+        name of avenue, year of pub and title.
+
+        """
         # xml categories
         author_array = []
         title = ''
@@ -46,7 +58,7 @@ class ConcreteParserDblp(Parser):
         for event, elem in context:
             if elem.tag in collaborations and event == "start":
                 tag = elem.tag
-                print(elem.tag, event)
+                # print(elem.tag, event)
 
             if elem.tag == 'author' and event == "start":
                 if elem.text:
@@ -111,6 +123,11 @@ class ConcreteParserDblp(Parser):
     # @param fout : file name to write
     # @desc: It is handler to write content. just write content to file
     def process_element(self, elem, fout):
+        """
+        :param elem: output row to be written
+        :param fout: output file reference
+        :return:
+        """
         print("writing ... " + elem)
         print(elem, file=fout)
 
