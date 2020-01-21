@@ -55,8 +55,10 @@ You should run setup.py script from the main directory of the project
 python3 setup.py test
 ```
 
-Alternatively, you could use your Python Editor/IDE if it has testing functionalities. If you choose this way, from the test configurations of the Editor, you must properly set the working directory to the project root directory.
-For instance, pycharm set /ddp_project/ResearcherNetwork/tests as default.
+Alternatively, you could use your Python Editor if it has testing functionalities. If you choose this way, from the test configurations of the Editor, you must properly set the working directory to the project root directory.
+For instance, pycharm usually set /ddp_project/ResearcherNetwork/tests as default. In the screenshot here, we report
+how to change the test working directory in PyCharm.
+![](resources/pycharm_guide.jpg)
 
 ### Requirements
 - Strict requirements
@@ -187,7 +189,7 @@ display on the graph, making tough the visualization.
     open an interactive windows without generating files_
 - **User Story 4**: "_As a User, I want to access a static webpage so that I can see all the statistics and static visualization(s) in one place._"
 We want to provide to the user a web page where he/she could access the computed statistics and
-the se a snapshot of the researcher network (i.e. the graph) built by the module. Obviously, it doesn't
+the snapshot of the researcher network (i.e. the graph) built by the module. Obviously, it doesn't
 aim to replace an interactive web page, but it is just a base on which building a more enhanced
 one.
 The story is composed by the Task 11 which doesn't need more explanations. 
