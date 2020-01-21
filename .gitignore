@@ -1,5 +1,4 @@
 #xml files
-*.xml
 !tests/resources/*.xml
 
 # pycharm
