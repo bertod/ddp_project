@@ -55,6 +55,7 @@ class ConcreteScraperDblp(Scraper):
             os.makedirs(path_to_save + '/' + target_title)
         soup = BeautifulSoup(html_page, "html.parser")
         a_tags = soup.findAll('a')
+        count_requests = 0
         for a in a_tags:
             try:
                 link = a[target_tag]
@@ -66,9 +67,16 @@ class ConcreteScraperDblp(Scraper):
                 if not os.path.exists(filename):
                     print(link, "----", filename)
                     urllib.request.urlretrieve(download_url, './' + filename)
+                    count_requests += 1
             else:
                 continue
-            # time.sleep(1) #pause the code for a sec
+            if count_requests == 300:
+                print("-- I need to stop for 60secs before downloading other data, "
+                      "otherwise the server would block us for DDos attack")
+                time.sleep(60)
+                count_requests = 0
+            # time.sleep(1)  # pause the code for a sec
+
 
 class ConcreteScraperDblpCreator(ScraperCreator):
 
