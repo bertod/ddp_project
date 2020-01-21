@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeeZYS18" mdate="2018-10-22">
+<author>Changhee Lee</author>
+<author>William R. Zame</author>
+<author>Jinsung Yoon</author>
+<author>Mihaela van der Schaar</author>
+<title>DeepHit: A Deep Learning Approach to Survival Analysis With Competing Risks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16160</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LeeZYS18</url>
+<pages>2314-2321</pages>
+</inproceedings></dblp>

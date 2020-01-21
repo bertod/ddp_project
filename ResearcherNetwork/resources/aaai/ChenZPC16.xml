@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZPC16" mdate="2016-04-21">
+<author>Peixian Chen</author>
+<author>Nevin L. Zhang</author>
+<author>Leonard K. M. Poon</author>
+<author>Zhourong Chen</author>
+<title>Progressive EM for Latent Tree Models and Hierarchical Topic Detection.</title>
+<pages>1498-1504</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11818</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenZPC16</url>
+</inproceedings>
+</dblp>

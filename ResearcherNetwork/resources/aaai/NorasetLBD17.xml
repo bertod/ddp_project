@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NorasetLBD17" mdate="2017-03-06">
+<author>Thanapon Noraset</author>
+<author>Chen Liang</author>
+<author>Larry Birnbaum</author>
+<author>Doug Downey</author>
+<title>Definition Modeling: Learning to Define Word Embeddings in Natural Language.</title>
+<pages>3259-3266</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14827</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NorasetLBD17</url>
+</inproceedings>
+</dblp>

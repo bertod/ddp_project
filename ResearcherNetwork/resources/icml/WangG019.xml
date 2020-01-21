@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangG019" mdate="2019-06-11">
+<author>Dilin Wang</author>
+<author>ChengYue Gong</author>
+<author>Qiang Liu 0001</author>
+<title>Improving Neural Language Modeling via Adversarial Training.</title>
+<pages>6555-6565</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangG019</url>
+</inproceedings></dblp>

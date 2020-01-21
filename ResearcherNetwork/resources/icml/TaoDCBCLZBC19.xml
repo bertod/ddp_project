@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TaoDCBCLZBC19" mdate="2019-10-20">
+<author>Chenyang Tao</author>
+<author>Shuyang Dai</author>
+<author>Liqun Chen</author>
+<author>Ke Bai</author>
+<author>Junya Chen</author>
+<author>Chang Liu 0030</author>
+<author>Ruiyi Zhang</author>
+<author>Georgiy V. Bobashev</author>
+<author>Lawrence Carin</author>
+<title>Variational Annealing of GANs: A Langevin Perspective.</title>
+<pages>6176-6185</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tao19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TaoDCBCLZBC19</url>
+</inproceedings>
+</dblp>

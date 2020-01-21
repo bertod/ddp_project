@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FrechetteKMRHL16" mdate="2016-04-22">
+<author>Alexandre Fr&#233;chette</author>
+<author>Lars Kotthoff</author>
+<author>Tomasz P. Michalak</author>
+<author>Talal Rahwan</author>
+<author>Holger H. Hoos</author>
+<author>Kevin Leyton-Brown</author>
+<title>Using the Shapley Value to Analyze Algorithm Portfolios.</title>
+<pages>3397-3403</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12495</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FrechetteKMRHL16</url>
+</inproceedings>
+</dblp>

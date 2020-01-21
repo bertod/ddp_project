@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenTZB0019" mdate="2019-06-11">
+<author>Yucheng Chen</author>
+<author>Matus Telgarsky</author>
+<author>Chao Zhang</author>
+<author>Bolton Bailey</author>
+<author>Daniel Hsu 0001</author>
+<author>Jian Peng 0001</author>
+<title>A Gradual, Semi-Discrete Approach to Generative Network Training via Explicit Wasserstein Minimization.</title>
+<pages>1071-1080</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19h.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenTZB0019</url>
+</inproceedings></dblp>

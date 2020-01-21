@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DoanMR19" mdate="2019-06-11">
+<author>Thinh T. Doan</author>
+<author>Siva Theja Maguluri</author>
+<author>Justin Romberg</author>
+<title>Finite-Time Analysis of Distributed TD(0) with Linear Function Approximation on Multi-Agent Reinforcement Learning.</title>
+<pages>1626-1635</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/doan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DoanMR19</url>
+</inproceedings></dblp>

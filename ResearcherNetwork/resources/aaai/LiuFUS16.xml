@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuFUS16" mdate="2016-04-21">
+<author>Lemao Liu</author>
+<author>Andrew M. Finch</author>
+<author>Masao Utiyama</author>
+<author>Eiichiro Sumita</author>
+<title>Agreement on Target-Bidirectional LSTMs for Sequence-to-Sequence Learning.</title>
+<pages>2630-2637</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiuFUS16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YunZYLA19" mdate="2019-06-11">
+<author>Jihun Yun</author>
+<author>Peng Zheng</author>
+<author>Eunho Yang</author>
+<author>Aurelie C. Lozano</author>
+<author>Aleksandr Y. Aravkin</author>
+<title>Trimming the $\ell_1$ Regularizer: Statistical Analysis, Optimization, and Applications to Deep Learning.</title>
+<pages>7242-7251</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yun19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YunZYLA19</url>
+</inproceedings></dblp>

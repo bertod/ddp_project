@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BraylanHMM16" mdate="2016-04-21">
+<author>Alexander Braylan</author>
+<author>Mark Hollenbeck</author>
+<author>Elliot Meyerson</author>
+<author>Risto Miikkulainen</author>
+<title>Reuse of Neural Modules for General Video Game Playing.</title>
+<pages>353-359</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12441</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BraylanHMM16</url>
+</inproceedings>
+</dblp>

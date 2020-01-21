@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChowdhuryYD18" mdate="2019-04-03">
+<author>Agniva Chowdhury</author>
+<author>Jiasen Yang</author>
+<author>Petros Drineas</author>
+<title>An Iterative, Sketching-based Framework for Ridge Regression.</title>
+<pages>988-997</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chowdhury18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ChowdhuryYD18</url>
+</inproceedings>
+</dblp>

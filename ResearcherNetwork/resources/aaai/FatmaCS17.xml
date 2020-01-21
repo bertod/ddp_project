@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FatmaCS17" mdate="2018-12-27">
+<author>Nausheen Fatma</author>
+<author>Manoj Kumar Chinnakotla</author>
+<author>Manish Shrivastava 0001</author>
+<title>The Unusual Suspects: Deep Learning Based Mining of Interesting Entity Trivia from Knowledge Graphs.</title>
+<pages>1107-1113</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14585</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#FatmaCS17</url>
+</inproceedings>
+</dblp>

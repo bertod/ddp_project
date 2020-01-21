@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PangCCLL18" mdate="2018-10-22">
+<author>Guansong Pang</author>
+<author>Longbing Cao</author>
+<author>Ling Chen</author>
+<author>Defu Lian</author>
+<author>Huan Liu</author>
+<title>Sparse Modeling-Based Sequential Ensemble Learning for Effective Outlier Detection in High-Dimensional Numeric Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16648</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#PangCCLL18</url>
+<pages>3892-3899</pages>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoZLWL18" mdate="2018-10-22">
+<author>Haiyun Guo</author>
+<author>Chaoyang Zhao</author>
+<author>Zhiwei Liu</author>
+<author>Jinqiao Wang</author>
+<author>Hanqing Lu</author>
+<title>Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16206</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GuoZLWL18</url>
+<pages>6853-6860</pages>
+</inproceedings></dblp>

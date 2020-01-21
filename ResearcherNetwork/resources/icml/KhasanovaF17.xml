@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KhasanovaF17" mdate="2019-04-03">
+<author>Renata Khasanova</author>
+<author>Pascal Frossard</author>
+<title>Graph-based Isometry Invariant Representation Learning.</title>
+<pages>1847-1856</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/khasanova17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KhasanovaF17</url>
+</inproceedings>
+</dblp>

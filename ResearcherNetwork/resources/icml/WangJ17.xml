@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangJ17" mdate="2019-04-03">
+<author>Zi Wang</author>
+<author>Stefanie Jegelka</author>
+<title>Max-value Entropy Search for Efficient Bayesian Optimization.</title>
+<pages>3627-3635</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17e.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangJ17</url>
+</inproceedings>
+</dblp>

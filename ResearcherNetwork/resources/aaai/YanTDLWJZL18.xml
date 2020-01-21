@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YanTDLWJZL18" mdate="2019-07-24">
+<author>Zhao Yan</author>
+<author>Duyu Tang</author>
+<author>Nan Duan</author>
+<author>Shujie Liu 0001</author>
+<author>Wendi Wang</author>
+<author>Daxin Jiang</author>
+<author>Ming Zhou 0001</author>
+<author>Zhoujun Li</author>
+<title>Assertion-Based QA With Question-Aware Open Information Extraction.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16705</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#YanTDLWJZL18</url>
+<pages>6021-6028</pages>
+</inproceedings>
+</dblp>

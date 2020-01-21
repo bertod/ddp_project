@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PommereningHB17" mdate="2017-03-06">
+<author>Florian Pommerening</author>
+<author>Malte Helmert</author>
+<author>Blai Bonet</author>
+<title>Higher-Dimensional Potential Heuristics for Optimal Classical Planning.</title>
+<pages>3636-3643</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14766</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PommereningHB17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/McCarthyKL19" mdate="2019-09-25">
+<author>Nicholas McCarthy</author>
+<author>Mohammad Karzand</author>
+<author>Freddy L&#233;cu&#233;</author>
+<title>Amsterdam to Dublin Eventually Delayed? LSTM and Transfer Learning for Predicting Delays of Low Cost Airlines.</title>
+<pages>9541-9546</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019541</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#McCarthyKL19</url>
+</inproceedings></dblp>

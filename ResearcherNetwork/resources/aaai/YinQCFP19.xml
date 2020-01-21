@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YinQCFP19" mdate="2019-09-25">
+<author>Kejing Yin</author>
+<author>Dong Qian</author>
+<author>William K. Cheung</author>
+<author>Benjamin C. M. Fung</author>
+<author>Jonathan Poon</author>
+<title>Learning Phenotypes and Dynamic Patient Representations via RNN Regularized Collective Non-Negative Tensor Factorization.</title>
+<pages>1246-1253</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011246</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YinQCFP19</url>
+</inproceedings></dblp>

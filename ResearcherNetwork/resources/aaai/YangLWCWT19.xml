@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangLWCWT19" mdate="2019-12-11">
+<author>Baosong Yang</author>
+<author>Jian Li</author>
+<author>Derek F. Wong</author>
+<author>Lidia S. Chao</author>
+<author>Xing Wang 0007</author>
+<author>Zhaopeng Tu</author>
+<title>Context-Aware Self-Attention Networks.</title>
+<pages>387-394</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301387</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YangLWCWT19</url>
+</inproceedings>
+</dblp>

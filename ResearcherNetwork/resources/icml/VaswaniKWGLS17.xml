@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VaswaniKWGLS17" mdate="2019-04-03">
+<author>Sharan Vaswani</author>
+<author>Branislav Kveton</author>
+<author>Zheng Wen</author>
+<author>Mohammad Ghavamzadeh</author>
+<author>Laks V. S. Lakshmanan</author>
+<author>Mark Schmidt</author>
+<title>Model-Independent Online Learning for Influence Maximization.</title>
+<pages>3530-3539</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/vaswani17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#VaswaniKWGLS17</url>
+</inproceedings>
+</dblp>

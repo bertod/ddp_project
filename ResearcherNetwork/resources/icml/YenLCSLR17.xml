@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YenLCSLR17" mdate="2019-04-03">
+<author>Ian En-Hsu Yen</author>
+<author>Wei-Cheng Lee</author>
+<author>Sung-En Chang</author>
+<author>Arun Sai Suggala</author>
+<author>Shou-De Lin</author>
+<author>Pradeep Ravikumar</author>
+<title>Latent Feature Lasso.</title>
+<pages>3949-3957</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/yen17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YenLCSLR17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BertranMPQRRS19" mdate="2019-06-11">
+<author>Mart&#237;n Bertr&#225;n</author>
+<author>Natalia Mart&#237;nez</author>
+<author>Afroditi Papadaki</author>
+<author>Qiang Qiu</author>
+<author>Miguel R. D. Rodrigues</author>
+<author>Galen Reeves</author>
+<author>Guillermo Sapiro</author>
+<title>Adversarially Learned Representations for Information Obfuscation and Inference.</title>
+<pages>614-623</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bertran19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BertranMPQRRS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SongTQLL19" mdate="2019-06-11">
+<author>Kaitao Song</author>
+<author>Xu Tan</author>
+<author>Tao Qin</author>
+<author>Jianfeng Lu</author>
+<author>Tie-Yan Liu</author>
+<title>MASS: Masked Sequence to Sequence Pre-training for Language Generation.</title>
+<pages>5926-5936</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/song19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SongTQLL19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NordonKSKSR19" mdate="2019-09-25">
+<author>Galia Nordon</author>
+<author>Gideon Koren</author>
+<author>Varda Shalev</author>
+<author>Benny Kimelfeld</author>
+<author>Uri Shalit</author>
+<author>Kira Radinsky</author>
+<title>Building Causal Graphs from Medical Literature and Electronic Medical Records.</title>
+<pages>1102-1109</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011102</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#NordonKSKSR19</url>
+</inproceedings></dblp>

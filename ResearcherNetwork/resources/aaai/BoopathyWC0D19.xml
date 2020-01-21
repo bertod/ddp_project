@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BoopathyWC0D19" mdate="2019-09-25">
+<author>Akhilan Boopathy</author>
+<author>Tsui-Wei Weng</author>
+<author>Pin-Yu Chen</author>
+<author>Sijia Liu 0001</author>
+<author>Luca Daniel</author>
+<title>CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks.</title>
+<pages>3240-3247</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013240</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BoopathyWC0D19</url>
+</inproceedings></dblp>

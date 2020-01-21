@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DaiYLJ19" mdate="2019-06-11">
+<author>Zhongxiang Dai</author>
+<author>Haibin Yu</author>
+<author>Bryan Kian Hsiang Low</author>
+<author>Patrick Jaillet</author>
+<title>Bayesian Optimization Meets Bayesian Optimal Stopping.</title>
+<pages>1496-1506</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dai19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DaiYLJ19</url>
+</inproceedings></dblp>

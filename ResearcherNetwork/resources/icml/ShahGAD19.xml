@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShahGAD19" mdate="2019-06-11">
+<author>Rohin Shah</author>
+<author>Noah Gundotra</author>
+<author>Pieter Abbeel</author>
+<author>Anca D. Dragan</author>
+<title>On the Feasibility of Learning, Rather than Assuming, Human Biases for Reward Inference.</title>
+<pages>5670-5679</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shah19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShahGAD19</url>
+</inproceedings></dblp>

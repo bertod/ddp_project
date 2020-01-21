@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeordeanuRBS16" mdate="2016-04-21">
+<author>Marius Leordeanu</author>
+<author>Alexandra Radu</author>
+<author>Shumeet Baluja</author>
+<author>Rahul Sukthankar</author>
+<title>Labeling the Features Not the Samples: Efficient Video Classification with Minimal Supervision.</title>
+<pages>3530-3538</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12269</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LeordeanuRBS16</url>
+</inproceedings>
+</dblp>

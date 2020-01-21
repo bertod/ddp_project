@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChaudhuriK17" mdate="2017-03-06">
+<author>Arghya Roy Chaudhuri</author>
+<author>Shivaram Kalyanakrishnan</author>
+<title>PAC Identification of a Bandit Arm Relative to a Reward Quantile.</title>
+<pages>1777-1783</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14335</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChaudhuriK17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BonetBIMM18" mdate="2018-10-22">
+<author>Maria Luisa Bonet</author>
+<author>Sam Buss</author>
+<author>Alexey Ignatiev</author>
+<author>Jo&#227;o Marques-Silva</author>
+<author>Ant&#243;nio Morgado</author>
+<title>MaxSAT Resolution With the Dual Rail Encoding.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16782</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BonetBIMM18</url>
+<pages>6565-6572</pages>
+</inproceedings></dblp>

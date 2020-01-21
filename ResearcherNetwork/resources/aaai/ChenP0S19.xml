@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenP0S19" mdate="2019-09-25">
+<author>Cheng-Kuan Chen</author>
+<author>Zhu Feng Pan</author>
+<author>Ming-Yu Liu 0001</author>
+<author>Min Sun</author>
+<title>Unsupervised Stylish Image Description Generation via Domain Layer Norm.</title>
+<pages>8151-8158</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018151</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenP0S19</url>
+</inproceedings></dblp>

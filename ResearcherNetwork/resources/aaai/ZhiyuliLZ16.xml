@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhiyuliLZ16" mdate="2016-04-21">
+<author>Aakas Zhiyuli</author>
+<author>Xun Liang</author>
+<author>Xiaoping Zhou</author>
+<title>Learning Structural Features of Nodes in Large-Scale Networks for Link Prediction.</title>
+<pages>4286-4288</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11784</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhiyuliLZ16</url>
+</inproceedings>
+</dblp>

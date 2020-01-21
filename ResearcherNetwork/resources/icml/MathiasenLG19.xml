@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MathiasenLG19" mdate="2019-06-11">
+<author>Alexander Mathiasen</author>
+<author>Kasper Green Larsen</author>
+<author>Allan Gr&#248;nlund</author>
+<title>Optimal Minimal Margin Maximization with Boosting.</title>
+<pages>4392-4401</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mathiasen19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MathiasenLG19</url>
+</inproceedings></dblp>

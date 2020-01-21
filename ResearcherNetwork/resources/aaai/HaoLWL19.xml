@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HaoLWL19" mdate="2019-09-25">
+<author>Yu Hao</author>
+<author>Xien Liu</author>
+<author>Ji Wu</author>
+<author>Ping Lv</author>
+<title>Exploiting Sentence Embedding for Medical Question Answering.</title>
+<pages>938-945</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301938</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HaoLWL19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LakkarajuKCH17" mdate="2017-03-06">
+<author>Himabindu Lakkaraju</author>
+<author>Ece Kamar</author>
+<author>Rich Caruana</author>
+<author>Eric Horvitz</author>
+<title>Identifying Unknown Unknowns in the Open World: Representations and Policies for Guided Exploration.</title>
+<pages>2124-2132</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14434</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LakkarajuKCH17</url>
+</inproceedings>
+</dblp>

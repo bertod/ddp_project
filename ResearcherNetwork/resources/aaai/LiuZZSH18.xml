@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuZZSH18" mdate="2018-10-22">
+<author>Chenghao Liu</author>
+<author>Teng Zhang</author>
+<author>Peilin Zhao</author>
+<author>Jianling Sun</author>
+<author>Steven C. H. Hoi</author>
+<title>Unified Locally Linear Classifiers With Diversity-Promoting Anchor Points.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17037</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuZZSH18</url>
+<pages>2339-2346</pages>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZXP19" mdate="2019-09-25">
+<author>Weijie Chen</author>
+<author>Yuan Zhang</author>
+<author>Di Xie</author>
+<author>Shiliang Pu</author>
+<title>A Layer Decomposition-Recomposition Framework for Neuron Pruning towards Accurate Lightweight Networks.</title>
+<pages>3355-3362</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013355</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenZXP19</url>
+</inproceedings></dblp>

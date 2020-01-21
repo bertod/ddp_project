@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeeKLY17" mdate="2017-03-06">
+<author>Jaekoo Lee</author>
+<author>Hyunjae Kim</author>
+<author>Jongsun Lee</author>
+<author>Sungroh Yoon</author>
+<title>Transfer Learning for Deep Learning on Graph-Structured Data.</title>
+<pages>2154-2160</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14803</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LeeKLY17</url>
+</inproceedings>
+</dblp>

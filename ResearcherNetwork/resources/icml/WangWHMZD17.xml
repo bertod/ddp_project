@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangWHMZD17" mdate="2019-04-03">
+<author>Chong Wang</author>
+<author>Yining Wang</author>
+<author>Po-Sen Huang</author>
+<author>Abdelrahman Mohamed</author>
+<author>Dengyong Zhou</author>
+<author>Li Deng 0001</author>
+<title>Sequence Modeling via Segmentations.</title>
+<pages>3674-3683</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17j.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangWHMZD17</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangMHZJK19" mdate="2019-09-25">
+<author>Hao Wang</author>
+<author>Chengzhi Mao</author>
+<author>Hao He</author>
+<author>Mingmin Zhao</author>
+<author>Tommi S. Jaakkola</author>
+<author>Dina Katabi</author>
+<title>Bidirectional Inference Networks: A Class of Deep Bayesian Networks for Health Profiling.</title>
+<pages>766-773</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301766</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangMHZJK19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YoonSM19" mdate="2019-06-11">
+<author>Sung Whan Yoon</author>
+<author>Jun Seo</author>
+<author>Jaekyun Moon</author>
+<title>TapNet: Neural Network Augmented with Task-Adaptive Projection for Few-Shot Learning.</title>
+<pages>7115-7123</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yoon19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YoonSM19</url>
+</inproceedings></dblp>

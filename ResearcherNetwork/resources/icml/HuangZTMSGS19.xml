@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HuangZTMSGS19" mdate="2019-09-26">
+<author>Chen Huang</author>
+<author>Shuangfei Zhai</author>
+<author>Walter Talbott</author>
+<author>Miguel &#193;ngel Bautista 0001</author>
+<author>Shih-Yu Sun</author>
+<author>Carlos Guestrin</author>
+<author>Josh Susskind</author>
+<title>Addressing the Loss-Metric Mismatch with Adaptive Loss Alignment.</title>
+<pages>2891-2900</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/huang19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HuangZTMSGS19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieZSYYL19" mdate="2019-09-25">
+<author>Enze Xie</author>
+<author>Yuhang Zang</author>
+<author>Shuai Shao 0005</author>
+<author>Gang Yu</author>
+<author>Cong Yao</author>
+<author>Guangyao Li</author>
+<title>Scene Text Detection with Supervised Pyramid Context Network.</title>
+<pages>9038-9045</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019038</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XieZSYYL19</url>
+</inproceedings></dblp>

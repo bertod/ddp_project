@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenYZCLW19" mdate="2019-12-27">
+<author>Kaixuan Chen</author>
+<author>Lina Yao</author>
+<author orcid="0000-0002-5869-6544">Dalin Zhang</author>
+<author>Xiaojun Chang</author>
+<author>Guodong Long</author>
+<author>Sen Wang</author>
+<title>Distributionally Robust Semi-Supervised Learning for People-Centric Sensing.</title>
+<pages>3321-3328</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013321</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenYZCLW19</url>
+</inproceedings></dblp>

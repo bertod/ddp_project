@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoLX16" mdate="2019-06-25">
+<author>Shaosheng Cao</author>
+<author>Wei Lu 0011</author>
+<author>Qiongkai Xu</author>
+<title>Deep Neural Networks for Learning Graph Representations.</title>
+<pages>1145-1152</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12423</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#CaoLX16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangYZWCBB18" mdate="2018-10-22">
+<author>Dalin Zhang</author>
+<author>Lina Yao</author>
+<author>Xiang Zhang</author>
+<author>Sen Wang</author>
+<author>Weitong Chen</author>
+<author>Robert Boots</author>
+<author>Boualem Benatallah</author>
+<title>Cascade and Parallel Convolutional Recurrent Neural Networks on EEG-based Intention Recognition for Brain Computer Interface.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16107</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhangYZWCBB18</url>
+<pages>1703-1710</pages>
+</inproceedings></dblp>

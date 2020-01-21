@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ColasOSFC19" mdate="2019-06-11">
+<author>C&#233;dric Colas</author>
+<author>Pierre-Yves Oudeyer</author>
+<author>Olivier Sigaud</author>
+<author>Pierre Fournier</author>
+<author>Mohamed Chetouani</author>
+<title>CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning.</title>
+<pages>1331-1340</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/colas19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ColasOSFC19</url>
+</inproceedings></dblp>

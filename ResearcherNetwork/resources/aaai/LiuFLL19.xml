@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuFLL19" mdate="2019-09-25">
+<author>Haoyan Liu</author>
+<author>Lei Fang</author>
+<author>Jian-Guang Lou</author>
+<author>Zhoujun Li</author>
+<title>Leveraging Web Semantic Knowledge in Word Representation Learning.</title>
+<pages>6746-6753</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016746</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuFLL19</url>
+</inproceedings></dblp>

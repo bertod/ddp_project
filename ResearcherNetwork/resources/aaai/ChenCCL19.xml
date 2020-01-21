@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenCCL19" mdate="2019-09-25">
+<author>Ding-Jie Chen</author>
+<author>Jui-Ting Chien</author>
+<author>Hwann-Tzong Chen</author>
+<author>Tyng-Luh Liu</author>
+<title>Unsupervised Meta-Learning of Figure-Ground Segmentation via Imitating Visual Effects.</title>
+<pages>8159-8166</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018159</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenCCL19</url>
+</inproceedings></dblp>

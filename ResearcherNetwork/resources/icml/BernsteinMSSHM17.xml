@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BernsteinMSSHM17" mdate="2019-04-03">
+<author>Garrett Bernstein</author>
+<author>Ryan McKenna</author>
+<author>Tao Sun</author>
+<author>Daniel Sheldon</author>
+<author>Michael Hay</author>
+<author>Gerome Miklau</author>
+<title>Differentially Private Learning of Undirected Graphical Models Using Collective Graphical Models.</title>
+<pages>478-487</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/bernstein17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BernsteinMSSHM17</url>
+</inproceedings>
+</dblp>

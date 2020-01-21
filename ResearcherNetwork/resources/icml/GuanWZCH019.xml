@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GuanWZCH019" mdate="2019-06-11">
+<author>Chaoyu Guan</author>
+<author>Xiting Wang</author>
+<author>Quanshi Zhang</author>
+<author>Runjin Chen</author>
+<author>Di He</author>
+<author>Xing Xie 0001</author>
+<title>Towards a Deep and Unified Understanding of Deep Neural Models in NLP.</title>
+<pages>2454-2463</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/guan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GuanWZCH019</url>
+</inproceedings></dblp>

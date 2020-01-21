@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ReagenGAMRWB18" mdate="2019-04-03">
+<author>Brandon Reagen</author>
+<author>Udit Gupta</author>
+<author>Bob Adolf</author>
+<author>Michael Mitzenmacher</author>
+<author>Alexander M. Rush</author>
+<author>Gu-Yeon Wei</author>
+<author>David Brooks 0001</author>
+<title>Weightless: Lossy weight encoding for deep neural network compression.</title>
+<pages>4321-4330</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/reagan18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ReagenGAMRWB18</url>
+</inproceedings></dblp>

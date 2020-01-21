@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Jitkrittum0G17" mdate="2019-04-03">
+<author>Wittawat Jitkrittum</author>
+<author>Zolt&#225;n Szab&#243; 0001</author>
+<author>Arthur Gretton</author>
+<title>An Adaptive Test of Independence with Analytic Kernel Embeddings.</title>
+<pages>1742-1751</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/jitkrittum17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Jitkrittum0G17</url>
+</inproceedings>
+</dblp>

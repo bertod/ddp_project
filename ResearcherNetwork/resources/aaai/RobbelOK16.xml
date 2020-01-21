@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RobbelOK16" mdate="2016-04-21">
+<author>Philipp Robbel</author>
+<author>Frans A. Oliehoek</author>
+<author>Mykel J. Kochenderfer</author>
+<title>Exploiting Anonymity in Approximate Linear Programming: Scaling to Large Multiagent MDPs.</title>
+<pages>2537-2543</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12407</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#RobbelOK16</url>
+</inproceedings>
+</dblp>

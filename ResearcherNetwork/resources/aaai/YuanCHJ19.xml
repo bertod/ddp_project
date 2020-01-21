@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanCHJ19" mdate="2019-09-25">
+<author>Hao Yuan</author>
+<author>Yongjun Chen</author>
+<author>Xia Hu</author>
+<author>Shuiwang Ji</author>
+<title>Interpreting Deep Models for Text Analysis via Optimization and Regularization Methods.</title>
+<pages>5717-5724</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015717</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuanCHJ19</url>
+</inproceedings></dblp>

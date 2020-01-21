@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MahloujifarMM19" mdate="2019-06-11">
+<author>Saeed Mahloujifar</author>
+<author>Mohammad Mahmoody</author>
+<author>Ameer Mohammed</author>
+<title>Data Poisoning Attacks in Multi-Party Learning.</title>
+<pages>4274-4283</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mahloujifar19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MahloujifarMM19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuFDQC19" mdate="2019-09-25">
+<author>Pengfei Liu</author>
+<author>Jie Fu</author>
+<author>Yue Dong</author>
+<author>Xipeng Qiu</author>
+<author>Jackie Chi Kit Cheung</author>
+<title>Learning Multi-Task Communication with Message Passing for Sequence Learning.</title>
+<pages>4360-4367</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014360</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuFDQC19</url>
+</inproceedings></dblp>

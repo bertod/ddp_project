@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BorghesiB0MB19" mdate="2019-09-25">
+<author>Andrea Borghesi</author>
+<author>Andrea Bartolini</author>
+<author>Michele Lombardi 0001</author>
+<author>Michela Milano</author>
+<author>Luca Benini</author>
+<title>Anomaly Detection Using Autoencoders in High Performance Computing Systems.</title>
+<pages>9428-9433</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019428</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BorghesiB0MB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/QianWSL0H19" mdate="2019-09-25">
+<author>Rui Qian</author>
+<author>Yunchao Wei</author>
+<author>Honghui Shi</author>
+<author>Jiachen Li</author>
+<author>Jiaying Liu 0001</author>
+<author>Thomas S. Huang</author>
+<title>Weakly Supervised Scene Parsing with Point-Based Distance Metric Learning.</title>
+<pages>8843-8850</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018843</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#QianWSL0H19</url>
+</inproceedings></dblp>

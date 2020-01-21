@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HaberLTR19" mdate="2019-06-11">
+<author>Eldad Haber</author>
+<author>Keegan Lensink</author>
+<author>Eran Treister</author>
+<author>Lars Ruthotto</author>
+<title>IMEXnet A Forward Stable Deep Neural Network.</title>
+<pages>2525-2534</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/haber19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HaberLTR19</url>
+</inproceedings></dblp>

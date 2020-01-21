@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FahandarHC17" mdate="2019-04-03">
+<author>Mohsen Ahmadi Fahandar</author>
+<author>Eyke H&#252;llermeier</author>
+<author>In&#233;s Couso</author>
+<title>Statistical Inference for Incomplete Ranking Data: The Case of Rank-Dependent Coarsening.</title>
+<pages>1078-1087</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/fahandar17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#FahandarHC17</url>
+</inproceedings>
+</dblp>

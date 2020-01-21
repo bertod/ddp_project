@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TiomokoCBG19" mdate="2019-06-11">
+<author>Malik Tiomoko</author>
+<author>Romain Couillet</author>
+<author>Florent Bouchard</author>
+<author>Guillaume Ginolhac</author>
+<title>Random Matrix Improved Covariance Estimation for a Large Class of Metrics.</title>
+<pages>6254-6263</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tiomoko19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TiomokoCBG19</url>
+</inproceedings></dblp>

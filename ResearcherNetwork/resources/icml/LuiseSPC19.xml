@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LuiseSPC19" mdate="2019-06-11">
+<author>Giulia Luise</author>
+<author>Dimitrios Stamos</author>
+<author>Massimiliano Pontil</author>
+<author>Carlo Ciliberto</author>
+<title>Leveraging Low-Rank Relations Between Surrogate Tasks in Structured Prediction.</title>
+<pages>4193-4202</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/luise19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LuiseSPC19</url>
+</inproceedings></dblp>

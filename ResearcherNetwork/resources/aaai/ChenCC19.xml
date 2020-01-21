@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenCC19" mdate="2019-09-25">
+<author>Sheng-Wei Chen</author>
+<author>Chun-Nan Chou</author>
+<author>Edward Y. Chang</author>
+<title>EA-CG: An Approximate Second-Order Method for Training Fully-Connected Neural Networks.</title>
+<pages>3337-3346</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013337</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenCC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DengXLYDFLS19" mdate="2019-09-25">
+<author>Yang Deng</author>
+<author>Yuexiang Xie</author>
+<author>Yaliang Li</author>
+<author>Min Yang 0007</author>
+<author>Nan Du</author>
+<author>Wei Fan 0001</author>
+<author>Kai Lei</author>
+<author>Ying Shen</author>
+<title>Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.</title>
+<pages>6318-6325</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016318</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DengXLYDFLS19</url>
+</inproceedings></dblp>

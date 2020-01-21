@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HuRC17" mdate="2019-04-03">
+<author>Changwei Hu</author>
+<author>Piyush Rai</author>
+<author>Lawrence Carin</author>
+<title>Deep Generative Models for Relational Data with Side Information.</title>
+<pages>1578-1586</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hu17d.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HuRC17</url>
+</inproceedings>
+</dblp>

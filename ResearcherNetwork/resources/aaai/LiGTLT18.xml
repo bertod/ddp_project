@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiGTLT18" mdate="2018-10-22">
+<author>Ya Li</author>
+<author>Mingming Gong</author>
+<author>Xinmei Tian</author>
+<author>Tongliang Liu</author>
+<author>Dacheng Tao</author>
+<title>Domain Generalization via Conditional Invariant Representations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16595</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiGTLT18</url>
+<pages>3579-3587</pages>
+</inproceedings></dblp>

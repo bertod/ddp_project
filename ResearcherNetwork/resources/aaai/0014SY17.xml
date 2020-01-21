@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0014SY17" mdate="2017-03-06">
+<author>Hao Wang 0014</author>
+<author>Xingjian Shi</author>
+<author>Dit-Yan Yeung</author>
+<title>Relational Deep Learning: A Deep Latent Variable Model for Link Prediction.</title>
+<pages>2688-2694</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14346</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#0014SY17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeeB19" mdate="2019-09-25">
+<author>Sanghack Lee</author>
+<author>Elias Bareinboim</author>
+<title>Structural Causal Bandits with Non-Manipulable Variables.</title>
+<pages>4164-4172</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014164</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LeeB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuW19" mdate="2019-09-25">
+<author>Fan Wu</author>
+<author>Lixia Wu</author>
+<title>DeepETA: A Spatial-Temporal Sequential Neural Network Model for Estimating Time of Arrival in Package Delivery System.</title>
+<pages>774-781</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301774</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuW19</url>
+</inproceedings></dblp>

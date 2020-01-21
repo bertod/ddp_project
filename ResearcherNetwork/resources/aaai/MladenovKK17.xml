@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MladenovKK17" mdate="2017-03-06">
+<author>Martin Mladenov</author>
+<author>Leonard Kleinhans</author>
+<author>Kristian Kersting</author>
+<title>Lifted Inference for Convex Quadratic Programs.</title>
+<pages>2350-2356</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14505</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MladenovKK17</url>
+</inproceedings>
+</dblp>

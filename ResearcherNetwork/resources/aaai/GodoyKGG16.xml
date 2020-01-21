@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GodoyKGG16" mdate="2016-04-21">
+<author>Julio Erasmo Godoy</author>
+<author>Ioannis Karamouzas</author>
+<author>Stephen J. Guy</author>
+<author>Maria L. Gini</author>
+<title>Implicit Coordination in Crowded Multi-Agent Navigation.</title>
+<pages>2487-2493</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12334</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GodoyKGG16</url>
+</inproceedings>
+</dblp>

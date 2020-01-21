@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaTSKK16" mdate="2017-02-01">
+<author>Hang Ma 0001</author>
+<author>Craig A. Tovey</author>
+<author>Guni Sharon</author>
+<author>T. K. Satish Kumar</author>
+<author>Sven Koenig</author>
+<title>Multi-Agent Path Finding with Payload Transfers and the Package-Exchange Robot-Routing Problem.</title>
+<pages>3166-3173</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12437</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MaTSKK16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PirottaR16" mdate="2016-04-21">
+<author>Matteo Pirotta</author>
+<author>Marcello Restelli</author>
+<title>Inverse Reinforcement Learning through Policy Gradient Minimization.</title>
+<pages>1993-1999</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12482</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#PirottaR16</url>
+</inproceedings>
+</dblp>

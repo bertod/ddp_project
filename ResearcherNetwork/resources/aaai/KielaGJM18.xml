@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KielaGJM18" mdate="2018-10-22">
+<author>Douwe Kiela</author>
+<author>Edouard Grave</author>
+<author>Armand Joulin</author>
+<author>Tomas Mikolov</author>
+<title>Efficient Large-Scale Multi-Modal Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16166</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KielaGJM18</url>
+<pages>5198-5204</pages>
+</inproceedings></dblp>

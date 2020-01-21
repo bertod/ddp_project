@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SunBBLS019" mdate="2019-09-25">
+<author>Jiankai Sun</author>
+<author>Bortik Bandyopadhyay</author>
+<author>Armin Bashizade</author>
+<author>Jiongqian Liang</author>
+<author>P. Sadayappan</author>
+<author>Srinivasan Parthasarathy 0001</author>
+<title>ATP: Directed Graph Embedding with Asymmetric Transitivity Preservation.</title>
+<pages>265-272</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301265</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SunBBLS019</url>
+</inproceedings></dblp>

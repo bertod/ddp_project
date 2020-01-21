@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MoonAS19" mdate="2019-06-11">
+<author>Seungyong Moon</author>
+<author>Gaon An</author>
+<author>Hyun Oh Song</author>
+<title>Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization.</title>
+<pages>4636-4645</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/moon19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MoonAS19</url>
+</inproceedings></dblp>

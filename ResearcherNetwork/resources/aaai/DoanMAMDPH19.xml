@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DoanMAMDPH19" mdate="2019-09-25">
+<author>Thang Doan</author>
+<author>Jo&#227;o Monteiro</author>
+<author>Isabela Albuquerque</author>
+<author>Bogdan Mazoure</author>
+<author>Audrey Durand</author>
+<author>Joelle Pineau</author>
+<author>R. Devon Hjelm</author>
+<title>On-Line Adaptative Curriculum Learning for GANs.</title>
+<pages>3470-3477</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013470</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DoanMAMDPH19</url>
+</inproceedings></dblp>

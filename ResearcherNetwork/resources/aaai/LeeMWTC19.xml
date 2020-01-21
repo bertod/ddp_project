@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeeMWTC19" mdate="2019-09-25">
+<author>Jay Yoon Lee</author>
+<author>Sanket Vaibhav Mehta</author>
+<author>Michael Wick</author>
+<author>Jean-Baptiste Tristan</author>
+<author>Jaime G. Carbonell</author>
+<title>Gradient-Based Inference for Networks with Output Constraints.</title>
+<pages>4147-4154</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014147</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LeeMWTC19</url>
+</inproceedings></dblp>

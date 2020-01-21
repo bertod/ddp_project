@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/StanZ0K17" mdate="2019-04-03">
+<author>Serban Stan</author>
+<author>Morteza Zadimoghaddam</author>
+<author>Andreas Krause 0001</author>
+<author>Amin Karbasi</author>
+<title>Probabilistic Submodular Maximization in Sub-Linear Time.</title>
+<pages>3241-3250</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/stan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#StanZ0K17</url>
+</inproceedings>
+</dblp>

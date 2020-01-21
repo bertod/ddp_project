@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuoH17" mdate="2017-03-06">
+<author>Zhouyuan Huo</author>
+<author>Heng Huang</author>
+<title>Asynchronous Mini-Batch Gradient Descent with Variance Reduction for Non-Convex Optimization.</title>
+<pages>2043-2049</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14999</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HuoH17</url>
+</inproceedings>
+</dblp>

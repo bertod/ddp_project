@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ThomasonSMS18" mdate="2018-10-22">
+<author>Jesse Thomason</author>
+<author>Jivko Sinapov</author>
+<author>Raymond J. Mooney</author>
+<author>Peter Stone</author>
+<title>Guiding Exploratory Behaviors for Multi-Modal Grounding of Linguistic Descriptions.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16512</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ThomasonSMS18</url>
+<pages>5520-5527</pages>
+</inproceedings></dblp>

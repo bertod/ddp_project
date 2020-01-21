@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0002TLFYG17" mdate="2019-05-16">
+<author>Zheng Xu 0002</author>
+<author>Gavin Taylor</author>
+<author>Hao Li 0022</author>
+<author>M&#225;rio A. T. Figueiredo</author>
+<author>Xiaoming Yuan</author>
+<author>Tom Goldstein</author>
+<title>Adaptive Consensus ADMM for Distributed Optimization.</title>
+<pages>3841-3850</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/xu17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#0002TLFYG17</url>
+</inproceedings></dblp>

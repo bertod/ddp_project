@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SuggalaYR17" mdate="2019-04-03">
+<author>Arun Sai Suggala</author>
+<author>Eunho Yang</author>
+<author>Pradeep Ravikumar</author>
+<title>Ordinal Graphical Models: A Tale of Two Approaches.</title>
+<pages>3260-3269</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/suggala17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SuggalaYR17</url>
+</inproceedings>
+</dblp>

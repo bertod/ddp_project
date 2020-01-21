@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KoolHW19" mdate="2019-06-11">
+<author>Wouter Kool</author>
+<author>Herke van Hoof</author>
+<author>Max Welling</author>
+<title>Stochastic Beams and Where To Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement.</title>
+<pages>3499-3508</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kool19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KoolHW19</url>
+</inproceedings></dblp>

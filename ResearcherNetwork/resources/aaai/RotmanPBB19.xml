@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RotmanPBB19" mdate="2019-09-25">
+<author>Daniel Rotman</author>
+<author>Dror Porat</author>
+<author>Yevgeny Burshtein</author>
+<author>Udi Barzelay</author>
+<title>Temporal Video Analyzer (TVAN): Efficient Temporal Video Analysis for Robust Video Description and Search.</title>
+<pages>9871-9872</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019871</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RotmanPBB19</url>
+</inproceedings></dblp>

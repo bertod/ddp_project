@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuWWW19" mdate="2019-09-25">
+<author>Hongzuo Xu</author>
+<author>Yongjun Wang</author>
+<author>Zhiyue Wu</author>
+<author>Yijie Wang</author>
+<title>Embedding-Based Complex Feature Value Coupling Learning for Detecting Outliers in Non-IID Categorical Data.</title>
+<pages>5541-5548</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015541</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuWWW19</url>
+</inproceedings></dblp>

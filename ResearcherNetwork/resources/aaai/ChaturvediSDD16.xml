@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChaturvediSDD16" mdate="2016-04-21">
+<author>Snigdha Chaturvedi</author>
+<author>Shashank Srivastava</author>
+<author>Hal Daum&#233; III</author>
+<author>Chris Dyer</author>
+<title>Modeling Evolving Relationships Between Characters in Literary Novels.</title>
+<pages>2704-2710</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12408</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChaturvediSDD16</url>
+</inproceedings>
+</dblp>

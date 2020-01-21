@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Christakopoulou18" mdate="2018-10-22">
+<author>Konstantina Christakopoulou</author>
+<author>Adam Tauman Kalai</author>
+<title>Glass-Box Program Synthesis: A Machine Learning Approach.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16531</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#Christakopoulou18</url>
+<pages>646-653</pages>
+</inproceedings></dblp>

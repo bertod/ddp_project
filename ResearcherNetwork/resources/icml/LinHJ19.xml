@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LinHJ19" mdate="2019-06-11">
+<author>Tianyi Lin</author>
+<author>Nhat Ho</author>
+<author>Michael I. Jordan</author>
+<title>On Efficient Optimal Transport: An Analysis of Greedy and Accelerated Mirror Descent Algorithms.</title>
+<pages>3982-3991</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LinHJ19</url>
+</inproceedings></dblp>

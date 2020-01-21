@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Rao17" mdate="2017-03-06">
+<author>Ariel Rao</author>
+<title>A Finite Memory Automaton for Two-Armed Bernoulli Bandit Problems.</title>
+<pages>4981-4982</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14883</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#Rao17</url>
+</inproceedings>
+</dblp>

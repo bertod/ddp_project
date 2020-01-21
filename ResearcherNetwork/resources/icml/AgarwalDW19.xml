@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AgarwalDW19" mdate="2019-06-11">
+<author>Alekh Agarwal</author>
+<author>Miroslav Dud&#237;k</author>
+<author>Zhiwei Steven Wu</author>
+<title>Fair Regression: Quantitative Definitions and Reduction-Based Algorithms.</title>
+<pages>120-129</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/agarwal19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AgarwalDW19</url>
+</inproceedings></dblp>

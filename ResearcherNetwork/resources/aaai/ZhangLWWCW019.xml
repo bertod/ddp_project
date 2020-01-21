@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangLWWCW019" mdate="2019-12-12">
+<author>Kun Zhang 0015</author>
+<author>Guangyi Lv</author>
+<author>Linyuan Wang</author>
+<author>Le Wu</author>
+<author>Enhong Chen</author>
+<author>Fangzhao Wu</author>
+<author>Xing Xie 0001</author>
+<title>DRr-Net: Dynamic Re-Read Network for Sentence Semantic Matching.</title>
+<pages>7442-7449</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017442</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangLWWCW019</url>
+</inproceedings>
+</dblp>

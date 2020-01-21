@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AcharyaCT19" mdate="2019-06-11">
+<author>Jayadev Acharya</author>
+<author>Cl&#233;ment L. Canonne</author>
+<author>Himanshu Tyagi</author>
+<title>Communication-Constrained Inference and the Role of Shared Randomness.</title>
+<pages>30-39</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/acharya19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AcharyaCT19</url>
+</inproceedings></dblp>

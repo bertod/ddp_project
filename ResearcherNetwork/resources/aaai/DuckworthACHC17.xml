@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DuckworthACHC17" mdate="2017-03-06">
+<author>Paul Duckworth</author>
+<author>Muhannad Al-Omari</author>
+<author>James Charles</author>
+<author>David C. Hogg</author>
+<author>Anthony G. Cohn</author>
+<title>Latent Dirichlet Allocation for Unsupervised Activity Analysis on an Autonomous Mobile Robot.</title>
+<pages>3819-3826</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14937</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DuckworthACHC17</url>
+</inproceedings>
+</dblp>

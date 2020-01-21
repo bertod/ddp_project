@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiaoSBWL17" mdate="2020-01-08">
+<author>Minghui Liao</author>
+<author>Baoguang Shi</author>
+<author>Xiang Bai</author>
+<author>Xinggang Wang</author>
+<author>Wenyu Liu 0001</author>
+<title>TextBoxes: A Fast Text Detector with a Single Deep Neural Network.</title>
+<pages>4161-4167</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14202</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiaoSBWL17</url>
+</inproceedings>
+</dblp>

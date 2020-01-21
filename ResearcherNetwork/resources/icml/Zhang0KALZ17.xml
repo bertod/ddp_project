@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Zhang0KALZ17" mdate="2019-05-16">
+<author>Hantian Zhang</author>
+<author>Jerry Li 0001</author>
+<author>Kaan Kara</author>
+<author>Dan Alistarh</author>
+<author>Ji Liu 0002</author>
+<author>Ce Zhang</author>
+<title>ZipML: Training Linear Models with End-to-End Low Precision, and a Little Bit of Deep Learning.</title>
+<pages>4035-4043</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zhang17e.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Zhang0KALZ17</url>
+</inproceedings></dblp>

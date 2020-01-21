@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JoseCF18" mdate="2019-04-03">
+<author>Cijo Jose</author>
+<author>Moustapha Ciss&#233;</author>
+<author>Fran&#231;ois Fleuret</author>
+<title>Kronecker Recurrent Units.</title>
+<pages>2385-2394</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/jose18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#JoseCF18</url>
+</inproceedings>
+</dblp>

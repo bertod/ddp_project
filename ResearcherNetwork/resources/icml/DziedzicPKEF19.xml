@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DziedzicPKEF19" mdate="2019-06-11">
+<author>Adam Dziedzic</author>
+<author>John Paparrizos</author>
+<author>Sanjay Krishnan</author>
+<author>Aaron J. Elmore</author>
+<author>Michael J. Franklin</author>
+<title>Band-limited Training and Inference for Convolutional Neural Networks.</title>
+<pages>1745-1754</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dziedzic19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DziedzicPKEF19</url>
+</inproceedings></dblp>

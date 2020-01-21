@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TandonHURRW16" mdate="2016-04-21">
+<author>Niket Tandon</author>
+<author>Charles Hariman</author>
+<author>Jacopo Urbani</author>
+<author>Anna Rohrbach</author>
+<author>Marcus Rohrbach</author>
+<author>Gerhard Weikum</author>
+<title>Commonsense in Parts: Mining Part-Whole Relations from the Web and Image Tags.</title>
+<pages>243-250</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12337</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#TandonHURRW16</url>
+</inproceedings>
+</dblp>

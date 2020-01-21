@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LongLMD18" mdate="2019-11-20">
+<author>Zichao Long</author>
+<author>Yiping Lu</author>
+<author>Xianzhong Ma</author>
+<author>Bin Dong 0001</author>
+<title>PDE-Net: Learning PDEs from Data.</title>
+<pages>3214-3222</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/long18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LongLMD18</url>
+</inproceedings>
+</dblp>

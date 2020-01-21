@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeS19" mdate="2019-09-25">
+<author>Tong He</author>
+<author>Stefano Soatto</author>
+<title>Mono3D++: Monocular 3D Vehicle Detection with Two-Scale 3D Hypotheses and Task Priors.</title>
+<pages>8409-8416</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018409</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HeS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HeLMWSYR17" mdate="2019-04-03">
+<author>Lifang He 0001</author>
+<author>Chun-Ta Lu</author>
+<author>Guixiang Ma</author>
+<author>Shen Wang</author>
+<author>LinLin Shen</author>
+<author>Philip S. Yu</author>
+<author>Ann B. Ragin</author>
+<title>Kernelized Support Tensor Machines.</title>
+<pages>1442-1451</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/he17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HeLMWSYR17</url>
+</inproceedings></dblp>

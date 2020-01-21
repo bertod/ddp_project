@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FrerixB19" mdate="2019-06-11">
+<author>Thomas Frerix</author>
+<author>Joan Bruna</author>
+<title>Approximating Orthogonal Matrices with Effective Givens Factorization.</title>
+<pages>1993-2001</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/frerix19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FrerixB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BeiCGHS16" mdate="2016-04-21">
+<author>Xiaohui Bei</author>
+<author>Wei Chen</author>
+<author>Jugal Garg</author>
+<author>Martin Hoefer</author>
+<author>Xiaoming Sun</author>
+<title>Learning Market Parameters Using Aggregate Demand Queries.</title>
+<pages>411-417</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12052</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BeiCGHS16</url>
+</inproceedings>
+</dblp>

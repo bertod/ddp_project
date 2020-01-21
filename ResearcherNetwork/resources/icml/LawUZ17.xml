@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LawUZ17" mdate="2019-07-24">
+<author>Marc T. Law</author>
+<author>Raquel Urtasun</author>
+<author>Richard S. Zemel</author>
+<title>Deep Spectral Clustering Learning.</title>
+<pages>1985-1994</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/law17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LawUZ17</url>
+</inproceedings>
+</dblp>

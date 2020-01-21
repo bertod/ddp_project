@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeeYLLLS19" mdate="2019-06-11">
+<author>Kimin Lee</author>
+<author>Sukmin Yun</author>
+<author>Kibok Lee</author>
+<author>Honglak Lee</author>
+<author>Bo Li</author>
+<author>Jinwoo Shin</author>
+<title>Robust Inference via Generative Classifiers for Handling Noisy Labels.</title>
+<pages>3763-3772</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lee19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LeeYLLLS19</url>
+</inproceedings></dblp>

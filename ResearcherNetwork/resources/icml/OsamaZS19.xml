@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OsamaZS19" mdate="2019-06-11">
+<author>Muhammad Osama</author>
+<author>Dave Zachariah</author>
+<author>Thomas B. Sch&#246;n</author>
+<title>Inferring Heterogeneous Causal Effects in Presence of Spatial Confounding.</title>
+<pages>4942-4950</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/osama19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OsamaZS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WenMBY17" mdate="2019-04-03">
+<author>Tsung-Hsien Wen</author>
+<author>Yishu Miao</author>
+<author>Phil Blunsom</author>
+<author>Steve J. Young</author>
+<title>Latent Intention Dialogue Models.</title>
+<pages>3732-3741</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wen17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WenMBY17</url>
+</inproceedings>
+</dblp>

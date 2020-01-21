@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TangkarattHPN0S17" mdate="2017-03-06">
+<author>Voot Tangkaratt</author>
+<author>Herke van Hoof</author>
+<author>Simone Parisi</author>
+<author>Gerhard Neumann</author>
+<author>Jan Peters 0001</author>
+<author>Masashi Sugiyama</author>
+<title>Policy Search with High-Dimensional Context Variables.</title>
+<pages>2632-2638</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14838</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TangkarattHPN0S17</url>
+</inproceedings>
+</dblp>

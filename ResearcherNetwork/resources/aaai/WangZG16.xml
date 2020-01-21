@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangZG16" mdate="2016-04-21">
+<author>Jingya Wang</author>
+<author>Xiatian Zhu</author>
+<author>Shaogang Gong</author>
+<title>Video Semantic Clustering with Sparse and Incomplete Tags.</title>
+<pages>3618-3624</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12034</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangZG16</url>
+</inproceedings>
+</dblp>

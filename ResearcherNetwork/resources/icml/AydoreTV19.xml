@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AydoreTV19" mdate="2019-06-11">
+<author>Serg&#252;l Ayd&#246;re</author>
+<author>Bertrand Thirion</author>
+<author>Ga&#235;l Varoquaux</author>
+<title>Feature Grouping as a Stochastic Regularizer for High-Dimensional Structured Data.</title>
+<pages>385-394</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/aydore19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AydoreTV19</url>
+</inproceedings></dblp>

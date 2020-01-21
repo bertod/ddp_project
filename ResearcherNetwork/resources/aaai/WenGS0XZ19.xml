@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WenGS0XZ19" mdate="2019-09-25">
+<author>Qingsong Wen</author>
+<author>Jingkun Gao</author>
+<author>Xiaomin Song</author>
+<author>Liang Sun 0001</author>
+<author>Huan Xu</author>
+<author>Shenghuo Zhu</author>
+<title>RobustSTL: A Robust Seasonal-Trend Decomposition Algorithm for Long Time Series.</title>
+<pages>5409-5416</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015409</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WenGS0XZ19</url>
+</inproceedings></dblp>

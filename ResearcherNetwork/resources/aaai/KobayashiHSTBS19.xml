@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KobayashiHSTBS19" mdate="2019-09-25">
+<author>Ken Kobayashi</author>
+<author>Naoki Hamada</author>
+<author>Akiyoshi Sannai</author>
+<author>Akinori Tanaka</author>
+<author>Kenichi Bannai</author>
+<author>Masashi Sugiyama</author>
+<title>B&#233;zier Simplex Fitting: Describing Pareto Fronts of Simplicial Problems with Small Samples in Multi-Objective Optimization.</title>
+<pages>2304-2313</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012304</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KobayashiHSTBS19</url>
+</inproceedings></dblp>

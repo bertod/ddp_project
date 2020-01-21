@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GeSS16" mdate="2016-04-21">
+<author>Zhenhao Ge</author>
+<author>Yufang Sun</author>
+<author>Mark J. T. Smith</author>
+<title>Authorship Attribution Using a Neural Network Language Model.</title>
+<pages>4212-4213</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11838</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GeSS16</url>
+</inproceedings>
+</dblp>

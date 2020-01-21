@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SuzumuraNUTT17" mdate="2019-04-03">
+<author>Shinya Suzumura</author>
+<author>Kazuya Nakagawa</author>
+<author>Yuta Umezu</author>
+<author>Koji Tsuda</author>
+<author>Ichiro Takeuchi</author>
+<title>Selective Inference for Sparse High-Order Interaction Models.</title>
+<pages>3338-3347</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/suzumura17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SuzumuraNUTT17</url>
+</inproceedings>
+</dblp>

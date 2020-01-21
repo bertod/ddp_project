@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YaratsL18" mdate="2019-04-03">
+<author>Denis Yarats</author>
+<author>Mike Lewis</author>
+<title>Hierarchical Text Generation and Planning for Strategic Dialogue.</title>
+<pages>5587-5595</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/yarats18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#YaratsL18</url>
+</inproceedings>
+</dblp>

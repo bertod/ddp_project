@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanT0ZF19" mdate="2019-09-25">
+<author>Li Yuan</author>
+<author>Francis E. H. Tay</author>
+<author>Ping Li 0006</author>
+<author>Li Zhou</author>
+<author>Jiashi Feng</author>
+<title>Cycle-SUM: Cycle-Consistent Adversarial LSTM Networks for Unsupervised Video Summarization.</title>
+<pages>9143-9150</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019143</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuanT0ZF19</url>
+</inproceedings></dblp>

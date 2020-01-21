@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MengWCWML17" mdate="2018-03-23">
+<author>Qi Meng</author>
+<author>Yue Wang 0017</author>
+<author>Wei Chen 0034</author>
+<author>Taifeng Wang</author>
+<author>Zhiming Ma</author>
+<author>Tie-Yan Liu</author>
+<title>Generalization Error Bounds for Optimization Algorithms via Stability.</title>
+<pages>2336-2342</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14868</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MengWCWML17</url>
+</inproceedings></dblp>

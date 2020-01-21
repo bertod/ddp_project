@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SoemersBDWN18" mdate="2018-10-22">
+<author>Dennis J. N. J. Soemers</author>
+<author>Tim Brys</author>
+<author>Kurt Driessens</author>
+<author>Mark H. M. Winands</author>
+<author>Ann Now&#233;</author>
+<title>Adapting to Concept Drift in Credit Card Transaction Data Streams Using Contextual Bandits and Decision Trees.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16183</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SoemersBDWN18</url>
+<pages>7831-7836</pages>
+</inproceedings></dblp>

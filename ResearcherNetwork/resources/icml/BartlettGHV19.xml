@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BartlettGHV19" mdate="2019-10-08">
+<author>Peter L. Bartlett</author>
+<author>Victor Gabillon</author>
+<author>Jennifer Healey</author>
+<author>Michal Valko</author>
+<title>Scale-free adaptive planning for deterministic dynamics &amp; discounted rewards.</title>
+<pages>495-504</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bartlett19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BartlettGHV19</url>
+</inproceedings></dblp>

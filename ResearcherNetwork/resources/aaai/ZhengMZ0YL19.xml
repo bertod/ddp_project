@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhengMZ0YL19" mdate="2019-09-25">
+<author>Shuxin Zheng</author>
+<author>Qi Meng</author>
+<author>Huishuai Zhang</author>
+<author>Wei Chen 0034</author>
+<author>Nenghai Yu</author>
+<author>Tie-Yan Liu</author>
+<title>Capacity Control of ReLU Neural Networks by Basis-Path Norm.</title>
+<pages>5925-5932</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015925</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhengMZ0YL19</url>
+</inproceedings></dblp>

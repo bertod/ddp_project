@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PanXWYWBX19" mdate="2019-09-25">
+<author>Yu Pan</author>
+<author>Jing Xu</author>
+<author>Maolin Wang</author>
+<author>Jinmian Ye</author>
+<author>Fei Wang 0001</author>
+<author>Kun Bai</author>
+<author>Zenglin Xu</author>
+<title>Compressing Recurrent Neural Networks with Tensor Ring for Action Recognition.</title>
+<pages>4683-4690</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014683</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PanXWYWBX19</url>
+</inproceedings></dblp>

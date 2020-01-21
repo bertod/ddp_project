@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KuznetsovaHRS16" mdate="2016-04-21">
+<author>Alina Kuznetsova</author>
+<author>Sung Ju Hwang</author>
+<author>Bodo Rosenhahn</author>
+<author>Leonid Sigal</author>
+<title>Exploiting View-Specific Appearance Similarities Across Classes for Zero-Shot Pose Prediction: A Metric Learning Approach.</title>
+<pages>3523-3529</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12438</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KuznetsovaHRS16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RahmanJG19" mdate="2019-06-11">
+<author>Tahrima Rahman</author>
+<author>Shasha Jin</author>
+<author>Vibhav Gogate</author>
+<title>Look Ma, No Latent Variables: Accurate Cutset Networks via Compilation.</title>
+<pages>5311-5320</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rahman19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RahmanJG19</url>
+</inproceedings></dblp>

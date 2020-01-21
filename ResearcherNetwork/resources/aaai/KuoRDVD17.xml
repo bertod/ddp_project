@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KuoRDVD17" mdate="2017-03-06">
+<author>Chia-Tung Kuo</author>
+<author>S. S. Ravi</author>
+<author>Thi-Bich-Hanh Dao</author>
+<author>Christel Vrain</author>
+<author>Ian Davidson</author>
+<title>A Framework for Minimal Clustering Modification via Constraint Programming.</title>
+<pages>1389-1395</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14969</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KuoRDVD17</url>
+</inproceedings>
+</dblp>

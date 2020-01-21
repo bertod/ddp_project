@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GordalizaBGL19" mdate="2019-06-11">
+<author>Paula Gordaliza</author>
+<author>Eustasio del Barrio</author>
+<author>Fabrice Gamboa</author>
+<author>Jean-Michel Loubes</author>
+<title>Obtaining Fairness using Optimal Transport Theory.</title>
+<pages>2357-2365</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gordaliza19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GordalizaBGL19</url>
+</inproceedings></dblp>

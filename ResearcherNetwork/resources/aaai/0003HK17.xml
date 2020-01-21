@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0003HK17" mdate="2017-03-06">
+<author>Lin Chen 0003</author>
+<author>Seyed Hamed Hassani</author>
+<author>Amin Karbasi</author>
+<title>Near-Optimal Active Learning of Halfspaces via Query Synthesis in the Noisy Setting.</title>
+<pages>1798-1804</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14230</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#0003HK17</url>
+</inproceedings>
+</dblp>

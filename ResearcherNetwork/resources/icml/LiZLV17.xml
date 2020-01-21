@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiZLV17" mdate="2019-04-03">
+<author>Qunwei Li</author>
+<author>Yi Zhou</author>
+<author>Yingbin Liang</author>
+<author>Pramod K. Varshney</author>
+<title>Convergence Analysis of Proximal Gradient with Momentum for Nonconvex Optimization.</title>
+<pages>2111-2119</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/li17g.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LiZLV17</url>
+</inproceedings>
+</dblp>

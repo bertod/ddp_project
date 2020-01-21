@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Kiselev19" mdate="2019-09-25">
+<author>Igor Kiselev</author>
+<title>Variational BEJG Solvers for Marginal-MAP Inference with Accurate Approximation of B-Conditional Entropy.</title>
+<pages>9957-9958</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019957</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Kiselev19</url>
+</inproceedings></dblp>

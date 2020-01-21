@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MohajerSE17" mdate="2019-04-03">
+<author>Soheil Mohajer</author>
+<author>Changho Suh</author>
+<author>Adel Elmahdy</author>
+<title>Active Learning for Top-K Rank Aggregation from Noisy Comparisons.</title>
+<pages>2488-2497</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/mohajer17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MohajerSE17</url>
+</inproceedings>
+</dblp>

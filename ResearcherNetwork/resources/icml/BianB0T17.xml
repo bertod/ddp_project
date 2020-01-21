@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BianB0T17" mdate="2019-04-03">
+<author>Andrew An Bian</author>
+<author>Joachim M. Buhmann</author>
+<author>Andreas Krause 0001</author>
+<author>Sebastian Tschiatschek</author>
+<title>Guarantees for Greedy Maximization of Non-submodular Functions with Applications.</title>
+<pages>498-507</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/bian17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BianB0T17</url>
+</inproceedings>
+</dblp>

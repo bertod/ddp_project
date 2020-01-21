@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DoerrVTTD19" mdate="2019-06-11">
+<author>Andreas Doerr</author>
+<author>Michael Volpp</author>
+<author>Marc Toussaint</author>
+<author>Sebastian Trimpe</author>
+<author>Christian Daniel</author>
+<title>Trajectory-Based Off-Policy Deep Reinforcement Learning.</title>
+<pages>1636-1645</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/doerr19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DoerrVTTD19</url>
+</inproceedings></dblp>

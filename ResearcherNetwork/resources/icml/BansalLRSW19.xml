@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BansalLRSW19" mdate="2019-06-11">
+<author>Kshitij Bansal</author>
+<author>Sarah M. Loos</author>
+<author>Markus N. Rabe</author>
+<author>Christian Szegedy</author>
+<author>Stewart Wilcox</author>
+<title>HOList: An Environment for Machine Learning of Higher Order Logic Theorem Proving.</title>
+<pages>454-463</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bansal19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BansalLRSW19</url>
+</inproceedings></dblp>

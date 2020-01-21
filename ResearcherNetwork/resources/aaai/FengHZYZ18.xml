@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FengHZYZ18" mdate="2019-09-03">
+<author>Jun Feng</author>
+<author>Minlie Huang</author>
+<author>Li Zhao</author>
+<author>Yang Yang</author>
+<author>Xiaoyan Zhu 0001</author>
+<title>Reinforcement Learning for Relation Classification From Noisy Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17151</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#FengHZYZ18</url>
+<pages>5779-5786</pages>
+</inproceedings></dblp>

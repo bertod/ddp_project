@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangPCU19" mdate="2019-09-25">
+<author>Yingxue Zhang</author>
+<author>Soumyasundar Pal</author>
+<author>Mark Coates</author>
+<author>Deniz &#220;stebay</author>
+<title>Bayesian Graph Convolutional Neural Networks for Semi-Supervised Classification.</title>
+<pages>5829-5836</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015829</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangPCU19</url>
+</inproceedings></dblp>

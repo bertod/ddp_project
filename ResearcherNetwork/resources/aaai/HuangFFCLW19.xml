@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangFFCLW19" mdate="2019-09-25">
+<author>Xuanxiang Huang</author>
+<author>Kehang Fang</author>
+<author>Liangda Fang</author>
+<author>Qingliang Chen</author>
+<author>Zhao-Rong Lai</author>
+<author>Linfeng Wei</author>
+<title>Bi-Kronecker Functional Decision Diagrams: A Novel Canonical Representation of Boolean Functions.</title>
+<pages>2867-2875</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012867</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangFFCLW19</url>
+</inproceedings></dblp>

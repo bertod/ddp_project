@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KalinthaONF17" mdate="2017-03-06">
+<author>Wasin Kalintha</author>
+<author>Satoshi Ono</author>
+<author>Masayuki Numao</author>
+<author>Ken-ichi Fukui</author>
+<title>Kernelized Evolutionary Distance Metric Learning for Semi-Supervised Clustering.</title>
+<pages>4945-4946</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14714</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KalinthaONF17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuSJT19" mdate="2019-09-25">
+<author>Jianjun Wu</author>
+<author>Ying Sha</author>
+<author>Bo Jiang</author>
+<author>Jianlong Tan</author>
+<title>DSINE: Deep Structural Influence Learning via Network Embedding.</title>
+<pages>10065-10066</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110065</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuSJT19</url>
+</inproceedings></dblp>

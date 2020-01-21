@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GrossAX17" mdate="2017-03-06">
+<author>Stephen Gross</author>
+<author>Elliot Anshelevich</author>
+<author>Lirong Xia</author>
+<title>Vote Until Two of You Agree: Mechanisms with Small Distortion and Sample Complexity.</title>
+<pages>544-550</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14631</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GrossAX17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RamamurthyVM19" mdate="2019-06-11">
+<author>Karthikeyan Natesan Ramamurthy</author>
+<author>Kush R. Varshney</author>
+<author>Krishnan Mody</author>
+<title>Topological Data Analysis of Decision Boundaries with Application to Model Selection.</title>
+<pages>5351-5360</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ramamurthy19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RamamurthyVM19</url>
+</inproceedings></dblp>

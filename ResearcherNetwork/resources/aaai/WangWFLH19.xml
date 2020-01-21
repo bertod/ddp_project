@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangWFLH19" mdate="2019-12-23">
+<author>Siyuan Wang</author>
+<author>Zhongyu Wei</author>
+<author>Zhihao Fan</author>
+<author>Yang Liu 0004</author>
+<author>Xuanjing Huang</author>
+<title>A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction and Question Generation.</title>
+<pages>7168-7175</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017168</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangWFLH19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenGWWYY17" mdate="2019-04-03">
+<author>Yichen Chen</author>
+<author>Dongdong Ge</author>
+<author>Mengdi Wang</author>
+<author>Zizhuo Wang</author>
+<author>Yinyu Ye</author>
+<author>Hao Yin</author>
+<title>Strong NP-Hardness for Sparse Optimization with Concave Penalty Functions.</title>
+<pages>740-747</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chen17d.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChenGWWYY17</url>
+</inproceedings>
+</dblp>

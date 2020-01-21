@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RatnerHDSPR19" mdate="2019-09-25">
+<author>Alexander Ratner</author>
+<author>Braden Hancock</author>
+<author>Jared Dunnmon</author>
+<author>Frederic Sala</author>
+<author>Shreyash Pandey</author>
+<author>Christopher R&#233;</author>
+<title>Training Complex Models with Multi-Task Weak Supervision.</title>
+<pages>4763-4771</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014763</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RatnerHDSPR19</url>
+</inproceedings></dblp>

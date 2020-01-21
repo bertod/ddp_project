@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangGGZXP19" mdate="2019-12-20">
+<author>Zhengkai Jiang</author>
+<author>Peng Gao</author>
+<author>Chaoxu Guo</author>
+<author>Qian Zhang 0009</author>
+<author>Shiming Xiang</author>
+<author>Chunhong Pan</author>
+<title>Video Object Detection with Locally-Weighted Deformable Neighbors.</title>
+<pages>8529-8536</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018529</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JiangGGZXP19</url>
+</inproceedings>
+</dblp>

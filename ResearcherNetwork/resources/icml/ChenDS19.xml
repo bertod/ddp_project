@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenDS19" mdate="2019-06-11">
+<author>Xinshi Chen</author>
+<author>Hanjun Dai</author>
+<author>Le Song</author>
+<title>Particle Flow Bayes' Rule.</title>
+<pages>1022-1031</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenDS19</url>
+</inproceedings></dblp>

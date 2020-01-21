@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoZWYXY19" mdate="2019-09-25">
+<author>Yuyang Gao</author>
+<author>Liang Zhao 0002</author>
+<author>Lingfei Wu</author>
+<author>Yanfang Ye</author>
+<author>Hui Xiong</author>
+<author>Chaowei Yang</author>
+<title>Incomplete Label Multi-Task Deep Learning for Spatio-Temporal Event Subtype Forecasting.</title>
+<pages>3638-3646</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013638</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GaoZWYXY19</url>
+</inproceedings></dblp>

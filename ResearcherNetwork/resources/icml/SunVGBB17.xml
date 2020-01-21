@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SunVGBB17" mdate="2019-04-03">
+<author>Wen Sun 0002</author>
+<author>Arun Venkatraman</author>
+<author>Geoffrey J. Gordon</author>
+<author>Byron Boots</author>
+<author>J. Andrew Bagnell</author>
+<title>Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction.</title>
+<pages>3309-3318</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/sun17d.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SunVGBB17</url>
+</inproceedings></dblp>

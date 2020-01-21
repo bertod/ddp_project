@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KaoTC18" mdate="2018-10-22">
+<author>Hao-Cheng Kao</author>
+<author>Kai-Fu Tang</author>
+<author>Edward Y. Chang</author>
+<title>Context-Aware Symptom Checking for Disease Diagnosis Using Hierarchical Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17130</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KaoTC18</url>
+<pages>2305-2313</pages>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BarretoBPP16" mdate="2016-04-21">
+<author>Andr&#233; da Motta Salles Barreto</author>
+<author>Rafael L. Beirigo</author>
+<author>Joelle Pineau</author>
+<author>Doina Precup</author>
+<title>Incremental Stochastic Factorization for Online Reinforcement Learning.</title>
+<pages>1468-1475</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12474</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BarretoBPP16</url>
+</inproceedings>
+</dblp>

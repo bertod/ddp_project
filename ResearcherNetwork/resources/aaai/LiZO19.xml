@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiZO19" mdate="2019-09-25">
+<author>Ximing Li</author>
+<author>Jiaojiao Zhang</author>
+<author>Jihong Ouyang</author>
+<title>Dirichlet Multinomial Mixture with Variational Manifold Regularization: Topic Modeling over Short Texts.</title>
+<pages>7884-7891</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017884</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiZO19</url>
+</inproceedings></dblp>

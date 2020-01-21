@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Maheswaranathan19" mdate="2019-06-11">
+<author>Niru Maheswaranathan</author>
+<author>Luke Metz</author>
+<author>George Tucker</author>
+<author>Dami Choi</author>
+<author>Jascha Sohl-Dickstein</author>
+<title>Guided evolutionary strategies: augmenting random search with surrogate gradients.</title>
+<pages>4264-4273</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/maheswaranathan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Maheswaranathan19</url>
+</inproceedings></dblp>

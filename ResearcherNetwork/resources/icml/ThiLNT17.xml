@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ThiLNT17" mdate="2019-04-03">
+<author>Hoai An Le Thi</author>
+<author>Hoai Minh Le</author>
+<author>Phan Duy Nhat</author>
+<author>Bach Tran</author>
+<title>Stochastic DCA for the Large-sum of Non-convex Functions Problem and its Application to Group Variable Selection in Classification.</title>
+<pages>3394-3403</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/thi17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ThiLNT17</url>
+</inproceedings>
+</dblp>

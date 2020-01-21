@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZYL17" mdate="2017-03-06">
+<author>Kehai Chen</author>
+<author>Tiejun Zhao</author>
+<author>Muyun Yang</author>
+<author>Lemao Liu</author>
+<title>Translation Prediction with Source Dependency-Based Context Representation.</title>
+<pages>3166-3172</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14495</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChenZYL17</url>
+</inproceedings>
+</dblp>

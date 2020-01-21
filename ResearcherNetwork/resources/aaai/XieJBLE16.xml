@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieJBLE16" mdate="2018-06-05">
+<author>Sang Michael Xie</author>
+<author>Neal Jean</author>
+<author>Marshall Burke</author>
+<author>David B. Lobell</author>
+<author>Stefano Ermon</author>
+<title>Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping.</title>
+<pages>3929-3935</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12196</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XieJBLE16</url>
+</inproceedings>
+</dblp>

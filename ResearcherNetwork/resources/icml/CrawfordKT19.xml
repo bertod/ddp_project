@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CrawfordKT19" mdate="2019-06-11">
+<author>Victoria G. Crawford</author>
+<author>Alan Kuhnle</author>
+<author>My T. Thai</author>
+<title>Submodular Cost Submodular Cover with an Approximate Oracle.</title>
+<pages>1426-1435</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/crawford19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CrawfordKT19</url>
+</inproceedings></dblp>

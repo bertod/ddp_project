@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YanTXCNMW19" mdate="2019-09-25">
+<author>Yuguang Yan</author>
+<author>Mingkui Tan</author>
+<author>Yanwu Xu</author>
+<author>Jiezhang Cao</author>
+<author>Michael K. Ng</author>
+<author>Huaqing Min</author>
+<author>Qingyao Wu</author>
+<title>Oversampling for Imbalanced Data via Optimal Transport.</title>
+<pages>5605-5612</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015605</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YanTXCNMW19</url>
+</inproceedings></dblp>

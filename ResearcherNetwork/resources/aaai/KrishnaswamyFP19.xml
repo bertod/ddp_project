@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KrishnaswamyFP19" mdate="2019-09-25">
+<author>Nikhil Krishnaswamy</author>
+<author>Scott Friedman</author>
+<author>James Pustejovsky</author>
+<title>Combining Deep Learning and Qualitative Spatial Reasoning to Learn Complex Structures from Sparse Examples with Noise.</title>
+<pages>2911-2918</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012911</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KrishnaswamyFP19</url>
+</inproceedings></dblp>

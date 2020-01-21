@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AchiamHTA17" mdate="2019-04-03">
+<author>Joshua Achiam</author>
+<author>David Held</author>
+<author>Aviv Tamar</author>
+<author>Pieter Abbeel</author>
+<title>Constrained Policy Optimization.</title>
+<pages>22-31</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/achiam17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#AchiamHTA17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoLFSW19" mdate="2019-09-25">
+<author>Shengnan Guo</author>
+<author>Youfang Lin</author>
+<author>Ning Feng</author>
+<author>Chao Song</author>
+<author>Huaiyu Wan</author>
+<title>Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.</title>
+<pages>922-929</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301922</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuoLFSW19</url>
+</inproceedings></dblp>

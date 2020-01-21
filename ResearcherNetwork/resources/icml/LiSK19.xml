@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiSK19" mdate="2019-11-12">
+<author>Juncheng Li 0001</author>
+<author>Frank R. Schmidt</author>
+<author>J. Zico Kolter</author>
+<title>Adversarial camera stickers: A physical camera-based attack on deep learning systems.</title>
+<pages>3896-3904</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19j.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiSK19</url>
+</inproceedings></dblp>

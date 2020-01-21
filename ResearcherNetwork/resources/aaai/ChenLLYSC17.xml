@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLLYSC17" mdate="2019-05-07">
+<author>Chao Chen 0016</author>
+<author>Dongsheng Li</author>
+<author>Qin Lv</author>
+<author>Junchi Yan</author>
+<author>Li Shang</author>
+<author>Stephen M. Chu</author>
+<title>GLOMA: Embedding Global Information in Local Matrix Approximation Models for Collaborative Filtering.</title>
+<pages>1295-1301</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14715</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChenLLYSC17</url>
+</inproceedings>
+</dblp>

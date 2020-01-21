@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenDC0WTZ019" mdate="2019-09-25">
+<author>Haokun Chen</author>
+<author>Xinyi Dai</author>
+<author>Han Cai</author>
+<author>Weinan Zhang 0001</author>
+<author>Xuejian Wang</author>
+<author>Ruiming Tang</author>
+<author>Yuzhou Zhang</author>
+<author>Yong Yu 0001</author>
+<title>Large-Scale Interactive Recommendation with Tree-Structured Policy Gradient.</title>
+<pages>3312-3320</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013312</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenDC0WTZ019</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AbbatiWO0SB19" mdate="2019-06-11">
+<author>Gabriele Abbati</author>
+<author>Philippe Wenk</author>
+<author>Michael A. Osborne</author>
+<author>Andreas Krause 0001</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<author>Stefan Bauer</author>
+<title>AReS and MaRS Adversarial and MMD-Minimizing Regression for SDEs.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/abbati19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AbbatiWO0SB19</url>
+</inproceedings></dblp>

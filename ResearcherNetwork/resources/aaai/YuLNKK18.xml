@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuLNKK18" mdate="2018-10-22">
+<author>Youngjae Yu</author>
+<author>Sangho Lee</author>
+<author>Joonil Na</author>
+<author>Jaeyun Kang</author>
+<author>Gunhee Kim</author>
+<title>A Deep Ranking Model for Spatio-Temporal Highlight Detection From a 360&#9702; Video.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17213</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#YuLNKK18</url>
+<pages>7525-7533</pages>
+</inproceedings></dblp>

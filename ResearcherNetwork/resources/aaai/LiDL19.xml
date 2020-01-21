@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiDL19" mdate="2019-09-25">
+<author>Lile Li</author>
+<author>Quan Do</author>
+<author>Wei Liu</author>
+<title>Cross-Domain Recommendation via Coupled Factorization Machines.</title>
+<pages>9965-9966</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019965</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiDL19</url>
+</inproceedings></dblp>

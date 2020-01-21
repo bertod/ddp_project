@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NorasetDD18" mdate="2018-10-22">
+<author>Thanapon Noraset</author>
+<author>David Demeter</author>
+<author>Doug Downey</author>
+<title>Controlling Global Statistics in Recurrent Neural Network Text Generation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16961</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#NorasetDD18</url>
+<pages>5333-5341</pages>
+</inproceedings></dblp>

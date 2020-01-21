@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WenHSZCL18" mdate="2019-04-03">
+<author>Haiguang Wen</author>
+<author>Kuan Han</author>
+<author>Junxing Shi</author>
+<author>Yizhen Zhang</author>
+<author>Eugenio Culurciello</author>
+<author>Zhongming Liu</author>
+<title>Deep Predictive Coding Network for Object Recognition.</title>
+<pages>5263-5272</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/wen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#WenHSZCL18</url>
+</inproceedings>
+</dblp>

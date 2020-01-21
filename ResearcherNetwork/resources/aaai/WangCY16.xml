@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangCY16" mdate="2016-04-21">
+<author>Yiyuan Wang</author>
+<author>Shaowei Cai</author>
+<author>Minghao Yin</author>
+<title>Two Efficient Local Search Algorithms for Maximum Weight Clique Problem.</title>
+<pages>805-811</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11915</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangCY16</url>
+</inproceedings>
+</dblp>

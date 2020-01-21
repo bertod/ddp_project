@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KingmaAH19" mdate="2019-06-11">
+<author>Friso H. Kingma</author>
+<author>Pieter Abbeel</author>
+<author>Jonathan Ho</author>
+<title>Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables.</title>
+<pages>3408-3417</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kingma19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KingmaAH19</url>
+</inproceedings></dblp>

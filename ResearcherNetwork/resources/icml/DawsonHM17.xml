@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DawsonHM17" mdate="2019-07-18">
+<author>Colin R. Dawson</author>
+<author>Chaofan Huang</author>
+<author>Clayton T. Morrison</author>
+<title>An Infinite Hidden Markov Model With Similarity-Biased Transitions.</title>
+<pages>942-950</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/dawson17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DawsonHM17</url>
+</inproceedings>
+</dblp>

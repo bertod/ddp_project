@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DevlinUBSMK17" mdate="2019-04-03">
+<author>Jacob Devlin</author>
+<author>Jonathan Uesato</author>
+<author>Surya Bhupatiraju</author>
+<author>Rishabh Singh</author>
+<author>Abdel-rahman Mohamed</author>
+<author>Pushmeet Kohli</author>
+<title>RobustFill: Neural Program Learning under Noisy I/O.</title>
+<pages>990-998</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/devlin17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DevlinUBSMK17</url>
+</inproceedings>
+</dblp>

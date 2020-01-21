@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HanadaSST18" mdate="2018-10-22">
+<author>Hiroyuki Hanada</author>
+<author>Atsushi Shibagaki</author>
+<author>Jun Sakuma</author>
+<author>Ichiro Takeuchi</author>
+<title>Efficiently Monitoring Small Data Modification Effect for Large-Scale Learning in Changing Environment.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16089</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HanadaSST18</url>
+<pages>1314-1321</pages>
+</inproceedings></dblp>

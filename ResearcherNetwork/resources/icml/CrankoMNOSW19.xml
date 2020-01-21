@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CrankoMNOSW19" mdate="2019-06-11">
+<author>Zac Cranko</author>
+<author>Aditya Krishna Menon</author>
+<author>Richard Nock</author>
+<author>Cheng Soon Ong</author>
+<author>Zhan Shi</author>
+<author>Christian J. Walder</author>
+<title>Monge blunts Bayes: Hardness Results for Adversarial Training.</title>
+<pages>1406-1415</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cranko19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CrankoMNOSW19</url>
+</inproceedings></dblp>

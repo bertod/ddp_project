@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShiKFHL17" mdate="2019-04-03">
+<author>Tianlin Shi</author>
+<author>Andrej Karpathy</author>
+<author>Linxi Fan</author>
+<author>Jonathan Hernandez</author>
+<author>Percy Liang</author>
+<title>World of Bits: An Open-Domain Platform for Web-Based Agents.</title>
+<pages>3135-3144</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/shi17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ShiKFHL17</url>
+</inproceedings>
+</dblp>

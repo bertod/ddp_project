@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GuralM19" mdate="2019-06-11">
+<author>Albert Gural</author>
+<author>Boris Murmann</author>
+<title>Memory-Optimal Direct Convolutions for Maximizing Classification Accuracy in Embedded Applications.</title>
+<pages>2515-2524</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gural19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GuralM19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BeygelzimerPSTW19" mdate="2019-06-11">
+<author>Alina Beygelzimer</author>
+<author>D&#225;vid P&#225;l</author>
+<author>Bal&#225;zs Sz&#246;r&#233;nyi</author>
+<author>Devanathan Thiruvenkatachari</author>
+<author>Chen-Yu Wei</author>
+<author>Chicheng Zhang</author>
+<title>Bandit Multiclass Linear Classification: Efficient Algorithms for the Separable Case.</title>
+<pages>624-633</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/beygelzimer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BeygelzimerPSTW19</url>
+</inproceedings></dblp>

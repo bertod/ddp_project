@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JerniteCS17" mdate="2019-11-15">
+<author>Yacine Jernite</author>
+<author>Anna Choromanska</author>
+<author>David A. Sontag</author>
+<title>Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation.</title>
+<pages>1665-1674</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/jernite17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#JerniteCS17</url>
+</inproceedings>
+</dblp>

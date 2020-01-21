@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangWXW19" mdate="2019-09-25">
+<author>Lai Jiang</author>
+<author>Zhe Wang</author>
+<author>Mai Xu</author>
+<author>Zulin Wang</author>
+<title>Image Saliency Prediction in Transformed Domain: A Deep Complex Neural Network Method.</title>
+<pages>8521-8528</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018521</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JiangWXW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NargesianKPST18" mdate="2018-10-22">
+<author>Fatemeh Nargesian</author>
+<author>Udayan Khurana</author>
+<author>Tejaswini Pedapati</author>
+<author>Horst Samulowitz</author>
+<author>Deepak S. Turaga</author>
+<title>Dataset Evolver: An Interactive Feature Engineering Notebook.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16407</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#NargesianKPST18</url>
+<pages>8212-8213</pages>
+</inproceedings></dblp>

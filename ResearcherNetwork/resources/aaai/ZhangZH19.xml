@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZH19" mdate="2019-09-25">
+<author>Huan Zhang 0001</author>
+<author>Pengchuan Zhang</author>
+<author>Cho-Jui Hsieh</author>
+<title>RecurJac: An Efficient Recursive Algorithm for Bounding Jacobian Matrix of Neural Networks and Its Applications.</title>
+<pages>5757-5764</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015757</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZH19</url>
+</inproceedings></dblp>

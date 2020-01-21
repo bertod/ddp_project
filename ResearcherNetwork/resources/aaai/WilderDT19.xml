@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WilderDT19" mdate="2019-10-19">
+<author>Bryan Wilder</author>
+<author orcid="0000-0002-6784-473X">Bistra Dilkina</author>
+<author>Milind Tambe</author>
+<title>Melding the Data-Decisions Pipeline: Decision-Focused Learning for Combinatorial Optimization.</title>
+<pages>1658-1665</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011658</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WilderDT19</url>
+</inproceedings></dblp>

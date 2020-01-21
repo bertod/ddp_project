@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/UbaruM17" mdate="2019-04-03">
+<author>Shashanka Ubaru</author>
+<author>Arya Mazumdar</author>
+<title>Multilabel Classification with Group Testing and Codes.</title>
+<pages>3492-3501</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/ubaru17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#UbaruM17</url>
+</inproceedings>
+</dblp>

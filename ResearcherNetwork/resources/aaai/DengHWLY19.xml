@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DengHWLY19" mdate="2019-09-25">
+<author>Zhi-Hong Deng</author>
+<author>Ling Huang</author>
+<author>Chang-Dong Wang</author>
+<author>Jian-Huang Lai</author>
+<author>Philip S. Yu</author>
+<title>DeepCF: A Unified Framework of Representation Learning and Matching Function Learning in Recommender System.</title>
+<pages>61-68</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330161</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DengHWLY19</url>
+</inproceedings></dblp>

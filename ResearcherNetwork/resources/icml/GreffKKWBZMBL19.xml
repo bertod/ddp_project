@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GreffKKWBZMBL19" mdate="2019-10-16">
+<author>Klaus Greff</author>
+<author>Rapha&#235;l Lopez Kaufman</author>
+<author>Rishabh Kabra</author>
+<author>Nick Watters</author>
+<author>Christopher Burgess</author>
+<author>Daniel Zoran</author>
+<author>Loic Matthey</author>
+<author>Matthew Botvinick</author>
+<author>Alexander Lerchner</author>
+<title>Multi-Object Representation Learning with Iterative Variational Inference.</title>
+<pages>2424-2433</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/greff19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GreffKKWBZMBL19</url>
+</inproceedings>
+</dblp>

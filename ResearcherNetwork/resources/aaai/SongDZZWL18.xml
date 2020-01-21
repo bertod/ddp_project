@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SongDZZWL18" mdate="2019-05-31">
+<author>Liangchen Song</author>
+<author>Bo Du</author>
+<author>Lefei Zhang</author>
+<author>Liangpei Zhang</author>
+<author>Jia Wu 0001</author>
+<author>Xuelong Li</author>
+<title>Nonlocal Patch Based t-SVD for Image Inpainting: Algorithm and Error Analysis.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16663</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SongDZZWL18</url>
+<pages>2419-2426</pages>
+</inproceedings></dblp>

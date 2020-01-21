@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DraxlerVSH18" mdate="2019-04-03">
+<author>Felix Dr&#228;xler</author>
+<author>Kambis Veschgini</author>
+<author>Manfred Salmhofer</author>
+<author>Fred A. Hamprecht</author>
+<title>Essentially No Barriers in Neural Network Energy Landscape.</title>
+<pages>1308-1317</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/draxler18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DraxlerVSH18</url>
+</inproceedings>
+</dblp>

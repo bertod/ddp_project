@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SunFWLJ19" mdate="2020-01-14">
+<author>Lijuan Sun</author>
+<author>Songhe Feng</author>
+<author>Tao Wang 0011</author>
+<author>Congyan Lang</author>
+<author>Yi Jin</author>
+<title>Partial Multi-Label Learning by Low-Rank and Sparse Decomposition.</title>
+<pages>5016-5023</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015016</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SunFWLJ19</url>
+</inproceedings>
+</dblp>

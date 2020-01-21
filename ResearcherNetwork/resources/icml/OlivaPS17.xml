@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OlivaPS17" mdate="2019-04-03">
+<author>Junier B. Oliva</author>
+<author>Barnab&#225;s P&#243;czos</author>
+<author>Jeff G. Schneider</author>
+<title>The Statistical Recurrent Unit.</title>
+<pages>2671-2680</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/oliva17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#OlivaPS17</url>
+</inproceedings>
+</dblp>

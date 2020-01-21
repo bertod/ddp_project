@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AlviRCRO19" mdate="2019-06-11">
+<author>Ahsan S. Alvi</author>
+<author>Bin Xin Ru</author>
+<author>Jan-Peter Calliess</author>
+<author>Stephen J. Roberts</author>
+<author>Michael A. Osborne</author>
+<title>Asynchronous Batch Bayesian Optimisation with Improved Local Penalisation.</title>
+<pages>253-262</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/alvi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AlviRCRO19</url>
+</inproceedings></dblp>

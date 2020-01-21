@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KattOA17" mdate="2019-04-03">
+<author>Sammie Katt</author>
+<author>Frans A. Oliehoek</author>
+<author>Christopher Amato</author>
+<title>Learning in POMDPs with Monte Carlo Tree Search.</title>
+<pages>1819-1827</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/katt17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KattOA17</url>
+</inproceedings>
+</dblp>

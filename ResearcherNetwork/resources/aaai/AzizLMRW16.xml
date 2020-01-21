@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AzizLMRW16" mdate="2017-06-14">
+<author>Haris Aziz 0001</author>
+<author>Omer Lev</author>
+<author>Nicholas Mattei</author>
+<author>Jeffrey S. Rosenschein</author>
+<author>Toby Walsh</author>
+<title>Strategyproof Peer Selection: Mechanisms, Analyses, and Experiments.</title>
+<pages>397-403</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12205</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#AzizLMRW16</url>
+</inproceedings>
+</dblp>

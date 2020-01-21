@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NacsonGLSS19" mdate="2019-09-18">
+<author>Mor Shpigel Nacson</author>
+<author>Suriya Gunasekar</author>
+<author>Jason D. Lee</author>
+<author>Nathan Srebro</author>
+<author>Daniel Soudry</author>
+<title>Lexicographic and Depth-Sensitive Margins in Homogeneous and Non-Homogeneous Deep Models.</title>
+<pages>4683-4692</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nacson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NacsonGLSS19</url>
+</inproceedings></dblp>

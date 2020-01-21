@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XuLZC19" mdate="2019-06-11">
+<author>Hongteng Xu</author>
+<author>Dixin Luo</author>
+<author>Hongyuan Zha</author>
+<author>Lawrence Carin</author>
+<title>Gromov-Wasserstein Learning for Graph Matching and Node Embedding.</title>
+<pages>6932-6941</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XuLZC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MuellerT16" mdate="2016-04-21">
+<author>Jonas Mueller</author>
+<author>Aditya Thyagarajan</author>
+<title>Siamese Recurrent Architectures for Learning Sentence Similarity.</title>
+<pages>2786-2792</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MuellerT16</url>
+</inproceedings>
+</dblp>

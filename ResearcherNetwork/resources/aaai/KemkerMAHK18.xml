@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KemkerMAHK18" mdate="2018-10-22">
+<author>Ronald Kemker</author>
+<author>Marc McClure</author>
+<author>Angelina Abitino</author>
+<author>Tyler L. Hayes</author>
+<author>Christopher Kanan</author>
+<title>Measuring Catastrophic Forgetting in Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16410</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KemkerMAHK18</url>
+<pages>3390-3398</pages>
+</inproceedings></dblp>

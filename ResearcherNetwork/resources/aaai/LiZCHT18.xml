@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiZCHT18" mdate="2018-10-22">
+<author>Yabei Li</author>
+<author>Junge Zhang</author>
+<author>Yanhua Cheng</author>
+<author>Kaiqi Huang</author>
+<author>Tieniu Tan</author>
+<title>DF<sup>2</sup>Net: Discriminative Feature Learning and Fusion Network for RGB-D Indoor Scene Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16730</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiZCHT18</url>
+<pages>7041-7048</pages>
+</inproceedings></dblp>

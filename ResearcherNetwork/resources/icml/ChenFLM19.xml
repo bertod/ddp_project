@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenFLM19" mdate="2019-06-11">
+<author>Xingyu Chen</author>
+<author>Brandon Fain</author>
+<author>Liang Lyu</author>
+<author>Kamesh Munagala</author>
+<title>Proportionally Fair Clustering.</title>
+<pages>1032-1041</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenFLM19</url>
+</inproceedings></dblp>

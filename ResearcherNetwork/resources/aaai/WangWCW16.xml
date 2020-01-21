@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangWCW16" mdate="2016-04-21">
+<author>Xingfu Wang</author>
+<author>Lin Wang</author>
+<author>Jing Chen</author>
+<author>Litao Wu</author>
+<title>Toward a Better Understanding of Deep Neural Network Based Acoustic Modelling: An Empirical Investigation.</title>
+<pages>2173-2179</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12132</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangWCW16</url>
+</inproceedings>
+</dblp>

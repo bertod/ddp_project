@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OhSLK17" mdate="2019-04-03">
+<author>Junhyuk Oh</author>
+<author>Satinder P. Singh</author>
+<author>Honglak Lee</author>
+<author>Pushmeet Kohli</author>
+<title>Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning.</title>
+<pages>2661-2670</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/oh17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#OhSLK17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoAK16" mdate="2016-04-21">
+<author>Mengchen Zhao</author>
+<author>Bo An</author>
+<author>Christopher Kiekintveld</author>
+<title>Optimizing Personalized Email Filtering Thresholds to Mitigate Sequential Spear Phishing Attacks.</title>
+<pages>658-665</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12083</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhaoAK16</url>
+</inproceedings>
+</dblp>

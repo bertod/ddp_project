@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangDAG19" mdate="2019-09-25">
+<author>Jia-Hong Huang</author>
+<author>Cuong Duc Dao</author>
+<author>Modar Alfadly</author>
+<author>Bernard Ghanem</author>
+<title>A Novel Framework for Robustness Analysis of Visual QA Models.</title>
+<pages>8449-8456</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018449</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangDAG19</url>
+</inproceedings></dblp>

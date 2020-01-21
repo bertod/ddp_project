@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoLLL17" mdate="2017-03-06">
+<author>Ziqiang Cao</author>
+<author>Chuwei Luo</author>
+<author>Wenjie Li</author>
+<author>Sujian Li</author>
+<title>Joint Copying and Restricted Generation for Paraphrase.</title>
+<pages>3152-3158</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14527</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CaoLLL17</url>
+</inproceedings>
+</dblp>

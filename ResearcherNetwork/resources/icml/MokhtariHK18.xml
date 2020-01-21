@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MokhtariHK18" mdate="2019-04-03">
+<author>Aryan Mokhtari</author>
+<author>Hamed Hassani</author>
+<author>Amin Karbasi</author>
+<title>Decentralized Submodular Maximization: Bridging Discrete and Continuous Settings.</title>
+<pages>3613-3622</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/mokhtari18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#MokhtariHK18</url>
+</inproceedings>
+</dblp>

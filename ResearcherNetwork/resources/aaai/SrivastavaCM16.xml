@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SrivastavaCM16" mdate="2016-07-12">
+<author>Shashank Srivastava</author>
+<author>Snigdha Chaturvedi</author>
+<author>Tom M. Mitchell</author>
+<title>Inferring Interpersonal Relations in Narrative Summaries.</title>
+<pages>2807-2813</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12173</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SrivastavaCM16</url>
+</inproceedings>
+</dblp>

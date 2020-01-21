@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AlbuquerqueMDCF19" mdate="2019-06-11">
+<author>Isabela Albuquerque</author>
+<author>Jo&#227;o Monteiro</author>
+<author>Thang Doan</author>
+<author>Breandan Considine</author>
+<author>Tiago H. Falk</author>
+<author>Ioannis Mitliagkas</author>
+<title>Multi-objective training of Generative Adversarial Networks with multiple discriminators.</title>
+<pages>202-211</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/albuquerque19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AlbuquerqueMDCF19</url>
+</inproceedings></dblp>

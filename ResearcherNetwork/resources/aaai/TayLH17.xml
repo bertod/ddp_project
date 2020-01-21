@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TayLH17" mdate="2017-03-06">
+<author>Yi Tay</author>
+<author>Anh Tuan Luu</author>
+<author>Siu Cheung Hui</author>
+<title>Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs.</title>
+<pages>1243-1249</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TayLH17</url>
+</inproceedings>
+</dblp>

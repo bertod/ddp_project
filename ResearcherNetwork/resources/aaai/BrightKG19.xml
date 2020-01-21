@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrightKG19" mdate="2019-09-25">
+<author>Curtis Bright</author>
+<author>Dragomir Z. &#208;okovic</author>
+<author>Ilias Kotsireas</author>
+<author>Vijay Ganesh</author>
+<title>A SAT+CAS Approach to Finding Good Matrices: New Examples and Counterexamples.</title>
+<pages>1435-1442</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011435</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BrightKG19</url>
+</inproceedings></dblp>

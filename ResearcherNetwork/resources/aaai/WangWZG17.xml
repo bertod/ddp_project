@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangWZG17" mdate="2019-05-31">
+<author>Wei Wang 0061</author>
+<author>Hao Wang 0005</author>
+<author>Chen Zhang 0003</author>
+<author>Yang Gao 0021</author>
+<title>Fredholm Multiple Kernel Learning for Semi-Supervised Domain Adaptation.</title>
+<pages>2732-2738</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14427</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WangWZG17</url>
+</inproceedings></dblp>

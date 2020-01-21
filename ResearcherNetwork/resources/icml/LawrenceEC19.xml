@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LawrenceEC19" mdate="2019-09-20">
+<author>Andrew R. Lawrence</author>
+<author>Carl Henrik Ek</author>
+<author>Neill D. F. Campbell</author>
+<title>DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures.</title>
+<pages>3682-3691</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lawrence19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LawrenceEC19</url>
+</inproceedings>
+</dblp>

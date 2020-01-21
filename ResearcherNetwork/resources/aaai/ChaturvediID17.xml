@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChaturvediID17" mdate="2017-03-06">
+<author>Snigdha Chaturvedi</author>
+<author>Mohit Iyyer</author>
+<author>Hal Daum&#233; III</author>
+<title>Unsupervised Learning of Evolving Relationships Between Literary Characters.</title>
+<pages>3159-3165</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14564</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChaturvediID17</url>
+</inproceedings>
+</dblp>

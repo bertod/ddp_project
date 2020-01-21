@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AgarwalBCHSZZ19" mdate="2019-06-11">
+<author>Naman Agarwal</author>
+<author>Brian Bullins</author>
+<author>Xinyi Chen</author>
+<author>Elad Hazan</author>
+<author>Karan Singh</author>
+<author>Cyril Zhang</author>
+<author>Yi Zhang</author>
+<title>Efficient Full-Matrix Adaptive Regularization.</title>
+<pages>102-110</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/agarwal19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AgarwalBCHSZZ19</url>
+</inproceedings></dblp>

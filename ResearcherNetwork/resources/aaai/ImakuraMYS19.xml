@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ImakuraMYS19" mdate="2019-09-25">
+<author>Akira Imakura</author>
+<author>Momo Matsuda</author>
+<author>Xiucai Ye</author>
+<author>Tetsuya Sakurai</author>
+<title>Complex Moment-Based Supervised Eigenmap for Dimensionality Reduction.</title>
+<pages>3910-3918</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013910</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ImakuraMYS19</url>
+</inproceedings></dblp>

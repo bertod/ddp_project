@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AlfsCAP19" mdate="2019-09-25">
+<author>Emily Alfs</author>
+<author>Doina Caragea</author>
+<author>Nathan Albin</author>
+<author>Pietro Poggi-Corradini</author>
+<title>Identifying Android Malware Using Network-Based Approaches.</title>
+<pages>9911-9912</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019911</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#AlfsCAP19</url>
+</inproceedings></dblp>

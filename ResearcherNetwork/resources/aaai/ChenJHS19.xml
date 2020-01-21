@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenJHS19" mdate="2019-10-17">
+<author>Jiaoyan Chen</author>
+<author>Ernesto Jim&#233;nez-Ruiz</author>
+<author>Ian Horrocks</author>
+<author>Charles A. Sutton</author>
+<title>ColNet: Embedding the Semantics of Web Tables for Column Type Prediction.</title>
+<pages>29-36</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330129</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenJHS19</url>
+</inproceedings></dblp>

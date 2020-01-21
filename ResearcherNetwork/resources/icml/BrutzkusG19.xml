@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BrutzkusG19" mdate="2019-06-11">
+<author>Alon Brutzkus</author>
+<author>Amir Globerson</author>
+<title>Why do Larger Models Generalize Better? A Theoretical Perspective via the XOR Problem.</title>
+<pages>822-830</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/brutzkus19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BrutzkusG19</url>
+</inproceedings></dblp>

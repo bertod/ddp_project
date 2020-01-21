@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MalherbeV17" mdate="2019-04-03">
+<author>C&#233;dric Malherbe</author>
+<author>Nicolas Vayatis</author>
+<title>Global optimization of Lipschitz functions.</title>
+<pages>2314-2323</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/malherbe17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MalherbeV17</url>
+</inproceedings>
+</dblp>

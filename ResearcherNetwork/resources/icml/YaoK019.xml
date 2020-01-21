@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YaoK019" mdate="2019-06-11">
+<author>Quanming Yao</author>
+<author>James Tin-Yau Kwok</author>
+<author>Bo Han 0003</author>
+<title>Efficient Nonconvex Regularized Tensor Completion with Structure-aware Proximal Iterations.</title>
+<pages>7035-7044</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yao19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YaoK019</url>
+</inproceedings></dblp>

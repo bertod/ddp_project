@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KonstantinovL19" mdate="2019-06-11">
+<author>Nikola Konstantinov</author>
+<author>Christoph Lampert</author>
+<title>Robust Learning from Untrusted Sources.</title>
+<pages>3488-3498</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/konstantinov19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KonstantinovL19</url>
+</inproceedings></dblp>

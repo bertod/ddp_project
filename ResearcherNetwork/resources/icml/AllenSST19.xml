@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AllenSST19" mdate="2019-07-24">
+<author>Kelsey R. Allen</author>
+<author>Evan Shelhamer</author>
+<author>Hanul Shin</author>
+<author>Joshua B. Tenenbaum</author>
+<title>Infinite Mixture Prototypes for Few-shot Learning.</title>
+<pages>232-241</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/allen19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AllenSST19</url>
+</inproceedings></dblp>

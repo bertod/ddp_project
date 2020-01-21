@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MeisterH018" mdate="2018-10-22">
+<author>Simon Meister</author>
+<author>Junhwa Hur</author>
+<author>Stefan Roth 0001</author>
+<title>UnFlow: Unsupervised Learning of Optical Flow With a Bidirectional Census Loss.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16502</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#MeisterH018</url>
+<pages>7251-7259</pages>
+</inproceedings></dblp>

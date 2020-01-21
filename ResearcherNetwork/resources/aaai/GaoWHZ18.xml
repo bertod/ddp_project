@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoWHZ18" mdate="2019-10-23">
+<author>Zan Gao</author>
+<author>Deyu Wang</author>
+<author>Xiangnan He 0001</author>
+<author>Hua Zhang 0003</author>
+<title>Group-Pair Convolutional Neural Networks for Multi-View Based 3D Object Retrieval.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17062</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GaoWHZ18</url>
+<pages>2223-2231</pages>
+</inproceedings>
+</dblp>

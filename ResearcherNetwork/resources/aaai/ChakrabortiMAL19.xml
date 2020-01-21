@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChakrabortiMAL19" mdate="2019-11-07">
+<author>Tathagata Chakraborti</author>
+<author>Christian Muise</author>
+<author>Shubham Agarwal 0002</author>
+<author>Luis A. Lastras</author>
+<title>MAi: An Intelligent Model Acquisition Interface for Interactive Specification of Dialogue Agents.</title>
+<pages>9849-9850</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019849</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChakrabortiMAL19</url>
+</inproceedings>
+</dblp>

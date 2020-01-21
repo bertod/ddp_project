@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CarmonDHS17" mdate="2019-04-03">
+<author>Yair Carmon</author>
+<author>John C. Duchi</author>
+<author>Oliver Hinder</author>
+<author>Aaron Sidford</author>
+<title>"Convex Until Proven Guilty": Dimension-Free Acceleration of Gradient Descent on Non-Convex Functions.</title>
+<pages>654-663</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/carmon17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#CarmonDHS17</url>
+</inproceedings>
+</dblp>

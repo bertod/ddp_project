@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RitterWKJBPB18" mdate="2019-04-03">
+<author>Samuel Ritter</author>
+<author>Jane X. Wang</author>
+<author>Zeb Kurth-Nelson</author>
+<author>Siddhant M. Jayakumar</author>
+<author>Charles Blundell</author>
+<author>Razvan Pascanu</author>
+<author>Matthew Botvinick</author>
+<title>Been There, Done That: Meta-Learning with Episodic Recall.</title>
+<pages>4351-4360</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ritter18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RitterWKJBPB18</url>
+</inproceedings>
+</dblp>

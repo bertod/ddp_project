@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GentileLKKZE17" mdate="2019-04-03">
+<author>Claudio Gentile</author>
+<author>Shuai Li</author>
+<author>Purushottam Kar</author>
+<author>Alexandros Karatzoglou</author>
+<author>Giovanni Zappella</author>
+<author>Evans Etrue</author>
+<title>On Context-Dependent Clustering of Bandits.</title>
+<pages>1253-1262</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/gentile17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#GentileLKKZE17</url>
+</inproceedings>
+</dblp>

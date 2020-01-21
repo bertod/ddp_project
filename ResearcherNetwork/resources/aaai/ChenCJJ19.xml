@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenCJJ19" mdate="2019-09-25">
+<author>Chao Chen</author>
+<author>Zhihong Chen</author>
+<author>Boyuan Jiang</author>
+<author>Xinyu Jin</author>
+<title>Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation.</title>
+<pages>3296-3303</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013296</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenCJJ19</url>
+</inproceedings></dblp>

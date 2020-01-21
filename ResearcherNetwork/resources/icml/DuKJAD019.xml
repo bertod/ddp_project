@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuKJAD019" mdate="2019-06-11">
+<author>Simon S. Du</author>
+<author>Akshay Krishnamurthy</author>
+<author>Nan Jiang</author>
+<author>Alekh Agarwal</author>
+<author>Miroslav Dud&#237;k</author>
+<author>John Langford 0001</author>
+<title>Provably efficient RL with Rich Observations via Latent State Decoding.</title>
+<pages>1665-1674</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/du19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DuKJAD019</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangHZ19" mdate="2019-09-25">
+<author>Chengyu Wang 0001</author>
+<author>Xiaofeng He</author>
+<author>Aoying Zhou</author>
+<title>Improving Hypernymy Prediction via Taxonomy Enhanced Adversarial Learning.</title>
+<pages>7128-7135</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017128</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangHZ19</url>
+</inproceedings></dblp>

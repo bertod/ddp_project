@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HaraSKFR16" mdate="2016-04-21">
+<author>Kazuo Hara</author>
+<author>Ikumi Suzuki</author>
+<author>Kei Kobayashi</author>
+<author>Kenji Fukumizu</author>
+<author>Milos Radovanovic</author>
+<title>Flattening the Density Gradient for Eliminating Spatial Centrality to Reduce Hubness.</title>
+<pages>1659-1665</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12055</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HaraSKFR16</url>
+</inproceedings>
+</dblp>

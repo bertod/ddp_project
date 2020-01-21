@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiYX17" mdate="2017-03-06">
+<author>Xutao Li</author>
+<author>Yunming Ye</author>
+<author>Xiaofei Xu</author>
+<title>Low-Rank Tensor Completion with Total Variation for Visual Data Inpainting.</title>
+<pages>2210-2216</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14212</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiYX17</url>
+</inproceedings>
+</dblp>

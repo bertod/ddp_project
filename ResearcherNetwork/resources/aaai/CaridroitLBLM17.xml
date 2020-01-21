@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaridroitLBLM17" mdate="2017-03-06">
+<author>Thomas Caridroit</author>
+<author>Jean-Marie Lagniez</author>
+<author>Daniel Le Berre</author>
+<author>Tiago de Lima</author>
+<author>Valentin Montmirail</author>
+<title>A SAT-Based Approach for Solving the Modal Logic S5-Satisfiability Problem.</title>
+<pages>3864-3870</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14380</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CaridroitLBLM17</url>
+</inproceedings>
+</dblp>

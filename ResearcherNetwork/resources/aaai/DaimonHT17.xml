@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DaimonHT17" mdate="2017-03-06">
+<author>Keisuke Daimon</author>
+<author>Richard W. Hedley</author>
+<author>Charles E. Taylor</author>
+<title>Semantic Inference of Bird Songs Using Dynamic Bayesian Networks.</title>
+<pages>4911-4912</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14256</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DaimonHT17</url>
+</inproceedings>
+</dblp>

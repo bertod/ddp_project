@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoDJW16" mdate="2016-04-30">
+<author>Yuchen Guo</author>
+<author>Guiguang Ding</author>
+<author>Xiaoming Jin</author>
+<author>Jianmin Wang 0001</author>
+<title>Transductive Zero-Shot Recognition via Shared Model Space Learning.</title>
+<pages>3434-3500</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11975</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GuoDJW16</url>
+</inproceedings>
+</dblp>

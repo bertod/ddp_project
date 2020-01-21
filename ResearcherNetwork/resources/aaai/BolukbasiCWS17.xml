@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BolukbasiCWS17" mdate="2018-09-02">
+<author>Tolga Bolukbasi</author>
+<author>Kai-Wei Chang</author>
+<author>Joseph Wang 0001</author>
+<author>Venkatesh Saligrama</author>
+<title>Resource Constrained Structured Prediction.</title>
+<pages>1756-1762</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14860</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BolukbasiCWS17</url>
+</inproceedings></dblp>

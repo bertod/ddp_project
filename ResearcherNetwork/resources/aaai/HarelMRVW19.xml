@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HarelMRVW19" mdate="2019-09-25">
+<author>David Harel</author>
+<author>Assaf Marron</author>
+<author>Ariel Rosenfeld</author>
+<author>Moshe Y. Vardi</author>
+<author>Gera Weiss</author>
+<title>Labor Division with Movable Walls: Composing Executable Specifications with Machine Learning and Search (Blue Sky Idea).</title>
+<pages>9770-9774</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019770</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HarelMRVW19</url>
+</inproceedings></dblp>

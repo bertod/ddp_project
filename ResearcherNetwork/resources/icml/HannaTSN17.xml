@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HannaTSN17" mdate="2019-04-03">
+<author>Josiah P. Hanna</author>
+<author>Philip S. Thomas</author>
+<author>Peter Stone</author>
+<author>Scott Niekum</author>
+<title>Data-Efficient Policy Evaluation Through Behavior Policy Search.</title>
+<pages>1394-1403</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hanna17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HannaTSN17</url>
+</inproceedings>
+</dblp>

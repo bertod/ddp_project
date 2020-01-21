@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuangCO19" mdate="2019-06-11">
+<author>Zhenxun Zhuang</author>
+<author>Ashok Cutkosky</author>
+<author>Francesco Orabona</author>
+<title>Surrogate Losses for Online Learning of Stepsizes in Stochastic Non-Convex Optimization.</title>
+<pages>7664-7672</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhuang19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhuangCO19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KenterWCCV19" mdate="2019-06-11">
+<author>Tom Kenter</author>
+<author>Vincent Wan</author>
+<author>Chun-an Chan</author>
+<author>Rob Clark</author>
+<author>Jakub Vit</author>
+<title>CHiVE: Varying Prosody in Speech Synthesis with a Linguistically Driven Dynamic Hierarchical Conditional Variational Network.</title>
+<pages>3331-3340</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kenter19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KenterWCCV19</url>
+</inproceedings></dblp>

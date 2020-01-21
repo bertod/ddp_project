@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AbelsRLNS19" mdate="2019-06-11">
+<author>Axel Abels</author>
+<author>Diederik M. Roijers</author>
+<author>Tom Lenaerts</author>
+<author>Ann Now&#233;</author>
+<author>Denis Steckelmacher</author>
+<title>Dynamic Weights in Multi-Objective Deep Reinforcement Learning.</title>
+<pages>11-20</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/abels19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AbelsRLNS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiaoLP16" mdate="2016-04-21">
+<author>Qianli Liao</author>
+<author>Joel Z. Leibo</author>
+<author>Tomaso A. Poggio</author>
+<title>How Important Is Weight Symmetry in Backpropagation?</title>
+<pages>1837-1844</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12325</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiaoLP16</url>
+</inproceedings>
+</dblp>

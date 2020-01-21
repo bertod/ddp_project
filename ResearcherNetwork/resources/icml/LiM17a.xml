@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiM17a" mdate="2019-04-03">
+<author>Alexander Hanbo Li</author>
+<author>Andrew Martin</author>
+<title>Forest-type Regression with General Losses and Robust Forest.</title>
+<pages>2091-2100</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/li17e.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LiM17a</url>
+</inproceedings>
+</dblp>

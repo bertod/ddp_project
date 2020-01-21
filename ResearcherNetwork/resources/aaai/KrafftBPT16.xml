@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KrafftBPT16" mdate="2016-04-21">
+<author>Peter M. Krafft</author>
+<author>Chris L. Baker</author>
+<author>Alex Pentland</author>
+<author>Joshua B. Tenenbaum</author>
+<title>Modeling Human Ad Hoc Coordination.</title>
+<pages>3740-3746</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12516</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KrafftBPT16</url>
+</inproceedings>
+</dblp>

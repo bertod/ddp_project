@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangGCH16" mdate="2016-04-21">
+<author>Wenhao Jiang</author>
+<author>Hongchang Gao</author>
+<author>Fu-Lai Chung</author>
+<author>Heng Huang</author>
+<title>The l2, 1-Norm Stacked Robust Autoencoders for Domain Adaptation.</title>
+<pages>1723-1729</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12290</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JiangGCH16</url>
+</inproceedings>
+</dblp>

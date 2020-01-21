@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TranKJ016" mdate="2016-04-21">
+<author>Lam Tran</author>
+<author>Deguang Kong</author>
+<author>Hongxia Jin</author>
+<author>Ji Liu 0002</author>
+<title>Privacy-CNH: A Framework to Detect Photo Privacy with Convolutional Neural Network using Hierarchical Features.</title>
+<pages>1317-1323</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12232</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#TranKJ016</url>
+</inproceedings>
+</dblp>

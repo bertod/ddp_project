@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangXZBQLL18" mdate="2019-09-03">
+<author>Yijun Wang</author>
+<author>Yingce Xia</author>
+<author>Li Zhao</author>
+<author>Jiang Bian 0002</author>
+<author>Tao Qin</author>
+<author>Guiquan Liu</author>
+<author>Tie-Yan Liu</author>
+<title>Dual Transfer Learning for Neural Machine Translation with Marginal Distribution Regularization.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17041</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangXZBQLL18</url>
+<pages>5553-5560</pages>
+</inproceedings></dblp>

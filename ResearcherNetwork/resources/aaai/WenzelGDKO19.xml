@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WenzelGDKO19" mdate="2019-09-25">
+<author>Florian Wenzel</author>
+<author>Th&#233;o Galy-Fajou</author>
+<author>Christian Donner</author>
+<author>Marius Kloft</author>
+<author>Manfred Opper</author>
+<title>Efficient Gaussian Process Classification Using P&#243;lya-Gamma Data Augmentation.</title>
+<pages>5417-5424</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015417</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WenzelGDKO19</url>
+</inproceedings></dblp>

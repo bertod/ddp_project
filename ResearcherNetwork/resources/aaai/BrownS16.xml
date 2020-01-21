@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrownS16" mdate="2016-04-21">
+<author>Noam Brown</author>
+<author>Tuomas Sandholm</author>
+<title>Strategy-Based Warm Starting for Regret Minimization in Games.</title>
+<pages>432-438</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12505</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BrownS16</url>
+</inproceedings>
+</dblp>

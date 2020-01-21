@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiKWZW18" mdate="2018-10-22">
+<author>Zhongliang Li</author>
+<author>Raymond Kulhanek</author>
+<author>Shaojun Wang</author>
+<author>Yunxin Zhao</author>
+<author>Shuang Wu</author>
+<title>Slim Embedding Layers for Recurrent Neural Language Models.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17042</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiKWZW18</url>
+<pages>5220-5228</pages>
+</inproceedings></dblp>

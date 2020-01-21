@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HarutyunyanVHNP19" mdate="2019-06-11">
+<author>Anna Harutyunyan</author>
+<author>Peter Vrancx</author>
+<author>Philippe Hamel</author>
+<author>Ann Now&#233;</author>
+<author>Doina Precup</author>
+<title>Per-Decision Option Discounting.</title>
+<pages>2644-2652</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/harutyunyan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HarutyunyanVHNP19</url>
+</inproceedings></dblp>

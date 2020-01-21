@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiWWYLLL19" mdate="2019-09-25">
+<author>Chaozhuo Li</author>
+<author>Senzhang Wang</author>
+<author>Yukun Wang</author>
+<author>Philip S. Yu</author>
+<author>Yanbo Liang</author>
+<author>Yun Liu</author>
+<author>Zhoujun Li</author>
+<title>Adversarial Learning for Weakly-Supervised Social Network Alignment.</title>
+<pages>996-1003</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301996</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiWWYLLL19</url>
+</inproceedings></dblp>

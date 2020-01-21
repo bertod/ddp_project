@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WiqvistMPF19" mdate="2019-06-11">
+<author>Samuel Wiqvist</author>
+<author>Pierre-Alexandre Mattei</author>
+<author>Umberto Picchini</author>
+<author>Jes Frellsen</author>
+<title>Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation.</title>
+<pages>6798-6807</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wiqvist19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WiqvistMPF19</url>
+</inproceedings></dblp>

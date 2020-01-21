@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangM0YZG19" mdate="2019-10-27">
+<author>Yisen Wang 0001</author>
+<author>Xingjun Ma</author>
+<author>James Bailey 0001</author>
+<author>Jinfeng Yi</author>
+<author>Bowen Zhou</author>
+<author>Quanquan Gu</author>
+<title>On the Convergence and Robustness of Adversarial Training.</title>
+<pages>6586-6595</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19i.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangM0YZG19</url>
+</inproceedings></dblp>

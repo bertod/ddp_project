@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuLG16" mdate="2016-04-21">
+<author>Baoyuan Wu</author>
+<author>Siwei Lyu</author>
+<author>Bernard Ghanem</author>
+<title>Constrained Submodular Minimization for Missing Labels and Class Imbalance in Multi-label Learning.</title>
+<pages>2229-2236</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11762</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WuLG16</url>
+</inproceedings>
+</dblp>

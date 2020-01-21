@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuHLTSG19" mdate="2019-06-11">
+<author>Chen Zhu</author>
+<author>W. Ronny Huang</author>
+<author>Hengduo Li</author>
+<author>Gavin Taylor</author>
+<author>Christoph Studer</author>
+<author>Tom Goldstein</author>
+<title>Transferable Clean-Label Poisoning Attacks on Deep Neural Nets.</title>
+<pages>7614-7623</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhuHLTSG19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuGS18" mdate="2019-04-03">
+<author>Huidong Liu</author>
+<author>Xianfeng Gu</author>
+<author>Dimitris Samaras</author>
+<title>A Two-Step Computation of the Exact GAN Wasserstein Distance.</title>
+<pages>3165-3174</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/liu18d.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LiuGS18</url>
+</inproceedings>
+</dblp>

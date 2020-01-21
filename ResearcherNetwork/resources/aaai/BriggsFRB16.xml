@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BriggsFRB16" mdate="2016-04-21">
+<author>Forrest Briggs</author>
+<author>Xiaoli Z. Fern</author>
+<author>Raviv Raich</author>
+<author>Matthew Betts</author>
+<title>Multi-Instance Multi-Label Class Discovery: A Computational Approach for Assessing Bird Biodiversity.</title>
+<pages>3807-3813</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12214</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BriggsFRB16</url>
+</inproceedings>
+</dblp>

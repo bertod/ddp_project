@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiM18a" mdate="2019-04-03">
+<author>Yingzhen Li</author>
+<author>Stephan Mandt</author>
+<title>Disentangled Sequential Autoencoder.</title>
+<pages>5656-5665</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/yingzhen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LiM18a</url>
+</inproceedings>
+</dblp>

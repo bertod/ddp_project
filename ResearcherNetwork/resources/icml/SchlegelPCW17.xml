@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SchlegelPCW17" mdate="2019-04-03">
+<author>Matthew Schlegel</author>
+<author>Yangchen Pan</author>
+<author>Jiecao Chen</author>
+<author>Martha White</author>
+<title>Adapting Kernel Representations Online Using Submodular Maximization.</title>
+<pages>3037-3046</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/schlegel17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SchlegelPCW17</url>
+</inproceedings>
+</dblp>

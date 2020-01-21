@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JohnH18" mdate="2019-04-03">
+<author>S. T. John</author>
+<author>James Hensman</author>
+<title>Large-Scale Cox Process Inference using Variational Fourier Features.</title>
+<pages>2367-2375</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/john18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#JohnH18</url>
+</inproceedings>
+</dblp>

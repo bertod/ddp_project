@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NoriKYKI17" mdate="2017-03-06">
+<author>Nozomi Nori</author>
+<author>Hisashi Kashima</author>
+<author>Kazuto Yamashita</author>
+<author>Susumu Kunisawa</author>
+<author>Yuichi Imanaka</author>
+<title>Learning Implicit Tasks for Patient-Specific Risk Modeling in ICU.</title>
+<pages>1481-1487</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14989</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NoriKYKI17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BorsosCL019" mdate="2019-06-11">
+<author>Zal&#225;n Borsos</author>
+<author>Sebastian Curi</author>
+<author>Kfir Yehuda Levy</author>
+<author>Andreas Krause 0001</author>
+<title>Online Variance Reduction with Mixtures.</title>
+<pages>705-714</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/borsos19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BorsosCL019</url>
+</inproceedings></dblp>

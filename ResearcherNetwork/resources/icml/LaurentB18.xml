@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LaurentB18" mdate="2019-04-03">
+<author>Thomas Laurent 0001</author>
+<author>James von Brecht</author>
+<title>Deep Linear Networks with Arbitrary Loss: All Local Minima Are Global.</title>
+<pages>2908-2913</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/laurent18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LaurentB18</url>
+</inproceedings></dblp>

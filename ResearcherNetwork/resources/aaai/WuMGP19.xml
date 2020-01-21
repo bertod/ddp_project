@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuMGP19" mdate="2019-09-25">
+<author>Mike Wu</author>
+<author>Milan Mosse</author>
+<author>Noah Goodman</author>
+<author>Chris Piech</author>
+<title>Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference.</title>
+<pages>782-790</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301782</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuMGP19</url>
+</inproceedings></dblp>

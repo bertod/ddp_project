@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinYLHCFC19" mdate="2019-09-25">
+<author>Di Jin</author>
+<author>Xinxin You</author>
+<author>Weihao Li</author>
+<author>Dongxiao He</author>
+<author>Peng Cui</author>
+<author>Fran&#231;oise Fogelman-Souli&#233;</author>
+<author>Tanmoy Chakraborty 0002</author>
+<title>Incorporating Network Embedding into Markov Random Field for Better Community Detection.</title>
+<pages>160-167</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301160</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JinYLHCFC19</url>
+</inproceedings></dblp>

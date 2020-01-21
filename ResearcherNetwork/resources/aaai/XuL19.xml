@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuL19" mdate="2019-09-25">
+<author>Ting-Bing Xu</author>
+<author>Cheng-Lin Liu</author>
+<title>Data-Distortion Guided Self-Distillation for Deep Neural Networks.</title>
+<pages>5565-5572</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015565</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuL19</url>
+</inproceedings></dblp>

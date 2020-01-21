@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiYZH19" mdate="2019-06-11">
+<author>Yiying Li</author>
+<author>Yongxin Yang</author>
+<author>Wei Zhou</author>
+<author>Timothy M. Hospedales</author>
+<title>Feature-Critic Networks for Heterogeneous Domain Generalization.</title>
+<pages>3915-3924</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19l.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiYZH19</url>
+</inproceedings></dblp>

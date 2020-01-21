@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Mitrovic0ZK18" mdate="2019-04-03">
+<author>Marko Mitrovic</author>
+<author>Ehsan Kazemi 0001</author>
+<author>Morteza Zadimoghaddam</author>
+<author>Amin Karbasi</author>
+<title>Data Summarization at Scale: A Two-Stage Submodular Approach.</title>
+<pages>3593-3602</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/mitrovic18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Mitrovic0ZK18</url>
+</inproceedings>
+</dblp>

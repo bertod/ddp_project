@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangYWWNQH17" mdate="2018-08-30">
+<author>Xin Yang 0009</author>
+<author>Lequan Yu</author>
+<author>Lingyun Wu</author>
+<author>Yi Wang 0031</author>
+<author>Dong Ni</author>
+<author>Jing Qin 0001</author>
+<author>Pheng-Ann Heng</author>
+<title>Fine-Grained Recurrent Neural Networks for Automatic Prostate Segmentation in Ultrasound Images.</title>
+<pages>1633-1639</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14890</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YangYWWNQH17</url>
+</inproceedings></dblp>

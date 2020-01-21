@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RoyMDSGP16" mdate="2016-04-21">
+<author>Shourya Roy</author>
+<author>Ragunathan Mariappan</author>
+<author>Sandipan Dandapat</author>
+<author>Saurabh Srivastava</author>
+<author>Sainyam Galhotra</author>
+<author>Balaji Peddamuthu</author>
+<title>QA<sup>RT</sup>: A System for Real-Time Holistic Quality Assurance for Contact Center Dialogues.</title>
+<pages>3768-3775</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12305</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#RoyMDSGP16</url>
+</inproceedings>
+</dblp>

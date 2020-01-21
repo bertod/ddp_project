@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinLLHZ19" mdate="2019-09-25">
+<author>Di Jin</author>
+<author>Ziyang Liu</author>
+<author>Weihao Li</author>
+<author>Dongxiao He</author>
+<author>Weixiong Zhang</author>
+<title>Graph Convolutional Networks Meet Markov Random Fields: Semi-Supervised Community Detection in Attribute Networks.</title>
+<pages>152-159</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301152</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JinLLHZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShiXPTP19" mdate="2019-12-27">
+<author>Yaxin Shi</author>
+<author>Donna Xu</author>
+<author>Yuangang Pan</author>
+<author>Ivor W. Tsang</author>
+<author orcid="0000-0003-0794-527X">Shirui Pan</author>
+<title>Label Embedding with Partial Heterogeneous Contexts.</title>
+<pages>4926-4933</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014926</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiXPTP19</url>
+</inproceedings></dblp>

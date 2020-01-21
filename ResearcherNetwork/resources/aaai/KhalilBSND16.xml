@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KhalilBSND16" mdate="2019-07-24">
+<author>Elias Boutros Khalil</author>
+<author>Pierre Le Bodic</author>
+<author>Le Song</author>
+<author>George L. Nemhauser</author>
+<author>Bistra Dilkina</author>
+<title>Learning to Branch in Mixed Integer Programming.</title>
+<pages>724-731</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12514</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KhalilBSND16</url>
+</inproceedings>
+</dblp>

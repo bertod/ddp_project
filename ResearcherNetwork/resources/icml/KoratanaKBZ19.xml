@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KoratanaKBZ19" mdate="2019-06-11">
+<author>Animesh Koratana</author>
+<author>Daniel Kang</author>
+<author>Peter Bailis</author>
+<author>Matei Zaharia</author>
+<title>LIT: Learned Intermediate Representation Training for Model Compression.</title>
+<pages>3509-3518</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/koratana19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KoratanaKBZ19</url>
+</inproceedings></dblp>

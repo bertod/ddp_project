@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiGDVK19" mdate="2019-06-11">
+<author>Yujia Li</author>
+<author>Chenjie Gu</author>
+<author>Thomas Dullien</author>
+<author>Oriol Vinyals</author>
+<author>Pushmeet Kohli</author>
+<title>Graph Matching Networks for Learning the Similarity of Graph Structured Objects.</title>
+<pages>3835-3845</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiGDVK19</url>
+</inproceedings></dblp>

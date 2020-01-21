@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuklerLLM19" mdate="2019-08-19">
+<author>Yonatan Dukler</author>
+<author>Wuchen Li</author>
+<author>Alex Tong Lin</author>
+<author>Guido Mont&#250;far</author>
+<title>Wasserstein of Wasserstein Loss for Learning Generative Models.</title>
+<pages>1716-1725</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dukler19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DuklerLLM19</url>
+</inproceedings>
+</dblp>

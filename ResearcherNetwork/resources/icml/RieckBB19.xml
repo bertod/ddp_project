@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RieckBB19" mdate="2019-06-11">
+<author>Bastian Rieck</author>
+<author>Christian Bock</author>
+<author>Karsten M. Borgwardt</author>
+<title>A Persistent Weisfeiler-Lehman Procedure for Graph Classification.</title>
+<pages>5448-5458</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rieck19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RieckBB19</url>
+</inproceedings></dblp>

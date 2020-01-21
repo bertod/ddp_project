@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HouZCC16" mdate="2016-04-21">
+<author>Ming Hou</author>
+<author>Qibin Zhao</author>
+<author>Brahim Chaib-draa</author>
+<author>Andrzej Cichocki</author>
+<title>Common and Discriminative Subspace Kernel-Based Multiblock Tensor Partial Least Squares Regression.</title>
+<pages>1673-1679</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11927</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HouZCC16</url>
+</inproceedings>
+</dblp>

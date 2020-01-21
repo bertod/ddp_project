@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MannGGHJLS19" mdate="2019-07-17">
+<author>Timothy A. Mann</author>
+<author>Sven Gowal</author>
+<author>Andr&#225;s Gy&#246;rgy</author>
+<author>Huiyi Hu</author>
+<author>Ray Jiang</author>
+<author>Balaji Lakshminarayanan</author>
+<author>Prav Srinivasan</author>
+<title>Learning from Delayed Outcomes via Proxies with Applications to Recommender Systems.</title>
+<pages>4324-4332</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mann19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MannGGHJLS19</url>
+</inproceedings></dblp>

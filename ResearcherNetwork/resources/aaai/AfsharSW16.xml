@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AfsharSW16" mdate="2016-04-21">
+<author>Hadi Mohasel Afshar</author>
+<author>Scott Sanner</author>
+<author>Christfried Webers</author>
+<title>Closed-Form Gibbs Sampling for Graphical Models with Algebraic Constraints.</title>
+<pages>3287-3293</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12068</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#AfsharSW16</url>
+</inproceedings>
+</dblp>

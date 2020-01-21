@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangDKSS18" mdate="2018-10-22">
+<author>Yuyu Zhang</author>
+<author>Hanjun Dai</author>
+<author>Zornitsa Kozareva</author>
+<author>Alexander J. Smola</author>
+<author>Le Song</author>
+<title>Variational Reasoning for Question Answering With Knowledge Graph.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhangDKSS18</url>
+<pages>6069-6076</pages>
+</inproceedings></dblp>

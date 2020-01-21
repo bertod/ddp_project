@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhouZAGS18" mdate="2018-10-22">
+<author>Yuxun Zhou</author>
+<author>Han Zou</author>
+<author>Reza Arghandeh</author>
+<author>Weixi Gu</author>
+<author>Costas J. Spanos</author>
+<title>Non-Parametric Outliers Detection in Multiple Time Series A Case Study: Power Grid Data Analysis.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16315</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhouZAGS18</url>
+<pages>4605-4612</pages>
+</inproceedings></dblp>

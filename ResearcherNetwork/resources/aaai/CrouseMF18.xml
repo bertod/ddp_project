@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CrouseMF18" mdate="2018-10-22">
+<author>Maxwell Crouse</author>
+<author>Clifton James McFate</author>
+<author>Kenneth D. Forbus</author>
+<title>Learning From Unannotated QA Pairs to Analogically Disambiguate and Answer Questions.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16645</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#CrouseMF18</url>
+<pages>654-662</pages>
+</inproceedings></dblp>

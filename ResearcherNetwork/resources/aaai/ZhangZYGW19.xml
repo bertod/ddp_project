@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZYGW19" mdate="2019-09-25">
+<author>Hao Zhang</author>
+<author>Shuigeng Zhou</author>
+<author>Chuanxu Yan</author>
+<author>Jihong Guan</author>
+<author>Xin Wang</author>
+<title>Recursively Learning Causal Structures Using Regression-Based Conditional Independence Test.</title>
+<pages>3108-3115</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013108</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZYGW19</url>
+</inproceedings></dblp>

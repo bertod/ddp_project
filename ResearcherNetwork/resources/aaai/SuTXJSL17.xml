@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SuTXJSL17" mdate="2019-03-31">
+<author>Jinsong Su</author>
+<author>Zhixing Tan</author>
+<author>Deyi Xiong</author>
+<author>Rongrong Ji</author>
+<author>Xiaodong Shi</author>
+<author>Yang Liu 0005</author>
+<title>Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation.</title>
+<pages>3302-3308</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14320</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SuTXJSL17</url>
+</inproceedings>
+</dblp>

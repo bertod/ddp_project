@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BravermanJKW19" mdate="2019-06-11">
+<author>Vladimir Braverman</author>
+<author>Shaofeng H.-C. Jiang</author>
+<author>Robert Krauthgamer</author>
+<author>Xuan Wu</author>
+<title>Coresets for Ordered Weighted Clustering.</title>
+<pages>744-753</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/braverman19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BravermanJKW19</url>
+</inproceedings></dblp>

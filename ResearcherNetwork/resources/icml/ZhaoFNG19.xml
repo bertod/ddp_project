@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhaoFNG19" mdate="2019-06-11">
+<author>Sen Zhao</author>
+<author>Mahdi Milani Fard</author>
+<author>Harikrishna Narasimhan</author>
+<author>Maya R. Gupta</author>
+<title>Metric-Optimized Example Weights.</title>
+<pages>7533-7542</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhao19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhaoFNG19</url>
+</inproceedings></dblp>

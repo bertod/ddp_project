@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LouDI19" mdate="2019-09-25">
+<author>Qi Lou</author>
+<author>Rina Dechter</author>
+<author>Alexander T. Ihler</author>
+<title>Interleave Variational Optimization with Monte Carlo Sampling: A Tale of Two Approximate Inference Paradigms.</title>
+<pages>7900-7907</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017900</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LouDI19</url>
+</inproceedings></dblp>

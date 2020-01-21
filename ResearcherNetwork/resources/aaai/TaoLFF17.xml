@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TaoLFF17" mdate="2017-09-19">
+<author>Zhiqiang Tao</author>
+<author>Hongfu Liu</author>
+<author>Huazhu Fu</author>
+<author>Yun Fu 0001</author>
+<title>Image Cosegmentation via Saliency-Guided Constrained Clustering with Cosine Similarity.</title>
+<pages>4285-4291</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14331</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TaoLFF17</url>
+</inproceedings></dblp>

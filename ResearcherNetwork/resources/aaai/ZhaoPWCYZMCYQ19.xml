@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoPWCYZMCYQ19" mdate="2019-11-01">
+<author>Ji Zhao 0010</author>
+<author>Dan Peng</author>
+<author>Chuhan Wu</author>
+<author>Huan Chen</author>
+<author>Meiyu Yu</author>
+<author>Wanji Zheng</author>
+<author>Li Ma</author>
+<author>Hua Chai</author>
+<author>Jieping Ye</author>
+<author>Xiaohu Qie</author>
+<title>Incorporating Semantic Similarity with Geographic Correlation for Query-POI Relevance Learning.</title>
+<pages>1270-1277</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011270</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoPWCYZMCYQ19</url>
+</inproceedings>
+</dblp>

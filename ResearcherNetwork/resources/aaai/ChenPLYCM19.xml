@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenPLYCM19" mdate="2019-11-18">
+<author>Jingwen Chen</author>
+<author orcid="0000-0002-4344-8898">Yingwei Pan</author>
+<author>Yehao Li</author>
+<author>Ting Yao</author>
+<author>Hongyang Chao</author>
+<author>Tao Mei 0001</author>
+<title>Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning.</title>
+<pages>8167-8174</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018167</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenPLYCM19</url>
+</inproceedings></dblp>

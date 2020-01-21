@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WonXL19" mdate="2019-06-11">
+<author>Joong-Ho Won</author>
+<author>Jason Xu</author>
+<author>Kenneth Lange</author>
+<title>Projection onto Minkowski Sums with Application to Constrained Learning.</title>
+<pages>3642-3651</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lange19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WonXL19</url>
+</inproceedings></dblp>

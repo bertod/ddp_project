@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MartinDWSBLPLTX16" mdate="2016-04-21">
+<author>Daniel Martin</author>
+<author>Hongjian Ding</author>
+<author>Leihong Wu</author>
+<author>Howard Semey</author>
+<author>Amy Barnes</author>
+<author>Darryl Langley</author>
+<author>Su Inn Park</author>
+<author>Zhichao Liu</author>
+<author>Weida Tong</author>
+<author>Joshua Xu</author>
+<title>An Image Analysis Environment for Species Identification of Food Contaminating Beetles.</title>
+<pages>4375-4376</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12393</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MartinDWSBLPLTX16</url>
+</inproceedings>
+</dblp>

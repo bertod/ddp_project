@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NavaGCGG19" mdate="2019-12-27">
+<author orcid="0000-0002-3736-0419">Mirko Nava</author>
+<author>J&#233;r&#244;me Guzzi</author>
+<author>R. Omar Chavez-Garcia</author>
+<author>Luca Maria Gambardella</author>
+<author>Alessandro Giusti</author>
+<title>Demo: Learning to Perceive Long-Range Obstacles Using Self-Supervision from Short-Range Sensors.</title>
+<pages>9867-9868</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019867</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#NavaGCGG19</url>
+</inproceedings></dblp>

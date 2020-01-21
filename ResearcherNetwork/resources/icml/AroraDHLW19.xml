@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AroraDHLW19" mdate="2019-11-25">
+<author>Sanjeev Arora</author>
+<author>Simon S. Du</author>
+<author>Wei Hu</author>
+<author>Zhiyuan Li 0005</author>
+<author>Ruosong Wang</author>
+<title>Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks.</title>
+<pages>322-332</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/arora19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AroraDHLW19</url>
+</inproceedings></dblp>

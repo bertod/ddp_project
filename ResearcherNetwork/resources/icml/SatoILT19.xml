@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SatoILT19" mdate="2019-06-11">
+<author>Ikuro Sato</author>
+<author>Kohta Ishikawa</author>
+<author>Guoqing Liu</author>
+<author>Masayuki Tanaka</author>
+<title>Breaking Inter-Layer Co-Adaptation by Classifier Anonymization.</title>
+<pages>5619-5627</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/sato19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SatoILT19</url>
+</inproceedings></dblp>

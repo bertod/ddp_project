@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangPDX17" mdate="2017-03-06">
+<author>Wenya Wang</author>
+<author>Sinno Jialin Pan</author>
+<author>Daniel Dahlmeier</author>
+<author>Xiaokui Xiao</author>
+<title>Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.</title>
+<pages>3316-3322</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14441</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WangPDX17</url>
+</inproceedings>
+</dblp>

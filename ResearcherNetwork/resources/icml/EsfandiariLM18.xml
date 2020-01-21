@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EsfandiariLM18" mdate="2019-04-03">
+<author>Hossein Esfandiari</author>
+<author>Silvio Lattanzi</author>
+<author>Vahab S. Mirrokni</author>
+<title>Parallel and Streaming Algorithms for K-Core Decomposition.</title>
+<pages>1396-1405</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/esfandiari18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#EsfandiariLM18</url>
+</inproceedings>
+</dblp>

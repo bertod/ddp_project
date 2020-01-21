@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GhaffariLM19" mdate="2019-06-11">
+<author>Mohsen Ghaffari</author>
+<author>Silvio Lattanzi</author>
+<author>Slobodan Mitrovic</author>
+<title>Improved Parallel Algorithms for Density-Based Network Clustering.</title>
+<pages>2201-2210</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ghaffari19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GhaffariLM19</url>
+</inproceedings></dblp>

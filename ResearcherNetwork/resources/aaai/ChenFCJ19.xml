@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenFCJ19" mdate="2019-09-25">
+<author>Zitian Chen</author>
+<author>Yanwei Fu</author>
+<author>Kaiyu Chen</author>
+<author>Yu-Gang Jiang</author>
+<title>Image Block Augmentation for One-Shot Learning.</title>
+<pages>3379-3386</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013379</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenFCJ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YanXWBZZSWWC19" mdate="2019-09-25">
+<author>Ming Yan</author>
+<author>Jiangnan Xia</author>
+<author>Chen Wu</author>
+<author>Bin Bi</author>
+<author>Zhongzhou Zhao</author>
+<author>Ji Zhang</author>
+<author>Luo Si</author>
+<author>Rui Wang</author>
+<author>Wei Wang</author>
+<author>Haiqing Chen</author>
+<title>A Deep Cascade Model for Multi-Document Reading Comprehension.</title>
+<pages>7354-7361</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017354</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YanXWBZZSWWC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuHWWL19" mdate="2019-12-28">
+<author>Chang Xu</author>
+<author>Weiran Huang 0001</author>
+<author>Hongwei Wang</author>
+<author>Gang Wang</author>
+<author>Tie-Yan Liu</author>
+<title>Modeling Local Dependence in Natural Language with Multi-Channel Recurrent Neural Networks.</title>
+<pages>5525-5532</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015525</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuHWWL19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Zhong0YLN19" mdate="2019-09-25">
+<author>Weichan Zhong</author>
+<author>Xiaojun Chen 0006</author>
+<author>Guowen Yuan</author>
+<author>Yiqin Li</author>
+<author>Feiping Nie</author>
+<title>Semi-Supervised Feature Selection with Adaptive Discriminant Analysis.</title>
+<pages>10083-10084</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110083</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Zhong0YLN19</url>
+</inproceedings></dblp>

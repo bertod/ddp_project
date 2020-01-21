@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JingSDPSLTS17" mdate="2019-04-03">
+<author>Li Jing</author>
+<author>Yichen Shen</author>
+<author>Tena Dubcek</author>
+<author>John Peurifoy</author>
+<author>Scott A. Skirlo</author>
+<author>Yann LeCun</author>
+<author>Max Tegmark</author>
+<author>Marin Soljacic</author>
+<title>Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs.</title>
+<pages>1733-1741</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/jing17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#JingSDPSLTS17</url>
+</inproceedings>
+</dblp>

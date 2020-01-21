@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GoldsteinS17" mdate="2019-04-03">
+<author>Tom Goldstein</author>
+<author>Christoph Studer</author>
+<title>Convex Phase Retrieval without Lifting via PhaseMax.</title>
+<pages>1273-1281</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/goldstein17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#GoldsteinS17</url>
+</inproceedings>
+</dblp>

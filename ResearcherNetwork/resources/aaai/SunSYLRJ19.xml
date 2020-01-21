@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SunSYLRJ19" mdate="2019-09-25">
+<author>Qigong Sun</author>
+<author>Fanhua Shang</author>
+<author>Kang Yang</author>
+<author>Xiufang Li</author>
+<author>Yan Ren</author>
+<author>Licheng Jiao</author>
+<title>Multi-Precision Quantized Neural Networks via Encoding Decomposition of {-1, +1}.</title>
+<pages>5024-5032</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015024</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SunSYLRJ19</url>
+</inproceedings></dblp>

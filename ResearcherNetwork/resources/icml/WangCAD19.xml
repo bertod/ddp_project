@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangCAD19" mdate="2019-06-11">
+<author>Ruohan Wang</author>
+<author>Carlo Ciliberto</author>
+<author>Pierluigi Vito Amadori</author>
+<author>Yiannis Demiris</author>
+<title>Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation.</title>
+<pages>6536-6544</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangCAD19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeiYWLX17" mdate="2020-01-03">
+<author>Zhixian Lei</author>
+<author>Xuehan Ye</author>
+<author>Yongcai Wang</author>
+<author>Deying Li 0001</author>
+<author>Jia Xu</author>
+<title>Efficient Online Model Adaptation by Incremental Simplex Tableau.</title>
+<pages>2161-2167</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14343</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LeiYWLX17</url>
+</inproceedings>
+</dblp>

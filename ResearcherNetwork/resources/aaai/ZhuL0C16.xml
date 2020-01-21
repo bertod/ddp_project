@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuL0C16" mdate="2019-07-09">
+<author>Han Zhu</author>
+<author>Mingsheng Long</author>
+<author>Jianmin Wang 0001</author>
+<author>Yue Cao 0001</author>
+<title>Deep Hashing Network for Efficient Similarity Retrieval.</title>
+<pages>2415-2421</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12039</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhuL0C16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZheQPXMC16" mdate="2016-04-21">
+<author>Shandian Zhe</author>
+<author>Yuan Qi</author>
+<author>Youngja Park</author>
+<author>Zenglin Xu</author>
+<author>Ian Molloy</author>
+<author>Suresh Chari</author>
+<title>DinTucker: Scaling Up Gaussian Process Models on Large Multidimensional Arrays.</title>
+<pages>2386-2392</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11959</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZheQPXMC16</url>
+</inproceedings>
+</dblp>

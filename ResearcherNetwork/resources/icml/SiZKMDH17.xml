@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SiZKMDH17" mdate="2019-08-31">
+<author>Si Si</author>
+<author>Huan Zhang 0001</author>
+<author>S. Sathiya Keerthi</author>
+<author>Dhruv Mahajan</author>
+<author>Inderjit S. Dhillon</author>
+<author>Cho-Jui Hsieh</author>
+<title>Gradient Boosted Decision Trees for High Dimensional Sparse Output.</title>
+<pages>3182-3190</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/si17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SiZKMDH17</url>
+</inproceedings>
+</dblp>

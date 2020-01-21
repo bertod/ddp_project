@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XingNL19" mdate="2019-06-11">
+<author>Hanwen Xing</author>
+<author>Geoff Nicholls</author>
+<author>Jeong Lee</author>
+<title>Calibrated Approximate Bayesian Inference.</title>
+<pages>6912-6920</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xing19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XingNL19</url>
+</inproceedings></dblp>

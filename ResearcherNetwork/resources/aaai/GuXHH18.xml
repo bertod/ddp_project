@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuXHH18" mdate="2018-10-22">
+<author>Bin Gu</author>
+<author>Miao Xin</author>
+<author>Zhouyuan Huo</author>
+<author>Heng Huang</author>
+<title>Asynchronous Doubly Stochastic Sparse Kernel Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17249</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GuXHH18</url>
+<pages>3085-3092</pages>
+</inproceedings></dblp>

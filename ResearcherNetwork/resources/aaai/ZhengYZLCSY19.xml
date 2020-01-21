@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhengYZLCSY19" mdate="2019-09-25">
+<author>Zhuobin Zheng</author>
+<author>Chun Yuan</author>
+<author>Xinrui Zhu</author>
+<author>Zhihui Lin</author>
+<author>Yangyang Cheng</author>
+<author>Cheng Shi</author>
+<author>Jiahui Ye</author>
+<title>Self-Supervised Mixture-of-Experts by Uncertainty Estimation.</title>
+<pages>5933-5940</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015933</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhengYZLCSY19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiDMMHH19" mdate="2019-06-11">
+<author>Huai-Yu Li</author>
+<author>Weiming Dong</author>
+<author>Xing Mei</author>
+<author>Chongyang Ma</author>
+<author>Feiyue Huang</author>
+<author>Bao-Gang Hu</author>
+<title>LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning.</title>
+<pages>3825-3834</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiDMMHH19</url>
+</inproceedings></dblp>

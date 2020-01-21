@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuZWCSWW18" mdate="2019-12-06">
+<author>Yuhang Lu</author>
+<author>Jun Zhou</author>
+<author>Jing Wang</author>
+<author>Jun Chen</author>
+<author>Karen Smith</author>
+<author>Colin Wilder</author>
+<author>Song Wang 0002</author>
+<title>Curve-Structure Segmentation From Depth Maps: A CNN-Based Approach and Its Application to Exploring Cultural Heritage Objects.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16866</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LuZWCSWW18</url>
+<pages>7235-7242</pages>
+</inproceedings></dblp>

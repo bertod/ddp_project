@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/QuBT19" mdate="2020-01-02">
+<author>Meng Qu</author>
+<author>Yoshua Bengio</author>
+<author>Jian Tang 0005</author>
+<title>GMNN: Graph Markov Neural Networks.</title>
+<pages>5241-5250</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/qu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#QuBT19</url>
+</inproceedings>
+</dblp>

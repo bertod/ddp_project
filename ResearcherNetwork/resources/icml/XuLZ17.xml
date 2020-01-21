@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XuLZ17" mdate="2019-04-03">
+<author>Hongteng Xu</author>
+<author>Dixin Luo</author>
+<author>Hongyuan Zha</author>
+<title>Learning Hawkes Processes from Short Doubly-Censored Event Sequences.</title>
+<pages>3831-3840</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/xu17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#XuLZ17</url>
+</inproceedings>
+</dblp>

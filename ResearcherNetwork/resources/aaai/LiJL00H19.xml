@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiJL00H19" mdate="2019-12-27">
+<author>Jingjing Li</author>
+<author>Mengmeng Jing</author>
+<author>Ke Lu</author>
+<author orcid="0000-0002-2993-7142">Lei Zhu 0002</author>
+<author>Yang Yang 0002</author>
+<author>Zi Huang</author>
+<title>From Zero-Shot Learning to Cold-Start Recommendation.</title>
+<pages>4189-4196</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014189</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiJL00H19</url>
+</inproceedings></dblp>

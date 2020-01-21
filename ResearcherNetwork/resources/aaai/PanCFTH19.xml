@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PanCFTH19" mdate="2019-09-25">
+<author>Ling Pan</author>
+<author>Qingpeng Cai</author>
+<author>Zhixuan Fang</author>
+<author>Pingzhong Tang</author>
+<author>Longbo Huang</author>
+<title>A Deep Reinforcement Learning Framework for Rebalancing Dockless Bike Sharing Systems.</title>
+<pages>1393-1400</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011393</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PanCFTH19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoZYLK16" mdate="2016-04-21">
+<author>Shenglin Zhao</author>
+<author>Tong Zhao</author>
+<author>Haiqin Yang</author>
+<author>Michael R. Lyu</author>
+<author>Irwin King</author>
+<title>STELLAR: Spatial-Temporal Latent Ranking for Successive Point-of-Interest Recommendation.</title>
+<pages>315-322</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12249</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhaoZYLK16</url>
+</inproceedings>
+</dblp>

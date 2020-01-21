@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ScharpffROSW16" mdate="2016-04-22">
+<author>Joris Scharpff</author>
+<author>Diederik M. Roijers</author>
+<author>Frans A. Oliehoek</author>
+<author>Matthijs T. J. Spaan</author>
+<author>Mathijs Michiel de Weerdt</author>
+<title>Solving Transition-Independent Multi-Agent MDPs with Sparse Interactions.</title>
+<pages>3174-3180</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12281</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ScharpffROSW16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangWCLPL019" mdate="2019-09-25">
+<author>Malu Zhang</author>
+<author>Jibin Wu</author>
+<author>Yansong Chua</author>
+<author>Xiaoling Luo</author>
+<author>Zihan Pan</author>
+<author>Dan Liu</author>
+<author>Haizhou Li 0001</author>
+<title>MPD-AL: An Efficient Membrane Potential Driven Aggregate-Label Learning Algorithm for Spiking Neurons.</title>
+<pages>1327-1334</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011327</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangWCLPL019</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/McKennaSM19" mdate="2019-06-11">
+<author>Ryan McKenna</author>
+<author>Daniel Sheldon</author>
+<author>Gerome Miklau</author>
+<title>Graphical-model based estimation and inference for differential privacy.</title>
+<pages>4435-4444</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mckenna19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#McKennaSM19</url>
+</inproceedings></dblp>

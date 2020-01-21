@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MasegosaNLRSM17" mdate="2019-04-03">
+<author>Andr&#233;s R. Masegosa</author>
+<author>Thomas D. Nielsen</author>
+<author>Helge Langseth</author>
+<author>Dar&#237;o Ramos-L&#243;pez</author>
+<author>Antonio Salmer&#243;n</author>
+<author>Anders L. Madsen</author>
+<title>Bayesian Models of Data Streams with Hierarchical Power Priors.</title>
+<pages>2334-2343</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/masegosa17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MasegosaNLRSM17</url>
+</inproceedings>
+</dblp>

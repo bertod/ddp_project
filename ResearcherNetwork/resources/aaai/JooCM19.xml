@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JooCM19" mdate="2019-09-25">
+<author>Sunghwan Joo</author>
+<author>Sungmin Cha</author>
+<author>Taesup Moon</author>
+<title>DoPAMINE: Double-Sided Masked CNN for Pixel Adaptive Multiplicative Noise Despeckling.</title>
+<pages>4031-4038</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014031</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JooCM19</url>
+</inproceedings></dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FangZJZWZF19" mdate="2019-10-14">
+<author>Kuncheng Fang</author>
+<author>Lian Zhou</author>
+<author>Cheng Jin</author>
+<author>Yuejie Zhang</author>
+<author>Kangnian Weng</author>
+<author>Tao Zhang 0022</author>
+<author>Weiguo Fan</author>
+<title>Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention.</title>
+<pages>8271-8278</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018271</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FangZJZWZF19</url>
+</inproceedings>
+</dblp>

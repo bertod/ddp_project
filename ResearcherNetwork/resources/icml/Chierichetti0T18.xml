@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Chierichetti0T18" mdate="2019-04-03">
+<author>Flavio Chierichetti</author>
+<author>Ravi Kumar 0001</author>
+<author>Andrew Tomkins</author>
+<title>Learning a Mixture of Two Multinomial Logits.</title>
+<pages>960-968</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chierichetti18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Chierichetti0T18</url>
+</inproceedings>
+</dblp>

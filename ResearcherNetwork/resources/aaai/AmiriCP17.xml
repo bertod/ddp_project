@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AmiriCP17" mdate="2017-03-06">
+<author>Sorour E. Amiri</author>
+<author>Liangzhe Chen</author>
+<author>B. Aditya Prakash</author>
+<title>SnapNETS: Automatic Segmentation of Network Sequences with Node Labels.</title>
+<pages>3-9</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14553</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#AmiriCP17</url>
+</inproceedings>
+</dblp>

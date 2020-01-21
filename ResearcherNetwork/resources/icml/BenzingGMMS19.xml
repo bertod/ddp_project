@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BenzingGMMS19" mdate="2019-06-11">
+<author>Frederik Benzing</author>
+<author>Marcelo Matheus Gauy</author>
+<author>Asier Mujika</author>
+<author>Anders Martinsson</author>
+<author>Angelika Steger</author>
+<title>Optimal Kronecker-Sum Approximation of Real Time Recurrent Learning.</title>
+<pages>604-613</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/benzing19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BenzingGMMS19</url>
+</inproceedings></dblp>

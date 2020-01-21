@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RouletDSH19" mdate="2019-07-24">
+<author>Vincent Roulet</author>
+<author>Dmitriy Drusvyatskiy</author>
+<author>Siddhartha S. Srinivasa</author>
+<author>Za&#239;d Harchaoui</author>
+<title>Iterative Linearized Control: Stable Algorithms and Complexity Guarantees.</title>
+<pages>5518-5527</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/roulet19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RouletDSH19</url>
+</inproceedings></dblp>

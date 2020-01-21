@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DabneyOSM18" mdate="2019-04-03">
+<author>Will Dabney</author>
+<author>Georg Ostrovski</author>
+<author>David Silver</author>
+<author>R&#233;mi Munos</author>
+<title>Implicit Quantile Networks for Distributional Reinforcement Learning.</title>
+<pages>1104-1113</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/dabney18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DabneyOSM18</url>
+</inproceedings>
+</dblp>

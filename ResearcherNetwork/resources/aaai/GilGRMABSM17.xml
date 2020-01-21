@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GilGRMABSM17" mdate="2017-03-06">
+<author>Yolanda Gil</author>
+<author>Daniel Garijo</author>
+<author>Varun Ratnakar</author>
+<author>Rajiv Mayani</author>
+<author>Ravali Adusumilli</author>
+<author>Hunter Boyce</author>
+<author>Arunima Srivastava</author>
+<author>Parag Mallick</author>
+<title>Towards Continuous Scientific Data Analysis and Hypothesis Evolution.</title>
+<pages>4406-4414</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14839</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GilGRMABSM17</url>
+</inproceedings>
+</dblp>

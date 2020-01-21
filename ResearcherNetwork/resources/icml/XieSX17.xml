@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XieSX17" mdate="2019-04-03">
+<author>Pengtao Xie</author>
+<author>Aarti Singh</author>
+<author>Eric P. Xing</author>
+<title>Uncorrelation and Evenness: a New Diversity-Promoting Regularizer.</title>
+<pages>3811-3820</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/xie17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#XieSX17</url>
+</inproceedings>
+</dblp>

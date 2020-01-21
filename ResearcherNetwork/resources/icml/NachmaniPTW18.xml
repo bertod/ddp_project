@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NachmaniPTW18" mdate="2019-04-03">
+<author>Eliya Nachmani</author>
+<author>Adam Polyak</author>
+<author>Yaniv Taigman</author>
+<author>Lior Wolf</author>
+<title>Fitting New Speakers Based on a Short Untranscribed Sample.</title>
+<pages>3680-3688</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/nachmani18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#NachmaniPTW18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KuninBGS19" mdate="2019-06-11">
+<author>Daniel Kunin</author>
+<author>Jonathan M. Bloom</author>
+<author>Aleksandrina Goeva</author>
+<author>Cotton Seed</author>
+<title>Loss Landscapes of Regularized Linear Autoencoders.</title>
+<pages>3560-3569</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kunin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KuninBGS19</url>
+</inproceedings></dblp>

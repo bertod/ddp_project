@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LaiFYWXZ19" mdate="2019-10-19">
+<author>Yuxuan Lai</author>
+<author>Yansong Feng</author>
+<author>Xiaohan Yu</author>
+<author orcid="0000-0001-6157-0662">Zheng Wang 0001</author>
+<author>Kun Xu</author>
+<author>Dongyan Zhao 0001</author>
+<title>Lattice CNNs for Matching Based Chinese Question Answering.</title>
+<pages>6634-6641</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016634</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LaiFYWXZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TuLSLL17" mdate="2019-03-31">
+<author>Zhaopeng Tu</author>
+<author>Yang Liu 0005</author>
+<author>Lifeng Shang</author>
+<author>Xiaohua Liu</author>
+<author>Hang Li 0001</author>
+<title>Neural Machine Translation with Reconstruction.</title>
+<pages>3097-3103</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14161</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TuLSLL17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangLLMXZXW17" mdate="2018-06-06">
+<author>Kai Yang</author>
+<author>Xiang Li 0013</author>
+<author>Haifeng Liu</author>
+<author>Jing Mei</author>
+<author>Guo Tong Xie</author>
+<author>Junfeng Zhao</author>
+<author>Bing Xie</author>
+<author>Fei Wang 0001</author>
+<title>TaGiTeD: Predictive Task Guided Tensor Decomposition for Representation Learning from Electronic Health Records.</title>
+<pages>2824-2830</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14626</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YangLLMXZXW17</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangXS17" mdate="2018-07-04">
+<author>Biao Zhang 0002</author>
+<author>Deyi Xiong</author>
+<author>Jinsong Su</author>
+<title>BattRAE: Bidimensional Attention-Based Recursive Autoencoders for Learning Bilingual Phrase Embeddings.</title>
+<pages>3372-3378</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14322</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangXS17</url>
+</inproceedings></dblp>

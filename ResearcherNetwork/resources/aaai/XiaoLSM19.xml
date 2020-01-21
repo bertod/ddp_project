@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaoLSM19" mdate="2019-09-25">
+<author>Teng Xiao</author>
+<author>Shangsong Liang</author>
+<author>Weizhou Shen</author>
+<author>Zaiqiao Meng</author>
+<title>Bayesian Deep Collaborative Matrix Factorization.</title>
+<pages>5474-5481</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015474</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XiaoLSM19</url>
+</inproceedings></dblp>

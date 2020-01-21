@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YoshikawaMNB19" mdate="2019-09-25">
+<author>Masashi Yoshikawa</author>
+<author>Koji Mineshima</author>
+<author>Hiroshi Noji</author>
+<author>Daisuke Bekki</author>
+<title>Combining Axiom Injection and Knowledge Base Completion for Efficient Natural Language Inference.</title>
+<pages>7410-7417</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017410</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YoshikawaMNB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CarralGK19" mdate="2019-09-25">
+<author>David Carral</author>
+<author>Larry Gonz&#225;lez</author>
+<author>Patrick Koopmann</author>
+<title>From Horn-SRIQ to Datalog: A Data-Independent Transformation That Preserves Assertion Entailment.</title>
+<pages>2736-2743</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012736</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CarralGK19</url>
+</inproceedings></dblp>

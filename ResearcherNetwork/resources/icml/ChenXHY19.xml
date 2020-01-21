@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenXHY19" mdate="2019-06-11">
+<author>Zaiyi Chen</author>
+<author>Yi Xu</author>
+<author>Haoyuan Hu</author>
+<author>Tianbao Yang</author>
+<title>Katalyst: Boosting Convex Katayusha for Non-Convex Problems with a Large Condition Number.</title>
+<pages>1102-1111</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19k.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenXHY19</url>
+</inproceedings></dblp>

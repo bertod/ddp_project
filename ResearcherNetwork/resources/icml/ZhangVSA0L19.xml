@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangVSA0L19" mdate="2019-06-11">
+<author>Marvin Zhang</author>
+<author>Sharad Vikram</author>
+<author>Laura Smith</author>
+<author>Pieter Abbeel</author>
+<author>Matthew J. Johnson 0002</author>
+<author>Sergey Levine</author>
+<title>SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning.</title>
+<pages>7444-7453</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19m.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangVSA0L19</url>
+</inproceedings></dblp>

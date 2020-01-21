@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BapstSDSKBH19" mdate="2019-07-24">
+<author>Victor Bapst</author>
+<author>Alvaro Sanchez-Gonzalez</author>
+<author>Carl Doersch</author>
+<author>Kimberly L. Stachenfeld</author>
+<author>Pushmeet Kohli</author>
+<author>Peter W. Battaglia</author>
+<author>Jessica B. Hamrick</author>
+<title>Structured agents for physical construction.</title>
+<pages>464-474</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bapst19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BapstSDSKBH19</url>
+</inproceedings></dblp>

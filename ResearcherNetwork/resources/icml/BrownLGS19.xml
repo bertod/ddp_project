@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BrownLGS19" mdate="2019-06-11">
+<author>Noam Brown</author>
+<author>Adam Lerer</author>
+<author>Sam Gross</author>
+<author>Tuomas Sandholm</author>
+<title>Deep Counterfactual Regret Minimization.</title>
+<pages>793-802</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/brown19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BrownLGS19</url>
+</inproceedings></dblp>

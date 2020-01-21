@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SlimCAV19" mdate="2019-06-11">
+<author>Lotfi Slim</author>
+<author>Cl&#233;ment Chatelain 0002</author>
+<author>Chlo&#233;-Agathe Azencott</author>
+<author>Jean-Philippe Vert</author>
+<title>kernelPSI: a Post-Selection Inference Framework for Nonlinear Variable Selection.</title>
+<pages>5857-5865</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/slim19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SlimCAV19</url>
+</inproceedings>
+</dblp>

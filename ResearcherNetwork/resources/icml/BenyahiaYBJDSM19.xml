@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BenyahiaYBJDSM19" mdate="2019-06-11">
+<author>Yassine Benyahia</author>
+<author>Kaicheng Yu</author>
+<author>Kamil Bennani-Smires</author>
+<author>Martin Jaggi</author>
+<author>Anthony C. Davison</author>
+<author>Mathieu Salzmann</author>
+<author>Claudiu Musat</author>
+<title>Overcoming Multi-model Forgetting.</title>
+<pages>594-603</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/benyahia19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BenyahiaYBJDSM19</url>
+</inproceedings></dblp>

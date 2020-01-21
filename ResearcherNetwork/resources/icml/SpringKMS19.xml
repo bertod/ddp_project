@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SpringKMS19" mdate="2019-06-11">
+<author>Ryan Spring</author>
+<author>Anastasios Kyrillidis</author>
+<author>Vijai Mohan</author>
+<author>Anshumali Shrivastava</author>
+<title>Compressing Gradient Optimizers via Count-Sketches.</title>
+<pages>5946-5955</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/spring19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SpringKMS19</url>
+</inproceedings></dblp>

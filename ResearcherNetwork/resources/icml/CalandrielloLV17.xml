@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CalandrielloLV17" mdate="2019-04-03">
+<author>Daniele Calandriello</author>
+<author>Alessandro Lazaric</author>
+<author>Michal Valko</author>
+<title>Second-Order Kernel Online Convex Optimization with Adaptive Sketching.</title>
+<pages>645-653</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/calandriello17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#CalandrielloLV17</url>
+</inproceedings>
+</dblp>

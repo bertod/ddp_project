@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MemoliSW19" mdate="2019-06-11">
+<author>Facundo M&#233;moli</author>
+<author>Zane T. Smith</author>
+<author>Zhengchao Wan</author>
+<title>The Wasserstein Transform.</title>
+<pages>4496-4504</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/memoli19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MemoliSW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YaoW0T019" mdate="2019-09-25">
+<author>Jiangchao Yao</author>
+<author>Hao Wu</author>
+<author>Ya Zhang 0002</author>
+<author>Ivor W. Tsang</author>
+<author>Jun Sun 0005</author>
+<title>Safeguarded Dynamic Label Regression for Noisy Supervision.</title>
+<pages>9103-9110</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019103</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YaoW0T019</url>
+</inproceedings></dblp>

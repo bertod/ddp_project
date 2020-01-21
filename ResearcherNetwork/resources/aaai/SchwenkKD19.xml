@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SchwenkKD19" mdate="2019-09-25">
+<author>Holger Schwenk</author>
+<author>Douwe Kiela</author>
+<author>Matthijs Douze</author>
+<title>Analysis of Joint Multilingual Sentence Representations and Semantic K-Nearest Neighbor Graphs.</title>
+<pages>6982-6990</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016982</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SchwenkKD19</url>
+</inproceedings></dblp>

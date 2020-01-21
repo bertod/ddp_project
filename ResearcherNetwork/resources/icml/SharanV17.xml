@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SharanV17" mdate="2019-04-03">
+<author>Vatsal Sharan</author>
+<author>Gregory Valiant</author>
+<title>Orthogonalized ALS: A Theoretically Principled Tensor Decomposition Algorithm for Practical Use.</title>
+<pages>3095-3104</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/sharan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SharanV17</url>
+</inproceedings>
+</dblp>

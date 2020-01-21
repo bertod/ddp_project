@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AminKMV19" mdate="2019-06-11">
+<author>Kareem Amin</author>
+<author>Alex Kulesza</author>
+<author>Andres Mu&#241;oz Medina</author>
+<author>Sergei Vassilvitskii</author>
+<title>Bounding User Contributions: A Bias-Variance Trade-off in Differential Privacy.</title>
+<pages>263-271</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/amin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AminKMV19</url>
+</inproceedings></dblp>

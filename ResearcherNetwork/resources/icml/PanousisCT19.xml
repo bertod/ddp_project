@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PanousisCT19" mdate="2019-06-11">
+<author>Konstantinos P. Panousis</author>
+<author>Sotirios Chatzis</author>
+<author>Sergios Theodoridis</author>
+<title>Nonparametric Bayesian Deep Networks with Local Competition.</title>
+<pages>4980-4988</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/panousis19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PanousisCT19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RoCJHL019" mdate="2019-09-25">
+<author>Youngmin Ro</author>
+<author>Jongwon Choi</author>
+<author>Dae Ung Jo</author>
+<author>Byeongho Heo</author>
+<author>Jongin Lim</author>
+<author>Jin Young Choi 0002</author>
+<title>Backbone Cannot Be Trained at Once: Rolling Back to Pre-Trained Network for Person Re-Identification.</title>
+<pages>8859-8867</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018859</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RoCJHL019</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SongHGXS18" mdate="2020-01-17">
+<author>Jingkuan Song</author>
+<author>Tao He</author>
+<author>Lianli Gao</author>
+<author>Xing Xu 0001</author>
+<author>Heng Tao Shen</author>
+<title>Deep Region Hashing for Generic Instance Search from Images.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17160</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SongHGXS18</url>
+<pages>402-409</pages>
+</inproceedings>
+</dblp>

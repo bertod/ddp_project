@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SrivastavaBS19" mdate="2019-09-25">
+<author>Amber Srivastava</author>
+<author>Mayank Baranwal</author>
+<author>Srinivasa M. Salapaka</author>
+<title>On the Persistence of Clustering Solutions and True Number of Clusters in a Dataset.</title>
+<pages>5000-5007</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015000</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SrivastavaBS19</url>
+</inproceedings></dblp>

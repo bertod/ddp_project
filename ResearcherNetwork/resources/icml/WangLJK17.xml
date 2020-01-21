@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangLJK17" mdate="2019-04-03">
+<author>Zi Wang</author>
+<author>Chengtao Li</author>
+<author>Stefanie Jegelka</author>
+<author>Pushmeet Kohli</author>
+<title>Batched High-dimensional Bayesian Optimization via Structural Kernel Learning.</title>
+<pages>3656-3664</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17h.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangLJK17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YadavKMM19" mdate="2019-06-11">
+<author>Nishant Yadav</author>
+<author>Ari Kobren</author>
+<author>Nicholas Monath</author>
+<author>Andrew McCallum</author>
+<title>Supervised Hierarchical Clustering with Exponential Linkage.</title>
+<pages>6973-6983</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yadav19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YadavKMM19</url>
+</inproceedings></dblp>

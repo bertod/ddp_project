@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GongHLQWL19" mdate="2019-09-24">
+<author>Linyuan Gong</author>
+<author>Di He</author>
+<author>Zhuohan Li</author>
+<author>Tao Qin</author>
+<author>Liwei Wang 0001</author>
+<author>Tie-Yan Liu</author>
+<title>Efficient Training of BERT by Progressively Stacking.</title>
+<pages>2337-2346</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gong19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GongHLQWL19</url>
+</inproceedings></dblp>

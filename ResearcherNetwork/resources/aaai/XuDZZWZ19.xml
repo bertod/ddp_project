@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuDZZWZ19" mdate="2019-12-20">
+<author>Yonghao Xu</author>
+<author>Bo Du</author>
+<author>Lefei Zhang</author>
+<author>Qian Zhang 0009</author>
+<author>Guoli Wang</author>
+<author>Liangpei Zhang</author>
+<title>Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation.</title>
+<pages>5581-5588</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015581</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuDZZWZ19</url>
+</inproceedings>
+</dblp>

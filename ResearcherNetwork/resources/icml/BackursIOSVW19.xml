@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BackursIOSVW19" mdate="2019-06-11">
+<author>Arturs Backurs</author>
+<author>Piotr Indyk</author>
+<author>Krzysztof Onak</author>
+<author>Baruch Schieber</author>
+<author>Ali Vakilian</author>
+<author>Tal Wagner</author>
+<title>Scalable Fair Clustering.</title>
+<pages>405-413</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/backurs19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BackursIOSVW19</url>
+</inproceedings></dblp>

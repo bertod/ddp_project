@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0008TO19" mdate="2019-06-11">
+<author>Ryota Suzuki 0008</author>
+<author>Ryusuke Takahama</author>
+<author>Shun Onoda</author>
+<title>Hyperbolic Disk Embeddings for Directed Acyclic Graphs.</title>
+<pages>6066-6075</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/suzuki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#0008TO19</url>
+</inproceedings></dblp>

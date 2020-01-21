@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiZKXZ19" mdate="2019-12-05">
+<author>Youru Li</author>
+<author>Zhenfeng Zhu</author>
+<author>Deqiang Kong</author>
+<author>Meixiang Xu</author>
+<author>Yao Zhao 0001</author>
+<title>Learning Heterogeneous Spatial-Temporal Representation for Bike-Sharing Demand Prediction.</title>
+<pages>1004-1011</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011004</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiZKXZ19</url>
+</inproceedings></dblp>

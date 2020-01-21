@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0002LA19" mdate="2019-06-11">
+<author>Tian Guo 0002</author>
+<author>Tao Lin</author>
+<author>Nino Antulov-Fantulin</author>
+<title>Exploring interpretable LSTM neural networks over multi-variable data.</title>
+<pages>2494-2504</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/guo19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#0002LA19</url>
+</inproceedings></dblp>

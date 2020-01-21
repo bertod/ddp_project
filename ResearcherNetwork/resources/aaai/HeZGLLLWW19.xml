@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeZGLLLWW19" mdate="2019-11-29">
+<author>Dongliang He</author>
+<author>Zhichao Zhou</author>
+<author>Chuang Gan</author>
+<author>Fu Li</author>
+<author>Xiao Liu 0022</author>
+<author>Yandong Li</author>
+<author>Limin Wang 0002</author>
+<author>Shilei Wen</author>
+<title>StNet: Local and Global Spatial-Temporal Modeling for Action Recognition.</title>
+<pages>8401-8408</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018401</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HeZGLLLWW19</url>
+</inproceedings>
+</dblp>

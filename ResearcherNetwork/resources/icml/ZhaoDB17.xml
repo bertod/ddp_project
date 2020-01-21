@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhaoDB17" mdate="2019-04-03">
+<author>He Zhao</author>
+<author>Lan Du</author>
+<author>Wray L. Buntine</author>
+<title>Leveraging Node Attributes for Incomplete Relational Data.</title>
+<pages>4072-4081</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zhao17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZhaoDB17</url>
+</inproceedings>
+</dblp>

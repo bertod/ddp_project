@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FarinaKBS19" mdate="2019-06-11">
+<author>Gabriele Farina</author>
+<author>Christian Kroer</author>
+<author>Noam Brown</author>
+<author>Tuomas Sandholm</author>
+<title>Stable-Predictive Optimistic Counterfactual Regret Minimization.</title>
+<pages>1853-1862</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/farina19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FarinaKBS19</url>
+</inproceedings></dblp>

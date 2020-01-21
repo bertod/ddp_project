@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HavivRB19" mdate="2019-06-11">
+<author>Doron Haviv</author>
+<author>Alexander Rivkind</author>
+<author>Omri Barak</author>
+<title>Understanding and Controlling Memory in Recurrent Neural Networks.</title>
+<pages>2663-2671</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/haviv19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HavivRB19</url>
+</inproceedings></dblp>

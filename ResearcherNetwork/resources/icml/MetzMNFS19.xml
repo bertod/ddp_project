@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MetzMNFS19" mdate="2019-06-11">
+<author>Luke Metz</author>
+<author>Niru Maheswaranathan</author>
+<author>Jeremy Nixon</author>
+<author>C. Daniel Freeman</author>
+<author>Jascha Sohl-Dickstein</author>
+<title>Understanding and correcting pathologies in the training of learned optimizers.</title>
+<pages>4556-4565</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/metz19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MetzMNFS19</url>
+</inproceedings></dblp>

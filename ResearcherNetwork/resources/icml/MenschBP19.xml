@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MenschBP19" mdate="2019-06-11">
+<author>Arthur Mensch</author>
+<author>Mathieu Blondel</author>
+<author>Gabriel Peyr&#233;</author>
+<title>Geometric Losses for Distributional Learning.</title>
+<pages>4516-4525</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mensch19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MenschBP19</url>
+</inproceedings></dblp>

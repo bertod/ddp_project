@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SharanTBV19" mdate="2019-06-11">
+<author>Vatsal Sharan</author>
+<author>Kai Sheng Tai</author>
+<author>Peter Bailis</author>
+<author>Gregory Valiant</author>
+<title>Compressed Factorization: Fast and Accurate Low-Rank Factorization of Compressively-Sensed Data.</title>
+<pages>5690-5700</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/sharan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SharanTBV19</url>
+</inproceedings></dblp>

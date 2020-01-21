@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CarloBP19" mdate="2019-12-27">
+<author>Valerio Di Carlo</author>
+<author orcid="0000-0003-0776-361X">Federico Bianchi</author>
+<author>Matteo Palmonari</author>
+<title>Training Temporal Word Embeddings with a Compass.</title>
+<pages>6326-6334</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016326</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CarloBP19</url>
+</inproceedings></dblp>

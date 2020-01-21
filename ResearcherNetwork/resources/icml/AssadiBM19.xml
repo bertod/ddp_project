@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AssadiBM19" mdate="2019-08-12">
+<author>Sepehr Assadi</author>
+<author>MohammadHossein Bateni</author>
+<author>Vahab S. Mirrokni</author>
+<title>Distributed Weighted Matching via Randomized Composable Coresets.</title>
+<pages>333-343</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/assadi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AssadiBM19</url>
+</inproceedings></dblp>

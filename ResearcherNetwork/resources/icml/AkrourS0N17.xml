@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AkrourS0N17" mdate="2019-04-03">
+<author>Riad Akrour</author>
+<author>Dmitry Sorokin</author>
+<author>Jan Peters 0001</author>
+<author>Gerhard Neumann</author>
+<title>Local Bayesian Optimization of Motor Skills.</title>
+<pages>41-50</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/akrour17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#AkrourS0N17</url>
+</inproceedings>
+</dblp>

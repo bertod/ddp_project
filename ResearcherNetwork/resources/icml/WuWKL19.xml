@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WuWKL19" mdate="2019-06-11">
+<author>Yifan Wu</author>
+<author>Ezra Winston</author>
+<author>Divyansh Kaushik</author>
+<author>Zachary C. Lipton</author>
+<title>Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment.</title>
+<pages>6872-6881</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuWKL19</url>
+</inproceedings></dblp>

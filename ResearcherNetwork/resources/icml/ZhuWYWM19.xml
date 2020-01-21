@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuWYWM19" mdate="2019-06-11">
+<author>Zhanxing Zhu</author>
+<author>Jingfeng Wu</author>
+<author>Bing Yu</author>
+<author>Lei Wu</author>
+<author>Jinwen Ma</author>
+<title>The Anisotropic Noise in Stochastic Gradient Descent: Its Behavior of Escaping from Sharp Minima and Regularization Effects.</title>
+<pages>7654-7663</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhu19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhuWYWM19</url>
+</inproceedings></dblp>

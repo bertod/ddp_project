@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NoklandE19" mdate="2019-06-11">
+<author>Arild N&#248;kland</author>
+<author>Lars Hiller Eidnes</author>
+<title>Training Neural Networks with Local Error Signals.</title>
+<pages>4839-4850</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nokland19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NoklandE19</url>
+</inproceedings></dblp>

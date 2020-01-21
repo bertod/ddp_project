@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangP19" mdate="2019-06-11">
+<author>Aonan Zhang</author>
+<author>John W. Paisley</author>
+<title>Random Function Priors for Correlation Modeling.</title>
+<pages>7424-7433</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19k.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangP19</url>
+</inproceedings></dblp>

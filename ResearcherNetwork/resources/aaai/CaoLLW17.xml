@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoLLW17" mdate="2019-11-29">
+<author>Ziqiang Cao</author>
+<author>Wenjie Li 0002</author>
+<author>Sujian Li</author>
+<author>Furu Wei</author>
+<title>Improving Multi-Document Summarization via Text Classification.</title>
+<pages>3053-3059</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14525</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CaoLLW17</url>
+</inproceedings>
+</dblp>

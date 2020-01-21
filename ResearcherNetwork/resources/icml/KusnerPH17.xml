@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KusnerPH17" mdate="2019-04-03">
+<author>Matt J. Kusner</author>
+<author>Brooks Paige</author>
+<author>Jos&#233; Miguel Hern&#225;ndez-Lobato</author>
+<title>Grammar Variational Autoencoder.</title>
+<pages>1945-1954</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kusner17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KusnerPH17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiLH016" mdate="2017-02-14">
+<author>Guoliang Ji</author>
+<author>Kang Liu 0001</author>
+<author>Shizhu He</author>
+<author>Jun Zhao 0001</author>
+<title>Knowledge Graph Completion with Adaptive Sparse Transfer Matrix.</title>
+<pages>985-991</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11982</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JiLH016</url>
+</inproceedings>
+</dblp>

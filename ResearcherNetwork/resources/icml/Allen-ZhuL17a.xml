@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Allen-ZhuL17a" mdate="2019-04-03">
+<author>Zeyuan Allen-Zhu</author>
+<author>Yuanzhi Li</author>
+<title>Faster Principal Component Regression and Stable Matrix Chebyshev Approximation.</title>
+<pages>107-115</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/allen-zhu17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Allen-ZhuL17a</url>
+</inproceedings>
+</dblp>

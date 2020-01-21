@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GoldfeldBGMNKP19" mdate="2019-06-11">
+<author>Ziv Goldfeld</author>
+<author>Ewout van den Berg</author>
+<author>Kristjan H. Greenewald</author>
+<author>Igor Melnyk</author>
+<author>Nam Nguyen</author>
+<author>Brian Kingsbury</author>
+<author>Yury Polyanskiy</author>
+<title>Estimating Information Flow in Deep Neural Networks.</title>
+<pages>2299-2308</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/goldfeld19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GoldfeldBGMNKP19</url>
+</inproceedings></dblp>

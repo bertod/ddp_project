@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AkimotoSYUSN19" mdate="2019-06-11">
+<author>Youhei Akimoto</author>
+<author>Shinichi Shirakawa</author>
+<author>Nozomu Yoshinari</author>
+<author>Kento Uchida</author>
+<author>Shota Saito</author>
+<author>Kouhei Nishida</author>
+<title>Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search.</title>
+<pages>171-180</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/akimoto19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AkimotoSYUSN19</url>
+</inproceedings></dblp>

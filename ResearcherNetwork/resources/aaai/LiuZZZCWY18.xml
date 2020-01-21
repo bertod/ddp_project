@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuZZZCWY18" mdate="2018-10-22">
+<author>Zemin Liu</author>
+<author>Vincent W. Zheng</author>
+<author>Zhou Zhao</author>
+<author>Fanwei Zhu</author>
+<author>Kevin Chen-Chuan Chang</author>
+<author>Minghui Wu</author>
+<author>Jing Ying</author>
+<title>Distance-Aware DAG Embedding for Proximity Search on Heterogeneous Graphs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16770</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuZZZCWY18</url>
+<pages>2355-2362</pages>
+</inproceedings></dblp>

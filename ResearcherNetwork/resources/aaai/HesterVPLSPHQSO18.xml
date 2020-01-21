@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HesterVPLSPHQSO18" mdate="2019-07-24">
+<author>Todd Hester</author>
+<author>Matej Vecer&#237;k</author>
+<author>Olivier Pietquin</author>
+<author>Marc Lanctot</author>
+<author>Tom Schaul</author>
+<author>Bilal Piot</author>
+<author>Dan Horgan</author>
+<author>John Quan</author>
+<author>Andrew Sendonaris</author>
+<author>Ian Osband</author>
+<author>Gabriel Dulac-Arnold</author>
+<author>John Agapiou</author>
+<author>Joel Z. Leibo</author>
+<author>Audrunas Gruslys</author>
+<title>Deep Q-learning From Demonstrations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16976</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HesterVPLSPHQSO18</url>
+<pages>3223-3230</pages>
+</inproceedings></dblp>

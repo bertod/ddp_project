@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MeyerH19" mdate="2019-06-11">
+<author>Raphael Arkady Meyer</author>
+<author>Jean Honorio</author>
+<title>Optimality Implies Kernel Sum Classifiers are Statistically Efficient.</title>
+<pages>4566-4574</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/meyer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MeyerH19</url>
+</inproceedings></dblp>

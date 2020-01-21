@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoCC00LLYF19" mdate="2019-09-25">
+<author>Jian Zhao 0006</author>
+<author>Yu Cheng</author>
+<author>Yi Cheng</author>
+<author>Yang Yang 0002</author>
+<author>Fang Zhao 0006</author>
+<author>Jianshu Li</author>
+<author>Hengzhu Liu</author>
+<author>Shuicheng Yan</author>
+<author>Jiashi Feng</author>
+<title>Look across Elapse: Disentangled Representation Learning and Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition.</title>
+<pages>9251-9258</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019251</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoCC00LLYF19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangTHQZL19" mdate="2019-09-25">
+<author>Yiren Wang</author>
+<author>Fei Tian</author>
+<author>Di He</author>
+<author>Tao Qin</author>
+<author>ChengXiang Zhai</author>
+<author>Tie-Yan Liu</author>
+<title>Non-Autoregressive Machine Translation with Auxiliary Regularization.</title>
+<pages>5377-5384</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015377</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangTHQZL19</url>
+</inproceedings></dblp>

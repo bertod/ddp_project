@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiutkusSMDS19" mdate="2019-06-11">
+<author>Antoine Liutkus</author>
+<author>Umut Simsekli</author>
+<author>Szymon Majewski</author>
+<author>Alain Durmus</author>
+<author>Fabian-Robert St&#246;ter</author>
+<title>Sliced-Wasserstein Flows: Nonparametric Generative Modeling via Optimal Transport and Diffusions.</title>
+<pages>4104-4113</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liutkus19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiutkusSMDS19</url>
+</inproceedings></dblp>

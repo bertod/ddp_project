@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CuturiB17" mdate="2019-04-03">
+<author>Marco Cuturi</author>
+<author>Mathieu Blondel</author>
+<title>Soft-DTW: a Differentiable Loss Function for Time-Series.</title>
+<pages>894-903</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/cuturi17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#CuturiB17</url>
+</inproceedings>
+</dblp>

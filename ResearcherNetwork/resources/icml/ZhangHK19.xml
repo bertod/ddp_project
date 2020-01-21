@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangHK19" mdate="2019-06-11">
+<author>Guo Zhang</author>
+<author>Hao He</author>
+<author>Dina Katabi</author>
+<title>Circuit-GNN: Graph Neural Networks for Distributed Circuit Design.</title>
+<pages>7364-7373</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangHK19</url>
+</inproceedings></dblp>

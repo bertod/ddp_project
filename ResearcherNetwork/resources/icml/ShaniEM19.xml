@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShaniEM19" mdate="2019-06-11">
+<author>Lior Shani</author>
+<author>Yonathan Efroni</author>
+<author>Shie Mannor</author>
+<title>Exploration Conscious Reinforcement Learning Revisited.</title>
+<pages>5680-5689</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shani19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShaniEM19</url>
+</inproceedings></dblp>

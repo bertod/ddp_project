@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AvronKMMVZ17" mdate="2019-04-03">
+<author>Haim Avron</author>
+<author>Michael Kapralov</author>
+<author>Cameron Musco</author>
+<author>Christopher Musco</author>
+<author>Ameya Velingker</author>
+<author>Amir Zandieh</author>
+<title>Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees.</title>
+<pages>253-262</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/avron17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#AvronKMMVZ17</url>
+</inproceedings>
+</dblp>

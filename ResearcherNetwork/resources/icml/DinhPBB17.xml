@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DinhPBB17" mdate="2019-04-03">
+<author>Laurent Dinh</author>
+<author>Razvan Pascanu</author>
+<author>Samy Bengio</author>
+<author>Yoshua Bengio</author>
+<title>Sharp Minima Can Generalize For Deep Nets.</title>
+<pages>1019-1028</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/dinh17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DinhPBB17</url>
+</inproceedings>
+</dblp>

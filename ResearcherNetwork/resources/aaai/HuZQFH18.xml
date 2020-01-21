@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuZQFH18" mdate="2018-10-22">
+<author>Xiaowei Hu</author>
+<author>Lei Zhu 0003</author>
+<author>Jing Qin 0001</author>
+<author>Chi-Wing Fu</author>
+<author>Pheng-Ann Heng</author>
+<title>Recurrently Aggregating Deep Features for Salient Object Detection.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16775</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuZQFH18</url>
+<pages>6943-6950</pages>
+</inproceedings></dblp>

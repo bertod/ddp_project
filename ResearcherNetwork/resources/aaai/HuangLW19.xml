@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangLW19" mdate="2020-01-09">
+<author>Yan Huang 0008</author>
+<author>Yang Long</author>
+<author>Liang Wang 0001</author>
+<title>Few-Shot Image and Sentence Matching via Gated Visual-Semantic Embedding.</title>
+<pages>8489-8496</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018489</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangLW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XieCJZZ19" mdate="2019-06-11">
+<author>Yujia Xie</author>
+<author>Minshuo Chen</author>
+<author>Haoming Jiang</author>
+<author>Tuo Zhao</author>
+<author>Hongyuan Zha</author>
+<title>On Scalable and Efficient Computation of Large Scale Optimal Transport.</title>
+<pages>6882-6892</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xie19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XieCJZZ19</url>
+</inproceedings></dblp>

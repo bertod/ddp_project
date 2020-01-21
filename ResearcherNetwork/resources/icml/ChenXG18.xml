@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenXG18" mdate="2019-04-03">
+<author>Di Chen</author>
+<author>Yexiang Xue</author>
+<author>Carla P. Gomes</author>
+<title>End-to-End Learning for the Deep Multivariate Probit Model.</title>
+<pages>931-940</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chen18o.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ChenXG18</url>
+</inproceedings>
+</dblp>

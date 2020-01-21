@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoL17" mdate="2019-06-25">
+<author>Shaosheng Cao</author>
+<author>Wei Lu 0011</author>
+<title>Improving Word Embeddings with Convolutional Feature Learning and Subword Information.</title>
+<pages>3144-3151</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CaoL17</url>
+</inproceedings>
+</dblp>

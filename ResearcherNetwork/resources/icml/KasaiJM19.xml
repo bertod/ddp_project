@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KasaiJM19" mdate="2019-06-11">
+<author>Hiroyuki Kasai</author>
+<author>Pratik Jawanpuria</author>
+<author>Bamdev Mishra</author>
+<title>Riemannian adaptive stochastic gradient algorithms on matrix manifolds.</title>
+<pages>3262-3271</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kasai19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KasaiJM19</url>
+</inproceedings></dblp>

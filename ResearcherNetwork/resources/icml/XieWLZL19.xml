@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XieWLZL19" mdate="2019-06-11">
+<author>Xingyu Xie</author>
+<author>Jianlong Wu</author>
+<author>Guangcan Liu</author>
+<author>Zhisheng Zhong</author>
+<author>Zhouchen Lin</author>
+<title>Differentiable Linearized ADMM.</title>
+<pages>6902-6911</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xie19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XieWLZL19</url>
+</inproceedings></dblp>

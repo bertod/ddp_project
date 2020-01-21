@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XueLH16" mdate="2016-04-21">
+<author>Zhe Xue</author>
+<author>Guorong Li</author>
+<author>Qingming Huang</author>
+<title>Joint Multi-View Representation Learning and Image Tagging.</title>
+<pages>1366-1372</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11929</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XueLH16</url>
+</inproceedings>
+</dblp>

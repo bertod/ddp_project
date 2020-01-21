@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ThomasTGDB17" mdate="2017-03-06">
+<author>Philip S. Thomas</author>
+<author>Georgios Theocharous</author>
+<author>Mohammad Ghavamzadeh</author>
+<author>Ishan Durugkar</author>
+<author>Emma Brunskill</author>
+<title>Predictive Off-Policy Policy Evaluation for Nonstationary Decision Problems, with Applications to Digital Marketing.</title>
+<pages>4740-4745</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14550</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ThomasTGDB17</url>
+</inproceedings>
+</dblp>

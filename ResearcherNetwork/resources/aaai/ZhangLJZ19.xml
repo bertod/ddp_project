@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangLJZ19" mdate="2019-09-25">
+<author>Xinsong Zhang</author>
+<author>Pengshuai Li</author>
+<author>Weijia Jia</author>
+<author>Hai Zhao</author>
+<title>Multi-Labeled Relation Extraction with Attentive Capsule Network.</title>
+<pages>7484-7491</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017484</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangLJZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZablockiBSPG19" mdate="2019-06-11">
+<author>Eloi Zablocki</author>
+<author>Patrick Bordes</author>
+<author>Laure Soulier</author>
+<author>Benjamin Piwowarski</author>
+<author>Patrick Gallinari</author>
+<title>Context-Aware Zero-Shot Learning for Object Recognition.</title>
+<pages>7292-7303</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zablocki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZablockiBSPG19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BaramACM17" mdate="2019-04-03">
+<author>Nir Baram</author>
+<author>Oron Anschel</author>
+<author>Itai Caspi</author>
+<author>Shie Mannor</author>
+<title>End-to-End Differentiable Adversarial Imitation Learning.</title>
+<pages>390-399</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/baram17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BaramACM17</url>
+</inproceedings>
+</dblp>

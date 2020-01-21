@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PengHSS19" mdate="2019-06-11">
+<author>Xingchao Peng</author>
+<author>Zijun Huang</author>
+<author>Ximeng Sun</author>
+<author>Kate Saenko</author>
+<title>Domain Agnostic Learning with Disentangled Representations.</title>
+<pages>5102-5112</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/peng19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PengHSS19</url>
+</inproceedings></dblp>

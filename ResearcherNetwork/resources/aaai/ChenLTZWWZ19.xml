@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLTZWWZ19" mdate="2019-09-25">
+<author>Cen Chen</author>
+<author>Kenli Li</author>
+<author>Sin G. Teo</author>
+<author>Xiaofeng Zou</author>
+<author>Kang Wang</author>
+<author>Jie Wang</author>
+<author>Zeng Zeng</author>
+<title>Gated Residual Recurrent Graph Neural Networks for Traffic Prediction.</title>
+<pages>485-492</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301485</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenLTZWWZ19</url>
+</inproceedings></dblp>

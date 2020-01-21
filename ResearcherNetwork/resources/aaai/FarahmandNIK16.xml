@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FarahmandNIK16" mdate="2017-02-11">
+<author>Amir-massoud Farahmand</author>
+<author>Daniel Nikolaev Nikovski</author>
+<author>Yuji Igarashi</author>
+<author>Hiroki Konaka</author>
+<title>Truncated Approximate Dynamic Programming with Task-Dependent Terminal Value.</title>
+<pages>3123-3129</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11924</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FarahmandNIK16</url>
+</inproceedings>
+</dblp>

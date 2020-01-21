@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BogunovicMSC17" mdate="2019-04-03">
+<author>Ilija Bogunovic</author>
+<author>Slobodan Mitrovic</author>
+<author>Jonathan Scarlett</author>
+<author>Volkan Cevher</author>
+<title>Robust Submodular Maximization: A Non-Uniform Partitioning Approach.</title>
+<pages>508-516</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/bogunovic17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BogunovicMSC17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/EfroniDSM19" mdate="2019-09-25">
+<author>Yonathan Efroni</author>
+<author>Gal Dalal</author>
+<author>Bruno Scherrer</author>
+<author>Shie Mannor</author>
+<title>How to Combine Tree-Search Methods in Reinforcement Learning.</title>
+<pages>3494-3501</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013494</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#EfroniDSM19</url>
+</inproceedings></dblp>

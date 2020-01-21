@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KrishnamurthyAH17" mdate="2019-04-03">
+<author>Akshay Krishnamurthy</author>
+<author>Alekh Agarwal</author>
+<author>Tzu-Kuo Huang</author>
+<author>Hal Daum&#233; III</author>
+<author>John Langford 0001</author>
+<title>Active Learning for Cost-Sensitive Classification.</title>
+<pages>1915-1924</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/krishnamurthy17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KrishnamurthyAH17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PanYTB17" mdate="2019-04-03">
+<author>Yunpeng Pan</author>
+<author>Xinyan Yan</author>
+<author>Evangelos A. Theodorou</author>
+<author>Byron Boots</author>
+<title>Prediction under Uncertainty in Sparse Spectrum Gaussian Processes with Applications to Filtering and Control.</title>
+<pages>2760-2768</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/pan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#PanYTB17</url>
+</inproceedings>
+</dblp>

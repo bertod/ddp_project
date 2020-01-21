@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhouYWP19" mdate="2019-11-11">
+<author>Hongpeng Zhou</author>
+<author>Minghao Yang</author>
+<author>Jun Wang 0012</author>
+<author>Wei Pan</author>
+<title>BayesNAS: A Bayesian Approach for Neural Architecture Search.</title>
+<pages>7603-7613</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhou19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhouYWP19</url>
+</inproceedings>
+</dblp>

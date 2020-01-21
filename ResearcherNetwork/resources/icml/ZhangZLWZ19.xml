@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangZLWZ19" mdate="2019-06-11">
+<author>Kai Zhang</author>
+<author>Sheng Zhang</author>
+<author>Jun Liu</author>
+<author>Jun Wang</author>
+<author>Jie Zhang</author>
+<title>Greedy Orthogonal Pivoting Algorithm for Non-Negative Matrix Factorization.</title>
+<pages>7493-7501</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19r.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangZLWZ19</url>
+</inproceedings></dblp>

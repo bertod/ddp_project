@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeeJAJ19" mdate="2019-06-11">
+<author>Guang-He Lee</author>
+<author>Wengong Jin</author>
+<author>David Alvarez-Melis</author>
+<author>Tommi S. Jaakkola</author>
+<title>Functional Transparency for Structured Data: a Game-Theoretic Approach.</title>
+<pages>3723-3733</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lee19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LeeJAJ19</url>
+</inproceedings></dblp>

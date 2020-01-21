@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BalduzziFLLMM17" mdate="2019-04-03">
+<author>David Balduzzi</author>
+<author>Marcus Frean</author>
+<author>Lennox Leary</author>
+<author>J. P. Lewis</author>
+<author>Kurt Wan-Duo Ma</author>
+<author>Brian McWilliams</author>
+<title>The Shattered Gradients Problem: If resnets are the answer, then what is the question?</title>
+<pages>342-350</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/balduzzi17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BalduzziFLLMM17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuSLHB19" mdate="2019-06-11">
+<author>Chun Jiang Zhu</author>
+<author>Sabine Storandt</author>
+<author>Kam-yiu Lam</author>
+<author>Song Han</author>
+<author>Jinbo Bi</author>
+<title>Improved Dynamic Graph Learning through Fault-Tolerant Sparsification.</title>
+<pages>7624-7633</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhuSLHB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenHHH18" mdate="2018-10-22">
+<author>Qin Chen</author>
+<author>Qinmin Hu</author>
+<author>Jimmy Xiangji Huang</author>
+<author>Liang He 0001</author>
+<title>CA-RNN: Using Context-Aligned Recurrent Neural Networks for Modeling Sentence Similarity.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17114</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChenHHH18</url>
+<pages>265-273</pages>
+</inproceedings></dblp>

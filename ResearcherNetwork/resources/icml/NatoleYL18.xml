@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NatoleYL18" mdate="2019-04-03">
+<author>Michael Natole</author>
+<author>Yiming Ying</author>
+<author>Siwei Lyu</author>
+<title>Stochastic Proximal Algorithms for AUC Maximization.</title>
+<pages>3707-3716</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/natole18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#NatoleYL18</url>
+</inproceedings>
+</dblp>

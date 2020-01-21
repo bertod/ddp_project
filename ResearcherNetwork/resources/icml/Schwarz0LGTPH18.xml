@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Schwarz0LGTPH18" mdate="2019-04-03">
+<author>Jonathan Schwarz</author>
+<author>Wojciech Czarnecki 0001</author>
+<author>Jelena Luketina</author>
+<author>Agnieszka Grabska-Barwinska</author>
+<author>Yee Whye Teh</author>
+<author>Razvan Pascanu</author>
+<author>Raia Hadsell</author>
+<title>Progress &amp; Compress: A scalable framework for continual learning.</title>
+<pages>4535-4544</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/schwarz18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Schwarz0LGTPH18</url>
+</inproceedings>
+</dblp>

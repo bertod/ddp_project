@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LuWHZ19" mdate="2019-07-10">
+<author>Shiyin Lu</author>
+<author>Guanghui Wang</author>
+<author>Yao Hu</author>
+<author>Lijun Zhang 0005</author>
+<title>Optimal Algorithms for Lipschitz Bandits with Heavy-tailed Rewards.</title>
+<pages>4154-4163</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lu19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LuWHZ19</url>
+</inproceedings>
+</dblp>

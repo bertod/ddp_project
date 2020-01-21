@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinnaiF16" mdate="2016-04-21">
+<author>Yuu Jinnai</author>
+<author>Alex Fukunaga</author>
+<title>Abstract Zobrist Hashing: An Efficient Work Distribution Method for Parallel Best-First Search.</title>
+<pages>717-723</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11896</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JinnaiF16</url>
+</inproceedings>
+</dblp>

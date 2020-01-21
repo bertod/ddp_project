@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZaheerKAMS17" mdate="2019-04-03">
+<author>Manzil Zaheer</author>
+<author>Satwik Kottur</author>
+<author>Amr Ahmed</author>
+<author>Jos&#233; M. F. Moura</author>
+<author>Alexander J. Smola</author>
+<title>Canopy Fast Sampling with Cover Trees.</title>
+<pages>3977-3986</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zaheer17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZaheerKAMS17</url>
+</inproceedings>
+</dblp>

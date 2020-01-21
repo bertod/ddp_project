@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GaneaBH18" mdate="2019-04-03">
+<author>Octavian-Eugen Ganea</author>
+<author>Gary B&#233;cigneul</author>
+<author>Thomas Hofmann</author>
+<title>Hyperbolic Entailment Cones for Learning Hierarchical Embeddings.</title>
+<pages>1632-1641</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ganea18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#GaneaBH18</url>
+</inproceedings>
+</dblp>

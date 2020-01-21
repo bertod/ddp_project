@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangJHHL19" mdate="2019-06-11">
+<author>Tong Zhang</author>
+<author>Pan Ji</author>
+<author>Mehrtash Harandi</author>
+<author>Wen-bing Huang</author>
+<author>Hongdong Li</author>
+<title>Neural Collaborative Subspace Clustering.</title>
+<pages>7384-7393</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19g.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangJHHL19</url>
+</inproceedings></dblp>

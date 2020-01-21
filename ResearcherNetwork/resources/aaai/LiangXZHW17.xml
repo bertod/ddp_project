@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiangXZHW17" mdate="2017-03-06">
+<author>Jiaqing Liang</author>
+<author>Yanghua Xiao</author>
+<author>Yi Zhang</author>
+<author>Seung-won Hwang</author>
+<author>Haixun Wang</author>
+<title>Graph-Based Wrong IsA Relation Detection in a Large-Scale Lexical Taxonomy.</title>
+<pages>1178-1184</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14268</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiangXZHW17</url>
+</inproceedings>
+</dblp>

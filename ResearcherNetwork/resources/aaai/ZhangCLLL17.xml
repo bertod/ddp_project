@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangCLLL17" mdate="2019-12-12">
+<author>Kun Zhang 0015</author>
+<author>Enhong Chen</author>
+<author>Qi Liu 0003</author>
+<author>Chuanren Liu</author>
+<author>Guangyi Lv</author>
+<title>A Context-Enriched Neural Network Method for Recognizing Lexical Entailment.</title>
+<pages>3127-3134</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14822</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangCLLL17</url>
+</inproceedings>
+</dblp>

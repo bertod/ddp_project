@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PatyC19" mdate="2019-06-11">
+<author>Fran&#231;ois-Pierre Paty</author>
+<author>Marco Cuturi</author>
+<title>Subspace Robust Wasserstein Distances.</title>
+<pages>5072-5081</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/paty19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PatyC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/UstunLP19" mdate="2019-07-18">
+<author>Berk Ustun</author>
+<author>Yang Liu 0018</author>
+<author>David C. Parkes</author>
+<title>Fairness without Harm: Decoupled Classifiers with Preference Guarantees.</title>
+<pages>6373-6382</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ustun19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#UstunLP19</url>
+</inproceedings>
+</dblp>

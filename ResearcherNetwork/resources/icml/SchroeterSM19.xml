@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SchroeterSM19" mdate="2019-06-11">
+<author>Julien Schroeter</author>
+<author>Kirill A. Sidorov</author>
+<author>A. David Marshall</author>
+<title>Weakly-Supervised Temporal Localization via Occurrence Count Learning.</title>
+<pages>5649-5659</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/schroeter19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SchroeterSM19</url>
+</inproceedings></dblp>

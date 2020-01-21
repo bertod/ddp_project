@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WachiSYO18" mdate="2018-10-22">
+<author>Akifumi Wachi</author>
+<author>Yanan Sui</author>
+<author>Yisong Yue</author>
+<author>Masahiro Ono</author>
+<title>Safe Exploration and Optimization of Constrained MDPs Using Gaussian Processes.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17016</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WachiSYO18</url>
+<pages>6548-6556</pages>
+</inproceedings></dblp>

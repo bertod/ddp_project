@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MandelLBP17" mdate="2017-03-06">
+<author>Travis Mandel</author>
+<author>Yun-En Liu</author>
+<author>Emma Brunskill</author>
+<author>Zoran Popovic</author>
+<title>Where to Add Actions in Human-in-the-Loop Reinforcement Learning.</title>
+<pages>2322-2328</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15031</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MandelLBP17</url>
+</inproceedings>
+</dblp>

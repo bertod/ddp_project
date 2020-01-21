@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MagnussonAJV19" mdate="2019-06-11">
+<author>M&#229;ns Magnusson</author>
+<author>Michael Riis Andersen</author>
+<author>Johan Jonasson</author>
+<author>Aki Vehtari</author>
+<title>Bayesian leave-one-out cross-validation for large data.</title>
+<pages>4244-4253</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/magnusson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MagnussonAJV19</url>
+</inproceedings></dblp>

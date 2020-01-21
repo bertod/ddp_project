@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Hebert-JohnsonK18" mdate="2019-04-03">
+<author>&#218;rsula H&#233;bert-Johnson</author>
+<author>Michael P. Kim</author>
+<author>Omer Reingold</author>
+<author>Guy N. Rothblum</author>
+<title>Multicalibration: Calibration for the (Computationally-Identifiable) Masses.</title>
+<pages>1944-1953</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/hebert-johnson18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Hebert-JohnsonK18</url>
+</inproceedings>
+</dblp>

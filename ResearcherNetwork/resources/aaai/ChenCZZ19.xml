@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenCZZ19" mdate="2019-09-25">
+<author>Zitai Chen</author>
+<author>Chuan Chen</author>
+<author>Zibin Zheng</author>
+<author>Yi Zhu</author>
+<title>Tensor Decomposition for Multilayer Networks Clustering.</title>
+<pages>3371-3378</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013371</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenCZZ19</url>
+</inproceedings></dblp>

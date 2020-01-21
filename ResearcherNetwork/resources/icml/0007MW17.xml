@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0007MW17" mdate="2019-04-03">
+<author>Kai Zheng 0007</author>
+<author>Wenlong Mou</author>
+<author>Liwei Wang 0001</author>
+<title>Collect at Once, Use Effectively: Making Non-interactive Locally Private Learning Possible.</title>
+<pages>4130-4139</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zheng17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#0007MW17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Duetting0NPR19" mdate="2019-06-11">
+<author>Paul Duetting</author>
+<author>Zhe Feng 0004</author>
+<author>Harikrishna Narasimhan</author>
+<author>David C. Parkes</author>
+<author>Sai Srivatsa Ravindranath</author>
+<title>Optimal Auctions through Deep Learning.</title>
+<pages>1706-1715</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/duetting19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Duetting0NPR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaoYYZC17" mdate="2017-03-06">
+<author>Shuai Xiao</author>
+<author>Junchi Yan</author>
+<author>Xiaokang Yang</author>
+<author>Hongyuan Zha</author>
+<author>Stephen M. Chu</author>
+<title>Modeling the Intensity Function of Point Process Via Recurrent Neural Networks.</title>
+<pages>1597-1603</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14391</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#XiaoYYZC17</url>
+</inproceedings>
+</dblp>

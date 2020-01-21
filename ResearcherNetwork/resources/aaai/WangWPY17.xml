@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangWPY17" mdate="2017-03-06">
+<author>Zheng Wang</author>
+<author>Chaokun Wang</author>
+<author>Jisheng Pei</author>
+<author>Xiaojun Ye</author>
+<title>Multiple Source Detection without Knowing the Underlying Propagation Model.</title>
+<pages>217-223</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14159</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WangWPY17</url>
+</inproceedings>
+</dblp>

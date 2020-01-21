@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YeoHH16" mdate="2016-04-21">
+<author>Donghun Yeo</author>
+<author>Bohyung Han</author>
+<author>Joon Hee Han</author>
+<title>Unsupervised Co-Activity Detection from Multiple Videos Using Absorbing Markov Chain.</title>
+<pages>3662-3668</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12240</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YeoHH16</url>
+</inproceedings>
+</dblp>

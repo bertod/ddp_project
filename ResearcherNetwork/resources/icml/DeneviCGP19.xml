@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DeneviCGP19" mdate="2019-06-11">
+<author>Giulia Denevi</author>
+<author>Carlo Ciliberto</author>
+<author>Riccardo Grazzi</author>
+<author>Massimiliano Pontil</author>
+<title>Learning-to-Learn Stochastic Gradient Descent with Biased Regularization.</title>
+<pages>1566-1575</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/denevi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DeneviCGP19</url>
+</inproceedings></dblp>

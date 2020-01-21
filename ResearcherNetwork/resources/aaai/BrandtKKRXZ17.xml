@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrandtKKRXZ17" mdate="2019-07-20">
+<author>Sebastian Brandt 0001</author>
+<author>Elem G&#252;zel Kalayci</author>
+<author>Roman Kontchakov</author>
+<author>Vladislav Ryzhikov</author>
+<author>Guohui Xiao 0001</author>
+<author>Michael Zakharyaschev</author>
+<title>Ontology-Based Data Access with a Horn Fragment of Metric Temporal Logic.</title>
+<pages>1070-1076</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14881</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BrandtKKRXZ17</url>
+</inproceedings>
+</dblp>

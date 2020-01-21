@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangZCLZ18" mdate="2018-10-22">
+<author>Dong Wang</author>
+<author>Junbo Zhang</author>
+<author>Wei Cao</author>
+<author>Jian Li</author>
+<author>Yu Zheng</author>
+<title>When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16657</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangZCLZ18</url>
+<pages>2500-2507</pages>
+</inproceedings></dblp>

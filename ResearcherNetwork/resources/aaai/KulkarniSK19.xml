@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KulkarniSK19" mdate="2020-01-15">
+<author>Anagha Kulkarni 0002</author>
+<author>Siddharth Srivastava</author>
+<author>Subbarao Kambhampati</author>
+<title>A Unified Framework for Planning in Adversarial and Cooperative Environments.</title>
+<pages>2479-2487</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012479</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KulkarniSK19</url>
+</inproceedings>
+</dblp>

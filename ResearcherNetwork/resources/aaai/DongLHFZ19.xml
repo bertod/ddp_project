@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DongLHFZ19" mdate="2019-09-25">
+<author>Haoyu Dong</author>
+<author>Shijie Liu</author>
+<author>Shi Han</author>
+<author>Zhouyu Fu</author>
+<author>Dongmei Zhang</author>
+<title>TableSense: Spreadsheet Table Detection with Convolutional Neural Networks.</title>
+<pages>69-76</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330169</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DongLHFZ19</url>
+</inproceedings></dblp>

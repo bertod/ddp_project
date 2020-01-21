@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangDLLTG17" mdate="2019-07-09">
+<author>Erkun Yang</author>
+<author>Cheng Deng</author>
+<author>Wei Liu 0005</author>
+<author>Xianglong Liu</author>
+<author>Dacheng Tao</author>
+<author>Xinbo Gao</author>
+<title>Pairwise Relationship Guided Deep Hashing for Cross-Modal Retrieval.</title>
+<pages>1618-1625</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14326</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YangDLLTG17</url>
+</inproceedings>
+</dblp>

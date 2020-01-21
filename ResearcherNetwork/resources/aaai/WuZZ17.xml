@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuZZ17" mdate="2017-03-06">
+<author>Huijia Wu</author>
+<author>Jiajun Zhang</author>
+<author>Chengqing Zong</author>
+<title>A Dynamic Window Neural Network for CCG Supertagging.</title>
+<pages>3337-3343</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14723</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WuZZ17</url>
+</inproceedings>
+</dblp>

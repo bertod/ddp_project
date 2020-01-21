@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BrookesPL19" mdate="2019-06-11">
+<author>David H. Brookes</author>
+<author>Hahnbeom Park</author>
+<author>Jennifer Listgarten</author>
+<title>Conditioning by adaptive sampling for robust design.</title>
+<pages>773-782</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/brookes19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BrookesPL19</url>
+</inproceedings></dblp>

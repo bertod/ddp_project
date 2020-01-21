@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LewenbergBKK16" mdate="2016-04-21">
+<author>Yoad Lewenberg</author>
+<author>Yoram Bachrach</author>
+<author>Ian A. Kash</author>
+<author>Peter B. Key</author>
+<title>Using Convolutional Neural Networks to Analyze Function Properties from Images.</title>
+<pages>4363-4364</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12365</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LewenbergBKK16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Hou0V16" mdate="2016-04-21">
+<author>Ping Hou</author>
+<author>William Yeoh 0001</author>
+<author>Pradeep Varakantham</author>
+<title>Solving Risk-Sensitive POMDPs With and Without Cost Observations.</title>
+<pages>3138-3144</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12156</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#Hou0V16</url>
+</inproceedings>
+</dblp>

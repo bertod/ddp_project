@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLDW19" mdate="2019-09-25">
+<author>Yun-Chun Chen</author>
+<author>Yu-Jhe Li</author>
+<author>Xiaofei Du</author>
+<author>Yu-Chiang Frank Wang</author>
+<title>Learning Resolution-Invariant Deep Representations for Person Re-Identification.</title>
+<pages>8215-8222</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018215</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenLDW19</url>
+</inproceedings></dblp>

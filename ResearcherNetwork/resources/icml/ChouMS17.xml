@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChouMS17" mdate="2019-11-22">
+<author>Po-Wei Chou</author>
+<author>Daniel Maturana</author>
+<author>Sebastian A. Scherer</author>
+<title>Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution.</title>
+<pages>834-843</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chou17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChouMS17</url>
+</inproceedings>
+</dblp>

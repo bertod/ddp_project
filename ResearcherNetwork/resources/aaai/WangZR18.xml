@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangZR18" mdate="2018-10-22">
+<author>Xishun Wang</author>
+<author>Minjie Zhang</author>
+<author>Fenghui Ren</author>
+<title>Sparse Gaussian Conditional Random Fields on Top of Recurrent Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16319</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangZR18</url>
+<pages>4219-4226</pages>
+</inproceedings></dblp>

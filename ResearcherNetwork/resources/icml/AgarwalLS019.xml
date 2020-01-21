@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AgarwalLS019" mdate="2019-06-11">
+<author>Rishabh Agarwal</author>
+<author>Chen Liang</author>
+<author>Dale Schuurmans</author>
+<author>Mohammad Norouzi 0002</author>
+<title>Learning to Generalize from Sparse and Underspecified Rewards.</title>
+<pages>130-140</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/agarwal19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AgarwalLS019</url>
+</inproceedings></dblp>

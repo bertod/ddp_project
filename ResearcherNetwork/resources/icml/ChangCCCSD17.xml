@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChangCCCSD17" mdate="2019-04-03">
+<author>Yale Chang</author>
+<author>Junxiang Chen</author>
+<author>Michael H. Cho</author>
+<author>Peter J. Castaldi</author>
+<author>Edwin K. Silverman</author>
+<author>Jennifer G. Dy</author>
+<title>Multiple Clustering Views from Multiple Uncertain Experts.</title>
+<pages>674-683</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chang17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChangCCCSD17</url>
+</inproceedings>
+</dblp>

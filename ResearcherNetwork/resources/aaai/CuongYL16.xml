@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CuongYL16" mdate="2016-04-21">
+<author>Nguyen Viet Cuong</author>
+<author>Nan Ye</author>
+<author>Wee Sun Lee</author>
+<title>Robustness of Bayesian Pool-Based Active Learning Against Prior Misspecification.</title>
+<pages>1512-1518</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12022</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#CuongYL16</url>
+</inproceedings>
+</dblp>

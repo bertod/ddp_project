@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SundararajanTY17" mdate="2019-04-03">
+<author>Mukund Sundararajan</author>
+<author>Ankur Taly</author>
+<author>Qiqi Yan</author>
+<title>Axiomatic Attribution for Deep Networks.</title>
+<pages>3319-3328</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/sundararajan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SundararajanTY17</url>
+</inproceedings>
+</dblp>

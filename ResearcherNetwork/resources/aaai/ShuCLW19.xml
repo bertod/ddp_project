@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShuCLW19" mdate="2019-10-25">
+<author>Yang Shu</author>
+<author>Zhangjie Cao</author>
+<author>Mingsheng Long</author>
+<author>Jianmin Wang 0001</author>
+<title>Transferable Curriculum for Weakly-Supervised Domain Adaptation.</title>
+<pages>4951-4958</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014951</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShuCLW19</url>
+</inproceedings>
+</dblp>

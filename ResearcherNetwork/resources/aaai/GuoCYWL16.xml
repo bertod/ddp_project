@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoCYWL16" mdate="2018-06-18">
+<author>Jiang Guo</author>
+<author>Wanxiang Che</author>
+<author>David Yarowsky</author>
+<author>Haifeng Wang</author>
+<author>Ting Liu 0001</author>
+<title>A Representation Learning Framework for Multi-Source Transfer Parsing.</title>
+<pages>2734-2740</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12236</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GuoCYWL16</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaoFHNHW17" mdate="2017-03-06">
+<author>Xianling Mao</author>
+<author>Bo-Si Feng</author>
+<author>Yi-Jing Hao</author>
+<author>Liqiang Nie</author>
+<author>Heyan Huang</author>
+<author>Guihua Wen</author>
+<title>S2JSD-LSH: A Locality-Sensitive Hashing Schema for Probability Distributions.</title>
+<pages>3244-3251</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14692</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MaoFHNHW17</url>
+</inproceedings>
+</dblp>

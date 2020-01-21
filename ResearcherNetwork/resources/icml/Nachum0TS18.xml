@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Nachum0TS18" mdate="2019-04-03">
+<author>Ofir Nachum</author>
+<author>Mohammad Norouzi 0002</author>
+<author>George Tucker</author>
+<author>Dale Schuurmans</author>
+<title>Smoothed Action Value Functions for Learning Gaussian Policies.</title>
+<pages>3689-3697</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/nachum18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Nachum0TS18</url>
+</inproceedings>
+</dblp>

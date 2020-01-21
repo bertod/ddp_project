@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BienvenuBG16" mdate="2016-04-21">
+<author>Meghyn Bienvenu</author>
+<author>Camille Bourgaux</author>
+<author>Fran&#231;ois Goasdou&#233;</author>
+<title>Explaining Inconsistency-Tolerant Query Answering over Description Logic Knowledge Bases.</title>
+<pages>900-906</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12025</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BienvenuBG16</url>
+</inproceedings>
+</dblp>

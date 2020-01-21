@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuSH19" mdate="2019-06-11">
+<author>Lydia T. Liu</author>
+<author>Max Simchowitz</author>
+<author>Moritz Hardt</author>
+<title>The Implicit Fairness Criterion of Unconstrained Learning.</title>
+<pages>4051-4060</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuSH19</url>
+</inproceedings></dblp>

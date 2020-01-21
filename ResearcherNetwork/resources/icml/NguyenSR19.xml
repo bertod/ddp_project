@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NguyenSR19" mdate="2019-06-11">
+<author>Thanh Huy Nguyen</author>
+<author>Umut Simsekli</author>
+<author>Ga&#235;l Richard</author>
+<title>Non-Asymptotic Analysis of Fractional Langevin Monte Carlo for Non-Convex Optimization.</title>
+<pages>4810-4819</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nguyen19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NguyenSR19</url>
+</inproceedings></dblp>

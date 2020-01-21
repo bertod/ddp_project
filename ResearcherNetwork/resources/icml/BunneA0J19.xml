@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BunneA0J19" mdate="2019-06-11">
+<author>Charlotte Bunne</author>
+<author>David Alvarez-Melis</author>
+<author>Andreas Krause 0001</author>
+<author>Stefanie Jegelka</author>
+<title>Learning Generative Models across Incomparable Spaces.</title>
+<pages>851-861</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bunne19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BunneA0J19</url>
+</inproceedings></dblp>

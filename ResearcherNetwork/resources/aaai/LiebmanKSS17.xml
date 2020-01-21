@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiebmanKSS17" mdate="2017-03-06">
+<author>Elad Liebman</author>
+<author>Piyush Khandelwal</author>
+<author>Maytal Saar-Tsechansky</author>
+<author>Peter Stone</author>
+<title>Designing Better Playlists with Monte Carlo Tree Search.</title>
+<pages>4715-4720</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14975</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiebmanKSS17</url>
+</inproceedings>
+</dblp>

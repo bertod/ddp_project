@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HannaNS19" mdate="2019-06-11">
+<author>Josiah Hanna</author>
+<author>Scott Niekum</author>
+<author>Peter Stone</author>
+<title>Importance Sampling Policy Evaluation with an Estimated Behavior Policy.</title>
+<pages>2605-2613</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hanna19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HannaNS19</url>
+</inproceedings></dblp>

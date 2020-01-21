@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MoitraPR16" mdate="2016-04-21">
+<author>Abha Moitra</author>
+<author>Ravi Palla</author>
+<author>Arvind Rangarajan</author>
+<title>Automated Capture and Execution of Manufacturability Rules Using Inductive Logic Programming.</title>
+<pages>4028-4034</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12377</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MoitraPR16</url>
+</inproceedings>
+</dblp>

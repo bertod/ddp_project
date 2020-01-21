@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangBWL19" mdate="2019-09-25">
+<author>Zhi Wang</author>
+<author>Wei Bi</author>
+<author>Yan Wang</author>
+<author>Xiaojiang Liu</author>
+<title>Better Fine-Tuning via Instance Weighting for Text Classification.</title>
+<pages>7241-7248</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017241</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangBWL19</url>
+</inproceedings></dblp>

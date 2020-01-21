@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TrivediDWS17" mdate="2019-07-25">
+<author>Rakshit Trivedi</author>
+<author>Hanjun Dai</author>
+<author>Yichen Wang 0001</author>
+<author>Le Song</author>
+<title>Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs.</title>
+<pages>3462-3471</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/trivedi17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TrivediDWS17</url>
+</inproceedings>
+</dblp>

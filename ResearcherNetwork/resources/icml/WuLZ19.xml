@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WuLZ19" mdate="2019-06-11">
+<author>Xi-Zhu Wu</author>
+<author>Song Liu</author>
+<author>Zhi-Hua Zhou</author>
+<title>Heterogeneous Model Reuse via Optimizing Multiparty Multiclass Margin.</title>
+<pages>6840-6849</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuLZ19</url>
+</inproceedings></dblp>

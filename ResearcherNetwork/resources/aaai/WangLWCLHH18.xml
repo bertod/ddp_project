@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangLWCLHH18" mdate="2018-10-22">
+<author>Chao Wang</author>
+<author>Qi Liu 0003</author>
+<author>Run-ze Wu</author>
+<author>Enhong Chen</author>
+<author>Chuanren Liu</author>
+<author>Xunpeng Huang</author>
+<author>Zhenya Huang</author>
+<title>Confidence-Aware Matrix Factorization for Recommender Systems.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16487</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangLWCLHH18</url>
+<pages>434-442</pages>
+</inproceedings></dblp>

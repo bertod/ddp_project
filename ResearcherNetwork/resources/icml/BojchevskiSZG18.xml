@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BojchevskiSZG18" mdate="2019-04-03">
+<author>Aleksandar Bojchevski</author>
+<author>Oleksandr Shchur</author>
+<author>Daniel Z&#252;gner</author>
+<author>Stephan G&#252;nnemann</author>
+<title>NetGAN: Generating Graphs via Random Walks.</title>
+<pages>609-618</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/bojchevski18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#BojchevskiSZG18</url>
+</inproceedings>
+</dblp>

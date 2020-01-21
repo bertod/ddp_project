@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SunRMW17" mdate="2019-04-03">
+<author>Xu Sun 0001</author>
+<author>Xuancheng Ren</author>
+<author>Shuming Ma</author>
+<author>Houfeng Wang</author>
+<title>meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting.</title>
+<pages>3299-3308</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/sun17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SunRMW17</url>
+</inproceedings></dblp>

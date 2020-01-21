@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JayRGST19" mdate="2019-06-11">
+<author>Nathan Jay</author>
+<author>Noga H. Rotman</author>
+<author>Brighten Godfrey</author>
+<author>Michael Schapira</author>
+<author>Aviv Tamar</author>
+<title>A Deep Reinforcement Learning Perspective on Internet Congestion Control.</title>
+<pages>3050-3059</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jay19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JayRGST19</url>
+</inproceedings></dblp>

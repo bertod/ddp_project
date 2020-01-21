@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuLSGN18" mdate="2018-10-22">
+<author>Bin Liu</author>
+<author>Ying Li</author>
+<author>Zhaonan Sun</author>
+<author>Soumya Ghosh</author>
+<author>Kenney Ng</author>
+<title>Early Prediction of Diabetes Complications from Electronic Health Records: A Multi-Task Survival Analysis Approach.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16199</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuLSGN18</url>
+<pages>101-108</pages>
+</inproceedings></dblp>

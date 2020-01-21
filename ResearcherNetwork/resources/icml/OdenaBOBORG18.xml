@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OdenaBOBORG18" mdate="2019-04-03">
+<author>Augustus Odena</author>
+<author>Jacob Buckman</author>
+<author>Catherine Olsson</author>
+<author>Tom B. Brown</author>
+<author>Christopher Olah</author>
+<author>Colin Raffel</author>
+<author>Ian J. Goodfellow</author>
+<title>Is Generator Conditioning Causally Related to GAN Performance?</title>
+<pages>3846-3855</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/odena18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#OdenaBOBORG18</url>
+</inproceedings>
+</dblp>

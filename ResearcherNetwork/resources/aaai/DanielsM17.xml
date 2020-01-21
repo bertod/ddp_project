@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DanielsM17" mdate="2017-03-06">
+<author>Zachary Alan Daniels</author>
+<author>Dimitris N. Metaxas</author>
+<title>Addressing Imbalance in Multi-Label Classification Using Structured Hellinger Forests.</title>
+<pages>1826-1832</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14832</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DanielsM17</url>
+</inproceedings>
+</dblp>

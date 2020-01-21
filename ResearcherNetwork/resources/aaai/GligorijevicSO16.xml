@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GligorijevicSO16" mdate="2016-04-21">
+<author>Djordje Gligorijevic</author>
+<author>Jelena Stojanovic</author>
+<author>Zoran Obradovic</author>
+<title>Uncertainty Propagation in Long-Term Structured Regression on Evolving Networks.</title>
+<pages>1603-1609</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12265</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GligorijevicSO16</url>
+</inproceedings>
+</dblp>

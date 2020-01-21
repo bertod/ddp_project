@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangWTQLL17" mdate="2018-02-07">
+<author>Yilin Wang</author>
+<author>Suhang Wang</author>
+<author>Jiliang Tang</author>
+<author>Guo-Jun Qi</author>
+<author>Huan Liu 0001</author>
+<author>Baoxin Li</author>
+<title>CLARE: A Joint Approach to Label Classification and Tag Recommendation.</title>
+<pages>210-216</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14239</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WangWTQLL17</url>
+</inproceedings>
+</dblp>

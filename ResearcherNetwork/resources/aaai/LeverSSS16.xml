@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LeverSSS16" mdate="2016-04-21">
+<author>Guy Lever</author>
+<author>John Shawe-Taylor</author>
+<author>Ronnie Stafford</author>
+<author>Csaba Szepesv&#225;ri</author>
+<title>Compressed Conditional Mean Embeddings for Model-Based Reinforcement Learning.</title>
+<pages>1779-1787</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12436</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LeverSSS16</url>
+</inproceedings>
+</dblp>

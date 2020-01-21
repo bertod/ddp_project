@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BrutzkusGE19" mdate="2019-06-11">
+<author>Alon Brutzkus</author>
+<author>Ran Gilad-Bachrach</author>
+<author>Oren Elisha</author>
+<title>Low Latency Privacy Preserving Inference.</title>
+<pages>812-821</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/brutzkus19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BrutzkusGE19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HesselSE0SH19" mdate="2019-09-25">
+<author>Matteo Hessel</author>
+<author>Hubert Soyer</author>
+<author>Lasse Espeholt</author>
+<author>Wojciech Czarnecki 0001</author>
+<author>Simon Schmitt</author>
+<author>Hado van Hasselt</author>
+<title>Multi-Task Deep Reinforcement Learning with PopArt.</title>
+<pages>3796-3803</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013796</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HesselSE0SH19</url>
+</inproceedings></dblp>

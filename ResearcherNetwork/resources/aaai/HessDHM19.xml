@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HessDHM19" mdate="2019-09-25">
+<author>Sibylle Hess</author>
+<author>Wouter Duivesteijn</author>
+<author>Philipp Honysz</author>
+<author>Katharina Morik</author>
+<title>The SpectACl of Nonconvex Clustering: A Spectral Approach to Density-Based Clustering.</title>
+<pages>3788-3795</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013788</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HessDHM19</url>
+</inproceedings></dblp>

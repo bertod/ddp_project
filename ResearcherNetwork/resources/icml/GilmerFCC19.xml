@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GilmerFCC19" mdate="2019-06-11">
+<author>Justin Gilmer</author>
+<author>Nicolas Ford</author>
+<author>Nicholas Carlini</author>
+<author>Ekin D. Cubuk</author>
+<title>Adversarial Examples Are a Natural Consequence of Test Error in Noise.</title>
+<pages>2280-2289</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gilmer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GilmerFCC19</url>
+</inproceedings></dblp>

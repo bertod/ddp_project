@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MadaanMMRS16" mdate="2016-04-22">
+<author>Aman Madaan</author>
+<author>Ashish Mittal</author>
+<author>Mausam</author>
+<author>Ganesh Ramakrishnan</author>
+<author>Sunita Sarawagi</author>
+<title>Numerical Relation Extraction with Minimal Supervision.</title>
+<pages>2764-2771</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12486</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MadaanMMRS16</url>
+</inproceedings>
+</dblp>

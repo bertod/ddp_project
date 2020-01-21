@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ValovageSG18" mdate="2018-10-22">
+<author>Mark Valovage</author>
+<author>Akshay Shekhawat</author>
+<author>Maria L. Gini</author>
+<title>Model-Free Iterative Temporal Appliance Discovery for Unsupervised Electricity Disaggregation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17122</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ValovageSG18</url>
+<pages>2484-2491</pages>
+</inproceedings></dblp>

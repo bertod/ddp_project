@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Wang019" mdate="2019-06-11">
+<author>Dilin Wang</author>
+<author>Qiang Liu 0001</author>
+<title>Nonlinear Stein Variational Gradient Descent for Learning Diversified Mixture Models.</title>
+<pages>6576-6585</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19h.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Wang019</url>
+</inproceedings></dblp>

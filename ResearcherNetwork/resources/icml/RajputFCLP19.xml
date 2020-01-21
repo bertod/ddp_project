@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RajputFCLP19" mdate="2019-06-11">
+<author>Shashank Rajput</author>
+<author>Zhili Feng</author>
+<author>Zachary B. Charles</author>
+<author>Po-Ling Loh</author>
+<author>Dimitris S. Papailiopoulos</author>
+<title>Does Data Augmentation Lead to Positive Margin?</title>
+<pages>5321-5330</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rajput19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RajputFCLP19</url>
+</inproceedings></dblp>

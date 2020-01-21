@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WickramanayakeH19" mdate="2019-09-25">
+<author>Sandareka Wickramanayake</author>
+<author>Wynne Hsu</author>
+<author>Mong-Li Lee</author>
+<title>FLEX: Faithful Linguistic Explanations for Neural Net Based Model Decisions.</title>
+<pages>2539-2546</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012539</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WickramanayakeH19</url>
+</inproceedings></dblp>

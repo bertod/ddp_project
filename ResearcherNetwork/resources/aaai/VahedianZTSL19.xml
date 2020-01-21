@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/VahedianZTSL19" mdate="2019-09-25">
+<author>Amin Vahedian</author>
+<author>Xun Zhou</author>
+<author>Ling Tong</author>
+<author>W. Nick Street</author>
+<author>Yanhua Li</author>
+<title>Predicting Urban Dispersal Events: A Two-Stage Framework through Deep Survival Analysis on Mobility Data.</title>
+<pages>5199-5206</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015199</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#VahedianZTSL19</url>
+</inproceedings></dblp>

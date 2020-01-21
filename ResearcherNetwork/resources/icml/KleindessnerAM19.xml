@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KleindessnerAM19" mdate="2019-06-11">
+<author>Matth&#228;us Kleindessner</author>
+<author>Pranjal Awasthi</author>
+<author>Jamie Morgenstern</author>
+<title>Fair k-Center Clustering for Data Summarization.</title>
+<pages>3448-3457</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kleindessner19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KleindessnerAM19</url>
+</inproceedings></dblp>

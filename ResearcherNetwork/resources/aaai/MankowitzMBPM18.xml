@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MankowitzMBPM18" mdate="2019-07-17">
+<author>Daniel J. Mankowitz</author>
+<author>Timothy A. Mann</author>
+<author>Pierre-Luc Bacon</author>
+<author>Doina Precup</author>
+<author>Shie Mannor</author>
+<title>Learning Robust Options.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16825</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#MankowitzMBPM18</url>
+<pages>6409-6416</pages>
+</inproceedings></dblp>

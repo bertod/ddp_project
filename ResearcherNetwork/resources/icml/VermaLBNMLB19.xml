@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VermaLBNMLB19" mdate="2019-06-11">
+<author>Vikas Verma</author>
+<author>Alex Lamb</author>
+<author>Christopher Beckham</author>
+<author>Amir Najafi</author>
+<author>Ioannis Mitliagkas</author>
+<author>David Lopez-Paz</author>
+<author>Yoshua Bengio</author>
+<title>Manifold Mixup: Better Representations by Interpolating Hidden States.</title>
+<pages>6438-6447</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/verma19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VermaLBNMLB19</url>
+</inproceedings></dblp>

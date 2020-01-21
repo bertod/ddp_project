@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BlumFS18" mdate="2019-10-02">
+<author>Johannes Blum 0001</author>
+<author>Stefan Funke</author>
+<author>Sabine Storandt</author>
+<title>Sublinear Search Spaces for Shortest Path Planning in Grid and Road Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16271</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BlumFS18</url>
+<pages>6119-6126</pages>
+</inproceedings>
+</dblp>

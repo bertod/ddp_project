@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MazharRFH18" mdate="2020-01-06">
+<author>Othmane Mazhar</author>
+<author>Cristian R. Rojas</author>
+<author>Carlo Fischione</author>
+<author>Mohammad Reza Hesamzadeh</author>
+<title>Bayesian Model Selection for Change Point Detection and Clustering.</title>
+<pages>3430-3439</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/mazhar18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#MazharRFH18</url>
+</inproceedings>
+</dblp>

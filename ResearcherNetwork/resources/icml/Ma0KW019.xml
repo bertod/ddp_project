@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Ma0KW019" mdate="2019-12-05">
+<author>Jianxin Ma</author>
+<author>Peng Cui 0001</author>
+<author>Kun Kuang</author>
+<author>Xin Wang 0019</author>
+<author>Wenwu Zhu 0001</author>
+<title>Disentangled Graph Convolutional Networks.</title>
+<pages>4212-4221</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ma19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Ma0KW019</url>
+</inproceedings>
+</dblp>

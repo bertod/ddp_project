@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangLFW17" mdate="2017-03-06">
+<author>Zhengshen Jiang</author>
+<author>Hongzhi Liu</author>
+<author>Bin Fu</author>
+<author>Zhonghai Wu</author>
+<title>Generalized Ambiguity Decompositions for Classification with Applications in Active Learning and Unsupervised Ensemble Pruning.</title>
+<pages>2073-2079</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14475</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#JiangLFW17</url>
+</inproceedings>
+</dblp>

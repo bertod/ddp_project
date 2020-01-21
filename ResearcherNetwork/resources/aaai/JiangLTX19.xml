@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangLTX19" mdate="2019-09-25">
+<author>Yue Jiang</author>
+<author>Zhouhui Lian</author>
+<author>Yingmin Tang</author>
+<author>Jianguo Xiao</author>
+<title>SCFont: Structure-Guided Chinese Font Generation via Deep Stacked Networks.</title>
+<pages>4015-4022</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014015</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JiangLTX19</url>
+</inproceedings></dblp>

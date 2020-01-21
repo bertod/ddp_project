@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FangXWLZ18" mdate="2018-10-22">
+<author>Haoshu Fang</author>
+<author>Yuanlu Xu</author>
+<author>Wenguan Wang</author>
+<author>Xiaobai Liu</author>
+<author>Song-Chun Zhu</author>
+<title>Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16471</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#FangXWLZ18</url>
+<pages>6821-6828</pages>
+</inproceedings></dblp>

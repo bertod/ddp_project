@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AsisHHS18" mdate="2018-10-22">
+<author>Kristopher De Asis</author>
+<author>J. Fernando Hernandez-Garcia</author>
+<author>G. Zacharias Holland</author>
+<author>Richard S. Sutton</author>
+<title>Multi-Step Reinforcement Learning: A Unifying Algorithm.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16294</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#AsisHHS18</url>
+<pages>2902-2909</pages>
+</inproceedings></dblp>

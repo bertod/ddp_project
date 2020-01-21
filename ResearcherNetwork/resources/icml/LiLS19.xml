@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiLS19" mdate="2019-06-11">
+<author>Shuai Li</author>
+<author>Tor Lattimore</author>
+<author>Csaba Szepesv&#225;ri</author>
+<title>Online Learning to Rank with Features.</title>
+<pages>3856-3865</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiLS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoSWTCCL19" mdate="2019-09-25">
+<author>Qijie Zhao</author>
+<author>Tao Sheng</author>
+<author>Yongtao Wang</author>
+<author>Zhi Tang</author>
+<author>Ying Chen</author>
+<author>Ling Cai</author>
+<author>Haibin Ling</author>
+<title>M2Det: A Single-Shot Object Detector Based on Multi-Level Feature Pyramid Network.</title>
+<pages>9259-9266</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019259</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoSWTCCL19</url>
+</inproceedings></dblp>

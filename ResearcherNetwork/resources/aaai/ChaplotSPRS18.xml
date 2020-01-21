@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChaplotSPRS18" mdate="2018-10-22">
+<author>Devendra Singh Chaplot</author>
+<author>Kanthashree Mysore Sathyendra</author>
+<author>Rama Kumar Pasumarthi</author>
+<author>Dheeraj Rajagopal</author>
+<author>Ruslan Salakhutdinov</author>
+<title>Gated-Attention Architectures for Task-Oriented Language Grounding.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17425</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChaplotSPRS18</url>
+<pages>2819-2826</pages>
+</inproceedings></dblp>

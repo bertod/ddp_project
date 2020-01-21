@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RaileanuDSF18" mdate="2019-04-03">
+<author>Roberta Raileanu</author>
+<author>Emily Denton</author>
+<author>Arthur Szlam</author>
+<author>Rob Fergus</author>
+<title>Modeling Others using Oneself in Multi-Agent Reinforcement Learning.</title>
+<pages>4254-4263</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/raileanu18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RaileanuDSF18</url>
+</inproceedings>
+</dblp>

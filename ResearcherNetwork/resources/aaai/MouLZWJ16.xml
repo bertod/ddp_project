@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MouLZWJ16" mdate="2016-05-30">
+<author>Lili Mou</author>
+<author>Ge Li</author>
+<author>Lu Zhang 0023</author>
+<author>Tao Wang</author>
+<author>Zhi Jin</author>
+<title>Convolutional Neural Networks over Tree Structures for Programming Language Processing.</title>
+<pages>1287-1293</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11775</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MouLZWJ16</url>
+</inproceedings>
+</dblp>

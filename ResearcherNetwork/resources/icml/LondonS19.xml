@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LondonS19" mdate="2019-06-11">
+<author>Ben London</author>
+<author>Ted Sandler</author>
+<title>Bayesian Counterfactual Risk Minimization.</title>
+<pages>4125-4133</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/london19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LondonS19</url>
+</inproceedings></dblp>

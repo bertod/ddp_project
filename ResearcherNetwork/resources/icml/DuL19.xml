@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuL19" mdate="2019-06-11">
+<author>Junliang Du</author>
+<author>Antonio R. Linero</author>
+<title>Incorporating Grouping Information into Bayesian Decision Tree Ensembles.</title>
+<pages>1686-1695</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/du19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DuL19</url>
+</inproceedings></dblp>

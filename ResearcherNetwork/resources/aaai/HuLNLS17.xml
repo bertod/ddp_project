@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuLNLS17" mdate="2017-10-19">
+<author>Linmei Hu</author>
+<author>Juanzi Li</author>
+<author>Liqiang Nie</author>
+<author>Xiaoli Li 0001</author>
+<author>Chao Shao</author>
+<title>What Happens Next? Future Subevent Prediction Using Contextual Hierarchical LSTM.</title>
+<pages>3450-3456</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14324</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HuLNLS17</url>
+</inproceedings>
+</dblp>

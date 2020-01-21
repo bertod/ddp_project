@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuW19" mdate="2019-06-11">
+<author>Yuqing Zhu 0005</author>
+<author>Yu-Xiang Wang</author>
+<title>Poission Subsampled R&#233;nyi Differential Privacy.</title>
+<pages>7634-7642</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhu19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhuW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Diao0ZLXH19" mdate="2019-12-13">
+<author>Zulong Diao</author>
+<author>Xin Wang 0001</author>
+<author>Dafang Zhang</author>
+<author>Yingru Liu</author>
+<author>Kun Xie 0001</author>
+<author>Shaoyao He</author>
+<title>Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting.</title>
+<pages>890-897</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301890</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Diao0ZLXH19</url>
+</inproceedings></dblp>

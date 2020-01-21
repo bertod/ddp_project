@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChoiTGWE19" mdate="2019-06-11">
+<author>Kristy Choi</author>
+<author>Kedar Tatwawadi</author>
+<author>Aditya Grover</author>
+<author>Tsachy Weissman</author>
+<author>Stefano Ermon</author>
+<title>Neural Joint Source-Channel Coding.</title>
+<pages>1182-1192</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/choi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChoiTGWE19</url>
+</inproceedings></dblp>

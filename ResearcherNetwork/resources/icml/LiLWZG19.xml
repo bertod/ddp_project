@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiLWZG19" mdate="2019-06-11">
+<author>Yandong Li</author>
+<author>Lijun Li</author>
+<author>Liqiang Wang</author>
+<author>Tong Zhang</author>
+<author>Boqing Gong</author>
+<title>NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks.</title>
+<pages>3866-3876</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19g.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiLWZG19</url>
+</inproceedings></dblp>

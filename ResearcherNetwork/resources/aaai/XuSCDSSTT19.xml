@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuSCDSSTT19" mdate="2019-09-25">
+<author>Pan Xu 0001</author>
+<author>Yexuan Shi</author>
+<author>Hao Cheng</author>
+<author>John P. Dickerson</author>
+<author>Karthik Abinav Sankararaman</author>
+<author>Aravind Srinivasan</author>
+<author>Yongxin Tong</author>
+<author>Leonidas Tsepenekas</author>
+<title>A Unified Approach to Online Matching with Conflict-Aware Constraints.</title>
+<pages>2221-2228</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012221</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuSCDSSTT19</url>
+</inproceedings></dblp>

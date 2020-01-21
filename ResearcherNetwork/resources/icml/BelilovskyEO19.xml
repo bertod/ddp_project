@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BelilovskyEO19" mdate="2019-06-11">
+<author>Eugene Belilovsky</author>
+<author>Michael Eickenberg</author>
+<author>Edouard Oyallon</author>
+<title>Greedy Layerwise Learning Can Scale To ImageNet.</title>
+<pages>583-593</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/belilovsky19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BelilovskyEO19</url>
+</inproceedings></dblp>

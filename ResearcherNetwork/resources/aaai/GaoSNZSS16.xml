@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoSNZSS16" mdate="2016-04-21">
+<author>Lianli Gao</author>
+<author>Jingkuan Song</author>
+<author>Feiping Nie</author>
+<author>Fuhao Zou</author>
+<author>Nicu Sebe</author>
+<author>Heng Tao Shen</author>
+<title>Graph-without-cut: An Ideal Graph Learning for Image Segmentation.</title>
+<pages>1188-1194</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12374</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GaoSNZSS16</url>
+</inproceedings>
+</dblp>

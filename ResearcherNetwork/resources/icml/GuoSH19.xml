@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GuoSH19" mdate="2019-11-30">
+<author>Lingbing Guo</author>
+<author>Zequn Sun</author>
+<author>Wei Hu 0007</author>
+<title>Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs.</title>
+<pages>2505-2514</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/guo19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GuoSH19</url>
+</inproceedings>
+</dblp>

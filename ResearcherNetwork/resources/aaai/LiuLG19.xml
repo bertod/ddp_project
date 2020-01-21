@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuLG19" mdate="2019-10-19">
+<author>Shengchao Liu</author>
+<author>Yingyu Liang</author>
+<author orcid="0000-0002-5324-9833">Anthony Gitter</author>
+<title>Loss-Balanced Task Weighting to Reduce Negative Transfer in Multi-Task Learning.</title>
+<pages>9977-9978</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019977</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuLG19</url>
+</inproceedings></dblp>

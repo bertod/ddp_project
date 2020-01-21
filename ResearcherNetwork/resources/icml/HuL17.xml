@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HuL17" mdate="2019-04-03">
+<author>Bin Hu</author>
+<author>Laurent Lessard</author>
+<title>Dissipativity Theory for Nesterov's Accelerated Method.</title>
+<pages>1549-1557</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hu17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HuL17</url>
+</inproceedings>
+</dblp>

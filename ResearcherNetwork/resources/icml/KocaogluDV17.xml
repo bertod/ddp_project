@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KocaogluDV17" mdate="2019-04-03">
+<author>Murat Kocaoglu</author>
+<author>Alex Dimakis</author>
+<author>Sriram Vishwanath</author>
+<title>Cost-Optimal Learning of Causal Graphs.</title>
+<pages>1875-1884</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kocaoglu17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KocaogluDV17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Busa-FeketeSWM17" mdate="2019-04-03">
+<author>R&#243;bert Busa-Fekete</author>
+<author>Bal&#225;zs Sz&#246;r&#233;nyi</author>
+<author>Paul Weng</author>
+<author>Shie Mannor</author>
+<title>Multi-objective Bandits: Optimizing the Generalized Gini Index.</title>
+<pages>625-634</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/busa-fekete17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Busa-FeketeSWM17</url>
+</inproceedings>
+</dblp>

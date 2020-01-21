@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuangWSRH18" mdate="2019-03-19">
+<author>Bohan Zhuang</author>
+<author>Qi Wu 0001</author>
+<author>Chunhua Shen</author>
+<author>Ian D. Reid 0001</author>
+<author>Anton van den Hengel</author>
+<title>HCVRD: A Benchmark for Large-Scale Human-Centered Visual Relationship Detection.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16444</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhuangWSRH18</url>
+<pages>7631-7638</pages>
+</inproceedings></dblp>

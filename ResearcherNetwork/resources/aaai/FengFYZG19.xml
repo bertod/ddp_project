@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FengFYZG19" mdate="2019-09-25">
+<author>Yutong Feng</author>
+<author>Yifan Feng</author>
+<author>Haoxuan You</author>
+<author>Xibin Zhao</author>
+<author>Yue Gao</author>
+<title>MeshNet: Mesh Neural Network for 3D Shape Representation.</title>
+<pages>8279-8286</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018279</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FengFYZG19</url>
+</inproceedings></dblp>

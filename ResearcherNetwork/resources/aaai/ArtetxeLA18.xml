@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ArtetxeLA18" mdate="2018-10-22">
+<author>Mikel Artetxe</author>
+<author>Gorka Labaka</author>
+<author>Eneko Agirre</author>
+<title>Generalizing and Improving Bilingual Word Embedding Mappings with a Multi-Step Framework of Linear Transformations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16935</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ArtetxeLA18</url>
+<pages>5012-5019</pages>
+</inproceedings></dblp>

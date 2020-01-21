@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RahamanBADLHBC19" mdate="2019-06-11">
+<author>Nasim Rahaman</author>
+<author>Aristide Baratin</author>
+<author>Devansh Arpit</author>
+<author>Felix Dr&#228;xler</author>
+<author>Min Lin</author>
+<author>Fred A. Hamprecht</author>
+<author>Yoshua Bengio</author>
+<author>Aaron C. Courville</author>
+<title>On the Spectral Bias of Neural Networks.</title>
+<pages>5301-5310</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rahaman19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RahamanBADLHBC19</url>
+</inproceedings></dblp>

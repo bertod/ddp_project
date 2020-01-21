@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/QuMX19" mdate="2019-06-11">
+<author>Chao Qu</author>
+<author>Shie Mannor</author>
+<author>Huan Xu</author>
+<title>Nonlinear Distributional Gradient Temporal-Difference Learning.</title>
+<pages>5251-5260</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/qu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#QuMX19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangCNC18" mdate="2018-10-22">
+<author>Muhan Zhang</author>
+<author>Zhicheng Cui</author>
+<author>Marion Neumann</author>
+<author>Yixin Chen</author>
+<title>An End-to-End Deep Learning Architecture for Graph Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhangCNC18</url>
+<pages>4438-4445</pages>
+</inproceedings></dblp>

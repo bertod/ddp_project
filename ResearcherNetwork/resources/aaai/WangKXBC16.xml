@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangKXBC16" mdate="2016-04-21">
+<author>Shouyi Wang</author>
+<author>KinMing Kam</author>
+<author>Cao Xiao</author>
+<author>Stephen R. Bowen</author>
+<author>Wanpracha Art Chaovalitwongse</author>
+<title>An Efficient Time Series Subsequence Pattern Mining and Prediction Framework with an Application to Respiratory Motion Prediction.</title>
+<pages>2159-2165</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12544</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangKXBC16</url>
+</inproceedings>
+</dblp>

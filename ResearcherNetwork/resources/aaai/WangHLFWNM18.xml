@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangHLFWNM18" mdate="2018-10-22">
+<author>Dan Wang</author>
+<author>Heyan Huang</author>
+<author>Chi Lu</author>
+<author>Bo-Si Feng</author>
+<author>Guihua Wen</author>
+<author>Liqiang Nie</author>
+<author>Xianling Mao</author>
+<title>Supervised Deep Hashing for Hierarchical Labeled Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16330</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangHLFWNM18</url>
+<pages>7388-7395</pages>
+</inproceedings></dblp>

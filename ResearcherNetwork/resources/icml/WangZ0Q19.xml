@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangZ0Q19" mdate="2019-11-14">
+<author>Xiaojie Wang</author>
+<author>Rui Zhang 0003</author>
+<author>Yu Sun 0021</author>
+<author>Jianzhong Qi 0001</author>
+<title>Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random.</title>
+<pages>6638-6647</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19n.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangZ0Q19</url>
+</inproceedings>
+</dblp>

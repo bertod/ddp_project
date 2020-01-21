@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LocatelloRKRSSJ18" mdate="2019-04-03">
+<author>Francesco Locatello</author>
+<author>Anant Raj</author>
+<author>Sai Praneeth Karimireddy</author>
+<author>Gunnar R&#228;tsch</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<author>Sebastian U. Stich</author>
+<author>Martin Jaggi</author>
+<title>On Matching Pursuit and Coordinate Descent.</title>
+<pages>3204-3213</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/locatello18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LocatelloRKRSSJ18</url>
+</inproceedings>
+</dblp>

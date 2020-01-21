@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BouthillierLV19" mdate="2019-06-11">
+<author>Xavier Bouthillier</author>
+<author>C&#233;sar Laurent</author>
+<author>Pascal Vincent</author>
+<title>Unreproducible Research is Reproducible.</title>
+<pages>725-734</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bouthillier19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BouthillierLV19</url>
+</inproceedings></dblp>

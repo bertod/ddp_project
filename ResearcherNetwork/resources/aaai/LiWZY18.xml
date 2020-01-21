@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiWZY18" mdate="2018-10-22">
+<author>Zheng Li</author>
+<author>Ying Wei</author>
+<author>Yu Zhang</author>
+<author>Qiang Yang 0001</author>
+<title>Hierarchical Attention Transfer Network for Cross-Domain Sentiment Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16873</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiWZY18</url>
+<pages>5852-5859</pages>
+</inproceedings></dblp>

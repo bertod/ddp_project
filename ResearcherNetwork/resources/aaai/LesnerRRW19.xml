@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LesnerRRW19" mdate="2019-09-25">
+<author>Christopher Lesner</author>
+<author>Alexander Ran</author>
+<author>Marko Rukonic</author>
+<author>Wei Wang</author>
+<title>Large Scale Personalized Categorization of Financial Transactions.</title>
+<pages>9365-9372</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019365</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LesnerRRW19</url>
+</inproceedings></dblp>

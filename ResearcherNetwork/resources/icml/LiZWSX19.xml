@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiZWSX19" mdate="2019-06-11">
+<author>Xilai Li</author>
+<author>Yingbo Zhou</author>
+<author>Tianfu Wu</author>
+<author>Richard Socher</author>
+<author>Caiming Xiong</author>
+<title>Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting.</title>
+<pages>3925-3934</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19m.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiZWSX19</url>
+</inproceedings></dblp>

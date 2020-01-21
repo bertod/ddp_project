@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BittnerBCZ16" mdate="2016-04-21">
+<author>Benjamin Bittner</author>
+<author>Marco Bozzano</author>
+<author>Alessandro Cimatti</author>
+<author>Gianni Zampedri</author>
+<title>Automated Verification and Tightening of Failure Propagation Models.</title>
+<pages>907-913</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12037</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BittnerBCZ16</url>
+</inproceedings>
+</dblp>

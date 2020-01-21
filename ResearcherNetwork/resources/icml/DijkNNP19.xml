@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DijkNNP19" mdate="2019-06-11">
+<author>Marten van Dijk</author>
+<author>Lam M. Nguyen</author>
+<author>Phuong Ha Nguyen</author>
+<author>Dzung T. Phan</author>
+<title>Characterization of Convex Objective Functions and Optimal Expected Convergence Rates for SGD.</title>
+<pages>6392-6400</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/van-dijk19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DijkNNP19</url>
+</inproceedings></dblp>

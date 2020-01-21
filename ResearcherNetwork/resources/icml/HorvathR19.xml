@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HorvathR19" mdate="2019-06-11">
+<author>Samuel Horv&#225;th</author>
+<author>Peter Richt&#225;rik</author>
+<title>Nonconvex Variance Reduced Optimization with Arbitrary Sampling.</title>
+<pages>2781-2789</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/horvath19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HorvathR19</url>
+</inproceedings></dblp>

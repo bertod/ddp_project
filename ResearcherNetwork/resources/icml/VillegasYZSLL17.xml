@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VillegasYZSLL17" mdate="2019-04-03">
+<author>Ruben Villegas</author>
+<author>Jimei Yang</author>
+<author>Yuliang Zou</author>
+<author>Sungryull Sohn</author>
+<author>Xunyu Lin</author>
+<author>Honglak Lee</author>
+<title>Learning to Generate Long-term Future via Hierarchical Prediction.</title>
+<pages>3560-3569</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/villegas17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#VillegasYZSLL17</url>
+</inproceedings>
+</dblp>

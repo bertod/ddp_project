@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaL0ZFWS19" mdate="2019-09-25">
+<author>Qingrong Xia</author>
+<author>Zhenghua Li</author>
+<author>Min Zhang 0005</author>
+<author>Meishan Zhang</author>
+<author>Guohong Fu</author>
+<author>Rui Wang</author>
+<author>Luo Si</author>
+<title>Syntax-Aware Neural Semantic Role Labeling.</title>
+<pages>7305-7313</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017305</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XiaL0ZFWS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VarmaSHRR19" mdate="2019-06-11">
+<author>Paroma Varma</author>
+<author>Frederic Sala</author>
+<author>Ann He</author>
+<author>Alexander Ratner</author>
+<author>Christopher R&#233;</author>
+<title>Learning Dependency Structures for Weak Supervision Models.</title>
+<pages>6418-6427</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/varma19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VarmaSHRR19</url>
+</inproceedings></dblp>

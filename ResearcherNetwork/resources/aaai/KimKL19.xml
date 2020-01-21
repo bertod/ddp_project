@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimKL19" mdate="2019-09-25">
+<author>Beomjoon Kim</author>
+<author>Leslie Pack Kaelbling</author>
+<author>Tom&#225;s Lozano-P&#233;rez</author>
+<title>Adversarial Actor-Critic Method for Task and Motion Planning Problems Using Planning Experience.</title>
+<pages>8017-8024</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018017</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KimKL19</url>
+</inproceedings></dblp>

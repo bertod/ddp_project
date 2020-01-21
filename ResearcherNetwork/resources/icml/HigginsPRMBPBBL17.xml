@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HigginsPRMBPBBL17" mdate="2019-04-03">
+<author>Irina Higgins</author>
+<author>Arka Pal</author>
+<author>Andrei A. Rusu</author>
+<author>Lo&#239;c Matthey</author>
+<author>Christopher Burgess</author>
+<author>Alexander Pritzel</author>
+<author>Matthew Botvinick</author>
+<author>Charles Blundell</author>
+<author>Alexander Lerchner</author>
+<title>DARLA: Improving Zero-Shot Transfer in Reinforcement Learning.</title>
+<pages>1480-1490</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/higgins17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HigginsPRMBPBBL17</url>
+</inproceedings>
+</dblp>

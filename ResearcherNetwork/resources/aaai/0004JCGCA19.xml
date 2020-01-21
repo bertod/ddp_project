@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0004JCGCA19" mdate="2019-09-25">
+<author>Liang Hu 0004</author>
+<author>Songlei Jian</author>
+<author>Longbing Cao</author>
+<author>Zhiping Gu</author>
+<author>Qingkui Chen</author>
+<author>Artak Amirbekyan</author>
+<title>HERS: Modeling Influential Contexts with Heterogeneous Relations for Sparse and Cold-Start Recommendation.</title>
+<pages>3830-3837</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013830</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0004JCGCA19</url>
+</inproceedings></dblp>

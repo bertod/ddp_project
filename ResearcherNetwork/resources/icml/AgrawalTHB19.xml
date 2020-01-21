@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AgrawalTHB19" mdate="2019-06-11">
+<author>Raj Agrawal</author>
+<author>Brian L. Trippe</author>
+<author>Jonathan H. Huggins</author>
+<author>Tamara Broderick</author>
+<title>The Kernel Interaction Trick: Fast Bayesian Discovery of Pairwise Interactions in High Dimensions.</title>
+<pages>141-150</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/agrawal19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AgrawalTHB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RoederGPDM19" mdate="2019-06-11">
+<author>Geoffrey Roeder</author>
+<author>Paul K. Grant</author>
+<author>Andrew Phillips</author>
+<author>Neil Dalchau</author>
+<author>Edward Meeds</author>
+<title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems.</title>
+<pages>4445-4455</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/meeds19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RoederGPDM19</url>
+</inproceedings></dblp>

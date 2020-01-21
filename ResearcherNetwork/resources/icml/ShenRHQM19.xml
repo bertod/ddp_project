@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShenRHQM19" mdate="2019-06-11">
+<author>Zebang Shen</author>
+<author>Alejandro Ribeiro</author>
+<author>Hamed Hassani</author>
+<author>Hui Qian</author>
+<author>Chao Mi</author>
+<title>Hessian Aided Policy Gradient.</title>
+<pages>5729-5738</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shen19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShenRHQM19</url>
+</inproceedings></dblp>

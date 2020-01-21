@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KahngLNPP19" mdate="2019-06-11">
+<author>Anson Kahng</author>
+<author>Min Kyung Lee</author>
+<author>Ritesh Noothigattu</author>
+<author>Ariel D. Procaccia</author>
+<author>Christos-Alexandros Psomas</author>
+<title>Statistical Foundations of Virtual Democracy.</title>
+<pages>3173-3182</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kahng19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KahngLNPP19</url>
+</inproceedings></dblp>

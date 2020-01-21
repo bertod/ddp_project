@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimLHS19" mdate="2019-09-25">
+<author>Hoon Kim</author>
+<author>Kangwook Lee</author>
+<author>Gyeongjo Hwang</author>
+<author>Changho Suh</author>
+<title>Crash to Not Crash: Learn to Identify Dangerous Vehicles Using a Simulator.</title>
+<pages>978-985</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301978</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KimLHS19</url>
+</inproceedings></dblp>

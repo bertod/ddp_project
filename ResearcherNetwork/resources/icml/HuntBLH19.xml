@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HuntBLH19" mdate="2019-06-11">
+<author>Jonathan J. Hunt</author>
+<author>Andr&#233; Barreto</author>
+<author>Timothy P. Lillicrap</author>
+<author>Nicolas Heess</author>
+<title>Composing Entropic Policies using Divergence Correction.</title>
+<pages>2911-2920</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hunt19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HuntBLH19</url>
+</inproceedings></dblp>

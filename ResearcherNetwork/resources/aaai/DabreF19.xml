@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DabreF19" mdate="2019-09-25">
+<author>Raj Dabre</author>
+<author>Atsushi Fujita</author>
+<title>Recurrent Stacking of Layers for Compact Neural Machine Translation Models.</title>
+<pages>6292-6299</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016292</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DabreF19</url>
+</inproceedings></dblp>

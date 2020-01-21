@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CaiDK17" mdate="2019-09-11">
+<author>Bryan Cai</author>
+<author>Constantinos Daskalakis</author>
+<author>Gautam Kamath 0001</author>
+<title>Priv'IT: Private and Sample Efficient Identity Testing.</title>
+<pages>635-644</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/cai17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#CaiDK17</url>
+</inproceedings>
+</dblp>

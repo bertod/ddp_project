@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PooleOOAT19" mdate="2019-06-11">
+<author>Ben Poole</author>
+<author>Sherjil Ozair</author>
+<author>A&#228;ron van den Oord</author>
+<author>Alex Alemi</author>
+<author>George Tucker</author>
+<title>On Variational Bounds of Mutual Information.</title>
+<pages>5171-5180</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/poole19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PooleOOAT19</url>
+</inproceedings></dblp>

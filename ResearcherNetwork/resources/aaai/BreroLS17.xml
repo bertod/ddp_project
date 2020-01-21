@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BreroLS17" mdate="2017-03-06">
+<author>Gianluca Brero</author>
+<author>Benjamin Lubin</author>
+<author>Sven Seuken</author>
+<title>Probably Approximately Efficient Combinatorial Auctions via Machine Learning.</title>
+<pages>397-405</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15040</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BreroLS17</url>
+</inproceedings>
+</dblp>

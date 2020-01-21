@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KangPC16" mdate="2016-04-21">
+<author>Zhao Kang</author>
+<author>Chong Peng</author>
+<author>Qiang Cheng</author>
+<title>Top-N Recommender System via Matrix Completion.</title>
+<pages>179-185</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11824</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KangPC16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MeiBW17" mdate="2017-03-06">
+<author>Hongyuan Mei</author>
+<author>Mohit Bansal</author>
+<author>Matthew R. Walter</author>
+<title>Coherent Dialogue with Attention-Based Language Models.</title>
+<pages>3252-3258</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14164</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MeiBW17</url>
+</inproceedings>
+</dblp>

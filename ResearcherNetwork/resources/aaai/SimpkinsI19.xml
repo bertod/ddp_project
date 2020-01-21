@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SimpkinsI19" mdate="2019-09-25">
+<author>Christopher L. Simpkins</author>
+<author>Charles L. Isbell Jr.</author>
+<title>Composable Modular Reinforcement Learning.</title>
+<pages>4975-4982</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014975</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SimpkinsI19</url>
+</inproceedings></dblp>

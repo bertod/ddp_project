@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuCWO18" mdate="2019-04-03">
+<author>Haitao Liu</author>
+<author>Jianfei Cai</author>
+<author>Yi Wang</author>
+<author>Yew-Soon Ong</author>
+<title>Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression.</title>
+<pages>3137-3146</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/liu18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LiuCWO18</url>
+</inproceedings>
+</dblp>

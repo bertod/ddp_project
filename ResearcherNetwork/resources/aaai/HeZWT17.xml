@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeZWT17" mdate="2017-03-06">
+<author>Zheqi He</author>
+<author>Yafeng Zhou</author>
+<author>Yongtao Wang</author>
+<author>Zhi Tang</author>
+<title>SReN: Shape Regression Network for Comic Storyboard Extraction.</title>
+<pages>4937-4938</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14262</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HeZWT17</url>
+</inproceedings>
+</dblp>

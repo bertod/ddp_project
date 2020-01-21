@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BaldwinBMDW19" mdate="2019-09-25">
+<author>Jacob Baldwin</author>
+<author>Ryan Burnham</author>
+<author>Andrew Meyer</author>
+<author>Robert Dora</author>
+<author>Robert Wright</author>
+<title>Beyond Speech: Generalizing D-Vectors for Biometric Verification.</title>
+<pages>842-849</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301842</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BaldwinBMDW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SunFS16" mdate="2016-04-21">
+<author>Baochen Sun</author>
+<author>Jiashi Feng</author>
+<author>Kate Saenko</author>
+<title>Return of Frustratingly Easy Domain Adaptation.</title>
+<pages>2058-2065</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12443</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SunFS16</url>
+</inproceedings>
+</dblp>

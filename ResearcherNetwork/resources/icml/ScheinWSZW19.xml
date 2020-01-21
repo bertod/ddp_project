@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ScheinWSZW19" mdate="2019-06-11">
+<author>Aaron Schein</author>
+<author>Zhiwei Steven Wu</author>
+<author>Alexandra Schofield</author>
+<author>Mingyuan Zhou</author>
+<author>Hanna M. Wallach</author>
+<title>Locally Private Bayesian Inference for Count Models.</title>
+<pages>5638-5648</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/schein19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ScheinWSZW19</url>
+</inproceedings></dblp>

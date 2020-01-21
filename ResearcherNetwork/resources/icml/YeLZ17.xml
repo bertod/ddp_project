@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YeLZ17" mdate="2019-04-03">
+<author>Haishan Ye</author>
+<author>Luo Luo</author>
+<author>Zhihua Zhang</author>
+<title>Approximate Newton Methods and Their Local Convergence.</title>
+<pages>3931-3939</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/ye17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YeLZ17</url>
+</inproceedings>
+</dblp>

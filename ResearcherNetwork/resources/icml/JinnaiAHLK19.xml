@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JinnaiAHLK19" mdate="2019-11-19">
+<author>Yuu Jinnai</author>
+<author>David Abel</author>
+<author>David Ellis Hershkowitz</author>
+<author>Michael L. Littman</author>
+<author>George Dimitri Konidaris</author>
+<title>Finding Options that Minimize Planning Time.</title>
+<pages>3120-3129</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jinnai19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JinnaiAHLK19</url>
+</inproceedings></dblp>

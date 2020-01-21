@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GazagnadouGS19" mdate="2019-06-11">
+<author>Nidham Gazagnadou</author>
+<author>Robert M. Gower</author>
+<author>Joseph Salmon</author>
+<title>Optimal Mini-Batch and Step Sizes for SAGA.</title>
+<pages>2142-2150</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gazagnadou19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GazagnadouGS19</url>
+</inproceedings></dblp>

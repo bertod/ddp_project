@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LukasikC16" mdate="2016-04-21">
+<author>Michal Lukasik</author>
+<author>Trevor Cohn</author>
+<title>Convolution Kernels for Discriminative Learning from Streaming Text.</title>
+<pages>2757-2763</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12167</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LukasikC16</url>
+</inproceedings>
+</dblp>

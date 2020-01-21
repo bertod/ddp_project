@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KalimerisKS19" mdate="2019-06-11">
+<author>Dimitris Kalimeris</author>
+<author>Gal Kaplun</author>
+<author>Yaron Singer</author>
+<title>Robust Influence Maximization for Hyperparametric Models.</title>
+<pages>3192-3200</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kalimeris19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KalimerisKS19</url>
+</inproceedings></dblp>

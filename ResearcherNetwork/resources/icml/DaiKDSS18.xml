@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DaiKDSS18" mdate="2019-04-03">
+<author>Hanjun Dai</author>
+<author>Zornitsa Kozareva</author>
+<author>Bo Dai</author>
+<author>Alexander J. Smola</author>
+<author>Le Song</author>
+<title>Learning Steady-States of Iterative Algorithms over Graphs.</title>
+<pages>1114-1122</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/dai18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DaiKDSS18</url>
+</inproceedings>
+</dblp>

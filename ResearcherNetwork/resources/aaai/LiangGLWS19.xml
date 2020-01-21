@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiangGLWS19" mdate="2019-12-10">
+<author>Mingyang Liang</author>
+<author>Xiaoyang Guo</author>
+<author>Hongsheng Li</author>
+<author>Xiaogang Wang 0001</author>
+<author>You Song</author>
+<title>Unsupervised Cross-Spectral Stereo Matching by Learning to Synthesize.</title>
+<pages>8706-8713</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018706</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiangGLWS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Sanchez-Gonzalez18" mdate="2019-07-24">
+<author>Alvaro Sanchez-Gonzalez</author>
+<author>Nicolas Heess</author>
+<author>Jost Tobias Springenberg</author>
+<author>Josh Merel</author>
+<author>Martin A. Riedmiller</author>
+<author>Raia Hadsell</author>
+<author>Peter W. Battaglia</author>
+<title>Graph Networks as Learnable Physics Engines for Inference and Control.</title>
+<pages>4467-4476</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sanchez-gonzalez18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Sanchez-Gonzalez18</url>
+</inproceedings>
+</dblp>

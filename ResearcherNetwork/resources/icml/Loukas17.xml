@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Loukas17" mdate="2019-04-03">
+<author>Andreas Loukas</author>
+<title>How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?</title>
+<pages>2228-2237</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/loukas17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Loukas17</url>
+</inproceedings>
+</dblp>

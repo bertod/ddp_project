@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Kornblith0LH19" mdate="2019-06-11">
+<author>Simon Kornblith</author>
+<author>Mohammad Norouzi 0002</author>
+<author>Honglak Lee</author>
+<author>Geoffrey E. Hinton</author>
+<title>Similarity of Neural Network Representations Revisited.</title>
+<pages>3519-3529</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kornblith19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Kornblith0LH19</url>
+</inproceedings></dblp>

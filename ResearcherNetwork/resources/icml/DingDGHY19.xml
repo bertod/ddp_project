@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DingDGHY19" mdate="2019-06-11">
+<author>Xiaohan Ding</author>
+<author>Guiguang Ding</author>
+<author>Yuchen Guo</author>
+<author>Jungong Han</author>
+<author>Chenggang Yan</author>
+<title>Approximated Oracle Filter Pruning for Destructive CNN Width Optimization.</title>
+<pages>1607-1616</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ding19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DingDGHY19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TrippeHAB19" mdate="2019-06-11">
+<author>Brian L. Trippe</author>
+<author>Jonathan H. Huggins</author>
+<author>Raj Agrawal</author>
+<author>Tamara Broderick</author>
+<title>LR-GLM: High-Dimensional Bayesian Inference Using Low-Rank Data Approximations.</title>
+<pages>6315-6324</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/trippe19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TrippeHAB19</url>
+</inproceedings></dblp>

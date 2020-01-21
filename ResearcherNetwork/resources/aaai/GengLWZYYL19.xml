@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GengLWZYYL19" mdate="2019-09-25">
+<author>Xu Geng</author>
+<author>Yaguang Li</author>
+<author>Leye Wang</author>
+<author>Lingyu Zhang</author>
+<author>Qiang Yang</author>
+<author>Jieping Ye</author>
+<author>Yan Liu</author>
+<title>Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting.</title>
+<pages>3656-3663</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013656</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GengLWZYYL19</url>
+</inproceedings></dblp>

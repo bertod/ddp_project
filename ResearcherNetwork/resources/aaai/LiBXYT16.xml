@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiBXYT16" mdate="2016-04-21">
+<author>Qiang Li</author>
+<author>Wei Bian</author>
+<author>Richard Yi Da Xu</author>
+<author>Jane You</author>
+<author>Dacheng Tao</author>
+<title>Random Mixed Field Model for Mixed-Attribute Data Restoration.</title>
+<pages>1244-1250</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11796</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiBXYT16</url>
+</inproceedings>
+</dblp>

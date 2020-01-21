@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZieglerR19" mdate="2019-06-11">
+<author>Zachary M. Ziegler</author>
+<author>Alexander M. Rush</author>
+<title>Latent Normalizing Flows for Discrete Sequences.</title>
+<pages>7673-7682</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ziegler19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZieglerR19</url>
+</inproceedings></dblp>

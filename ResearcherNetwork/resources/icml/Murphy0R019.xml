@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Murphy0R019" mdate="2019-07-22">
+<author>Ryan L. Murphy</author>
+<author>Balasubramaniam Srinivasan 0003</author>
+<author>Vinayak A. Rao</author>
+<author>Bruno Ribeiro 0001</author>
+<title>Relational Pooling for Graph Representations.</title>
+<pages>4663-4673</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/murphy19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Murphy0R019</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoLZCHZ17" mdate="2017-03-06">
+<author>Zhou Zhao</author>
+<author>Hanqing Lu</author>
+<author>Vincent W. Zheng</author>
+<author>Deng Cai</author>
+<author>Xiaofei He</author>
+<author>Yueting Zhuang</author>
+<title>Community-Based Question Answering via Asymmetric Multi-Faceted Ranking Network Learning.</title>
+<pages>3532-3539</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14207</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhaoLZCHZ17</url>
+</inproceedings>
+</dblp>

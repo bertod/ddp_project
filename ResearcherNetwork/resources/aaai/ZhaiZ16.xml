@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaiZ16" mdate="2016-04-21">
+<author>Shuangfei Zhai</author>
+<author>Zhongfei (Mark) Zhang</author>
+<title>Semisupervised Autoencoder for Sentiment Analysis.</title>
+<pages>1394-1400</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12059</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhaiZ16</url>
+</inproceedings>
+</dblp>

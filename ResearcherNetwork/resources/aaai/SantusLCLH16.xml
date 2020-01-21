@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SantusLCLH16" mdate="2019-10-31">
+<author>Enrico Santus</author>
+<author>Alessandro Lenci</author>
+<author>Tin-Shing Chiu</author>
+<author>Qin Lu 0001</author>
+<author>Chu-Ren Huang</author>
+<title>Unsupervised Measure of Word Similarity: How to Outperform Co-Occurrence and Vector Cosine in VSMs.</title>
+<pages>4260-4261</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11935</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SantusLCLH16</url>
+</inproceedings>
+</dblp>

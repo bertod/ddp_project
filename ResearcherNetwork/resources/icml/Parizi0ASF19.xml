@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Parizi0ASF19" mdate="2019-06-11">
+<author>Sobhan Naderi Parizi</author>
+<author>Kun He 0003</author>
+<author>Reza Aghajani</author>
+<author>Stan Sclaroff</author>
+<author>Pedro F. Felzenszwalb</author>
+<title>Generalized Majorization-Minimization.</title>
+<pages>5022-5031</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/parizi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Parizi0ASF19</url>
+</inproceedings></dblp>

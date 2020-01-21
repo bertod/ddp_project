@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GhazvininejadBC18" mdate="2018-10-22">
+<author>Marjan Ghazvininejad</author>
+<author>Chris Brockett</author>
+<author>Ming-Wei Chang</author>
+<author>Bill Dolan</author>
+<author>Jianfeng Gao</author>
+<author>Wen-tau Yih</author>
+<author>Michel Galley</author>
+<title>A Knowledge-Grounded Neural Conversation Model.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GhazvininejadBC18</url>
+<pages>5110-5117</pages>
+</inproceedings></dblp>

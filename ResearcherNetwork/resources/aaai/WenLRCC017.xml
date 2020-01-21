@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WenLRCC017" mdate="2019-10-02">
+<author>Zeyi Wen</author>
+<author>Bin Li</author>
+<author>Kotagiri Ramamohanarao</author>
+<author>Jian Chen 0011</author>
+<author>Yawen Chen</author>
+<author>Rui Zhang 0003</author>
+<title>Improving Efficiency of SVM <i>k</i>-Fold Cross-Validation by Alpha Seeding.</title>
+<pages>2768-2774</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14241</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WenLRCC017</url>
+</inproceedings>
+</dblp>

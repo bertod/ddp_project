@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SarkhelVPSG16" mdate="2016-04-21">
+<author>Somdeb Sarkhel</author>
+<author>Deepak Venugopal</author>
+<author>Tuan Anh Pham</author>
+<author>Parag Singla</author>
+<author>Vibhav Gogate</author>
+<title>Scalable Training of Markov Logic Networks Using Approximate Counting.</title>
+<pages>1067-1073</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12515</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SarkhelVPSG16</url>
+</inproceedings>
+</dblp>

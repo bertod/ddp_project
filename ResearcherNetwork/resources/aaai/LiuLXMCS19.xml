@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuLXMCS19" mdate="2019-09-25">
+<author>Tianyu Liu</author>
+<author>Fuli Luo</author>
+<author>Qiaolin Xia</author>
+<author>Shuming Ma</author>
+<author>Baobao Chang</author>
+<author>Zhifang Sui</author>
+<title>Hierarchical Encoder with Auxiliary Supervision for Neural Table-to-Text Generation: Learning Better Representation for Tables.</title>
+<pages>6786-6793</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016786</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuLXMCS19</url>
+</inproceedings></dblp>

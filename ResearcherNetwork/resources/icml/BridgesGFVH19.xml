@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BridgesGFVH19" mdate="2019-06-11">
+<author>Robert A. Bridges</author>
+<author>Anthony D. Gruber</author>
+<author>Christopher Felder</author>
+<author>Miki E. Verma</author>
+<author>Chelsey Hoff</author>
+<title>Active Manifolds: A non-linear analogue to Active Subspaces.</title>
+<pages>764-772</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bridges19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BridgesGFVH19</url>
+</inproceedings></dblp>

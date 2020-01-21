@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MillerOCM19" mdate="2019-06-11">
+<author>Andrew C. Miller</author>
+<author>Ziad Obermeyer</author>
+<author>John P. Cunningham</author>
+<author>Sendhil Mullainathan</author>
+<title>Discriminative Regularization for Latent Variable Models with Applications to Electrocardiography.</title>
+<pages>4585-4594</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/miller19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MillerOCM19</url>
+</inproceedings></dblp>

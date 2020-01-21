@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MehrotraCV19" mdate="2019-08-29">
+<author>L. Elisa Celis</author>
+<author>Anay Mehrotra</author>
+<author>Nisheeth K. Vishnoi</author>
+<title>Toward Controlling Discrimination in Online Ad Auctions.</title>
+<pages>4456-4465</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mehrotra19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MehrotraCV19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeeKCL18" mdate="2019-04-03">
+<author>Kyowoon Lee</author>
+<author>Sol-A. Kim</author>
+<author>Jaesik Choi</author>
+<author>Seong-Whan Lee</author>
+<title>Deep Reinforcement Learning in Continuous Action Spaces: a Case Study in the Game of Simulated Curling.</title>
+<pages>2943-2952</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/lee18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LeeKCL18</url>
+</inproceedings>
+</dblp>

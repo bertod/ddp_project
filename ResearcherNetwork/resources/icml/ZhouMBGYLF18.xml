@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhouMBGYLF18" mdate="2019-07-22">
+<author>Zhengyuan Zhou</author>
+<author>Panayotis Mertikopoulos</author>
+<author>Nicholas Bambos</author>
+<author>Peter W. Glynn</author>
+<author>Yinyu Ye</author>
+<author>Li-Jia Li</author>
+<author>Li Fei-Fei 0001</author>
+<title>Distributed Asynchronous Optimization with Unbounded Delays: How Slow Can You Go?</title>
+<pages>5965-5974</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhou18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ZhouMBGYLF18</url>
+</inproceedings>
+</dblp>

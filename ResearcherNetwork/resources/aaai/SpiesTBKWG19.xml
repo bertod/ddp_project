@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SpiesTBKWG19" mdate="2019-09-25">
+<author>Markus Spies</author>
+<author>Marco Todescato</author>
+<author>Hannes Becker</author>
+<author>Patrick Kesper</author>
+<author>Nicolai Waniek</author>
+<author>Meng Guo</author>
+<title>Bounded Suboptimal Search with Learned Heuristics for Multi-Agent Systems.</title>
+<pages>2387-2394</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012387</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SpiesTBKWG19</url>
+</inproceedings></dblp>

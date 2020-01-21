@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrightKG18" mdate="2018-10-22">
+<author>Curtis Bright</author>
+<author>Ilias S. Kotsireas</author>
+<author>Vijay Ganesh</author>
+<title>A SAT+CAS Method for Enumerating Williamson Matrices of Even Order.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16625</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BrightKG18</url>
+<pages>6573-6580</pages>
+</inproceedings></dblp>

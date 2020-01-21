@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuRTJM19" mdate="2019-06-11">
+<author>Runjing Liu</author>
+<author>Jeffrey Regier</author>
+<author>Nilesh Tripuraneni</author>
+<author>Michael I. Jordan</author>
+<author>Jon D. McAuliffe</author>
+<title>Rao-Blackwellized Stochastic Gradients for Discrete Distributions.</title>
+<pages>4023-4031</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuRTJM19</url>
+</inproceedings></dblp>

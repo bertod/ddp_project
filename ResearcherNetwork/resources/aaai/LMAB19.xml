@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LMAB19" mdate="2019-09-25">
+<author>Navaneet K. L.</author>
+<author>Priyanka Mandikal</author>
+<author>Mayank Agarwal</author>
+<author>R. Venkatesh Babu</author>
+<title>CAPNet: Continuous Approximation Projection for 3D Point Cloud Reconstruction Using 2D Supervision.</title>
+<pages>8819-8826</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018819</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LMAB19</url>
+</inproceedings></dblp>

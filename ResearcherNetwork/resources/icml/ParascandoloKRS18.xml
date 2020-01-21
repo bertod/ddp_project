@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ParascandoloKRS18" mdate="2019-04-03">
+<author>Giambattista Parascandolo</author>
+<author>Niki Kilbertus</author>
+<author>Mateo Rojas-Carulla</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<title>Learning Independent Causal Mechanisms.</title>
+<pages>4033-4041</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/parascandolo18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ParascandoloKRS18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TangZLW19" mdate="2019-09-25">
+<author>Chang Tang</author>
+<author>Xinzhong Zhu</author>
+<author>Xinwang Liu</author>
+<author>Lizhe Wang</author>
+<title>Cross-View Local Structure Preserved Diversity and Consensus Learning for Multi-View Unsupervised Feature Selection.</title>
+<pages>5101-5108</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015101</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TangZLW19</url>
+</inproceedings></dblp>

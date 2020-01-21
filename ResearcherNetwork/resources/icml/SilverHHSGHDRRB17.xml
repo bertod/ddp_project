@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SilverHHSGHDRRB17" mdate="2019-04-03">
+<author>David Silver</author>
+<author>Hado van Hasselt</author>
+<author>Matteo Hessel</author>
+<author>Tom Schaul</author>
+<author>Arthur Guez</author>
+<author>Tim Harley</author>
+<author>Gabriel Dulac-Arnold</author>
+<author>David P. Reichert</author>
+<author>Neil C. Rabinowitz</author>
+<author>Andr&#233; Barreto</author>
+<author>Thomas Degris</author>
+<title>The Predictron: End-To-End Learning and Planning.</title>
+<pages>3191-3199</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/silver17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SilverHHSGHDRRB17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AgarwalMF19" mdate="2019-09-25">
+<author>Arpit Agarwal</author>
+<author>Katharina Muelling</author>
+<author>Katerina Fragkiadaki</author>
+<title>Model Learning for Look-Ahead Exploration in Continuous Control.</title>
+<pages>3151-3158</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013151</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#AgarwalMF19</url>
+</inproceedings></dblp>

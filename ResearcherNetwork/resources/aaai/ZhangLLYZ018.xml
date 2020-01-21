@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangLLYZ018" mdate="2019-02-15">
+<author>Chao Zhang 0014</author>
+<author>Mengxiong Liu</author>
+<author>Zhengchao Liu</author>
+<author>Carl Yang</author>
+<author>Luming Zhang</author>
+<author>Jiawei Han 0001</author>
+<title>Spatiotemporal Activity Modeling Under Data Scarcity: A Graph-Regularized Cross-Modal Embedding Approach.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17108</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhangLLYZ018</url>
+<pages>531-538</pages>
+</inproceedings></dblp>

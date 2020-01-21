@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KoturwarSI19" mdate="2019-09-25">
+<author>Saiprasad Koturwar</author>
+<author>Soma Shiraishi</author>
+<author>Kota Iwamoto</author>
+<title>Robust Multi-Object Detection Based on Data Augmentation with Realistic Image Synthesis for Point-of-Sale Automation.</title>
+<pages>9492-9497</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019492</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KoturwarSI19</url>
+</inproceedings></dblp>

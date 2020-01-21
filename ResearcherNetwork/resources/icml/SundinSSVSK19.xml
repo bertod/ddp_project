@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SundinSSVSK19" mdate="2019-06-11">
+<author>Iiris Sundin</author>
+<author>Peter Schulam</author>
+<author>Eero Siivola</author>
+<author>Aki Vehtari</author>
+<author>Suchi Saria</author>
+<author>Samuel Kaski</author>
+<title>Active Learning for Decision-Making from Imbalanced Observational Data.</title>
+<pages>6046-6055</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/sundin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SundinSSVSK19</url>
+</inproceedings></dblp>

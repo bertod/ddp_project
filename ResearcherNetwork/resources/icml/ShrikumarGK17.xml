@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShrikumarGK17" mdate="2019-04-03">
+<author>Avanti Shrikumar</author>
+<author>Peyton Greenside</author>
+<author>Anshul Kundaje</author>
+<title>Learning Important Features Through Propagating Activation Differences.</title>
+<pages>3145-3153</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/shrikumar17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ShrikumarGK17</url>
+</inproceedings>
+</dblp>

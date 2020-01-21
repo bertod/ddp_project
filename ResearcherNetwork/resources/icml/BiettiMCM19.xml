@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BiettiMCM19" mdate="2019-06-11">
+<author>Alberto Bietti</author>
+<author>Gr&#233;goire Mialon</author>
+<author>Dexiong Chen</author>
+<author>Julien Mairal</author>
+<title>A Kernel Perspective for Regularizing Deep Neural Networks.</title>
+<pages>664-674</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bietti19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BiettiMCM19</url>
+</inproceedings></dblp>

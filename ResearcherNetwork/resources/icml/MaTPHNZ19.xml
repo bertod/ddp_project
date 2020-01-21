@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MaTPHNZ19" mdate="2019-06-11">
+<author>Chao Ma</author>
+<author>Sebastian Tschiatschek</author>
+<author>Konstantina Palla</author>
+<author>Jos&#233; Miguel Hern&#225;ndez-Lobato</author>
+<author>Sebastian Nowozin</author>
+<author>Cheng Zhang</author>
+<title>EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE.</title>
+<pages>4234-4243</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ma19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MaTPHNZ19</url>
+</inproceedings></dblp>

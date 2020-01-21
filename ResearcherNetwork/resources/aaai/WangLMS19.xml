@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangLMS19" mdate="2019-09-25">
+<author>Yiyang Wang</author>
+<author>Risheng Liu</author>
+<author>Long Ma 0002</author>
+<author>Xiaoliang Song</author>
+<title>Task Embedded Coordinate Update: A Realizable Framework for Multivariate Non-Convex Optimization.</title>
+<pages>1650-1657</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011650</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangLMS19</url>
+</inproceedings></dblp>

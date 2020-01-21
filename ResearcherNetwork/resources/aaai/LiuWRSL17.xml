@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuWRSL17" mdate="2017-12-16">
+<author>Feng Liu 0011</author>
+<author>Shouyi Wang</author>
+<author>Jay Rosenberger</author>
+<author>Jianzhong Su</author>
+<author>Hanli Liu</author>
+<title>A Sparse Dictionary Learning Framework to Discover Discriminative Source Activations in EEG Brain Mapping.</title>
+<pages>1431-1437</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14637</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuWRSL17</url>
+</inproceedings></dblp>

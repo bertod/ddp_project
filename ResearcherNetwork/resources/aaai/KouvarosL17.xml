@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KouvarosL17" mdate="2017-03-06">
+<author>Panagiotis Kouvaros</author>
+<author>Alessio Lomuscio</author>
+<title>Parameterised Verification of Infinite State Multi-Agent Systems via Predicate Abstraction.</title>
+<pages>3013-3020</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14981</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KouvarosL17</url>
+</inproceedings>
+</dblp>

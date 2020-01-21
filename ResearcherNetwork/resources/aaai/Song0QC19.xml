@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Song0QC19" mdate="2019-09-25">
+<author>Lingyun Song</author>
+<author>Jun Liu 0002</author>
+<author>Buyue Qian</author>
+<author>Yihe Chen</author>
+<title>Connecting Language to Images: A Progressive Attention-Guided Network for Simultaneous Image Captioning and Language Grounding.</title>
+<pages>8885-8892</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018885</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Song0QC19</url>
+</inproceedings></dblp>

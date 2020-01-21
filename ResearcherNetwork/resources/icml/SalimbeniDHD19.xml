@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SalimbeniDHD19" mdate="2019-06-11">
+<author>Hugh Salimbeni</author>
+<author>Vincent Dutordoir</author>
+<author>James Hensman</author>
+<author>Marc Peter Deisenroth</author>
+<title>Deep Gaussian Processes with Importance-Weighted Variational Inference.</title>
+<pages>5589-5598</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/salimbeni19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SalimbeniDHD19</url>
+</inproceedings></dblp>

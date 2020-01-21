@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaiCZYW18" mdate="2019-04-21">
+<author>Han Cai</author>
+<author>Tianyao Chen</author>
+<author>Weinan Zhang 0001</author>
+<author>Yong Yu 0001</author>
+<author>Jun Wang 0012</author>
+<title>Efficient Architecture Search by Network Transformation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16755</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#CaiCZYW18</url>
+<pages>2787-2794</pages>
+</inproceedings></dblp>

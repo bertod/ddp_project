@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LuoSZLZW18" mdate="2019-07-22">
+<author>Wenhan Luo</author>
+<author>Peng Sun</author>
+<author>Fangwei Zhong</author>
+<author>Wei Liu 0005</author>
+<author>Tong Zhang 0001</author>
+<author>Yizhou Wang</author>
+<title>End-to-end Active Object Tracking via Reinforcement Learning.</title>
+<pages>3292-3301</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/luo18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LuoSZLZW18</url>
+</inproceedings></dblp>

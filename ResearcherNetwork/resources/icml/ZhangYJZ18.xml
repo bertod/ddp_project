@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangYJZ18" mdate="2019-05-28">
+<author>Lijun Zhang 0005</author>
+<author>Tianbao Yang</author>
+<author>Rong Jin</author>
+<author>Zhi-Hua Zhou</author>
+<title>Dynamic Regret of Strongly Adaptive Methods.</title>
+<pages>5877-5886</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhang18o.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ZhangYJZ18</url>
+</inproceedings>
+</dblp>

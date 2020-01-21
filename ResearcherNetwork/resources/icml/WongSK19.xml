@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WongSK19" mdate="2019-06-11">
+<author>Eric Wong</author>
+<author>Frank R. Schmidt</author>
+<author>J. Zico Kolter</author>
+<title>Wasserstein Adversarial Examples via Projected Sinkhorn Iterations.</title>
+<pages>6808-6817</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wong19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WongSK19</url>
+</inproceedings></dblp>

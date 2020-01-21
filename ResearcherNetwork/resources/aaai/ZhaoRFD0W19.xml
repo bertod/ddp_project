@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoRFD0W19" mdate="2019-10-19">
+<author orcid="0000-0002-3474-349X">Xingyu Zhao</author>
+<author>Valentin Robu</author>
+<author orcid="0000-0002-1024-3618">David Flynn</author>
+<author>Fateme Dinmohammadi</author>
+<author>Michael Fisher 0001</author>
+<author>Matt Webster</author>
+<title>Probabilistic Model Checking of Robots Deployed in Extreme Environments.</title>
+<pages>8066-8074</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018066</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoRFD0W19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OkunoHS18" mdate="2019-04-03">
+<author>Akifumi Okuno</author>
+<author>Tetsuya Hada</author>
+<author>Hidetoshi Shimodaira</author>
+<title>A probabilistic framework for multi-view feature learning with many-to-many associations via neural networks.</title>
+<pages>3885-3894</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/okuno18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#OkunoHS18</url>
+</inproceedings>
+</dblp>

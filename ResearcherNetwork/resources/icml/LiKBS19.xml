@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiKBS19" mdate="2019-09-26">
+<author>Yang Li 0058</author>
+<author>Lukasz Kaiser</author>
+<author>Samy Bengio</author>
+<author>Si Si</author>
+<title>Area Attention.</title>
+<pages>3846-3855</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiKBS19</url>
+</inproceedings>
+</dblp>

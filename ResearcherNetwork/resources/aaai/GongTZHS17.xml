@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GongTZHS17" mdate="2017-03-06">
+<author>Dong Gong</author>
+<author>Mingkui Tan</author>
+<author>Yanning Zhang</author>
+<author>Anton van den Hengel</author>
+<author>Qinfeng Shi</author>
+<title>MPGL: An Efficient Matching Pursuit Method for Generalized LASSO.</title>
+<pages>1934-1940</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14429</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GongTZHS17</url>
+</inproceedings>
+</dblp>

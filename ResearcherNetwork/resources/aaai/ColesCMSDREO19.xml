@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ColesCMSDREO19" mdate="2019-12-27">
+<author>Amanda Jane Coles</author>
+<author>Andrew Coles</author>
+<author>Mois&#233;s Mart&#237;nez</author>
+<author>Emre Savas</author>
+<author>Juan Manuel Delfa</author>
+<author>Tom&#225;s de la Rosa</author>
+<author>Yolanda E.-Mart&#237;n</author>
+<author orcid="0000-0002-4531-5896">Angel Garc&#237;a Olaya</author>
+<title>Efficiently Reasoning with Interval Constraints in Forward Search Planning.</title>
+<pages>7562-7569</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017562</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ColesCMSDREO19</url>
+</inproceedings></dblp>

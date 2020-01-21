@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LambBGSMBM19" mdate="2019-06-11">
+<author>Alex Lamb</author>
+<author>Jonathan Binas</author>
+<author>Anirudh Goyal</author>
+<author>Sandeep Subramanian</author>
+<author>Ioannis Mitliagkas</author>
+<author>Yoshua Bengio</author>
+<author>Michael Mozer</author>
+<title>State-Reification Networks: Improving Generalization by Modeling the Distribution of Hidden Representations.</title>
+<pages>3622-3631</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lamb19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LambBGSMBM19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuLZXL19" mdate="2019-09-25">
+<author>Yao Lu</author>
+<author>Guangming Lu</author>
+<author>Bob Zhang</author>
+<author>Yuanrong Xu</author>
+<author>Jinxing Li</author>
+<title>Super Sparse Convolutional Neural Networks.</title>
+<pages>4440-4447</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014440</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LuLZXL19</url>
+</inproceedings></dblp>

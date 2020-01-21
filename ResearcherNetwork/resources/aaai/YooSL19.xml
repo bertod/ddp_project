@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YooSL19" mdate="2019-09-25">
+<author>Kang Min Yoo</author>
+<author>Youhyun Shin</author>
+<author>Sang-goo Lee</author>
+<title>Data Augmentation for Spoken Language Understanding via Joint Variational Generation.</title>
+<pages>7402-7409</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017402</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YooSL19</url>
+</inproceedings></dblp>

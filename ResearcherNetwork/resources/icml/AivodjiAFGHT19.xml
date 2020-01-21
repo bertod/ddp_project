@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AivodjiAFGHT19" mdate="2019-06-11">
+<author>Ulrich A&#239;vodji</author>
+<author>Hiromi Arai</author>
+<author>Olivier Fortineau</author>
+<author>S&#233;bastien Gambs</author>
+<author>Satoshi Hara</author>
+<author>Alain Tapp</author>
+<title>Fairwashing: the risk of rationalization.</title>
+<pages>161-170</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/aivodji19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AivodjiAFGHT19</url>
+</inproceedings></dblp>

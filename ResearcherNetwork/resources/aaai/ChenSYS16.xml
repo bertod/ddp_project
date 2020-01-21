@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenSYS16" mdate="2016-04-21">
+<author>Quanjun Chen</author>
+<author>Xuan Song</author>
+<author>Harutoshi Yamada</author>
+<author>Ryosuke Shibasaki</author>
+<title>Learning Deep Representation from Big and Heterogeneous Data for Traffic Accident Inference.</title>
+<pages>338-344</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12036</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenSYS16</url>
+</inproceedings>
+</dblp>

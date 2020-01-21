@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuN19" mdate="2019-06-11">
+<author>Yilun Du</author>
+<author>Karthik Narasimhan</author>
+<title>Task-Agnostic Dynamics Priors for Deep Reinforcement Learning.</title>
+<pages>1696-1705</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/du19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DuN19</url>
+</inproceedings></dblp>

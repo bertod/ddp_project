@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShenOAR19" mdate="2019-06-11">
+<author>Tianxiao Shen</author>
+<author>Myle Ott</author>
+<author>Michael Auli</author>
+<author>Marc'Aurelio Ranzato</author>
+<title>Mixture Models for Diverse Machine Translation: Tricks of the Trade.</title>
+<pages>5719-5728</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shen19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShenOAR19</url>
+</inproceedings></dblp>

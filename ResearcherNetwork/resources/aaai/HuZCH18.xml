@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuZCH18" mdate="2020-01-14">
+<author>Qinmin Hu</author>
+<author>Jie Zhou 0015</author>
+<author>Qin Chen</author>
+<author>Liang He 0001</author>
+<title>SNNN: Promoting Word Sentiment and Negation in Neural Sentiment Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16505</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuZCH18</url>
+<pages>3255-3262</pages>
+</inproceedings>
+</dblp>

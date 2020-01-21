@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangCLXZS19" mdate="2019-09-25">
+<author>Xiaobin Wang</author>
+<author>Deng Cai</author>
+<author>Linlin Li</author>
+<author>Guangwei Xu</author>
+<author>Hai Zhao</author>
+<author>Luo Si</author>
+<title>Unsupervised Learning Helps Supervised Neural Word Segmentation.</title>
+<pages>7200-7207</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017200</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangCLXZS19</url>
+</inproceedings></dblp>

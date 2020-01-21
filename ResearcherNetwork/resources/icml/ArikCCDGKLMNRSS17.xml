@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ArikCCDGKLMNRSS17" mdate="2019-04-03">
+<author>Sercan &#214;mer Arik</author>
+<author>Mike Chrzanowski</author>
+<author>Adam Coates</author>
+<author>Gregory Frederick Diamos</author>
+<author>Andrew Gibiansky</author>
+<author>Yongguo Kang</author>
+<author>Xian Li</author>
+<author>John Miller</author>
+<author>Andrew Y. Ng</author>
+<author>Jonathan Raiman</author>
+<author>Shubho Sengupta</author>
+<author>Mohammad Shoeybi</author>
+<title>Deep Voice: Real-time Neural Text-to-Speech.</title>
+<pages>195-204</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/arik17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ArikCCDGKLMNRSS17</url>
+</inproceedings>
+</dblp>

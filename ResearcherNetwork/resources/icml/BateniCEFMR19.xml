@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BateniCEFMR19" mdate="2019-08-12">
+<author>MohammadHossein Bateni</author>
+<author>Lin Chen</author>
+<author>Hossein Esfandiari</author>
+<author>Thomas Fu</author>
+<author>Vahab S. Mirrokni</author>
+<author>Afshin Rostamizadeh</author>
+<title>Categorical Feature Compression via Submodular Optimization.</title>
+<pages>515-523</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bateni19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BateniCEFMR19</url>
+</inproceedings></dblp>

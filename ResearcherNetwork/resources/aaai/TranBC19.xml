@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TranBC19" mdate="2019-09-25">
+<author>Ngoc-Trung Tran</author>
+<author>Tuan-Anh Bui</author>
+<author>Ngai-Man Cheung</author>
+<title>Improving GAN with Neighbors Embedding and Gradient Matching.</title>
+<pages>5191-5198</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015191</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TranBC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GengYKK19" mdate="2019-06-11">
+<author>Sinong Geng</author>
+<author>Minhao Yan</author>
+<author>Mladen Kolar</author>
+<author>Sanmi Koyejo</author>
+<title>Partially Linear Additive Gaussian Graphical Models.</title>
+<pages>2180-2190</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/geng19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GengYKK19</url>
+</inproceedings></dblp>

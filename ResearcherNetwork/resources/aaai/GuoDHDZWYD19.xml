@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoDHDZWYD19" mdate="2019-09-25">
+<author>Yuchen Guo</author>
+<author>Guiguang Ding</author>
+<author>Jungong Han</author>
+<author>Xiaohan Ding</author>
+<author>Sicheng Zhao</author>
+<author>Zheng Wang</author>
+<author>Chenggang Yan</author>
+<author>Qionghai Dai</author>
+<title>Dual-View Ranking with Hardness Assessment for Zero-Shot Learning.</title>
+<pages>8360-8367</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018360</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuoDHDZWYD19</url>
+</inproceedings></dblp>

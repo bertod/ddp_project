@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TateoBRAB18" mdate="2018-10-22">
+<author>Davide Tateo</author>
+<author>Jacopo Banfi</author>
+<author>Alessandro Riva</author>
+<author>Francesco Amigoni</author>
+<author>Andrea Bonarini</author>
+<title>Multiagent Connected Path Planning: PSPACE-Completeness and How to Deal With It.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16943</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TateoBRAB18</url>
+<pages>4735-4742</pages>
+</inproceedings></dblp>

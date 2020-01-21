@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/StelznerPK19" mdate="2019-06-11">
+<author>Karl Stelzner</author>
+<author>Robert Peharz</author>
+<author>Kristian Kersting</author>
+<title>Faster Attend-Infer-Repeat with Tractable Probabilistic Models.</title>
+<pages>5966-5975</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/stelzner19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#StelznerPK19</url>
+</inproceedings></dblp>

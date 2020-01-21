@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WeiSKOG17" mdate="2019-04-03">
+<author>Pengfei Wei</author>
+<author>Ram&#243;n Sagarna</author>
+<author>Yiping Ke</author>
+<author>Yew-Soon Ong</author>
+<author>Chi-Keong Goh</author>
+<title>Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression.</title>
+<pages>3722-3731</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wei17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WeiSKOG17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DubeyAPGE18" mdate="2019-04-03">
+<author>Rachit Dubey</author>
+<author>Pulkit Agrawal</author>
+<author>Deepak Pathak</author>
+<author>Tom Griffiths</author>
+<author>Alexei A. Efros</author>
+<title>Investigating Human Priors for Playing Video Games.</title>
+<pages>1348-1356</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/dubey18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DubeyAPGE18</url>
+</inproceedings>
+</dblp>

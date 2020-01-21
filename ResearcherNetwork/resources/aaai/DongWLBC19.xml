@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DongWLBC19" mdate="2019-09-25">
+<author>Tiansi Dong</author>
+<author>Zhigang Wang</author>
+<author>Juanzi Li</author>
+<author>Christian Bauckhage</author>
+<author>Armin B. Cremers</author>
+<title>Triple Classification Using Regions and Fine-Grained Entity Typing.</title>
+<pages>77-85</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330177</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DongWLBC19</url>
+</inproceedings></dblp>

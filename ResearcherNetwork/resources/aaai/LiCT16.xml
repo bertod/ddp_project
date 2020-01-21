@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiCT16" mdate="2016-04-21">
+<author>Bopeng Li</author>
+<author>Sougata Chaudhuri</author>
+<author>Ambuj Tewari</author>
+<title>Handling Class Imbalance in Link Prediction Using Learning to Rank Techniques.</title>
+<pages>4226-4227</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11820</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiCT16</url>
+</inproceedings>
+</dblp>

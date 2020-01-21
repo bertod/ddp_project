@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LinMY18" mdate="2019-04-03">
+<author>Qihang Lin</author>
+<author>Runchao Ma</author>
+<author>Tianbao Yang</author>
+<title>Level-Set Methods for Finite-Sum Constrained Convex Optimization.</title>
+<pages>3118-3127</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/lin18c.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LinMY18</url>
+</inproceedings>
+</dblp>

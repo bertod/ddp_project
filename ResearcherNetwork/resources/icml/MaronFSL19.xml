@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MaronFSL19" mdate="2019-06-11">
+<author>Haggai Maron</author>
+<author>Ethan Fetaya</author>
+<author>Nimrod Segol</author>
+<author>Yaron Lipman</author>
+<title>On the Universality of Invariant Networks.</title>
+<pages>4363-4371</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/maron19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MaronFSL19</url>
+</inproceedings></dblp>

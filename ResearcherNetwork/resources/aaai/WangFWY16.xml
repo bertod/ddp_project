@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangFWY16" mdate="2017-09-20">
+<author>Chunyu Wang</author>
+<author>John Flynn</author>
+<author>Yizhou Wang 0001</author>
+<author>Alan L. Yuille</author>
+<title>Recognizing Actions in 3D Using Action-Snippets and Activated Simplices.</title>
+<pages>3604-3610</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12108</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangFWY16</url>
+</inproceedings></dblp>

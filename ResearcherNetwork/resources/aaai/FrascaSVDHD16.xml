@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FrascaSVDHD16" mdate="2016-04-21">
+<author>Tyler M. Frasca</author>
+<author>Antonio G. Sestito</author>
+<author>Craig Versek</author>
+<author>Douglas E. Dow</author>
+<author>Barry C. Husowitz</author>
+<author>Nate Derbinsky</author>
+<title>A Comparison of Supervised Learning Algorithms for Telerobotic Control Using Electromyography Signals.</title>
+<pages>4208-4211</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11859</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FrascaSVDHD16</url>
+</inproceedings>
+</dblp>

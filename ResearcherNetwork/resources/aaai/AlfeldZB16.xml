@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AlfeldZB16" mdate="2016-07-12">
+<author>Scott Alfeld</author>
+<author>Xiaojin Zhu 0001</author>
+<author>Paul Barford</author>
+<title>Data Poisoning Attacks against Autoregressive Models.</title>
+<pages>1452-1458</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12049</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#AlfeldZB16</url>
+</inproceedings>
+</dblp>

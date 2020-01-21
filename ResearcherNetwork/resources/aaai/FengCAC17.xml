@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FengCAC17" mdate="2017-03-06">
+<author>Shanshan Feng</author>
+<author>Gao Cong</author>
+<author>Bo An</author>
+<author>Yeow Meng Chee</author>
+<title>POI2Vec: Geographical Latent Representation for Predicting Future Visitors.</title>
+<pages>102-108</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14902</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#FengCAC17</url>
+</inproceedings>
+</dblp>

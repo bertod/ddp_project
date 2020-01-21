@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenKB17" mdate="2019-04-03">
+<author>Bryant Chen</author>
+<author>Daniel Kumor</author>
+<author>Elias Bareinboim</author>
+<title>Identification and Model Testing in Linear Structural Equation Models using Auxiliary Variables.</title>
+<pages>757-766</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chen17f.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChenKB17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NellerMY16" mdate="2016-04-21">
+<author>Todd W. Neller</author>
+<author>Colin M. Messinger</author>
+<author>Zuozhi Yang</author>
+<title>Learning and Using Hand Abstraction Values for Parameterized Poker Squares.</title>
+<pages>4095-4100</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12537</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#NellerMY16</url>
+</inproceedings>
+</dblp>

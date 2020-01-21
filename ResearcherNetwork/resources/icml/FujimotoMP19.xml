@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FujimotoMP19" mdate="2019-06-11">
+<author>Scott Fujimoto</author>
+<author>David Meger</author>
+<author>Doina Precup</author>
+<title>Off-Policy Deep Reinforcement Learning without Exploration.</title>
+<pages>2052-2062</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/fujimoto19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FujimotoMP19</url>
+</inproceedings></dblp>

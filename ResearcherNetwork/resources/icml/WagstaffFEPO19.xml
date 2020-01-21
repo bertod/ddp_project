@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WagstaffFEPO19" mdate="2019-06-11">
+<author>Edward Wagstaff</author>
+<author>Fabian Fuchs</author>
+<author>Martin Engelcke</author>
+<author>Ingmar Posner</author>
+<author>Michael A. Osborne</author>
+<title>On the Limitations of Representing Functions on Sets.</title>
+<pages>6487-6494</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wagstaff19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WagstaffFEPO19</url>
+</inproceedings></dblp>

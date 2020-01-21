@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SteinmetzH16" mdate="2016-06-23">
+<author>Marcel Steinmetz</author>
+<author>J&#246;rg Hoffmann 0001</author>
+<title>Towards Clause-Learning State Space Search: Learning to Recognize Dead-Ends.</title>
+<pages>760-768</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11861</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SteinmetzH16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BuenoBMS19" mdate="2019-09-25">
+<author>Thiago P. Bueno</author>
+<author>Leliane N. de Barros</author>
+<author>Denis Deratani Mau&#225;</author>
+<author>Scott Sanner</author>
+<title>Deep Reactive Policies for Planning in Stochastic Nonlinear Domains.</title>
+<pages>7530-7537</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017530</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BuenoBMS19</url>
+</inproceedings></dblp>

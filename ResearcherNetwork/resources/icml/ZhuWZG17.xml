@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhuWZG17" mdate="2019-04-03">
+<author>Rongda Zhu</author>
+<author>Lingxiao Wang</author>
+<author>Chengxiang Zhai</author>
+<author>Quanquan Gu</author>
+<title>High-Dimensional Variance-Reduced Stochastic Gradient Expectation-Maximization Algorithm.</title>
+<pages>4180-4188</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zhu17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZhuWZG17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/McDermottYNHSSG18" mdate="2018-10-22">
+<author>Matthew B. A. McDermott</author>
+<author>Tom Yan</author>
+<author>Tristan Naumann</author>
+<author>Nathan Hunt</author>
+<author>Harini Suresh</author>
+<author>Peter Szolovits</author>
+<author>Marzyeh Ghassemi</author>
+<title>Semi-Supervised Biomedical Translation With Cycle Wasserstein Regression GANs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16938</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#McDermottYNHSSG18</url>
+<pages>2363-2370</pages>
+</inproceedings></dblp>

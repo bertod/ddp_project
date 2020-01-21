@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuGMZ16" mdate="2018-03-06">
+<author>Jiang Liu 0011</author>
+<author>Chenqiang Gao</author>
+<author>Deyu Meng</author>
+<author>Wangmeng Zuo</author>
+<title>Two-Stream Contextualized CNN for Fine-Grained Image Classification.</title>
+<pages>4232-4233</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11772</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiuGMZ16</url>
+</inproceedings></dblp>

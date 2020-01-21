@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuiziliniR17" mdate="2017-03-06">
+<author>Vitor Campanholo Guizilini</author>
+<author>Fabio Tozeto Ramos</author>
+<title>Unsupervised Feature Learning for 3D Scene Reconstruction with Occupancy Maps.</title>
+<pages>3827-3833</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14419</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GuiziliniR17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLDLZK19" mdate="2019-10-10">
+<author>Hui Chen</author>
+<author>Zijia Lin</author>
+<author>Guiguang Ding</author>
+<author>Jianguang Lou</author>
+<author>Yusen Zhang</author>
+<author>B&#246;rje Karlsson 0001</author>
+<title>GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.</title>
+<pages>6236-6243</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016236</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenLDLZK19</url>
+</inproceedings>
+</dblp>

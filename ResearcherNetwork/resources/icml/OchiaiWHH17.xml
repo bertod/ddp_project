@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OchiaiWHH17" mdate="2019-04-03">
+<author>Tsubasa Ochiai</author>
+<author>Shinji Watanabe</author>
+<author>Takaaki Hori</author>
+<author>John R. Hershey</author>
+<title>Multichannel End-to-end Speech Recognition.</title>
+<pages>2632-2641</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/ochiai17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#OchiaiWHH17</url>
+</inproceedings>
+</dblp>

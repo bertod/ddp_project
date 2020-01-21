@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShivashankarAA17" mdate="2017-03-06">
+<author>Vikas Shivashankar</author>
+<author>Ron Alford</author>
+<author>David W. Aha</author>
+<title>Incorporating Domain-Independent Planning Heuristics in Hierarchical Planning.</title>
+<pages>3658-3664</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14979</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShivashankarAA17</url>
+</inproceedings>
+</dblp>

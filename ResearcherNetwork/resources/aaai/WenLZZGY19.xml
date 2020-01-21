@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WenLZZGY19" mdate="2019-09-25">
+<author>Jun Wen</author>
+<author>Risheng Liu</author>
+<author>Nenggan Zheng</author>
+<author>Qian Zheng</author>
+<author>Zhefeng Gong</author>
+<author>Junsong Yuan</author>
+<title>Exploiting Local Feature Patterns for Unsupervised Domain Adaptation.</title>
+<pages>5401-5408</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015401</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WenLZZGY19</url>
+</inproceedings></dblp>

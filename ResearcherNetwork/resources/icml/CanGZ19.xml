@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CanGZ19" mdate="2019-06-11">
+<author>Bugra Can</author>
+<author>Mert G&#252;rb&#252;zbalaban</author>
+<author>Lingjiong Zhu</author>
+<title>Accelerated Linear Convergence of Stochastic Momentum Methods in Wasserstein Distances.</title>
+<pages>891-901</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/can19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CanGZ19</url>
+</inproceedings></dblp>

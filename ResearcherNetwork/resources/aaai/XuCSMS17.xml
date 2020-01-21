@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuCSMS17" mdate="2017-03-06">
+<author>Ke Xu</author>
+<author>Tongyi Cao</author>
+<author>Swair Shah</author>
+<author>Crystal Maung</author>
+<author>Haim Schweitzer</author>
+<title>Cleaning the Null Space: A Privacy Mechanism for Predictors.</title>
+<pages>2789-2795</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14971</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#XuCSMS17</url>
+</inproceedings>
+</dblp>

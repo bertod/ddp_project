@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Arora0LMZ17" mdate="2019-04-03">
+<author>Sanjeev Arora</author>
+<author>Rong Ge 0001</author>
+<author>Yingyu Liang</author>
+<author>Tengyu Ma</author>
+<author>Yi Zhang</author>
+<title>Generalization and Equilibrium in Generative Adversarial Nets (GANs).</title>
+<pages>224-232</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/arora17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Arora0LMZ17</url>
+</inproceedings>
+</dblp>

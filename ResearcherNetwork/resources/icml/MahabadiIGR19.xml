@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MahabadiIGR19" mdate="2019-06-11">
+<author>Sepideh Mahabadi</author>
+<author>Piotr Indyk</author>
+<author>Shayan Oveis Gharan</author>
+<author>Alireza Rezaei</author>
+<title>Composable Core-sets for Determinant Maximization: A Simple Near-Optimal Algorithm.</title>
+<pages>4254-4263</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mahabadi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MahabadiIGR19</url>
+</inproceedings></dblp>

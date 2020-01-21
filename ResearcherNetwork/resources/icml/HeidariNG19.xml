@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HeidariNG19" mdate="2019-06-11">
+<author>Hoda Heidari</author>
+<author>Vedant Nanda</author>
+<author>Krishna P. Gummadi</author>
+<title>On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning.</title>
+<pages>2692-2701</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/heidari19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HeidariNG19</url>
+</inproceedings></dblp>

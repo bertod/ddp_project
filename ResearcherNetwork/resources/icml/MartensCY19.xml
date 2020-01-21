@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MartensCY19" mdate="2019-06-11">
+<author>Kaspar M&#228;rtens</author>
+<author>Kieran R. Campbell</author>
+<author>Christopher Yau</author>
+<title>Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models.</title>
+<pages>4372-4381</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/martens19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MartensCY19</url>
+</inproceedings></dblp>

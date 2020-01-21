@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoCLLWZ16" mdate="2019-11-29">
+<author>Ziqiang Cao</author>
+<author>Chengyao Chen</author>
+<author>Wenjie Li 0002</author>
+<author>Sujian Li</author>
+<author>Furu Wei</author>
+<author>Ming Zhou 0001</author>
+<title>TGSum: Build Tweet Guided Multi-Document Summarization Dataset.</title>
+<pages>2906-2912</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11991</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#CaoCLLWZ16</url>
+</inproceedings>
+</dblp>

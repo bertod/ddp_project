@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HutchinsonHE17" mdate="2017-03-06">
+<author>Rebecca A. Hutchinson</author>
+<author>Liqiang He</author>
+<author>Sarah C. Emerson</author>
+<title>Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-Conditional Noise.</title>
+<pages>4516-4523</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14859</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HutchinsonHE17</url>
+</inproceedings>
+</dblp>

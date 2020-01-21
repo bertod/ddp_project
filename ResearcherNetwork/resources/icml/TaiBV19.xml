@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TaiBV19" mdate="2019-06-11">
+<author>Kai Sheng Tai</author>
+<author>Peter Bailis</author>
+<author>Gregory Valiant</author>
+<title>Equivariant Transformer Networks.</title>
+<pages>6086-6095</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tai19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TaiBV19</url>
+</inproceedings></dblp>

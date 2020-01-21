@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EngelRRDNES17" mdate="2019-07-22">
+<author>Jesse H. Engel</author>
+<author>Cinjon Resnick</author>
+<author>Adam Roberts</author>
+<author>Sander Dieleman</author>
+<author>Mohammad Norouzi 0002</author>
+<author>Douglas Eck</author>
+<author>Karen Simonyan</author>
+<title>Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders.</title>
+<pages>1068-1077</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/engel17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#EngelRRDNES17</url>
+</inproceedings></dblp>

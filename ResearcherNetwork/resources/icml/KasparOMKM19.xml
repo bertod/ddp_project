@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KasparOMKM19" mdate="2019-06-11">
+<author>Alexandre Kaspar</author>
+<author>Tae-Hyun Oh</author>
+<author>Liane Makatura</author>
+<author>Petr Kellnhofer</author>
+<author>Wojciech Matusik</author>
+<title>Neural Inverse Knitting: From Images to Manufacturing Instructions.</title>
+<pages>3272-3281</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kaspar19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KasparOMKM19</url>
+</inproceedings></dblp>

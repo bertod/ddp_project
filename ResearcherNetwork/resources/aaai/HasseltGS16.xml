@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HasseltGS16" mdate="2016-04-21">
+<author>Hado van Hasselt</author>
+<author>Arthur Guez</author>
+<author>David Silver</author>
+<title>Deep Reinforcement Learning with Double Q-Learning.</title>
+<pages>2094-2100</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12389</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HasseltGS16</url>
+</inproceedings>
+</dblp>

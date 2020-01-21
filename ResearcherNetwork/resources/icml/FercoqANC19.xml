@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FercoqANC19" mdate="2019-06-11">
+<author>Olivier Fercoq</author>
+<author>Ahmet Alacaoglu</author>
+<author>Ion Necoara</author>
+<author>Volkan Cevher</author>
+<title>Almost surely constrained convex optimization.</title>
+<pages>1910-1919</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/fercoq19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FercoqANC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PritzelUSBVHWB17" mdate="2019-04-03">
+<author>Alexander Pritzel</author>
+<author>Benigno Uria</author>
+<author>Sriram Srinivasan</author>
+<author>Adri&#224; Puigdom&#232;nech Badia</author>
+<author>Oriol Vinyals</author>
+<author>Demis Hassabis</author>
+<author>Daan Wierstra</author>
+<author>Charles Blundell</author>
+<title>Neural Episodic Control.</title>
+<pages>2827-2836</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/pritzel17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#PritzelUSBVHWB17</url>
+</inproceedings>
+</dblp>

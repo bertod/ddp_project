@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangKB17" mdate="2019-04-03">
+<author>Yixin Wang</author>
+<author>Alp Kucukelbir</author>
+<author>David M. Blei</author>
+<title>Robust Probabilistic Modeling with Bayesian Data Reweighting.</title>
+<pages>3646-3655</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17g.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangKB17</url>
+</inproceedings>
+</dblp>

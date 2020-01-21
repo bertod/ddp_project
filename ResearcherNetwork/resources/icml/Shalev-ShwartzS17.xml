@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Shalev-ShwartzS17" mdate="2019-04-03">
+<author>Shai Shalev-Shwartz</author>
+<author>Ohad Shamir</author>
+<author>Shaked Shammah</author>
+<title>Failures of Gradient-Based Deep Learning.</title>
+<pages>3067-3075</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/shalev-shwartz17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Shalev-ShwartzS17</url>
+</inproceedings>
+</dblp>

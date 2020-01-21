@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JitkrittumSGRHS19" mdate="2019-06-11">
+<author>Wittawat Jitkrittum</author>
+<author>Patsorn Sangkloy</author>
+<author>Muhammad Waleed Gondal</author>
+<author>Amit Raj</author>
+<author>James Hays</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<title>Kernel Mean Matching for Content Addressability of GANs.</title>
+<pages>3140-3151</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jitkrittum19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JitkrittumSGRHS19</url>
+</inproceedings></dblp>

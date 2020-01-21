@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangPLLS17" mdate="2017-08-28">
+<author>Meng Zhang</author>
+<author>Haoruo Peng</author>
+<author>Yang Liu 0005</author>
+<author>Huan-Bo Luan</author>
+<author>Maosong Sun</author>
+<title>Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision.</title>
+<pages>3379-3385</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14682</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangPLLS17</url>
+</inproceedings></dblp>

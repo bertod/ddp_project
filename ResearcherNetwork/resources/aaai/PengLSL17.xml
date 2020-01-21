@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PengLSL17" mdate="2017-03-06">
+<author>Hao Peng</author>
+<author>Jianxin Li</author>
+<author>Yangqiu Song</author>
+<author>Yaopeng Liu</author>
+<title>Incrementally Learning the Hierarchical Softmax Function for Neural Language Models.</title>
+<pages>3267-3273</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14732</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PengLSL17</url>
+</inproceedings>
+</dblp>

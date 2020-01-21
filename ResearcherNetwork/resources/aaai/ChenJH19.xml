@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenJH19" mdate="2019-09-25">
+<author>Shizhe Chen</author>
+<author>Qin Jin</author>
+<author>Alexander G. Hauptmann</author>
+<title>Unsupervised Bilingual Lexicon Induction from Mono-Lingual Multimodal Data.</title>
+<pages>8207-8214</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018207</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenJH19</url>
+</inproceedings></dblp>

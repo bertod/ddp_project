@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0001RFHLRG19" mdate="2019-09-25">
+<author>Christopher Morris 0001</author>
+<author>Martin Ritzert</author>
+<author>Matthias Fey</author>
+<author>William L. Hamilton</author>
+<author>Jan Eric Lenssen</author>
+<author>Gaurav Rattan</author>
+<author>Martin Grohe</author>
+<title>Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks.</title>
+<pages>4602-4609</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014602</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0001RFHLRG19</url>
+</inproceedings></dblp>

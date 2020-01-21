@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhongCGN18" mdate="2018-10-22">
+<author>Zexuan Zhong</author>
+<author>Yong Cao</author>
+<author>Mu Guo</author>
+<author>Zaiqing Nie</author>
+<title>CoLink: An Unsupervised Framework for User Identity Linkage.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17287</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhongCGN18</url>
+<pages>5714-5721</pages>
+</inproceedings></dblp>

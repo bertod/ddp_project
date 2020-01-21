@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Johnson018" mdate="2019-04-03">
+<author>Rie Johnson</author>
+<author>Tong Zhang 0001</author>
+<title>Composite Functional Gradient Learning of Generative Adversarial Models.</title>
+<pages>2376-2384</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/johnson18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Johnson018</url>
+</inproceedings>
+</dblp>

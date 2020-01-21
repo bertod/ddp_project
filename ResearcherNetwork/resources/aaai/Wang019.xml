@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Wang019" mdate="2019-09-25">
+<author>Di Wang</author>
+<author>Jinhui Xu 0001</author>
+<title>Differentially Private Empirical Risk Minimization with Smooth Non-Convex Loss Functions: A Non-Stationary View.</title>
+<pages>1182-1189</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011182</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Wang019</url>
+</inproceedings></dblp>

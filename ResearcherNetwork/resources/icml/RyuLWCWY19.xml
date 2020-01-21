@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RyuLWCWY19" mdate="2019-07-22">
+<author>Ernest K. Ryu</author>
+<author>Jialin Liu 0003</author>
+<author>Sicheng Wang</author>
+<author>Xiaohan Chen</author>
+<author>Zhangyang Wang</author>
+<author>Wotao Yin</author>
+<title>Plug-and-Play Methods Provably Converge with Properly Trained Denoisers.</title>
+<pages>5546-5557</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ryu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RyuLWCWY19</url>
+</inproceedings></dblp>

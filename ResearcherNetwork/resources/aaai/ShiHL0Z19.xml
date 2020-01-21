@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShiHL0Z19" mdate="2019-09-25">
+<author>Jiaxin Shi</author>
+<author>Lei Hou</author>
+<author>Juanzi Li</author>
+<author>Zhiyuan Liu 0001</author>
+<author>Hanwang Zhang</author>
+<title>Learning to Embed Sentences Using Attentive Recursive Trees.</title>
+<pages>6991-6998</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016991</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiHL0Z19</url>
+</inproceedings></dblp>

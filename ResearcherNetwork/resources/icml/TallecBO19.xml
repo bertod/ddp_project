@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TallecBO19" mdate="2019-06-11">
+<author>Corentin Tallec</author>
+<author>L&#233;onard Blier</author>
+<author>Yann Ollivier</author>
+<title>Making Deep Q-learning methods robust to time discretization.</title>
+<pages>6096-6104</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tallec19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TallecBO19</url>
+</inproceedings></dblp>

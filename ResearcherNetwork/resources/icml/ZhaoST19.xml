@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhaoST19" mdate="2019-07-11">
+<author>Rui Zhao</author>
+<author>Xudong Sun 0002</author>
+<author>Volker Tresp</author>
+<title>Maximum Entropy-Regularized Multi-Goal Reinforcement Learning.</title>
+<pages>7553-7562</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhao19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhaoST19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KohL17" mdate="2019-04-03">
+<author>Pang Wei Koh</author>
+<author>Percy Liang</author>
+<title>Understanding Black-box Predictions via Influence Functions.</title>
+<pages>1885-1894</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/koh17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KohL17</url>
+</inproceedings>
+</dblp>

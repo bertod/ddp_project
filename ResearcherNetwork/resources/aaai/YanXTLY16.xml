@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YanXTLY16" mdate="2019-12-18">
+<author>Yan Yan 0006</author>
+<author>Zhongwen Xu</author>
+<author>Ivor W. Tsang</author>
+<author>Guodong Long</author>
+<author>Yi Yang 0001</author>
+<title>Robust Semi-Supervised Learning through Label Aggregation.</title>
+<pages>2244-2250</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12312</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YanXTLY16</url>
+</inproceedings>
+</dblp>

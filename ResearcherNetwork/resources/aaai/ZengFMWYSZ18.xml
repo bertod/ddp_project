@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZengFMWYSZ18" mdate="2019-08-31">
+<author>Ying Zeng</author>
+<author>Yansong Feng</author>
+<author>Rong Ma</author>
+<author>Zheng Wang 0001</author>
+<author>Rui Yan 0001</author>
+<author>Chongde Shi</author>
+<author>Dongyan Zhao 0001</author>
+<title>Scale Up Event Extraction Learning via Automatic Training Data Generation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16119</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZengFMWYSZ18</url>
+<pages>6045-6052</pages>
+</inproceedings>
+</dblp>

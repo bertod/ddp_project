@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenLK17" mdate="2019-04-03">
+<author>Xixian Chen</author>
+<author>Michael R. Lyu</author>
+<author>Irwin King</author>
+<title>Toward Efficient and Accurate Covariance Matrix Estimation on Compressed Data.</title>
+<pages>767-776</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chen17g.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChenLK17</url>
+</inproceedings>
+</dblp>

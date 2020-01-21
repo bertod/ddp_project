@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DurkanN19" mdate="2019-06-11">
+<author>Conor Durkan</author>
+<author>Charlie Nash</author>
+<title>Autoregressive Energy Machines.</title>
+<pages>1735-1744</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/durkan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DurkanN19</url>
+</inproceedings></dblp>

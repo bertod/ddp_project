@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Lakshminarayanan17" mdate="2017-03-06">
+<author>Aravind S. Lakshminarayanan</author>
+<author>Sahil Sharma</author>
+<author>Balaraman Ravindran</author>
+<title>Dynamic Action Repetition for Deep Reinforcement Learning.</title>
+<pages>2133-2139</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14866</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#Lakshminarayanan17</url>
+</inproceedings>
+</dblp>

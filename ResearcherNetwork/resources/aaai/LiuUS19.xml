@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuUS19" mdate="2019-09-25">
+<author>Tianlin Liu</author>
+<author>Lyle Ungar</author>
+<author>Jo&#227;o Sedoc</author>
+<title>Unsupervised Post-Processing of Word Vectors via Conceptor Negation.</title>
+<pages>6778-6785</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016778</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuUS19</url>
+</inproceedings></dblp>

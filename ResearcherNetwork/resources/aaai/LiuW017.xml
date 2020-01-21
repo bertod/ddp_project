@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuW017" mdate="2017-03-06">
+<author>Jiaming Liu</author>
+<author>Yali Wang</author>
+<author>Yu Qiao 0001</author>
+<title>Sparse Deep Transfer Learning for Convolutional Neural Network.</title>
+<pages>2245-2251</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14330</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuW017</url>
+</inproceedings>
+</dblp>

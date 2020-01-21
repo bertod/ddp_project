@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangGHCH19" mdate="2019-09-25">
+<author>Feihu Huang</author>
+<author>Bin Gu</author>
+<author>Zhouyuan Huo</author>
+<author>Songcan Chen</author>
+<author>Heng Huang</author>
+<title>Faster Gradient-Free Proximal Stochastic Methods for Nonconvex Nonsmooth Optimization.</title>
+<pages>1503-1510</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011503</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangGHCH19</url>
+</inproceedings></dblp>

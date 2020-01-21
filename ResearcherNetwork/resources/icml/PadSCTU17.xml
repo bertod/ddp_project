@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PadSCTU17" mdate="2019-04-03">
+<author>Pedram Pad</author>
+<author>Farnood Salehi</author>
+<author>L. Elisa Celis</author>
+<author>Patrick Thiran</author>
+<author>Michael Unser</author>
+<title>Dictionary Learning Based on Sparse Distribution Tomography.</title>
+<pages>2731-2740</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/pad17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#PadSCTU17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AwasthiV18" mdate="2019-04-03">
+<author>Pranjal Awasthi</author>
+<author>Aravindan Vijayaraghavan</author>
+<title>Clustering Semi-Random Mixtures of Gaussians.</title>
+<pages>294-303</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/awasthi18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#AwasthiV18</url>
+</inproceedings>
+</dblp>

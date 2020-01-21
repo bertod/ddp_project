@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TianMGSCPZ19" mdate="2019-06-11">
+<author>Yuandong Tian</author>
+<author>Jerry Ma</author>
+<author>Qucheng Gong</author>
+<author>Shubho Sengupta</author>
+<author>Zhuoyuan Chen</author>
+<author>James Pinkerton</author>
+<author>Larry Zitnick</author>
+<title>ELF OpenGo: an analysis and open reimplementation of AlphaZero.</title>
+<pages>6244-6253</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tian19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TianMGSCPZ19</url>
+</inproceedings></dblp>

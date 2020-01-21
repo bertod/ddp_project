@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanLMCZ19" mdate="2019-09-25">
+<author>Longhao Yuan</author>
+<author>Chao Li 0013</author>
+<author>Danilo P. Mandic</author>
+<author>Jianting Cao</author>
+<author>Qibin Zhao</author>
+<title>Tensor Ring Decomposition with Rank Minimization on Latent Space: An Efficient Approach for Tensor Completion.</title>
+<pages>9151-9158</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019151</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuanLMCZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FangNPLCASTL16" mdate="2016-04-21">
+<author>Fei Fang</author>
+<author>Thanh Hong Nguyen</author>
+<author>Rob Pickles</author>
+<author>Wai Y. Lam</author>
+<author>Gopalasamy R. Clements</author>
+<author>Bo An</author>
+<author>Amandeep Singh</author>
+<author>Milind Tambe</author>
+<author>Andrew Lemieux</author>
+<title>Deploying PAWS: Field Optimization of the Protection Assistant for Wildlife Security.</title>
+<pages>3966-3973</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/11814</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FangNPLCASTL16</url>
+</inproceedings>
+</dblp>

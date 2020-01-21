@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WengCNSBOD19" mdate="2019-06-11">
+<author>Lily Weng</author>
+<author>Pin-Yu Chen</author>
+<author>Lam M. Nguyen</author>
+<author>Mark S. Squillante</author>
+<author>Akhilan Boopathy</author>
+<author>Ivan V. Oseledets</author>
+<author>Luca Daniel</author>
+<title>PROVEN: Verifying Robustness of Neural Networks with a Probabilistic Approach.</title>
+<pages>6727-6736</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/weng19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WengCNSBOD19</url>
+</inproceedings></dblp>

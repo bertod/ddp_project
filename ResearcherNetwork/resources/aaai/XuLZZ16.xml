@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuLZZ16" mdate="2016-04-21">
+<author>Chen Xu</author>
+<author>Zhouchen Lin</author>
+<author>Zhenyu Zhao</author>
+<author>Hongbin Zha</author>
+<title>Relaxed Majorization-Minimization for Non-Smooth and Non-Convex Optimization.</title>
+<pages>812-818</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12146</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XuLZZ16</url>
+</inproceedings>
+</dblp>

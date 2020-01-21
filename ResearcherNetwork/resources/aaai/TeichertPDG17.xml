@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TeichertPDG17" mdate="2017-03-06">
+<author>Adam R. Teichert</author>
+<author>Adam Poliak</author>
+<author>Benjamin Van Durme</author>
+<author>Matthew R. Gormley</author>
+<title>Semantic Proto-Role Labeling.</title>
+<pages>4459-4466</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14997</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TeichertPDG17</url>
+</inproceedings>
+</dblp>

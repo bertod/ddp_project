@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimKL18" mdate="2018-10-22">
+<author>Beomjoon Kim</author>
+<author>Leslie Pack Kaelbling</author>
+<author>Tom&#225;s Lozano-P&#233;rez</author>
+<title>Guiding Search in Continuous State-Action Spaces by Learning an Action Sampler From Off-Target Search Experience.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17252</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KimKL18</url>
+<pages>6509-6516</pages>
+</inproceedings></dblp>

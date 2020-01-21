@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ForneyPB17" mdate="2019-04-03">
+<author>Andrew Forney</author>
+<author>Judea Pearl</author>
+<author>Elias Bareinboim</author>
+<title>Counterfactual Data-Fusion for Online Reinforcement Learners.</title>
+<pages>1156-1164</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/forney17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ForneyPB17</url>
+</inproceedings>
+</dblp>

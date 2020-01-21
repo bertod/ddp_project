@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CormodeDW18" mdate="2019-04-03">
+<author>Graham Cormode</author>
+<author>Charlie Dickens</author>
+<author>David P. Woodruff</author>
+<title>Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski p-Norms.</title>
+<pages>1048-1056</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/cormode18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#CormodeDW18</url>
+</inproceedings>
+</dblp>

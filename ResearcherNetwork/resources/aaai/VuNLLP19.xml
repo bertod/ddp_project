@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/VuNLLP19" mdate="2019-09-25">
+<author>Hung Vu</author>
+<author>Tu Dinh Nguyen</author>
+<author>Trung Le</author>
+<author>Wei Luo</author>
+<author>Dinh Q. Phung</author>
+<title>Robust Anomaly Detection in Videos Using Multilevel Representations.</title>
+<pages>5216-5223</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015216</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#VuNLLP19</url>
+</inproceedings></dblp>

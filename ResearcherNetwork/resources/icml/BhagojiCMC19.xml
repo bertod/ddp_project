@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BhagojiCMC19" mdate="2019-06-11">
+<author>Arjun Nitin Bhagoji</author>
+<author>Supriyo Chakraborty</author>
+<author>Prateek Mittal</author>
+<author>Seraphin B. Calo</author>
+<title>Analyzing Federated Learning through an Adversarial Lens.</title>
+<pages>634-643</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bhagoji19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BhagojiCMC19</url>
+</inproceedings></dblp>

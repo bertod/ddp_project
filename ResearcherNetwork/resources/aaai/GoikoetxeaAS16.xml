@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GoikoetxeaAS16" mdate="2016-04-21">
+<author>Josu Goikoetxea</author>
+<author>Eneko Agirre</author>
+<author>Aitor Soroa</author>
+<title>Single or Multiple? Combining Word Representations Independently Learned from Text and WordNet.</title>
+<pages>2608-2614</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11777</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GoikoetxeaAS16</url>
+</inproceedings>
+</dblp>

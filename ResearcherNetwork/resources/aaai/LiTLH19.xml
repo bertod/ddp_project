@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiTLH19" mdate="2019-09-25">
+<author>Zejian Li</author>
+<author>Yongchuan Tang</author>
+<author>Wei Li</author>
+<author>Yongxing He</author>
+<title>Learning Disentangled Representation with Pairwise Independence.</title>
+<pages>4245-4252</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014245</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiTLH19</url>
+</inproceedings></dblp>

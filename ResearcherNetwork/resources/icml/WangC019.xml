@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangC019" mdate="2019-06-11">
+<author>Di Wang</author>
+<author>Changyou Chen</author>
+<author>Jinhui Xu 0001</author>
+<title>Differentially Private Empirical Risk Minimization with Non-convex Loss Functions.</title>
+<pages>6526-6535</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangC019</url>
+</inproceedings></dblp>

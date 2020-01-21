@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangDHG16" mdate="2016-05-31">
+<author>Zhe Wang</author>
+<author>Ling-Yu Duan</author>
+<author>Tiejun Huang</author>
+<author>Wen Gao 0001</author>
+<title>Affinity Preserving Quantization for Hashing: A Vector Quantization Approach to Compact Learn Binary Codes.</title>
+<pages>1102-1108</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12117</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangDHG16</url>
+</inproceedings>
+</dblp>

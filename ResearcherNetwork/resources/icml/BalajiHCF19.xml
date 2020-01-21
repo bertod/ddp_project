@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BalajiHCF19" mdate="2019-06-11">
+<author>Yogesh Balaji</author>
+<author>Hamed Hassani</author>
+<author>Rama Chellappa</author>
+<author>Soheil Feizi</author>
+<title>Entropic GANs meet VAEs: A Statistical Approach to Compute Sample Likelihoods in GANs.</title>
+<pages>414-423</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/balaji19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BalajiHCF19</url>
+</inproceedings></dblp>

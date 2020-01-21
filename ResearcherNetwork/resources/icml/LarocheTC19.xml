@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LarocheTC19" mdate="2019-06-11">
+<author>Romain Laroche</author>
+<author>Paul Trichelair</author>
+<author>Remi Tachet des Combes</author>
+<title>Safe Policy Improvement with Baseline Bootstrapping.</title>
+<pages>3652-3661</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/laroche19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LarocheTC19</url>
+</inproceedings></dblp>

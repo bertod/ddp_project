@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZengCCLNS17" mdate="2017-03-06">
+<author>Kuo-Hao Zeng</author>
+<author>Tseng-Hung Chen</author>
+<author>Ching-Yao Chuang</author>
+<author>Yuan-Hong Liao</author>
+<author>Juan Carlos Niebles</author>
+<author>Min Sun</author>
+<title>Leveraging Video Descriptions to Learn Video Question Answering.</title>
+<pages>4334-4340</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14906</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZengCCLNS17</url>
+</inproceedings>
+</dblp>

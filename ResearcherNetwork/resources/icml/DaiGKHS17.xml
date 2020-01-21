@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DaiGKHS17" mdate="2019-04-03">
+<author>Bo Dai</author>
+<author>Ruiqi Guo</author>
+<author>Sanjiv Kumar</author>
+<author>Niao He</author>
+<author>Le Song</author>
+<title>Stochastic Generative Hashing.</title>
+<pages>913-922</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/dai17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DaiGKHS17</url>
+</inproceedings>
+</dblp>

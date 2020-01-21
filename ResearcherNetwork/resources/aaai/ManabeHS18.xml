@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ManabeHS18" mdate="2018-10-22">
+<author>Hitoshi Manabe</author>
+<author>Katsuhiko Hayashi</author>
+<author>Masashi Shimbo</author>
+<title>Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16211</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ManabeHS18</url>
+<pages>3754-3761</pages>
+</inproceedings></dblp>

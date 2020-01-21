@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZLDL19" mdate="2019-09-25">
+<author>Weinan Zhang 0003</author>
+<author>Yue Zhang</author>
+<author>Yuanxing Liu</author>
+<author>Donglin Di</author>
+<author>Ting Liu 0001</author>
+<title>A Neural Network Approach to Verb Phrase Ellipsis Resolution.</title>
+<pages>7468-7475</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017468</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZLDL19</url>
+</inproceedings></dblp>

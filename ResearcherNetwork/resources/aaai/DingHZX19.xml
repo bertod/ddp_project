@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DingHZX19" mdate="2019-09-25">
+<author>Zixiang Ding</author>
+<author>Huihui He</author>
+<author>Mengran Zhang</author>
+<author>Rui Xia</author>
+<title>From Independent Prediction to Reordered Prediction: Integrating Relative Position and Global Label Information to Emotion Cause Identification.</title>
+<pages>6343-6350</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016343</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DingHZX19</url>
+</inproceedings></dblp>

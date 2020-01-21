@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhouPTH16" mdate="2016-04-21">
+<author>Joey Tianyi Zhou</author>
+<author>Sinno Jialin Pan</author>
+<author>Ivor W. Tsang</author>
+<author>Shen-Shyang Ho</author>
+<title>Transfer Learning for Cross-Language Text Categorization through Active Correspondences Construction.</title>
+<pages>2400-2406</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11882</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhouPTH16</url>
+</inproceedings>
+</dblp>

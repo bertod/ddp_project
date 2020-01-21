@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuiL0FZ019" mdate="2019-09-25">
+<author>Le Hui</author>
+<author>Xiang Li</author>
+<author>Chen Gong 0002</author>
+<author>Meng Fang</author>
+<author>Joey Tianyi Zhou</author>
+<author>Jian Yang 0003</author>
+<title>Inter-Class Angular Loss for Convolutional Neural Networks.</title>
+<pages>3894-3901</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013894</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuiL0FZ019</url>
+</inproceedings></dblp>

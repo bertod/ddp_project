@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiSGLH0G19" mdate="2019-09-25">
+<author>Xiangpeng Li</author>
+<author>Jingkuan Song</author>
+<author>Lianli Gao</author>
+<author>Xianglong Liu</author>
+<author>Wenbing Huang</author>
+<author>Xiangnan He 0001</author>
+<author>Chuang Gan</author>
+<title>Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering.</title>
+<pages>8658-8665</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018658</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiSGLH0G19</url>
+</inproceedings></dblp>

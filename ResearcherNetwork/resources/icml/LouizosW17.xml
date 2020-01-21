@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LouizosW17" mdate="2019-04-03">
+<author>Christos Louizos</author>
+<author>Max Welling</author>
+<title>Multiplicative Normalizing Flows for Variational Bayesian Neural Networks.</title>
+<pages>2218-2227</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/louizos17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LouizosW17</url>
+</inproceedings>
+</dblp>

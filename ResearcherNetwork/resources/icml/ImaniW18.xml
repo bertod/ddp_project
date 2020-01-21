@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ImaniW18" mdate="2019-04-03">
+<author>Ehsan Imani</author>
+<author>Martha White</author>
+<title>Improving Regression Performance with Distributional Losses.</title>
+<pages>2162-2171</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/imani18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ImaniW18</url>
+</inproceedings>
+</dblp>

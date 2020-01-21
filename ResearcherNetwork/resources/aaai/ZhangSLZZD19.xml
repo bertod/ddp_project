@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangSLZZD19" mdate="2019-11-04">
+<author>Xiaoyu Zhang</author>
+<author>Haichao Shi</author>
+<author>Changsheng Li</author>
+<author>Kai Zheng</author>
+<author>Xiaobin Zhu</author>
+<author>Lixin Duan</author>
+<title>Learning Transferable Self-Attentive Representations for Action Recognition in Untrimmed Videos with Weak Supervision.</title>
+<pages>9227-9234</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019227</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangSLZZD19</url>
+</inproceedings></dblp>

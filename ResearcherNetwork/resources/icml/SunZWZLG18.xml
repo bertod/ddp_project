@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SunZWZLG18" mdate="2019-04-03">
+<author>Shengyang Sun</author>
+<author>Guodong Zhang</author>
+<author>Chaoqi Wang</author>
+<author>Wenyuan Zeng</author>
+<author>Jiaman Li</author>
+<author>Roger B. Grosse</author>
+<title>Differentiable Compositional Kernel Learning for Gaussian Processes.</title>
+<pages>4835-4844</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sun18e.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SunZWZLG18</url>
+</inproceedings>
+</dblp>

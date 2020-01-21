@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PerezSVDC18" mdate="2018-10-22">
+<author>Ethan Perez</author>
+<author>Florian Strub</author>
+<author>Harm de Vries</author>
+<author>Vincent Dumoulin</author>
+<author>Aaron C. Courville</author>
+<title>FiLM: Visual Reasoning with a General Conditioning Layer.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16528</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#PerezSVDC18</url>
+<pages>3942-3951</pages>
+</inproceedings></dblp>

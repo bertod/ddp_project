@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CaiYZHY18" mdate="2019-04-21">
+<author>Han Cai</author>
+<author>Jiacheng Yang</author>
+<author>Weinan Zhang 0001</author>
+<author>Song Han</author>
+<author>Yong Yu 0001</author>
+<title>Path-Level Network Transformation for Efficient Architecture Search.</title>
+<pages>677-686</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/cai18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#CaiYZHY18</url>
+</inproceedings></dblp>

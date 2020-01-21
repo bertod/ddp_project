@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KatiyarHC19" mdate="2019-06-11">
+<author>Ashish Katiyar</author>
+<author>Jessica Hoffmann</author>
+<author>Constantine Caramanis</author>
+<title>Robust Estimation of Tree Structured Gaussian Graphical Models.</title>
+<pages>3292-3300</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/katiyar19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KatiyarHC19</url>
+</inproceedings></dblp>

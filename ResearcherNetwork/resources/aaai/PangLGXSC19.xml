@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PangLGXSC19" mdate="2019-09-25">
+<author>Liang Pang</author>
+<author>Yanyan Lan</author>
+<author>Jiafeng Guo</author>
+<author>Jun Xu</author>
+<author>Lixin Su</author>
+<author>Xueqi Cheng</author>
+<title>HAS-QA: Hierarchical Answer Spans Model for Open-Domain Question Answering.</title>
+<pages>6875-6882</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016875</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PangLGXSC19</url>
+</inproceedings></dblp>

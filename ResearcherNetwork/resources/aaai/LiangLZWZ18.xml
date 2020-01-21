@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiangLZWZ18" mdate="2019-07-09">
+<author>Guoqiang Liang</author>
+<author>Xuguang Lan</author>
+<author>Kang Zheng</author>
+<author>Song Wang 0002</author>
+<author>Nanning Zheng</author>
+<title>Cross-View Person Identification by Matching Human Poses Estimated With Confidence on Each Body Joint.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16205</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiangLZWZ18</url>
+<pages>7089-7097</pages>
+</inproceedings>
+</dblp>

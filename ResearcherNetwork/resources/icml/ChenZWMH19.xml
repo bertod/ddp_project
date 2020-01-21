@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenZWMH19" mdate="2019-06-11">
+<author>Xiaoshuang Chen</author>
+<author>Yin Zheng</author>
+<author>Jiaxing Wang</author>
+<author>Wenye Ma</author>
+<author>Junzhou Huang</author>
+<title>RaFM: Rank-Aware Factorization Machines.</title>
+<pages>1132-1140</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19n.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenZWMH19</url>
+</inproceedings></dblp>

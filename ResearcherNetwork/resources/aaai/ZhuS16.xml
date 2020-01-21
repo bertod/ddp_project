@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuS16" mdate="2016-04-21">
+<author>Zhanxing Zhu</author>
+<author>Amos J. Storkey</author>
+<title>Stochastic Parallel Block Coordinate Descent for Large-Scale Saddle Point Problems.</title>
+<pages>2429-2437</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11764</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhuS16</url>
+</inproceedings>
+</dblp>

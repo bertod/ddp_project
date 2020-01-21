@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SongK019" mdate="2019-06-11">
+<author>Hwanjun Song</author>
+<author>Minseok Kim</author>
+<author>Jae-Gil Lee 0001</author>
+<title>SELFIE: Refurbishing Unclean Samples for Robust Deep Learning.</title>
+<pages>5907-5915</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/song19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SongK019</url>
+</inproceedings></dblp>

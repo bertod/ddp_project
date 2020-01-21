@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TesslerGZMM17" mdate="2017-03-06">
+<author>Chen Tessler</author>
+<author>Shahar Givony</author>
+<author>Tom Zahavy</author>
+<author>Daniel J. Mankowitz</author>
+<author>Shie Mannor</author>
+<title>A Deep Hierarchical Approach to Lifelong Learning in Minecraft.</title>
+<pages>1553-1561</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14630</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TesslerGZMM17</url>
+</inproceedings>
+</dblp>

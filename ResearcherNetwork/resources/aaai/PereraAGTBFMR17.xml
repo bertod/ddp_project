@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PereraAGTBFMR17" mdate="2019-07-25">
+<author>Ian Perera</author>
+<author>James F. Allen</author>
+<author>Lucian Galescu</author>
+<author>Choh Man Teng</author>
+<author>Mark H. Burstein</author>
+<author>Scott E. Friedman</author>
+<author>David D. McDonald 0002</author>
+<author>Jeffrey M. Rye</author>
+<title>Natural Language Dialogue for Building and Learning Models and Structures.</title>
+<pages>5103-5104</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14694</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PereraAGTBFMR17</url>
+</inproceedings>
+</dblp>

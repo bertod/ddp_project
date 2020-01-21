@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EdwardsSSI19" mdate="2019-07-17">
+<author>Ashley D. Edwards</author>
+<author>Himanshu Sahni</author>
+<author>Yannick Schroecker</author>
+<author>Charles L. Isbell Jr.</author>
+<title>Imitating Latent Policies from Observation.</title>
+<pages>1755-1763</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/edwards19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#EdwardsSSI19</url>
+</inproceedings></dblp>

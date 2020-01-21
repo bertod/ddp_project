@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0002LLJ19" mdate="2019-07-28">
+<author>Yuchen Zhang 0004</author>
+<author>Tianle Liu</author>
+<author>Mingsheng Long</author>
+<author>Michael I. Jordan</author>
+<title>Bridging Theory and Algorithm for Domain Adaptation.</title>
+<pages>7404-7413</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19i.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#0002LLJ19</url>
+</inproceedings>
+</dblp>

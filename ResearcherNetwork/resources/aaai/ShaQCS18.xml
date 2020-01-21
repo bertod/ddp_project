@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShaQCS18" mdate="2018-10-22">
+<author>Lei Sha</author>
+<author>Feng Qian</author>
+<author>Baobao Chang</author>
+<author>Zhifang Sui</author>
+<title>Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16222</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ShaQCS18</url>
+<pages>5916-5923</pages>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MaoFRAFW19" mdate="2019-06-11">
+<author>Jingkai Mao</author>
+<author>Jakob N. Foerster</author>
+<author>Tim Rockt&#228;schel</author>
+<author>Maruan Al-Shedivat</author>
+<author>Gregory Farquhar</author>
+<author>Shimon Whiteson</author>
+<title>A Baseline for Any Order Gradient Estimation in Stochastic Computation Graphs.</title>
+<pages>4343-4351</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mao19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MaoFRAFW19</url>
+</inproceedings></dblp>

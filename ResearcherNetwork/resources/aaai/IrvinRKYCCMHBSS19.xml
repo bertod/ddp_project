@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/IrvinRKYCCMHBSS19" mdate="2019-09-25">
+<author>Jeremy Irvin</author>
+<author>Pranav Rajpurkar</author>
+<author>Michael Ko</author>
+<author>Yifan Yu</author>
+<author>Silviana Ciurea-Ilcus</author>
+<author>Chris Chute</author>
+<author>Henrik Marklund</author>
+<author>Behzad Haghgoo</author>
+<author>Robyn L. Ball</author>
+<author>Katie S. Shpanskaya</author>
+<author>Jayne Seekins</author>
+<author>David A. Mong</author>
+<author>Safwan S. Halabi</author>
+<author>Jesse K. Sandberg</author>
+<author>Ricky Jones</author>
+<author>David B. Larson</author>
+<author>Curtis P. Langlotz</author>
+<author>Bhavik N. Patel</author>
+<author>Matthew P. Lungren</author>
+<author>Andrew Y. Ng</author>
+<title>CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison.</title>
+<pages>590-597</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301590</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#IrvinRKYCCMHBSS19</url>
+</inproceedings></dblp>

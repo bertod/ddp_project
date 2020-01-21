@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieDGW17" mdate="2017-03-06">
+<author>Ying Xie</author>
+<author>Chris H. Q. Ding</author>
+<author>Yihong Gong</author>
+<author>Zongze Wu</author>
+<title>Rank Ordering Constraints Elimination with Application for Kernel Learning.</title>
+<pages>2775-2781</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14307</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#XieDGW17</url>
+</inproceedings>
+</dblp>

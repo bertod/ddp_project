@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BangS18" mdate="2019-04-03">
+<author>Duhyeon Bang</author>
+<author>Hyunjung Shim</author>
+<title>Improved Training of Generative Adversarial Networks using Representative Features.</title>
+<pages>442-451</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/bang18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#BangS18</url>
+</inproceedings>
+</dblp>

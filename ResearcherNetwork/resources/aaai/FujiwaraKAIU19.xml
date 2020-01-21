@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FujiwaraKAIU19" mdate="2019-09-25">
+<author>Yasuhiro Fujiwara</author>
+<author>Sekitoshi Kanai</author>
+<author>Junya Arai</author>
+<author>Yasutoshi Ida</author>
+<author>Naonori Ueda</author>
+<title>Efficient Data Point Pruning for One-Class SVM.</title>
+<pages>3590-3597</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013590</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FujiwaraKAIU19</url>
+</inproceedings></dblp>

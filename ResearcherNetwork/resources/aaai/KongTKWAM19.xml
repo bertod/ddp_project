@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KongTKWAM19" mdate="2019-09-25">
+<author>Quan Kong</author>
+<author>Bin Tong</author>
+<author>Martin Klinkigt</author>
+<author>Yuki Watanabe</author>
+<author>Naoto Akira</author>
+<author>Tomokazu Murakami</author>
+<title>Active Generative Adversarial Network for Image Classification.</title>
+<pages>4090-4097</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014090</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KongTKWAM19</url>
+</inproceedings></dblp>

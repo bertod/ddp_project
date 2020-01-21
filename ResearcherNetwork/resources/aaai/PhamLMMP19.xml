@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PhamLMMP19" mdate="2019-09-25">
+<author>Hai Pham</author>
+<author>Paul Pu Liang</author>
+<author>Thomas Manzini</author>
+<author>Louis-Philippe Morency</author>
+<author>Barnab&#225;s P&#243;czos</author>
+<title>Found in Translation: Learning Robust Joint Representations by Cyclic Translations between Modalities.</title>
+<pages>6892-6899</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016892</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PhamLMMP19</url>
+</inproceedings></dblp>

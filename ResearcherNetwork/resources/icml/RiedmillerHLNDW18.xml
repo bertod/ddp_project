@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RiedmillerHLNDW18" mdate="2019-04-03">
+<author>Martin A. Riedmiller</author>
+<author>Roland Hafner</author>
+<author>Thomas Lampe</author>
+<author>Michael Neunert</author>
+<author>Jonas Degrave</author>
+<author>Tom Van de Wiele</author>
+<author>Vlad Mnih</author>
+<author>Nicolas Heess</author>
+<author>Jost Tobias Springenberg</author>
+<title>Learning by Playing Solving Sparse Reward Tasks from Scratch.</title>
+<pages>4341-4350</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/riedmiller18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RiedmillerHLNDW18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0001VMNEK18" mdate="2018-10-22">
+<author>Alejandro Molina 0001</author>
+<author>Antonio Vergari</author>
+<author>Nicola Di Mauro</author>
+<author>Sriraam Natarajan</author>
+<author>Floriana Esposito</author>
+<author>Kristian Kersting</author>
+<title>Mixed Sum-Product Networks: A Deep Architecture for Hybrid Domains.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16865</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#0001VMNEK18</url>
+<pages>3828-3835</pages>
+</inproceedings></dblp>

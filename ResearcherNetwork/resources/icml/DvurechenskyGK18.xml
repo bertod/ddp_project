@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DvurechenskyGK18" mdate="2019-08-22">
+<author>Pavel E. Dvurechensky</author>
+<author>Alexander Gasnikov</author>
+<author>Alexey Kroshnin</author>
+<title>Computational Optimal Transport: Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm.</title>
+<pages>1366-1375</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/dvurechensky18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DvurechenskyGK18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SotoLF19" mdate="2019-06-11">
+<author>Pedro Soto</author>
+<author>Jun Li</author>
+<author>Xiaodi Fan</author>
+<title>Dual Entangled Polynomial Code: Three-Dimensional Coding for Distributed Matrix Multiplication.</title>
+<pages>5937-5945</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/soto19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SotoLF19</url>
+</inproceedings></dblp>

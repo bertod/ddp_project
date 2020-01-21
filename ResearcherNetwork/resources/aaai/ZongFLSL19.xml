@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZongFLSL19" mdate="2019-09-25">
+<author>Zefang Zong</author>
+<author>Jie Feng</author>
+<author>Kechun Liu</author>
+<author>Hongzhi Shi</author>
+<author>Yong Li 0008</author>
+<title>DeepDPM: Dynamic Population Mapping via Deep Neural Network.</title>
+<pages>1294-1301</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011294</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZongFLSL19</url>
+</inproceedings></dblp>

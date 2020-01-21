@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLL18" mdate="2019-07-03">
+<author>Yun Chen 0007</author>
+<author>Yang Liu 0005</author>
+<author>Victor O. K. Li</author>
+<title>Zero-Resource Neural Machine Translation with Multi-Agent Communication Game.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16709</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChenLL18</url>
+<pages>5086-5093</pages>
+</inproceedings>
+</dblp>

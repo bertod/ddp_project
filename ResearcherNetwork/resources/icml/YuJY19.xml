@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YuJY19" mdate="2019-06-11">
+<author>Hao Yu</author>
+<author>Rong Jin</author>
+<author>Sen Yang</author>
+<title>On the Linear Speedup Analysis of Communication Efficient Momentum SGD for Distributed Non-Convex Optimization.</title>
+<pages>7184-7193</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yu19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YuJY19</url>
+</inproceedings></dblp>

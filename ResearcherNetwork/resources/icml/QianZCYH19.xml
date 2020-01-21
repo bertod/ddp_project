@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/QianZCYH19" mdate="2019-06-11">
+<author>Kaizhi Qian</author>
+<author>Yang Zhang</author>
+<author>Shiyu Chang</author>
+<author>Xuesong Yang</author>
+<author>Mark Hasegawa-Johnson</author>
+<title>AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss.</title>
+<pages>5210-5219</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/qian19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#QianZCYH19</url>
+</inproceedings></dblp>

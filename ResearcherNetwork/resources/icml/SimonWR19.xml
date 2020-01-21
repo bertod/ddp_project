@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SimonWR19" mdate="2019-06-11">
+<author>Lo&#239;c Simon</author>
+<author>Ryan Webster</author>
+<author>Julien Rabin</author>
+<title>Revisiting precision recall definition for generative modeling.</title>
+<pages>5799-5808</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/simon19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SimonWR19</url>
+</inproceedings></dblp>

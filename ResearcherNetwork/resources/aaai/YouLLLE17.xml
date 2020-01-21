@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YouLLLE17" mdate="2017-10-02">
+<author>Jiaxuan You</author>
+<author>Xiaocheng Li</author>
+<author>Melvin Low</author>
+<author>David B. Lobell</author>
+<author>Stefano Ermon</author>
+<title>Deep Gaussian Process for Crop Yield Prediction Based on Remote Sensing Data.</title>
+<pages>4559-4566</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14435</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YouLLLE17</url>
+</inproceedings>
+</dblp>

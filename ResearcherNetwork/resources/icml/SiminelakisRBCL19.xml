@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SiminelakisRBCL19" mdate="2019-06-11">
+<author>Paris Siminelakis</author>
+<author>Kexin Rong</author>
+<author>Peter Bailis</author>
+<author>Moses Charikar</author>
+<author>Philip Levis</author>
+<title>Rehashing Kernel Evaluation in High Dimensions.</title>
+<pages>5789-5798</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/siminelakis19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SiminelakisRBCL19</url>
+</inproceedings></dblp>

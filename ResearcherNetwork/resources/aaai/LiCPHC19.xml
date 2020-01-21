@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiCPHC19" mdate="2019-09-25">
+<author>Chunyuan Li</author>
+<author>Changyou Chen</author>
+<author>Yunchen Pu</author>
+<author>Ricardo Henao</author>
+<author>Lawrence Carin</author>
+<title>Communication-Efficient Stochastic Gradient MCMC for Neural Networks.</title>
+<pages>4173-4180</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014173</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiCPHC19</url>
+</inproceedings></dblp>

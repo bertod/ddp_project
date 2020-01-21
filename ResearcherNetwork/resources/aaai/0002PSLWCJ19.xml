@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0002PSLWCJ19" mdate="2019-09-25">
+<author>Seunghyun Yoon 0002</author>
+<author>Kunwoo Park</author>
+<author>Joongbo Shin</author>
+<author>Hongjun Lim</author>
+<author>Seungpil Won</author>
+<author>Meeyoung Cha</author>
+<author>Kyomin Jung</author>
+<title>Detecting Incongruity between News Headline and Body Text via a Deep Hierarchical Encoder.</title>
+<pages>791-800</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301791</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0002PSLWCJ19</url>
+</inproceedings></dblp>

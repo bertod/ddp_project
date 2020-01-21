@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FoersterSHBDWBB19" mdate="2019-07-24">
+<author>Jakob N. Foerster</author>
+<author>H. Francis Song</author>
+<author>Edward Hughes</author>
+<author>Neil Burch</author>
+<author>Iain Dunning</author>
+<author>Shimon Whiteson</author>
+<author>Matthew Botvinick</author>
+<author>Michael Bowling</author>
+<title>Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning.</title>
+<pages>1942-1951</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/foerster19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FoersterSHBDWBB19</url>
+</inproceedings></dblp>

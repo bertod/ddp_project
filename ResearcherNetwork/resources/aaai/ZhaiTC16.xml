@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaiTC16" mdate="2016-04-21">
+<author>Michael Zhai</author>
+<author>Johnny Tan</author>
+<author>Jinho D. Choi</author>
+<title>Intrinsic and Extrinsic Evaluations of Word Embeddings.</title>
+<pages>4282-4283</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12454</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhaiTC16</url>
+</inproceedings>
+</dblp>

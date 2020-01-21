@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiT17" mdate="2017-03-06">
+<author>Zechao Li</author>
+<author>Jinhui Tang</author>
+<title>Weakly-Supervised Deep Nonnegative Low-Rank Model for Social Image Tag Refinement and Assignment.</title>
+<pages>4154-4160</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14169</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiT17</url>
+</inproceedings>
+</dblp>

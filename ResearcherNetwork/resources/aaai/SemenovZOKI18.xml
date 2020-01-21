@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SemenovZOKI18" mdate="2018-10-22">
+<author>Alexander A. Semenov</author>
+<author>Oleg Zaikin 0002</author>
+<author>Ilya V. Otpuschennikov</author>
+<author>Stepan Kochemazov</author>
+<author>Alexey Ignatiev</author>
+<title>On Cryptographic Attacks Using Backdoors for SAT.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16855</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SemenovZOKI18</url>
+<pages>6641-6648</pages>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TuVWGJR17" mdate="2019-04-03">
+<author>Stephen Tu</author>
+<author>Shivaram Venkataraman</author>
+<author>Ashia C. Wilson</author>
+<author>Alex Gittens</author>
+<author>Michael I. Jordan</author>
+<author>Benjamin Recht</author>
+<title>Breaking Locality Accelerates Block Gauss-Seidel.</title>
+<pages>3482-3491</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/tu17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TuVWGJR17</url>
+</inproceedings>
+</dblp>

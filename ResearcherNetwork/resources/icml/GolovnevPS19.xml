@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GolovnevPS19" mdate="2019-06-11">
+<author>Alexander Golovnev</author>
+<author>D&#225;vid P&#225;l</author>
+<author>Bal&#225;zs Sz&#246;r&#233;nyi</author>
+<title>The information-theoretic value of unlabeled data in semi-supervised learning.</title>
+<pages>2328-2336</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/golovnev19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GolovnevPS19</url>
+</inproceedings></dblp>

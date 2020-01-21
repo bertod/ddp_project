@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BubeckLPR19" mdate="2019-06-11">
+<author>S&#233;bastien Bubeck</author>
+<author>Yin Tat Lee</author>
+<author>Eric Price</author>
+<author>Ilya P. Razenshteyn</author>
+<title>Adversarial examples from computational constraints.</title>
+<pages>831-840</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bubeck19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BubeckLPR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangWZPM18" mdate="2018-10-22">
+<author>Chengqiang Huang</author>
+<author>Yulei Wu</author>
+<author>Yuan Zuo</author>
+<author>Ke Pei</author>
+<author>Geyong Min</author>
+<title>Towards Experienced Anomaly Detector Through Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16048</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuangWZPM18</url>
+<pages>8087-8088</pages>
+</inproceedings></dblp>

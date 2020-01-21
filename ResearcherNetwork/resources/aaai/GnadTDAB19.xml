@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GnadTDAB19" mdate="2019-09-25">
+<author>Daniel Gnad</author>
+<author>&#193;lvaro Torralba</author>
+<author>Mart&#237;n Ariel Dom&#237;nguez</author>
+<author>Carlos Areces</author>
+<author>Facundo Bustos</author>
+<title>Learning How to Ground a Plan - Partial Grounding in Classical Planning.</title>
+<pages>7602-7609</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017602</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GnadTDAB19</url>
+</inproceedings></dblp>

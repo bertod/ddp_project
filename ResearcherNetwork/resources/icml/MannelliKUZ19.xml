@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MannelliKUZ19" mdate="2019-06-11">
+<author>Stefano Sarao Mannelli</author>
+<author>Florent Krzakala</author>
+<author>Pierfrancesco Urbani</author>
+<author>Lenka Zdeborov&#225;</author>
+<title>Passed &amp; Spurious: Descent Algorithms and Local Minima in Spiked Matrix-Tensor Models.</title>
+<pages>4333-4342</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mannelli19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MannelliKUZ19</url>
+</inproceedings></dblp>

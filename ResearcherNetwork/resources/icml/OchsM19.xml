@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OchsM19" mdate="2019-06-11">
+<author>Peter Ochs</author>
+<author>Yura Malitsky</author>
+<title>Model Function Based Conditional Gradient Method with Armijo-like Line Search.</title>
+<pages>4891-4900</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ochs19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OchsM19</url>
+</inproceedings></dblp>

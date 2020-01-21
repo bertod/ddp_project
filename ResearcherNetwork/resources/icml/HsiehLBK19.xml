@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HsiehLBK19" mdate="2019-06-11">
+<author>Ping-Chun Hsieh</author>
+<author>Xi Liu</author>
+<author>Anirban Bhattacharya</author>
+<author>P. R. Kumar</author>
+<title>Stay With Me: Lifetime Maximization Through Heteroscedastic Linear Bandits With Reneging.</title>
+<pages>2800-2809</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hsieh19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HsiehLBK19</url>
+</inproceedings></dblp>

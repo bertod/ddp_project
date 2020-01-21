@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DuPX17" mdate="2017-03-06">
+<author>Wenchao Du</author>
+<author>Pascal Poupart</author>
+<author>Wei Xu</author>
+<title>Discovering Conversational Dependencies between Messages in Dialogs.</title>
+<pages>4917-4918</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14800</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DuPX17</url>
+</inproceedings>
+</dblp>

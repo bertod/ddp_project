@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SutherlandOPS16" mdate="2016-04-21">
+<author>Dougal J. Sutherland</author>
+<author>Junier B. Oliva</author>
+<author>Barnab&#225;s P&#243;czos</author>
+<author>Jeff G. Schneider</author>
+<title>Linear-Time Learning on Distributions with Approximate Kernel Embeddings.</title>
+<pages>2073-2079</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12460</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SutherlandOPS16</url>
+</inproceedings>
+</dblp>

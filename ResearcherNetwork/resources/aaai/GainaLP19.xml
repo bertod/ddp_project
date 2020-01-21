@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GainaLP19" mdate="2019-09-25">
+<author>Raluca D. Gaina</author>
+<author>Simon M. Lucas</author>
+<author>Diego P&#233;rez-Li&#233;bana</author>
+<title>Tackling Sparse Rewards in Real-Time Games with Statistical Forward Planning Methods.</title>
+<pages>1691-1698</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011691</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GainaLP19</url>
+</inproceedings></dblp>

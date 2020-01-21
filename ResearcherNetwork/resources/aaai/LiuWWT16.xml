@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuWWT16" mdate="2017-10-25">
+<author>Qiang Liu 0006</author>
+<author>Shu Wu</author>
+<author>Liang Wang 0001</author>
+<author>Tieniu Tan</author>
+<title>Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts.</title>
+<pages>194-200</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11900</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiuWWT16</url>
+</inproceedings></dblp>

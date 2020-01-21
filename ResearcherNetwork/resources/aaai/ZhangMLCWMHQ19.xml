@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangMLCWMHQ19" mdate="2019-09-25">
+<author>Haoran Zhang</author>
+<author>Ahmed Magooda</author>
+<author>Diane J. Litman</author>
+<author>Richard Correnti</author>
+<author>Elaine Wang</author>
+<author>Lindsay Clare Matsumura</author>
+<author>Emily Howe</author>
+<author>Rafael Quintana</author>
+<title>eRevise: Using Natural Language Processing to Provide Formative Feedback on Text Evidence Usage in Student Writing.</title>
+<pages>9619-9625</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019619</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangMLCWMHQ19</url>
+</inproceedings>
+</dblp>

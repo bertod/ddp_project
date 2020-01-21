@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangDWK19" mdate="2019-06-11">
+<author>Po-Wei Wang</author>
+<author>Priya L. Donti</author>
+<author>Bryan Wilder</author>
+<author>J. Zico Kolter</author>
+<title>SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver.</title>
+<pages>6545-6554</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangDWK19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JiangEL18" mdate="2019-04-03">
+<author>Daniel R. Jiang</author>
+<author>Emmanuel Ekwedike</author>
+<author>Han Liu</author>
+<title>Feedback-Based Tree Search for Reinforcement Learning.</title>
+<pages>2289-2298</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/jiang18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#JiangEL18</url>
+</inproceedings>
+</dblp>

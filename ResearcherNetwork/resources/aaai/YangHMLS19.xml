@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangHMLS19" mdate="2019-09-25">
+<author>Fan Yang</author>
+<author>Ryota Hinami</author>
+<author>Yusuke Matsui</author>
+<author>Steven Ly</author>
+<author>Shin'ichi Satoh</author>
+<title>Efficient Image Retrieval via Decoupling Diffusion into Online and Offline Processing.</title>
+<pages>9087-9094</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019087</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YangHMLS19</url>
+</inproceedings></dblp>

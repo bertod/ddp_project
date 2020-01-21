@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CsarLPS17" mdate="2017-03-06">
+<author>Theresa Csar</author>
+<author>Martin Lackner</author>
+<author>Reinhard Pichler</author>
+<author>Emanuel Sallinger</author>
+<title>Winner Determination in Huge Elections with MapReduce.</title>
+<pages>451-458</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14894</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CsarLPS17</url>
+</inproceedings>
+</dblp>

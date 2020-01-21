@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KunduGB19" mdate="2019-09-25">
+<author>Jogendra Nath Kundu</author>
+<author>Maharshi Gor</author>
+<author>R. Venkatesh Babu</author>
+<title>BiHMP-GAN: Bidirectional 3D Human Motion Prediction GAN.</title>
+<pages>8553-8560</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018553</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KunduGB19</url>
+</inproceedings></dblp>

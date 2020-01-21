@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NiuG0LWSZXDC19" mdate="2019-10-10">
+<author>Yuhao Niu</author>
+<author>Lin Gu 0003</author>
+<author>Feng Lu 0005</author>
+<author>Feifan Lv</author>
+<author>Zongji Wang</author>
+<author>Imari Sato</author>
+<author>Zijian Zhang</author>
+<author>Yangyan Xiao</author>
+<author>Xunzhang Dai</author>
+<author>Tingting Cheng</author>
+<title>Pathological Evidence Exploration in Deep Retinal Image Diagnosis.</title>
+<pages>1093-1101</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011093</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#NiuG0LWSZXDC19</url>
+</inproceedings>
+</dblp>

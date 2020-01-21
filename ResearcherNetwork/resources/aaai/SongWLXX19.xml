@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SongWLXX19" mdate="2019-11-20">
+<author>Yuhang Song 0001</author>
+<author>Jianyi Wang</author>
+<author>Thomas Lukasiewicz</author>
+<author>Zhenghua Xu</author>
+<author>Mai Xu</author>
+<title>Diversity-Driven Extensible Hierarchical Reinforcement Learning.</title>
+<pages>4992-4999</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014992</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SongWLXX19</url>
+</inproceedings>
+</dblp>

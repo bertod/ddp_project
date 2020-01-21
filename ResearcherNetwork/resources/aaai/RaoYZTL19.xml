@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RaoYZTL19" mdate="2019-09-25">
+<author>Jinfeng Rao</author>
+<author>Wei Yang</author>
+<author>Yuhao Zhang</author>
+<author>Ferhan T&#252;re</author>
+<author>Jimmy Lin</author>
+<title>Multi-Perspective Relevance Matching with Hierarchical ConvNets for Social Media Search.</title>
+<pages>232-240</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301232</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RaoYZTL19</url>
+</inproceedings></dblp>

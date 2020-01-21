@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MasonGDCHDTM16" mdate="2016-04-21">
+<author>Rebecca Mason</author>
+<author>Benjamin Gaska</author>
+<author>Benjamin Van Durme</author>
+<author>Pallavi Choudhury</author>
+<author>Ted Hart</author>
+<author>Bill Dolan</author>
+<author>Kristina Toutanova</author>
+<author>Margaret Mitchell</author>
+<title>Microsummarization of Online Reviews: An Experimental Study.</title>
+<pages>3015-3021</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12548</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MasonGDCHDTM16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZillySKS17" mdate="2019-04-03">
+<author>Julian Georg Zilly</author>
+<author>Rupesh Kumar Srivastava</author>
+<author>Jan Koutn&#237;k</author>
+<author>J&#252;rgen Schmidhuber</author>
+<title>Recurrent Highway Networks.</title>
+<pages>4189-4198</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zilly17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZillySKS17</url>
+</inproceedings>
+</dblp>

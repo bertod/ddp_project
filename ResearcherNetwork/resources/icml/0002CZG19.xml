@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0002CZG19" mdate="2019-06-23">
+<author>Han Zhao 0002</author>
+<author>Remi Tachet des Combes</author>
+<author>Kun Zhang 0001</author>
+<author>Geoffrey J. Gordon</author>
+<title>On Learning Invariant Representations for Domain Adaptation.</title>
+<pages>7523-7532</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhao19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#0002CZG19</url>
+</inproceedings>
+</dblp>

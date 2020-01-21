@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RealMSSSTLK17" mdate="2019-04-03">
+<author>Esteban Real</author>
+<author>Sherry Moore</author>
+<author>Andrew Selle</author>
+<author>Saurabh Saxena</author>
+<author>Yutaka Leon Suematsu</author>
+<author>Jie Tan</author>
+<author>Quoc V. Le</author>
+<author>Alexey Kurakin</author>
+<title>Large-Scale Evolution of Image Classifiers.</title>
+<pages>2902-2911</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/real17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#RealMSSSTLK17</url>
+</inproceedings>
+</dblp>

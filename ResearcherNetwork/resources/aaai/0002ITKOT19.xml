@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0002ITKOT19" mdate="2019-10-19">
+<author orcid="0000-0002-7316-1425">Yusuke Tanaka 0002</author>
+<author>Tomoharu Iwata</author>
+<author>Toshiyuki Tanaka</author>
+<author>Takeshi Kurashima</author>
+<author>Maya Okawa</author>
+<author>Hiroyuki Toda</author>
+<title>Refining Coarse-Grained Spatial Data Using Auxiliary Spatial Data Sets with Various Granularities.</title>
+<pages>5091-5099</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015091</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0002ITKOT19</url>
+</inproceedings></dblp>

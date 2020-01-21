@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Ben-younesCTC19" mdate="2019-09-25">
+<author>Hedi Ben-younes</author>
+<author>R&#233;mi Cad&#232;ne</author>
+<author>Nicolas Thome</author>
+<author>Matthieu Cord</author>
+<title>BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection.</title>
+<pages>8102-8109</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018102</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Ben-younesCTC19</url>
+</inproceedings></dblp>

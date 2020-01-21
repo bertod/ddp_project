@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChangWLY17" mdate="2017-03-06">
+<author>Wei-Cheng Chang</author>
+<author>Yuexin Wu</author>
+<author>Hanxiao Liu</author>
+<author>Yiming Yang</author>
+<title>Cross-Domain Kernel Induction for Transfer Learning.</title>
+<pages>1763-1769</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14781</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChangWLY17</url>
+</inproceedings>
+</dblp>

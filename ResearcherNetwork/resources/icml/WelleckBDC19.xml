@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WelleckBDC19" mdate="2019-06-11">
+<author>Sean Welleck</author>
+<author>Kiant&#233; Brantley</author>
+<author>Hal Daum&#233; III</author>
+<author>Kyunghyun Cho</author>
+<title>Non-Monotonic Sequential Text Generation.</title>
+<pages>6716-6726</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/welleck19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WelleckBDC19</url>
+</inproceedings></dblp>

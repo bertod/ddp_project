@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KangLT16" mdate="2018-04-23">
+<author>Guoliang Kang</author>
+<author>Jun Li 0010</author>
+<author>Dacheng Tao</author>
+<title>Shakeout: A New Regularized Deep Neural Network Training Scheme.</title>
+<pages>1751-1757</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11840</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KangLT16</url>
+</inproceedings></dblp>

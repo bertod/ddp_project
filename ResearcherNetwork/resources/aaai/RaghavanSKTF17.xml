@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RaghavanSKTF17" mdate="2017-03-06">
+<author>Aswin Raghavan</author>
+<author>Scott Sanner</author>
+<author>Roni Khardon</author>
+<author>Prasad Tadepalli</author>
+<author>Alan Fern</author>
+<title>Hindsight Optimization for Hybrid State and Action MDPs.</title>
+<pages>3790-3796</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14946</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#RaghavanSKTF17</url>
+</inproceedings>
+</dblp>

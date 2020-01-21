@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Fernandez-Gonzalez17" mdate="2017-03-06">
+<author>Enrique Fern&#225;ndez-Gonz&#225;lez</author>
+<author>Erez Karpas</author>
+<author>Brian Charles Williams</author>
+<title>Mixed Discrete-Continuous Planning with Convex Optimization.</title>
+<pages>4574-4580</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14302</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#Fernandez-Gonzalez17</url>
+</inproceedings>
+</dblp>

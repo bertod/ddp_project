@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RaguetL18" mdate="2019-04-03">
+<author>Hugo Raguet</author>
+<author>Lo&#239;c Landrieu</author>
+<title>Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation.</title>
+<pages>4244-4253</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/raguet18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RaguetL18</url>
+</inproceedings>
+</dblp>

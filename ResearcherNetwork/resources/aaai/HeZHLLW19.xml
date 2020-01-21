@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeZHLLW19" mdate="2019-12-27">
+<author>Dongliang He</author>
+<author>Xiang Zhao</author>
+<author orcid="0000-0003-1022-0309">Jizhou Huang</author>
+<author>Fu Li</author>
+<author>Xiao Liu 0022</author>
+<author>Shilei Wen</author>
+<title>Read, Watch, and Move: Reinforcement Learning for Temporally Grounding Natural Language Descriptions in Videos.</title>
+<pages>8393-8400</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018393</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HeZHLLW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KozdobaMTM19" mdate="2019-09-25">
+<author>Mark Kozdoba</author>
+<author>Jakub Marecek</author>
+<author>Tigran T. Tchrakian</author>
+<author>Shie Mannor</author>
+<title>On-Line Learning of Linear Dynamical Systems: Exponential Forgetting in Kalman Filters.</title>
+<pages>4098-4105</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014098</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KozdobaMTM19</url>
+</inproceedings></dblp>

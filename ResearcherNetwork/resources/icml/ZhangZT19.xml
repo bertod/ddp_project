@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangZT19" mdate="2019-06-11">
+<author>Martin J. Zhang</author>
+<author>James Zou</author>
+<author>David Tse</author>
+<title>Adaptive Monte Carlo Multiple Testing via Multi-Armed Bandits.</title>
+<pages>7512-7522</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19t.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangZT19</url>
+</inproceedings></dblp>

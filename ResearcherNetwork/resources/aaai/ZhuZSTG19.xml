@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuZSTG19" mdate="2019-09-25">
+<author>Qiannan Zhu</author>
+<author>Xiaofei Zhou</author>
+<author>Zeliang Song</author>
+<author>Jianlong Tan</author>
+<author>Li Guo 0001</author>
+<title>DAN: Deep Attention Neural Network for News Recommendation.</title>
+<pages>5973-5980</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015973</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhuZSTG19</url>
+</inproceedings></dblp>

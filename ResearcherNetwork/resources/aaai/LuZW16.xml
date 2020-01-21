@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuZW16" mdate="2019-05-21">
+<author>Yang Lu 0006</author>
+<author>Song-Chun Zhu</author>
+<author>Ying Nian Wu</author>
+<title>Learning FRAME Models Using CNN Filters.</title>
+<pages>1902-1910</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12051</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LuZW16</url>
+</inproceedings>
+</dblp>

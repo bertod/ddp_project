@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangQG16" mdate="2016-04-21">
+<author>Shubao Zhang</author>
+<author>Hui Qian</author>
+<author>Xiaojin Gong</author>
+<title>An Alternating Proximal Splitting Method with Global Convergence for Nonconvex Structured Sparsity Optimization.</title>
+<pages>2330-2336</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12122</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhangQG16</url>
+</inproceedings>
+</dblp>

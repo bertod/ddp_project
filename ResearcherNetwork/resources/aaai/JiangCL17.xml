@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangCL17" mdate="2017-03-06">
+<author>Albert Xin Jiang</author>
+<author>Hau Chan</author>
+<author>Kevin Leyton-Brown</author>
+<title>Resource Graph Games: A Compact Representation for Games with Structured Strategy Spaces.</title>
+<pages>572-578</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14965</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#JiangCL17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WoudaGBBV19" mdate="2019-10-19">
+<author orcid="0000-0002-4401-4434">Frank J. Wouda</author>
+<author>Matteo Giuberti</author>
+<author>Giovanni Bellusci</author>
+<author>Bert-Jan F. van Beijnum</author>
+<author>Peter H. Veltink</author>
+<title>Improving Full-Body Pose Estimation from a Small Sensor Set Using Artificial Neural Networks and a Kalman Filter.</title>
+<pages>10063-10064</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110063</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WoudaGBBV19</url>
+</inproceedings></dblp>

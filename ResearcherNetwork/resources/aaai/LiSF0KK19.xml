@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiSF0KK19" mdate="2020-01-10">
+<author>Jiaoyang Li 0001</author>
+<author>Pavel Surynek</author>
+<author>Ariel Felner</author>
+<author>Hang Ma 0001</author>
+<author>T. K. Satish Kumar</author>
+<author>Sven Koenig</author>
+<title>Multi-Agent Path Finding for Large Agents.</title>
+<pages>7627-7634</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017627</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiSF0KK19</url>
+</inproceedings></dblp>

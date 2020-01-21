@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DalalSTM18" mdate="2018-10-22">
+<author>Gal Dalal</author>
+<author>Bal&#225;zs Sz&#246;r&#233;nyi</author>
+<author>Gugan Thoppe</author>
+<author>Shie Mannor</author>
+<title>Finite Sample Analyses for TD(0) With Function Approximation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16392</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#DalalSTM18</url>
+<pages>6144-6160</pages>
+</inproceedings></dblp>

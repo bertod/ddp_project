@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AndertonA19" mdate="2019-06-11">
+<author>Jesse Anderton</author>
+<author>Javed A. Aslam</author>
+<title>Scaling Up Ordinal Embedding: A Landmark Approach.</title>
+<pages>282-290</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/anderton19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AndertonA19</url>
+</inproceedings></dblp>

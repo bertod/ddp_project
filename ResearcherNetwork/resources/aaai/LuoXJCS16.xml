@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuoXJCS16" mdate="2019-05-29">
+<author>Yuan Luo 0001</author>
+<author>Yu Xin</author>
+<author>Rohit Joshi</author>
+<author>Leo A. Celi</author>
+<author>Peter Szolovits</author>
+<title>Predicting ICU Mortality Risk by Grouping Temporal Trends from a Multivariate Panel of Physiologic Measurements.</title>
+<pages>42-50</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11843</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LuoXJCS16</url>
+</inproceedings>
+</dblp>

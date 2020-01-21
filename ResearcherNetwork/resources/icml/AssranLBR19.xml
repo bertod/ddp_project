@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AssranLBR19" mdate="2019-06-11">
+<author>Mahmoud Assran</author>
+<author>Nicolas Loizou</author>
+<author>Nicolas Ballas</author>
+<author>Michael Rabbat</author>
+<title>Stochastic Gradient Push for Distributed Deep Learning.</title>
+<pages>344-353</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/assran19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AssranLBR19</url>
+</inproceedings></dblp>

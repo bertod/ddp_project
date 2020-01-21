@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Zhou000W19" mdate="2019-12-10">
+<author>Hang Zhou</author>
+<author>Yu Liu 0015</author>
+<author>Ziwei Liu 0002</author>
+<author>Ping Luo 0002</author>
+<author>Xiaogang Wang 0001</author>
+<title>Talking Face Generation by Adversarially Disentangled Audio-Visual Representation.</title>
+<pages>9299-9306</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019299</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Zhou000W19</url>
+</inproceedings></dblp>

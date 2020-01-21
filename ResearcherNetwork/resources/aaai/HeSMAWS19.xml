@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeSMAWS19" mdate="2019-09-25">
+<author>Baokun He</author>
+<author>Swair Shah</author>
+<author>Crystal Maung</author>
+<author>Gordon Arnold</author>
+<author>Guihong Wan</author>
+<author>Haim Schweitzer</author>
+<title>Heuristic Search Algorithm for Dimensionality Reduction Optimally Combining Feature Selection and Feature Extraction.</title>
+<pages>2280-2287</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012280</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HeSMAWS19</url>
+</inproceedings></dblp>

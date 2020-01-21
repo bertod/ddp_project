@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OmidshafieiPAHV17" mdate="2019-04-03">
+<author>Shayegan Omidshafiei</author>
+<author>Jason Pazis</author>
+<author>Christopher Amato</author>
+<author>Jonathan P. How</author>
+<author>John Vian</author>
+<title>Deep Decentralized Multi-task Multi-Agent Reinforcement Learning under Partial Observability.</title>
+<pages>2681-2690</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/omidshafiei17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#OmidshafieiPAHV17</url>
+</inproceedings>
+</dblp>

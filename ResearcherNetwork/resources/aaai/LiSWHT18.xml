@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiSWHT18" mdate="2019-06-14">
+<author>Yi Li 0018</author>
+<author>Lingxiao Song</author>
+<author>Xiang Wu 0001</author>
+<author>Ran He</author>
+<author>Tieniu Tan</author>
+<title>Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16739</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiSWHT18</url>
+<pages>7057-7064</pages>
+</inproceedings></dblp>

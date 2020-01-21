@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangSLSF18" mdate="2019-04-03">
+<author>Amy Zhang</author>
+<author>Sainbayar Sukhbaatar</author>
+<author>Adam Lerer</author>
+<author>Arthur Szlam</author>
+<author>Rob Fergus</author>
+<title>Composable Planning with Attributes.</title>
+<pages>5837-5846</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhang18k.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ZhangSLSF18</url>
+</inproceedings>
+</dblp>

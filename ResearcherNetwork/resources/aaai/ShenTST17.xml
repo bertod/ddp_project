@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShenTST17" mdate="2017-03-06">
+<author>Xu Shen</author>
+<author>Xinmei Tian</author>
+<author>Shaoyan Sun</author>
+<author>Dacheng Tao</author>
+<title>Patch Reordering: A NovelWay to Achieve Rotation and Translation Invariance in Convolutional Neural Networks.</title>
+<pages>2534-2540</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14674</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShenTST17</url>
+</inproceedings>
+</dblp>

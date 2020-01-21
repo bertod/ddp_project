@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BregereGGS19" mdate="2019-06-11">
+<author>Margaux Br&#233;g&#232;re</author>
+<author>Pierre Gaillard</author>
+<author>Yannig Goude</author>
+<author>Gilles Stoltz</author>
+<title>Target Tracking for Contextual Bandits: Application to Demand Side Management.</title>
+<pages>754-763</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bregere19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BregereGGS19</url>
+</inproceedings></dblp>

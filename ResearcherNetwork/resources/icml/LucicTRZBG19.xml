@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LucicTRZBG19" mdate="2019-06-11">
+<author>Mario Lucic</author>
+<author>Michael Tschannen</author>
+<author>Marvin Ritter</author>
+<author>Xiaohua Zhai</author>
+<author>Olivier Bachem</author>
+<author>Sylvain Gelly</author>
+<title>High-Fidelity Image Generation With Fewer Labels.</title>
+<pages>4183-4192</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lucic19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LucicTRZBG19</url>
+</inproceedings></dblp>

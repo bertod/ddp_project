@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiWLRB17" mdate="2017-03-06">
+<author>Piji Li</author>
+<author>Zihao Wang</author>
+<author>Wai Lam</author>
+<author>Zhaochun Ren</author>
+<author>Lidong Bing</author>
+<title>Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization.</title>
+<pages>3497-3503</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiWLRB17</url>
+</inproceedings>
+</dblp>

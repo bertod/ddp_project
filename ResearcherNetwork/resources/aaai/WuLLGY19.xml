@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuLLGY19" mdate="2019-09-25">
+<author>Yuexin Wu</author>
+<author>Xiujun Li</author>
+<author>Jingjing Liu</author>
+<author>Jianfeng Gao</author>
+<author>Yiming Yang</author>
+<title>Switch-Based Active Deep Dyna-Q: Efficient Adaptive Planning for Task-Completion Dialogue Policy Learning.</title>
+<pages>7289-7296</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017289</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuLLGY19</url>
+</inproceedings></dblp>

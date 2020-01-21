@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WuSZFYW19" mdate="2019-06-11">
+<author>Felix Wu</author>
+<author>Amauri H. Souza Jr.</author>
+<author>Tianyi Zhang</author>
+<author>Christopher Fifty</author>
+<author>Tao Yu</author>
+<author>Kilian Q. Weinberger</author>
+<title>Simplifying Graph Convolutional Networks.</title>
+<pages>6861-6871</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuSZFYW19</url>
+</inproceedings></dblp>

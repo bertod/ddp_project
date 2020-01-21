@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SonKKHY19" mdate="2019-07-24">
+<author>Kyunghwan Son</author>
+<author>Daewoo Kim</author>
+<author>Wan Ju Kang</author>
+<author>David Hostallero</author>
+<author>Yung Yi</author>
+<title>QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning.</title>
+<pages>5887-5896</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/son19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SonKKHY19</url>
+</inproceedings></dblp>

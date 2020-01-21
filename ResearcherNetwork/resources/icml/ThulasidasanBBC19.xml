@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ThulasidasanBBC19" mdate="2019-06-11">
+<author>Sunil Thulasidasan</author>
+<author>Tanmoy Bhattacharya</author>
+<author>Jeff A. Bilmes</author>
+<author>Gopinath Chennupati</author>
+<author>Jamal Mohd-Yusof</author>
+<title>Combating Label Noise in Deep Learning using Abstention.</title>
+<pages>6234-6243</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/thulasidasan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ThulasidasanBBC19</url>
+</inproceedings></dblp>

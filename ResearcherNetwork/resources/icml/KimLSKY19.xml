@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimLSKY19" mdate="2019-06-11">
+<author>Sungwon Kim</author>
+<author>Sang-gil Lee</author>
+<author>Jongyoon Song</author>
+<author>Jaehyeon Kim</author>
+<author>Sungroh Yoon</author>
+<title>FloWaveNet : A Generative Flow for Raw Audio.</title>
+<pages>3370-3378</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kim19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KimLSKY19</url>
+</inproceedings></dblp>

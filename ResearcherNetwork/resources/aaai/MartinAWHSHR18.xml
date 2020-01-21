@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MartinAWHSHR18" mdate="2018-10-22">
+<author>Lara J. Martin</author>
+<author>Prithviraj Ammanabrolu</author>
+<author>Xinyu Wang</author>
+<author>William Hancock</author>
+<author>Shruti Singh</author>
+<author>Brent Harrison</author>
+<author>Mark O. Riedl</author>
+<title>Event Representations for Automated Story Generation with Deep Neural Nets.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17046</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#MartinAWHSHR18</url>
+<pages>868-875</pages>
+</inproceedings></dblp>

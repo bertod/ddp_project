@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DauphinFAG17" mdate="2019-04-03">
+<author>Yann N. Dauphin</author>
+<author>Angela Fan</author>
+<author>Michael Auli</author>
+<author>David Grangier</author>
+<title>Language Modeling with Gated Convolutional Networks.</title>
+<pages>933-941</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/dauphin17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DauphinFAG17</url>
+</inproceedings>
+</dblp>

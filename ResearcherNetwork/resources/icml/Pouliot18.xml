@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Pouliot18" mdate="2019-04-03">
+<author>Guillaume Pouliot</author>
+<title>Equivalence of Multicategory SVM and Simplex Cone SVM: Fast Computations and Statistical Theory.</title>
+<pages>4130-4137</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/pouliot18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Pouliot18</url>
+</inproceedings>
+</dblp>

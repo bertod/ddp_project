@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuZCZ019" mdate="2019-10-18">
+<author>Chang Liu 0030</author>
+<author>Jingwei Zhuo</author>
+<author>Pengyu Cheng</author>
+<author>Ruiyi Zhang</author>
+<author>Jun Zhu 0001</author>
+<title>Understanding and Accelerating Particle-Based Variational Inference.</title>
+<pages>4082-4092</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19i.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuZCZ019</url>
+</inproceedings>
+</dblp>

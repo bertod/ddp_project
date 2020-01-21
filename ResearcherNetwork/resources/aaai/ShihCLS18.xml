@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShihCLS18" mdate="2018-10-22">
+<author>Yong-Siang Shih</author>
+<author>Kai-Yueh Chang</author>
+<author>Hsuan-Tien Lin</author>
+<author>Min Sun</author>
+<title>Compatibility Family Learning for Item Recommendation and Generation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16124</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ShihCLS18</url>
+<pages>2403-2410</pages>
+</inproceedings></dblp>

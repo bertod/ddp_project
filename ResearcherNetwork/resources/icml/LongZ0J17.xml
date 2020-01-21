@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LongZ0J17" mdate="2019-04-03">
+<author>Mingsheng Long</author>
+<author>Han Zhu</author>
+<author>Jianmin Wang 0001</author>
+<author>Michael I. Jordan</author>
+<title>Deep Transfer Learning with Joint Adaptation Networks.</title>
+<pages>2208-2217</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/long17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LongZ0J17</url>
+</inproceedings>
+</dblp>

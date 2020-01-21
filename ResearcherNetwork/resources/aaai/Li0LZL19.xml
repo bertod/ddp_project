@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Li0LZL19" mdate="2019-09-25">
+<author>Naihan Li</author>
+<author>Shujie Liu 0001</author>
+<author>Yanqing Liu</author>
+<author>Sheng Zhao</author>
+<author>Ming Liu</author>
+<title>Neural Speech Synthesis with Transformer Network.</title>
+<pages>6706-6713</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016706</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Li0LZL19</url>
+</inproceedings></dblp>

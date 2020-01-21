@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SedhainMSXB17" mdate="2017-03-06">
+<author>Suvash Sedhain</author>
+<author>Aditya Krishna Menon</author>
+<author>Scott Sanner</author>
+<author>Lexing Xie</author>
+<author>Darius Braziunas</author>
+<title>Low-Rank Linear Cold-Start Recommendation from Social Data.</title>
+<pages>1502-1508</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SedhainMSXB17</url>
+</inproceedings>
+</dblp>

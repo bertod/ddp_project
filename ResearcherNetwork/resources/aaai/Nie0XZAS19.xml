@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Nie0XZAS19" mdate="2019-09-25">
+<author>Dong Nie</author>
+<author>Li Wang 0026</author>
+<author>Lei Xiang</author>
+<author>Sihang Zhou</author>
+<author>Ehsan Adeli</author>
+<author>Dinggang Shen</author>
+<title>Difficulty-Aware Attention Network with Confidence Learning for Medical Image Segmentation.</title>
+<pages>1085-1092</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011085</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Nie0XZAS19</url>
+</inproceedings></dblp>

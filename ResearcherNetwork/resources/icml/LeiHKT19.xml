@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeiHKT19" mdate="2019-06-11">
+<author>Yifan Lei</author>
+<author>Qiang Huang</author>
+<author>Mohan S. Kankanhalli</author>
+<author>Anthony K. H. Tung</author>
+<title>Sublinear Time Nearest Neighbor Search over Generalized Weighted Space.</title>
+<pages>3773-3781</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lei19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LeiHKT19</url>
+</inproceedings></dblp>

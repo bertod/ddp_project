@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiXCGL19" mdate="2019-09-25">
+<author>Liping Li</author>
+<author>Wei Xu 0010</author>
+<author>Tianyi Chen</author>
+<author>Georgios B. Giannakis</author>
+<author>Qing Ling</author>
+<title>RSA: Byzantine-Robust Stochastic Aggregation Methods for Distributed Learning from Heterogeneous Datasets.</title>
+<pages>1544-1551</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011544</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiXCGL19</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SvetlikLSSWS17" mdate="2019-02-25">
+<author>Maxwell Svetlik</author>
+<author>Matteo Leonetti</author>
+<author>Jivko Sinapov</author>
+<author>Rishi Shah</author>
+<author>Nick Walker 0001</author>
+<author>Peter Stone</author>
+<title>Automatic Curriculum Graph Generation for Reinforcement Learning Agents.</title>
+<pages>2590-2596</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14961</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SvetlikLSSWS17</url>
+</inproceedings>
+</dblp>

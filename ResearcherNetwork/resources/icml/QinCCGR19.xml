@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/QinCCGR19" mdate="2019-06-11">
+<author>Yao Qin</author>
+<author>Nicholas Carlini</author>
+<author>Garrison W. Cottrell</author>
+<author>Ian J. Goodfellow</author>
+<author>Colin Raffel</author>
+<title>Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition.</title>
+<pages>5231-5240</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/qin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#QinCCGR19</url>
+</inproceedings></dblp>

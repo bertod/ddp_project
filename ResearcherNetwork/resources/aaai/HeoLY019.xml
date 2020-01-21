@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeoLY019" mdate="2019-09-25">
+<author>Byeongho Heo</author>
+<author>Minsik Lee</author>
+<author>Sangdoo Yun</author>
+<author>Jin Young Choi 0002</author>
+<title>Knowledge Distillation with Adversarial Samples Supporting Decision Boundary.</title>
+<pages>3771-3778</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013771</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HeoLY019</url>
+</inproceedings></dblp>

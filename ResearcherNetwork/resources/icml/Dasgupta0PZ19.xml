@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Dasgupta0PZ19" mdate="2019-06-11">
+<author>Sanjoy Dasgupta</author>
+<author>Daniel Hsu 0001</author>
+<author>Stefanos Poulis</author>
+<author>Xiaojin Zhu 0001</author>
+<title>Teaching a black-box learner.</title>
+<pages>1547-1555</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dasgupta19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Dasgupta0PZ19</url>
+</inproceedings>
+</dblp>

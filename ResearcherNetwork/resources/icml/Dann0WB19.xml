@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Dann0WB19" mdate="2019-06-11">
+<author>Christoph Dann</author>
+<author>Lihong Li 0001</author>
+<author>Wei Wei</author>
+<author>Emma Brunskill</author>
+<title>Policy Certificates: Towards Accountable Reinforcement Learning.</title>
+<pages>1507-1516</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dann19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Dann0WB19</url>
+</inproceedings></dblp>

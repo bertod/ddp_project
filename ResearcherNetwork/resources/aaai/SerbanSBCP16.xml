@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SerbanSBCP16" mdate="2016-04-21">
+<author>Iulian Vlad Serban</author>
+<author>Alessandro Sordoni</author>
+<author>Yoshua Bengio</author>
+<author>Aaron C. Courville</author>
+<author>Joelle Pineau</author>
+<title>Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models.</title>
+<pages>3776-3784</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11957</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SerbanSBCP16</url>
+</inproceedings>
+</dblp>

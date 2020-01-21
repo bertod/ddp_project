@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Wang0CMLF19" mdate="2019-09-25">
+<author>Rui Wang</author>
+<author>Xin Xin 0001</author>
+<author>Wei Chang</author>
+<author>Kun Ming</author>
+<author>Biao Li</author>
+<author>Xin Fan</author>
+<title>Chinese NER with Height-Limited Constituent Parsing.</title>
+<pages>7160-7167</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017160</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Wang0CMLF19</url>
+</inproceedings></dblp>

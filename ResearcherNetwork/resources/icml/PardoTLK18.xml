@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PardoTLK18" mdate="2019-04-03">
+<author>Fabio Pardo</author>
+<author>Arash Tavakoli</author>
+<author>Vitaly Levdik</author>
+<author>Petar Kormushev</author>
+<title>Time Limits in Reinforcement Learning.</title>
+<pages>4042-4051</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/pardo18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#PardoTLK18</url>
+</inproceedings>
+</dblp>

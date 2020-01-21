@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZZG17" mdate="2019-06-23">
+<author>Hao Zhang</author>
+<author>Shuigeng Zhou</author>
+<author>Kun Zhang 0001</author>
+<author>Jihong Guan</author>
+<title>Causal Discovery Using Regression-Based Conditional Independence Tests.</title>
+<pages>1250-1256</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14923</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangZZG17</url>
+</inproceedings>
+</dblp>

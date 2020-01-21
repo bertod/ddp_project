@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WagstaffLSGGP18" mdate="2018-10-22">
+<author>Kiri L. Wagstaff</author>
+<author>You Lu</author>
+<author>Alice Stanboli</author>
+<author>Kevin Grimes</author>
+<author>Thamme Gowda</author>
+<author>Jordan Padams</author>
+<title>Deep Mars: CNN Classification of Mars Imagery for the PDS Imaging Atlas.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16040</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WagstaffLSGGP18</url>
+<pages>7867-7872</pages>
+</inproceedings></dblp>

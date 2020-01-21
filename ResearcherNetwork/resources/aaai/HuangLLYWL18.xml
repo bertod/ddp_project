@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangLLYWL18" mdate="2018-10-22">
+<author>Lei Huang</author>
+<author>Xianglong Liu</author>
+<author>Bo Lang</author>
+<author>Adams Wei Yu</author>
+<author>Yongliang Wang</author>
+<author>Bo Li</author>
+<title>Orthogonal Weight Normalization: Solution to Optimization Over Multiple Dependent Stiefel Manifolds in Deep Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17072</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuangLLYWL18</url>
+<pages>3271-3278</pages>
+</inproceedings></dblp>

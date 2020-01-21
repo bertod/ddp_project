@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuLFMZXT19" mdate="2019-09-25">
+<author>Aishan Liu</author>
+<author>Xianglong Liu</author>
+<author>Jiaxin Fan</author>
+<author>Yuqing Ma</author>
+<author>Anlan Zhang</author>
+<author>Huiyuan Xie</author>
+<author>Dacheng Tao</author>
+<title>Perceptual-Sensitive GAN for Generating Adversarial Patches.</title>
+<pages>1028-1035</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011028</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuLFMZXT19</url>
+</inproceedings></dblp>

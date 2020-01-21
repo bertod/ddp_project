@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HartfordLLT17" mdate="2019-04-03">
+<author>Jason S. Hartford</author>
+<author>Greg Lewis</author>
+<author>Kevin Leyton-Brown</author>
+<author>Matt Taddy</author>
+<title>Deep IV: A Flexible Approach for Counterfactual Prediction.</title>
+<pages>1414-1423</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hartford17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HartfordLLT17</url>
+</inproceedings>
+</dblp>

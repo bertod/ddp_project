@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangYGWKZCTZJ18" mdate="2019-12-23">
+<author>Shuohang Wang</author>
+<author>Mo Yu</author>
+<author>Xiaoxiao Guo</author>
+<author>Zhiguo Wang</author>
+<author>Tim Klinger</author>
+<author>Wei Zhang 0057</author>
+<author>Shiyu Chang</author>
+<author>Gerry Tesauro</author>
+<author>Bowen Zhou</author>
+<author>Jing Jiang 0001</author>
+<title>R<sup>3</sup>: Reinforced Ranker-Reader for Open-Domain Question Answering.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16712</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangYGWKZCTZJ18</url>
+<pages>5981-5988</pages>
+</inproceedings>
+</dblp>

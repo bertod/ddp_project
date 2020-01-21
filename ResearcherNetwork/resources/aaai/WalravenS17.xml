@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WalravenS17" mdate="2017-03-06">
+<author>Erwin Walraven</author>
+<author>Matthijs T. J. Spaan</author>
+<title>Accelerated Vector Pruning for Optimal POMDP Solvers.</title>
+<pages>3672-3678</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14960</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WalravenS17</url>
+</inproceedings>
+</dblp>

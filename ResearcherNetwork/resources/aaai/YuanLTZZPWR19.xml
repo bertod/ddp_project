@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanLTZZPWR19" mdate="2019-09-25">
+<author>Yujin Yuan</author>
+<author>Liyuan Liu</author>
+<author>Siliang Tang</author>
+<author>Zhongfei Zhang</author>
+<author>Yueting Zhuang</author>
+<author>Shiliang Pu</author>
+<author>Fei Wu 0001</author>
+<author>Xiang Ren</author>
+<title>Cross-Relation Cross-Bag Attention for Distantly-Supervised Relation Extraction.</title>
+<pages>419-426</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301419</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuanLTZZPWR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DouTWWSZ19" mdate="2019-12-11">
+<author>Zi-Yi Dou</author>
+<author>Zhaopeng Tu</author>
+<author>Xing Wang 0007</author>
+<author>Longyue Wang</author>
+<author>Shuming Shi</author>
+<author>Tong Zhang</author>
+<title>Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement.</title>
+<pages>86-93</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330186</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DouTWWSZ19</url>
+</inproceedings>
+</dblp>

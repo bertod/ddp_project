@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RiquelmeGL17" mdate="2019-04-03">
+<author>Carlos Riquelme</author>
+<author>Mohammad Ghavamzadeh</author>
+<author>Alessandro Lazaric</author>
+<title>Active Learning for Accurate Estimation of Linear Models.</title>
+<pages>2931-2939</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/riquelme17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#RiquelmeGL17</url>
+</inproceedings>
+</dblp>

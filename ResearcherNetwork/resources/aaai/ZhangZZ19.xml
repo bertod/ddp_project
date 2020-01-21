@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZZ19" mdate="2019-09-25">
+<author>Chi Zhang</author>
+<author>Yixin Zhu</author>
+<author>Song-Chun Zhu</author>
+<title>MetaStyle: Three-Way Trade-off among Speed, Flexibility, and Quality in Neural Style Transfer.</title>
+<pages>1254-1261</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011254</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZZ19</url>
+</inproceedings></dblp>

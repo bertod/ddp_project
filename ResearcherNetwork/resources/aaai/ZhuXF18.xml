@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuXF18" mdate="2019-09-18">
+<author>Jing Zhu</author>
+<author>Jin Xie 0001</author>
+<author>Yi Fang 0006</author>
+<title>Learning Adversarial 3D Model Generation With 2D Image Enhancer.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16064</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhuXF18</url>
+<pages>7615-7622</pages>
+</inproceedings>
+</dblp>

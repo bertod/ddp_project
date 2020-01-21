@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GilbertWX17" mdate="2017-03-06">
+<author>Hugo Gilbert</author>
+<author>Paul Weng</author>
+<author>Yan Xu</author>
+<title>Optimizing Quantiles in Preference-Based Markov Decision Processes.</title>
+<pages>3569-3575</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14819</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GilbertWX17</url>
+</inproceedings>
+</dblp>

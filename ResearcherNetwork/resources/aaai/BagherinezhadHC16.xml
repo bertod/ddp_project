@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BagherinezhadHC16" mdate="2016-04-21">
+<author>Hessam Bagherinezhad</author>
+<author>Hannaneh Hajishirzi</author>
+<author>Yejin Choi</author>
+<author>Ali Farhadi</author>
+<title>Are Elephants Bigger than Butterflies? Reasoning about Sizes of Objects.</title>
+<pages>3449-3456</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12510</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BagherinezhadHC16</url>
+</inproceedings>
+</dblp>

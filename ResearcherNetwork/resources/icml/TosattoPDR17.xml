@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TosattoPDR17" mdate="2019-04-03">
+<author>Samuele Tosatto</author>
+<author>Matteo Pirotta</author>
+<author>Carlo D'Eramo</author>
+<author>Marcello Restelli</author>
+<title>Boosted Fitted Q-Iteration.</title>
+<pages>3434-3443</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/tosatto17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TosattoPDR17</url>
+</inproceedings>
+</dblp>

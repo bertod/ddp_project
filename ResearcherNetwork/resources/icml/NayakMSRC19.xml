@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NayakMSRC19" mdate="2019-06-11">
+<author>Gaurav Kumar Nayak</author>
+<author>Konda Reddy Mopuri</author>
+<author>Vaisakh Shaj</author>
+<author>Venkatesh Babu Radhakrishnan</author>
+<author>Anirban Chakraborty</author>
+<title>Zero-Shot Knowledge Distillation in Deep Networks.</title>
+<pages>4743-4751</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nayak19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NayakMSRC19</url>
+</inproceedings></dblp>

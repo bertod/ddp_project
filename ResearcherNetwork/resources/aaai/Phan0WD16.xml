@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Phan0WD16" mdate="2016-04-21">
+<author>NhatHai Phan</author>
+<author>Yue Wang 0009</author>
+<author>Xintao Wu</author>
+<author>Dejing Dou</author>
+<title>Differential Privacy Preservation for Deep Auto-Encoders: an Application of Human Behavior Prediction.</title>
+<pages>1309-1316</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12174</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#Phan0WD16</url>
+</inproceedings>
+</dblp>

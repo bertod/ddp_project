@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieDWLT19" mdate="2019-12-04">
+<author>De Xie</author>
+<author>Cheng Deng</author>
+<author>Hao Wang 0062</author>
+<author>Chao Li</author>
+<author>Dapeng Tao</author>
+<title>Semantic Adversarial Network with Multi-Scale Pyramid Attention for Video Classification.</title>
+<pages>9030-9037</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019030</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XieDWLT19</url>
+</inproceedings>
+</dblp>

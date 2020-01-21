@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuT0WXT19" mdate="2019-11-05">
+<author>Shu Wu</author>
+<author>Yuyuan Tang</author>
+<author>Yanqiao Zhu 0001</author>
+<author>Liang Wang 0001</author>
+<author>Xing Xie</author>
+<author>Tieniu Tan</author>
+<title>Session-Based Recommendation with Graph Neural Networks.</title>
+<pages>346-353</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301346</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuT0WXT19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CohenQ0WT19" mdate="2019-09-25">
+<author>Andrew Cohen</author>
+<author>Xingye Qiao</author>
+<author>Lei Yu 0001</author>
+<author>Elliot Way</author>
+<author>Xiangrong Tong</author>
+<title>Diverse Exploration via Conjugate Policies for Policy Gradient Methods.</title>
+<pages>3404-3411</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013404</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CohenQ0WT19</url>
+</inproceedings></dblp>

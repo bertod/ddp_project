@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NallapatiZZ17" mdate="2017-03-06">
+<author>Ramesh Nallapati</author>
+<author>Feifei Zhai</author>
+<author>Bowen Zhou</author>
+<title>SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents.</title>
+<pages>3075-3081</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14636</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NallapatiZZ17</url>
+</inproceedings>
+</dblp>

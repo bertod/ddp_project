@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LinKGP18" mdate="2018-10-22">
+<author>Chu-Cheng Lin</author>
+<author>Dongyeop Kang</author>
+<author>Michael Gamon</author>
+<author>Patrick Pantel</author>
+<title>Actionable Email Intent Modeling With Reparametrized RNNs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17105</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LinKGP18</url>
+<pages>4856-4864</pages>
+</inproceedings></dblp>

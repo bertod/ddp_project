@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HernichLW17" mdate="2017-03-06">
+<author>Andr&#233; Hernich</author>
+<author>Julio Lemos</author>
+<author>Frank Wolter</author>
+<title>Query Answering in DL-Lite with Datatypes: A Non-Uniform Approach.</title>
+<pages>1142-1148</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14660</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HernichLW17</url>
+</inproceedings>
+</dblp>

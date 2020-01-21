@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuHDL17" mdate="2017-03-06">
+<author>Hsiang-Fu Yu</author>
+<author>Hsin-Yuan Huang</author>
+<author>Inderjit S. Dhillon</author>
+<author>Chih-Jen Lin</author>
+<title>A Unified Algorithm for One-Cass Structured Matrix Factorization with Side Information.</title>
+<pages>2845-2851</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14620</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YuHDL17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KarRBDC18" mdate="2018-10-22">
+<author>Rijula Kar</author>
+<author>Susmija Reddy</author>
+<author>Sourangshu Bhattacharya</author>
+<author>Anirban Dasgupta 0001</author>
+<author>Soumen Chakrabarti</author>
+<title>Task-Specific Representation Learning for Web-Scale Entity Disambiguation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17281</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#KarRBDC18</url>
+<pages>5812-5819</pages>
+</inproceedings></dblp>

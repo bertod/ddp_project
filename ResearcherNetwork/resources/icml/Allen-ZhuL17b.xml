@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Allen-ZhuL17b" mdate="2019-04-03">
+<author>Zeyuan Allen-Zhu</author>
+<author>Yuanzhi Li</author>
+<title>Follow the Compressed Leader: Faster Online Learning of Eigenvectors and Faster MMWU.</title>
+<pages>116-125</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/allen-zhu17d.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Allen-ZhuL17b</url>
+</inproceedings>
+</dblp>

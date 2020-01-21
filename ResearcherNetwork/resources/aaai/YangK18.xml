@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangK18" mdate="2018-10-22">
+<author>Sikun Yang</author>
+<author>Heinz Koeppl</author>
+<title>A Poisson Gamma Probabilistic Model for Latent Node-Group Memberships in Dynamic Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16804</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#YangK18</url>
+<pages>4366-4373</pages>
+</inproceedings></dblp>

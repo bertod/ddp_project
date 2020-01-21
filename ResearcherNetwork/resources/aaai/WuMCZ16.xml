@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuMCZ16" mdate="2019-11-18">
+<author>Bo Wu 0018</author>
+<author>Tao Mei 0001</author>
+<author>Wen-Huang Cheng</author>
+<author>Yongdong Zhang</author>
+<title>Unfolding Temporal Dynamics: Predicting Social Media Popularity Using Multi-scale Temporal Decomposition.</title>
+<pages>272-278</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11887</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WuMCZ16</url>
+</inproceedings>
+</dblp>

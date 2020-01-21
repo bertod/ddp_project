@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HouthooftBVOT16" mdate="2016-04-21">
+<author>Rein Houthooft</author>
+<author>Cedric De Boom</author>
+<author>Stijn Verstichel</author>
+<author>Femke Ongenae</author>
+<author>Filip De Turck</author>
+<title>Structured Output Prediction for Semantic Perception in Autonomous Vehicles.</title>
+<pages>3509-3515</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11908</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HouthooftBVOT16</url>
+</inproceedings>
+</dblp>

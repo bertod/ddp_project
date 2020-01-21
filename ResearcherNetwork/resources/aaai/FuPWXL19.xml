@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FuPWXL19" mdate="2019-09-25">
+<author>Wenjing Fu</author>
+<author>Zhaohui Peng</author>
+<author>Senzhang Wang</author>
+<author>Yang Xu</author>
+<author>Jin Li</author>
+<title>Deeply Fusing Reviews and Contents for Cold Start Users in Cross-Domain Recommendation Systems.</title>
+<pages>94-101</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330194</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FuPWXL19</url>
+</inproceedings></dblp>

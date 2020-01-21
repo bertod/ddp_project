@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FischerBDGZV19" mdate="2019-06-11">
+<author>Marc Fischer</author>
+<author>Mislav Balunovic</author>
+<author>Dana Drachsler-Cohen</author>
+<author>Timon Gehr</author>
+<author>Ce Zhang</author>
+<author>Martin T. Vechev</author>
+<title>DL2: Training and Querying Neural Networks with Logic.</title>
+<pages>1931-1941</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/fischer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FischerBDGZV19</url>
+</inproceedings></dblp>

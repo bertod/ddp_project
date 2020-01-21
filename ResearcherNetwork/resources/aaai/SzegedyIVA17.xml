@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SzegedyIVA17" mdate="2017-03-06">
+<author>Christian Szegedy</author>
+<author>Sergey Ioffe</author>
+<author>Vincent Vanhoucke</author>
+<author>Alexander A. Alemi</author>
+<title>Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.</title>
+<pages>4278-4284</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14806</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SzegedyIVA17</url>
+</inproceedings>
+</dblp>

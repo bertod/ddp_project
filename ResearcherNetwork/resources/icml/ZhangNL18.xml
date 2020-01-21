@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangNL18" mdate="2019-04-03">
+<author>Liwen Zhang</author>
+<author>Gregory Naitzat</author>
+<author>Lek-Heng Lim</author>
+<title>Tropical Geometry of Deep Neural Networks.</title>
+<pages>5819-5827</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhang18i.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ZhangNL18</url>
+</inproceedings>
+</dblp>

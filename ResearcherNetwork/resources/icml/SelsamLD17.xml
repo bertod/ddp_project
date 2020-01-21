@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SelsamLD17" mdate="2019-04-03">
+<author>Daniel Selsam</author>
+<author>Percy Liang</author>
+<author>David L. Dill</author>
+<title>Developing Bug-Free Machine Learning Systems With Formal Mathematics.</title>
+<pages>3047-3056</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/selsam17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SelsamLD17</url>
+</inproceedings>
+</dblp>

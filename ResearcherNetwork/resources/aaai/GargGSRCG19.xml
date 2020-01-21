@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GargGSRCG19" mdate="2019-09-25">
+<author>Sahil Garg</author>
+<author>Aram Galstyan</author>
+<author>Greg Ver Steeg</author>
+<author>Irina Rish</author>
+<author>Guillermo A. Cecchi</author>
+<author>Shuyang Gao</author>
+<title>Kernelized Hashcode Representations for Relation Extraction.</title>
+<pages>6431-6440</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016431</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GargGSRCG19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EfroniDSM18" mdate="2019-04-03">
+<author>Yonathan Efroni</author>
+<author>Gal Dalal</author>
+<author>Bruno Scherrer</author>
+<author>Shie Mannor</author>
+<title>Beyond the One-Step Greedy Approach in Reinforcement Learning.</title>
+<pages>1386-1395</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/efroni18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#EfroniDSM18</url>
+</inproceedings>
+</dblp>

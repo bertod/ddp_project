@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuXYYZZT19" mdate="2019-10-19">
+<author orcid="0000-0001-8407-1137">Zhou Yu</author>
+<author>Dejing Xu</author>
+<author>Jun Yu 0002</author>
+<author>Ting Yu</author>
+<author>Zhou Zhao</author>
+<author>Yueting Zhuang</author>
+<author>Dacheng Tao</author>
+<title>ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering.</title>
+<pages>9127-9134</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019127</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuXYYZZT19</url>
+</inproceedings></dblp>

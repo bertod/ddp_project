@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangKS017" mdate="2019-04-03">
+<author>Jialei Wang</author>
+<author>Mladen Kolar</author>
+<author>Nathan Srebro</author>
+<author>Tong Zhang 0001</author>
+<title>Efficient Distributed Learning with Sparsity.</title>
+<pages>3636-3645</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17f.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangKS017</url>
+</inproceedings>
+</dblp>

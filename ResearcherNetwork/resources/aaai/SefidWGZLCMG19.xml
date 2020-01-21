@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SefidWGZLCMG19" mdate="2019-09-29">
+<author>Athar Sefid</author>
+<author>Jian Wu 0006</author>
+<author>Allen C. Ge</author>
+<author>Jing Zhao</author>
+<author>Lu Liu</author>
+<author>Cornelia Caragea</author>
+<author>Prasenjit Mitra</author>
+<author>C. Lee Giles</author>
+<title>Cleaning Noisy and Heterogeneous Metadata for Record Linking across Scholarly Big Datasets.</title>
+<pages>9601-9606</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019601</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SefidWGZLCMG19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiHS0K19" mdate="2020-01-10">
+<author>Jiaoyang Li 0001</author>
+<author>Daniel Harabor</author>
+<author>Peter J. Stuckey</author>
+<author>Hang Ma 0001</author>
+<author>Sven Koenig</author>
+<title>Symmetry-Breaking Constraints for Grid-Based Multi-Agent Path Finding.</title>
+<pages>6087-6095</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016087</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiHS0K19</url>
+</inproceedings></dblp>

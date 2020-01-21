@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangSZC19" mdate="2019-09-25">
+<author>Shiyu Huang</author>
+<author>Hang Su</author>
+<author>Jun Zhu 0001</author>
+<author>Ting Chen</author>
+<title>Combo-Action: Training Agent For FPS Game with Auxiliary Tasks.</title>
+<pages>954-961</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301954</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangSZC19</url>
+</inproceedings></dblp>

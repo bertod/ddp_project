@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangL17" mdate="2019-04-03">
+<author>Eunho Yang</author>
+<author>Aur&#233;lie C. Lozano</author>
+<title>Sparse + Group-Sparse Dirty Models: Statistical Guarantees without Unreasonable Conditions and a Case for Non-Convexity.</title>
+<pages>3911-3920</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/yang17g.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YangL17</url>
+</inproceedings>
+</dblp>

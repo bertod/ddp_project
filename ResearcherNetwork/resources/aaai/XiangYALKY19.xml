@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiangYALKY19" mdate="2019-09-25">
+<author>Qiao Xiang</author>
+<author>Haitao Yu</author>
+<author>James Aspnes</author>
+<author>Franck Le</author>
+<author>Linghe Kong</author>
+<author>Yang Richard Yang</author>
+<title>Optimizing in the Dark: Learning an Optimal Solution through a Simple Request Interface.</title>
+<pages>1674-1681</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011674</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XiangYALKY19</url>
+</inproceedings></dblp>

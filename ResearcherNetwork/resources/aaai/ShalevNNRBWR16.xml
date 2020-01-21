@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShalevNNRBWR16" mdate="2016-04-22">
+<author>Ronny Shalev</author>
+<author>Daisuke Nakamura</author>
+<author>Setsu Nishino</author>
+<author>Andrew M. Rollins</author>
+<author>Hiram G. Bezerra</author>
+<author>David L. Wilson</author>
+<author>Soumya Ray</author>
+<title>Automated Volumetric Intravascular Plaque Classification Using Optical Coherence Tomography (OCT).</title>
+<pages>4047-4052</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12263</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ShalevNNRBWR16</url>
+</inproceedings>
+</dblp>

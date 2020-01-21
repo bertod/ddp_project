@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GiesenLLS19" mdate="2019-09-25">
+<author>Joachim Giesen</author>
+<author>S&#246;ren Laue</author>
+<author>Andreas L&#246;hne</author>
+<author>Christopher Schneider</author>
+<title>Using Benson's Algorithm for Regularization Parameter Tracking.</title>
+<pages>3689-3696</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013689</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GiesenLLS19</url>
+</inproceedings></dblp>

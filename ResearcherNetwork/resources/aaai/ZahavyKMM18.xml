@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZahavyKMM18" mdate="2018-10-22">
+<author>Tom Zahavy</author>
+<author>Abhinandan Krishnan</author>
+<author>Alessandro Magnani</author>
+<author>Shie Mannor</author>
+<title>Is a Picture Worth a Thousand Words? A Deep Multi-Modal Architecture for Product Classification in E-Commerce.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16579</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZahavyKMM18</url>
+<pages>7873-7881</pages>
+</inproceedings></dblp>

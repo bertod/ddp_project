@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TafjordC0YS19" mdate="2019-09-25">
+<author>Oyvind Tafjord</author>
+<author>Peter Clark</author>
+<author>Matt Gardner 0001</author>
+<author>Wen-tau Yih</author>
+<author>Ashish Sabharwal</author>
+<title>QUAREL: A Dataset and Models for Answering Questions about Qualitative Relationships.</title>
+<pages>7063-7071</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017063</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TafjordC0YS19</url>
+</inproceedings></dblp>

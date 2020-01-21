@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OonoS19" mdate="2019-06-11">
+<author>Kenta Oono</author>
+<author>Taiji Suzuki</author>
+<title>Approximation and non-parametric estimation of ResNet-type convolutional neural networks.</title>
+<pages>4922-4931</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/oono19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OonoS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuWZYY18" mdate="2018-10-22">
+<author>Bo Liu</author>
+<author>Ying Wei</author>
+<author>Yu Zhang</author>
+<author>Zhixian Yan</author>
+<author>Qiang Yang 0001</author>
+<title>Transferable Contextual Bandit for Cross-Domain Recommendation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16692</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuWZYY18</url>
+<pages>3619-3626</pages>
+</inproceedings></dblp>

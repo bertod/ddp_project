@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FahrbachMZ19" mdate="2019-06-11">
+<author>Matthew Fahrbach</author>
+<author>Vahab S. Mirrokni</author>
+<author>Morteza Zadimoghaddam</author>
+<title>Non-monotone Submodular Maximization with Nearly Optimal Adaptivity and Query Complexity.</title>
+<pages>1833-1842</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/fahrbach19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FahrbachMZ19</url>
+</inproceedings></dblp>

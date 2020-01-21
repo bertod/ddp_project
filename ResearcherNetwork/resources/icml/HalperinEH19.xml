@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HalperinEH19" mdate="2019-06-11">
+<author>Tavi Halperin</author>
+<author>Ariel Ephrat</author>
+<author>Yedid Hoshen</author>
+<title>Neural Separation of Observed and Unobserved Distributions.</title>
+<pages>2566-2575</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/halperin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HalperinEH19</url>
+</inproceedings></dblp>

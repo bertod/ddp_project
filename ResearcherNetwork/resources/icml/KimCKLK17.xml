@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimCKLK17" mdate="2019-04-03">
+<author>Taeksoo Kim</author>
+<author>Moonsu Cha</author>
+<author>Hyunsoo Kim</author>
+<author>Jung Kwon Lee</author>
+<author>Jiwon Kim</author>
+<title>Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.</title>
+<pages>1857-1865</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kim17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KimCKLK17</url>
+</inproceedings>
+</dblp>

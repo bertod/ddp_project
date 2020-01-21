@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangF17" mdate="2017-03-06">
+<author>Fandong Zhang</author>
+<author>Jufu Feng</author>
+<title>High-Resolution Mobile Fingerprint Matching via Deep Joint KNN-Triplet Embedding.</title>
+<pages>5019-5020</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14453</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangF17</url>
+</inproceedings>
+</dblp>

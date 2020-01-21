@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuCHTC19" mdate="2019-09-25">
+<author>Pengfei Liu</author>
+<author>Shuaichen Chang</author>
+<author>Xuanjing Huang</author>
+<author>Jian Tang</author>
+<author>Jackie Chi Kit Cheung</author>
+<title>Contextualized Non-Local Neural Networks for Sequence Learning.</title>
+<pages>6762-6769</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016762</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuCHTC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DaiLTHWZS18" mdate="2019-04-03">
+<author>Hanjun Dai</author>
+<author>Hui Li</author>
+<author>Tian Tian 0001</author>
+<author>Xin Huang</author>
+<author>Lin Wang</author>
+<author>Jun Zhu 0001</author>
+<author>Le Song</author>
+<title>Adversarial Attack on Graph Structured Data.</title>
+<pages>1123-1132</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/dai18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DaiLTHWZS18</url>
+</inproceedings>
+</dblp>

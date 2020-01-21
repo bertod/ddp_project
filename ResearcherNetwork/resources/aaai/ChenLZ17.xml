@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLZ17" mdate="2017-03-06">
+<author>Zihao Chen</author>
+<author>Luo Luo</author>
+<author>Zhihua Zhang</author>
+<title>Communication Lower Bounds for Distributed Convex Optimization: Partition Data on Features.</title>
+<pages>1812-1818</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14846</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChenLZ17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShestopaloffD19" mdate="2019-06-11">
+<author>Alex Shestopaloff</author>
+<author>Arnaud Doucet</author>
+<title>Replica Conditional Sequential Monte Carlo.</title>
+<pages>5749-5757</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shestopaloff19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShestopaloffD19</url>
+</inproceedings></dblp>

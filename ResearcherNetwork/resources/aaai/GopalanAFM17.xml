@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GopalanAFM17" mdate="2019-11-20">
+<author>Aditya Gopalan</author>
+<author>Prashanth L. A.</author>
+<author>Michael C. Fu 0001</author>
+<author>Steven I. Marcus</author>
+<title>Weighted Bandits or: How Bandits Learn Distorted Values That Are Not Expected.</title>
+<pages>1941-1947</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14896</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GopalanAFM17</url>
+</inproceedings>
+</dblp>

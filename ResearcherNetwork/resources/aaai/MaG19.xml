@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaG19" mdate="2019-09-25">
+<author>Yuchao Ma</author>
+<author>Hassan Ghasemzadeh</author>
+<title>LabelForest: Non-Parametric Semi-Supervised Learning for Activity Recognition.</title>
+<pages>4520-4527</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014520</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#MaG19</url>
+</inproceedings></dblp>

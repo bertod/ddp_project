@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CardosoAWX19" mdate="2019-06-11">
+<author>Adrian Rivera Cardoso</author>
+<author>Jacob D. Abernethy</author>
+<author>He Wang</author>
+<author>Huan Xu</author>
+<title>Competing Against Nash Equilibria in Adversarially Changing Zero-Sum Games.</title>
+<pages>921-930</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cardoso19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CardosoAWX19</url>
+</inproceedings></dblp>

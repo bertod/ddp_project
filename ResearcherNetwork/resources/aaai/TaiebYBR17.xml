@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TaiebYBR17" mdate="2017-03-06">
+<author>Souhaib Ben Taieb</author>
+<author>Jiafan Yu</author>
+<author>Mateus Neves Barreto</author>
+<author>Ram Rajagopal</author>
+<title>Regularization in Hierarchical Time Series Forecasting with Application to Electricity Smart Meter Data.</title>
+<pages>4474-4480</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14173</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TaiebYBR17</url>
+</inproceedings>
+</dblp>

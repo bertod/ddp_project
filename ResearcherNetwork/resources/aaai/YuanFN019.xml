@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanFN019" mdate="2019-09-25">
+<author>Xiaoyong Yuan</author>
+<author>Zheng Feng</author>
+<author>Matthew Norton</author>
+<author>Xiaolin Li 0001</author>
+<title>Generalized Batch Normalization: Towards Accelerating Deep Neural Networks.</title>
+<pages>1682-1689</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011682</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuanFN019</url>
+</inproceedings></dblp>

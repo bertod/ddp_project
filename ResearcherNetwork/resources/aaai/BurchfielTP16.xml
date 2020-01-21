@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BurchfielTP16" mdate="2016-04-21">
+<author>Benjamin Burchfiel</author>
+<author>Carlo Tomasi</author>
+<author>Ronald Parr</author>
+<title>Distance Minimization for Reward Learning from Scored Trajectories.</title>
+<pages>3330-3336</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11917</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BurchfielTP16</url>
+</inproceedings>
+</dblp>

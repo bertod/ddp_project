@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TanZW19" mdate="2019-09-25">
+<author>Zhi-Hao Tan</author>
+<author>Teng Zhang</author>
+<author>Wei Wang</author>
+<title>Coreset Stochastic Variance-Reduced Gradient with Application to Optimal Margin Distribution Machine.</title>
+<pages>5083-5090</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015083</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TanZW19</url>
+</inproceedings></dblp>

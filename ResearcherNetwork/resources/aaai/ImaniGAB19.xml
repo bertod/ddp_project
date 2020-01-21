@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ImaniGAB19" mdate="2019-09-25">
+<author>Mahdi Imani</author>
+<author>Seyede Fatemeh Ghoreishi</author>
+<author>Douglas L. Allaire</author>
+<author>Ulisses Braga-Neto</author>
+<title>MFBO-SSM: Multi-Fidelity Bayesian Optimization for Fast Inference in State-Space Models.</title>
+<pages>7858-7865</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017858</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ImaniGAB19</url>
+</inproceedings></dblp>

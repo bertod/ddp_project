@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuanCWNJ18" mdate="2020-01-14">
+<author>Guowen Yuan</author>
+<author>Xiaojun Chen 0006</author>
+<author>Chen Wang 0032</author>
+<author>Feiping Nie</author>
+<author>Liping Jing</author>
+<title>Discriminative Semi-Supervised Feature Selection via Rescaled Least Squares Regression-Supplement.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16842</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#YuanCWNJ18</url>
+<pages>8177-8178</pages>
+</inproceedings>
+</dblp>

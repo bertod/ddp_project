@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NalisnickMTGL19" mdate="2019-06-11">
+<author>Eric T. Nalisnick</author>
+<author>Akihiro Matsukawa</author>
+<author>Yee Whye Teh</author>
+<author>Dilan G&#246;r&#252;r</author>
+<author>Balaji Lakshminarayanan</author>
+<title>Hybrid Models with Deep and Invertible Features.</title>
+<pages>4723-4732</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nalisnick19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NalisnickMTGL19</url>
+</inproceedings></dblp>

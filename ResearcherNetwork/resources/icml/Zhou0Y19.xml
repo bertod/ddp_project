@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Zhou0Y19" mdate="2019-06-11">
+<author>Baojian Zhou</author>
+<author>Feng Chen 0001</author>
+<author>Yiming Ying</author>
+<title>Stochastic Iterative Hard Thresholding for Graph-structured Sparsity Optimization.</title>
+<pages>7563-7573</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhou19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Zhou0Y19</url>
+</inproceedings></dblp>

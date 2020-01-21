@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimCLLRP17" mdate="2017-03-06">
+<author>Hannah Kim</author>
+<author>Jaegul Choo</author>
+<author>Changhyun Lee</author>
+<author>Hanseung Lee</author>
+<author>Chandan K. Reddy</author>
+<author>Haesun Park</author>
+<title>PIVE: Per-Iteration Visualization Environment for Real-Time Interactions with Dimension Reduction and Clustering.</title>
+<pages>1001-1009</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14381</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KimCLLRP17</url>
+</inproceedings>
+</dblp>

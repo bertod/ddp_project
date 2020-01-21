@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RedkarBPBPNK16" mdate="2016-04-21">
+<author>Hanumant Harichandra Redkar</author>
+<author>Sudha Bhingardive</author>
+<author>Kevin Patel</author>
+<author>Pushpak Bhattacharyya</author>
+<author>Neha Prabhugaonkar</author>
+<author>Apurva Nagvenkar</author>
+<author>Ramdas Karmali</author>
+<title>WWDS APIs: Application Programming Interfaces for Efficient Manipulation of World WordNet Database Structure.</title>
+<pages>4379-4380</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12430</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#RedkarBPBPNK16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CanalMDR19" mdate="2019-06-11">
+<author>Gregory Canal</author>
+<author>Andrew K. Massimino</author>
+<author>Mark A. Davenport</author>
+<author>Christopher J. Rozell</author>
+<title>Active Embedding Search via Noisy Paired Comparisons.</title>
+<pages>902-911</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/canal19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CanalMDR19</url>
+</inproceedings></dblp>

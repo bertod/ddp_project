@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/EibenGKO19" mdate="2019-09-25">
+<author>Eduard Eiben</author>
+<author>Robert Ganian</author>
+<author>Dusan Knop</author>
+<author>Sebastian Ordyniak</author>
+<title>Solving Integer Quadratic Programming via Explicit and Structural Restrictions.</title>
+<pages>1477-1484</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011477</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#EibenGKO19</url>
+</inproceedings></dblp>

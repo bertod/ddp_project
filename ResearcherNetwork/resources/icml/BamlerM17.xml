@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BamlerM17" mdate="2019-04-03">
+<author>Robert Bamler</author>
+<author>Stephan Mandt</author>
+<title>Dynamic Word Embeddings.</title>
+<pages>380-389</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/bamler17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BamlerM17</url>
+</inproceedings>
+</dblp>

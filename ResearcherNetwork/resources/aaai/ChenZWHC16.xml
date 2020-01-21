@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZWHC16" mdate="2016-04-21">
+<author>Chaochao Chen</author>
+<author>Xiaolin Zheng</author>
+<author>Yan Wang</author>
+<author>Fuxing Hong</author>
+<author>Deren Chen</author>
+<title>Capturing Semantic Correlation for Item Recommendation in Tagging Systems.</title>
+<pages>108-114</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11994</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenZWHC16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0002IBPPM18" mdate="2018-10-22">
+<author>Peter Henderson 0002</author>
+<author>Riashat Islam</author>
+<author>Philip Bachman</author>
+<author>Joelle Pineau</author>
+<author>Doina Precup</author>
+<author>David Meger</author>
+<title>Deep Reinforcement Learning That Matters.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16669</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#0002IBPPM18</url>
+<pages>3207-3214</pages>
+</inproceedings></dblp>

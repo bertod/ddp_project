@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BeygelzimerOZ17" mdate="2019-04-03">
+<author>Alina Beygelzimer</author>
+<author>Francesco Orabona</author>
+<author>Chicheng Zhang</author>
+<title>Efficient Online Bandit Multiclass Learning with O&#771;(&#8730;T) Regret.</title>
+<pages>488-497</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/beygelzimer17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BeygelzimerOZ17</url>
+</inproceedings>
+</dblp>

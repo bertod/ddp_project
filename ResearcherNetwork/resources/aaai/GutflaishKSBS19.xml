@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GutflaishKSBS19" mdate="2019-09-25">
+<author>Eyal Gutflaish</author>
+<author>Aryeh Kontorovich</author>
+<author>Sivan Sabato</author>
+<author>Ofer Biller</author>
+<author>Oded Sofer</author>
+<title>Temporal Anomaly Detection: Calibrating the Surprise.</title>
+<pages>3755-3762</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013755</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GutflaishKSBS19</url>
+</inproceedings></dblp>

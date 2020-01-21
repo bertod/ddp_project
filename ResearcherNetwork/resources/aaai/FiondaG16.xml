@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FiondaG16" mdate="2016-04-21">
+<author>Valeria Fionda</author>
+<author>Gianluigi Greco</author>
+<title>The Complexity of LTL on Finite Traces: Hard and Easy Fragments.</title>
+<pages>971-977</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12250</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#FiondaG16</url>
+</inproceedings>
+</dblp>

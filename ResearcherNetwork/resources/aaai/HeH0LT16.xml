@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeH0LT16" mdate="2016-04-21">
+<author>Pan He</author>
+<author>Weilin Huang</author>
+<author>Yu Qiao 0001</author>
+<author>Chen Change Loy</author>
+<author>Xiaoou Tang</author>
+<title>Reading Scene Text in Deep Convolutional Sequences.</title>
+<pages>3501-3508</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12256</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HeH0LT16</url>
+</inproceedings>
+</dblp>

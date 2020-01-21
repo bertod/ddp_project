@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BelardinelliLM19" mdate="2019-09-25">
+<author>Francesco Belardinelli</author>
+<author>Alessio Lomuscio</author>
+<author>Vadim Malvone</author>
+<title>An Abstraction-Based Method for Verifying Strategic Properties in Multi-Agent Systems with Imperfect Information.</title>
+<pages>6030-6037</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016030</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BelardinelliLM19</url>
+</inproceedings></dblp>

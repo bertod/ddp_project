@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SharmaNK18" mdate="2019-04-03">
+<author>Charu Sharma</author>
+<author>Deepak Nathani</author>
+<author>Manohar Kaul</author>
+<title>Solving Partial Assignment Problems using Random Clique Complexes.</title>
+<pages>4593-4602</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sharma18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SharmaNK18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AtasuM19" mdate="2019-06-11">
+<author>Kubilay Atasu</author>
+<author>Thomas Mittelholzer</author>
+<title>Linear-Complexity Data-Parallel Earth Mover's Distance Approximations.</title>
+<pages>364-373</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/atasu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AtasuM19</url>
+</inproceedings></dblp>

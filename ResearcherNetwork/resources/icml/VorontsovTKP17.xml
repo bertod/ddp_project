@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VorontsovTKP17" mdate="2019-04-03">
+<author>Eugene Vorontsov</author>
+<author>Chiheb Trabelsi</author>
+<author>Samuel Kadoury</author>
+<author>Chris Pal</author>
+<title>On orthogonality and learning recurrent networks with long term dependencies.</title>
+<pages>3570-3578</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/vorontsov17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#VorontsovTKP17</url>
+</inproceedings>
+</dblp>

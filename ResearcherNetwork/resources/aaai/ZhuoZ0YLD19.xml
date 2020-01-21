@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuoZ0YLD19" mdate="2019-09-25">
+<author>Li'an Zhuo</author>
+<author>Baochang Zhang</author>
+<author>Chen Chen 0001</author>
+<author>Qixiang Ye</author>
+<author>Jianzhuang Liu</author>
+<author>David S. Doermann</author>
+<title>Calibrated Stochastic Gradient Descent for Convolutional Neural Networks.</title>
+<pages>9348-9355</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019348</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhuoZ0YLD19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BehrmannGCDJ19" mdate="2019-06-11">
+<author>Jens Behrmann</author>
+<author>Will Grathwohl</author>
+<author>Ricky T. Q. Chen</author>
+<author>David Duvenaud</author>
+<author>J&#246;rn-Henrik Jacobsen</author>
+<title>Invertible Residual Networks.</title>
+<pages>573-582</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/behrmann19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BehrmannGCDJ19</url>
+</inproceedings></dblp>

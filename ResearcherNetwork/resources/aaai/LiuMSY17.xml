@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuMSY17" mdate="2017-03-06">
+<author>Chenxi Liu</author>
+<author>Junhua Mao</author>
+<author>Fei Sha</author>
+<author>Alan L. Yuille</author>
+<title>Attention Correctness in Neural Image Captioning.</title>
+<pages>4176-4182</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14246</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuMSY17</url>
+</inproceedings>
+</dblp>

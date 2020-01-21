@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SaCW18" mdate="2019-04-03">
+<author>Christopher De Sa</author>
+<author>Vincent Chen</author>
+<author>Wing Wong</author>
+<title>Minibatch Gibbs Sampling on Large Graphical Models.</title>
+<pages>1173-1181</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/de-sa18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SaCW18</url>
+</inproceedings>
+</dblp>

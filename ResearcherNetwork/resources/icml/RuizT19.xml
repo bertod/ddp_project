@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RuizT19" mdate="2019-09-26">
+<author>Francisco J. R. Ruiz</author>
+<author>Michalis K. Titsias</author>
+<title>A Contrastive Divergence for Combining Variational Inference and MCMC.</title>
+<pages>5537-5545</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ruiz19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RuizT19</url>
+</inproceedings>
+</dblp>

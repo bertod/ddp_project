@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShenLTSS17" mdate="2018-09-14">
+<author>Xiao-Bo Shen</author>
+<author>Weiwei Liu 0003</author>
+<author>Ivor W. Tsang</author>
+<author>Fumin Shen</author>
+<author>Quan-Sen Sun</author>
+<title>Compressed K-Means for Large-Scale Clustering.</title>
+<pages>2527-2533</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14565</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShenLTSS17</url>
+</inproceedings></dblp>

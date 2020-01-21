@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AwanKRS19" mdate="2019-10-08">
+<author>Jordan Awan</author>
+<author>Ana Kenney</author>
+<author>Matthew Reimherr</author>
+<author>Aleksandra B. Slavkovic</author>
+<title>Benefits and Pitfalls of the Exponential Mechanism with Applications to Hilbert Spaces and Functional PCA.</title>
+<pages>374-384</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/awan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AwanKRS19</url>
+</inproceedings></dblp>

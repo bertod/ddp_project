@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HendrickxOS19" mdate="2019-06-11">
+<author>Julien M. Hendrickx</author>
+<author>Alexander Olshevsky</author>
+<author>Venkatesh Saligrama</author>
+<title>Graph Resistance and Learning from Pairwise Comparisons.</title>
+<pages>2702-2711</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hendrickx19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HendrickxOS19</url>
+</inproceedings></dblp>

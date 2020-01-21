@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoZLXLZSZ19" mdate="2019-11-20">
+<author>Pengpeng Zhao</author>
+<author>Haifeng Zhu</author>
+<author>Yanchi Liu</author>
+<author>Jiajie Xu</author>
+<author>Zhixu Li</author>
+<author>Fuzhen Zhuang</author>
+<author>Victor S. Sheng</author>
+<author>Xiaofang Zhou 0001</author>
+<title>Where to Go Next: A Spatio-Temporal Gated Network for Next POI Recommendation.</title>
+<pages>5877-5884</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015877</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoZLXLZSZ19</url>
+</inproceedings></dblp>

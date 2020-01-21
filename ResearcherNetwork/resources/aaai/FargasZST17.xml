@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FargasZST17" mdate="2017-03-06">
+<author>Kelsey Fargas</author>
+<author>Bingjie Zhou</author>
+<author>Elizabeth Staruk</author>
+<author>Sheila Tejada</author>
+<title>Application for AI-OCR Module: Auto Detection of Emails/Letter Images.</title>
+<pages>4813-4814</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15023</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#FargasZST17</url>
+</inproceedings>
+</dblp>

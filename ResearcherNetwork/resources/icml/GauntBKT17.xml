@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GauntBKT17" mdate="2019-04-03">
+<author>Alexander L. Gaunt</author>
+<author>Marc Brockschmidt</author>
+<author>Nate Kushman</author>
+<author>Daniel Tarlow</author>
+<title>Differentiable Programs with Neural Libraries.</title>
+<pages>1213-1222</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/gaunt17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#GauntBKT17</url>
+</inproceedings>
+</dblp>

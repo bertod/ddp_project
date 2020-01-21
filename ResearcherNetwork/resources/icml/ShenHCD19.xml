@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShenHCD19" mdate="2019-06-11">
+<author>Yujia Shen</author>
+<author>Haiying Huang</author>
+<author>Arthur Choi</author>
+<author>Adnan Darwiche</author>
+<title>Conditional Independence in Testing Bayesian Networks.</title>
+<pages>5701-5709</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shen19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShenHCD19</url>
+</inproceedings></dblp>

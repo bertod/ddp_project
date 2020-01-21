@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangKWWAKG19" mdate="2019-09-25">
+<author>Xiao Yang</author>
+<author>Madian Khabsa</author>
+<author>Miaosen Wang</author>
+<author>Wei Wang</author>
+<author>Ahmed Hassan Awadallah</author>
+<author>Daniel Kifer</author>
+<author>C. Lee Giles</author>
+<title>Adversarial Training for Community Question Answer Selection Based on Multi-Scale Matching.</title>
+<pages>395-402</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301395</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YangKWWAKG19</url>
+</inproceedings></dblp>

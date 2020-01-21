@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YouYRHL18" mdate="2019-04-03">
+<author>Jiaxuan You</author>
+<author>Rex Ying</author>
+<author>Xiang Ren</author>
+<author>William L. Hamilton</author>
+<author>Jure Leskovec</author>
+<title>GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.</title>
+<pages>5694-5703</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/you18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#YouYRHL18</url>
+</inproceedings>
+</dblp>

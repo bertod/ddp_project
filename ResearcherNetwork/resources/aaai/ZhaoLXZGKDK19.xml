@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoLXZGKDK19" mdate="2019-10-07">
+<author>Sicheng Zhao</author>
+<author>Chuang Lin</author>
+<author>Pengfei Xu 0013</author>
+<author>Sendong Zhao</author>
+<author>Yuchen Guo</author>
+<author>Ravi Krishna</author>
+<author>Guiguang Ding</author>
+<author>Kurt Keutzer</author>
+<title>CycleEmotionGAN: Emotional Semantic Consistency Preserved CycleGAN for Adapting Image Emotions.</title>
+<pages>2620-2627</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012620</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoLXZGKDK19</url>
+</inproceedings>
+</dblp>

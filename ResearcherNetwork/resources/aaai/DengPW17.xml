@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DengPW17" mdate="2017-03-06">
+<author>Yuan Deng</author>
+<author>Debmalya Panigrahi</author>
+<author>Bo Waggoner</author>
+<title>The Complexity of Stable Matchings under Substitutable Preferences.</title>
+<pages>480-486</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14704</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DengPW17</url>
+</inproceedings>
+</dblp>

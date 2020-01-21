@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GillickREEB19" mdate="2019-07-22">
+<author>Jon Gillick</author>
+<author>Adam Roberts</author>
+<author>Jesse H. Engel</author>
+<author>Douglas Eck</author>
+<author>David Bamman</author>
+<title>Learning to Groove with Inverse Sequence Transformations.</title>
+<pages>2269-2279</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gillick19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GillickREEB19</url>
+</inproceedings></dblp>

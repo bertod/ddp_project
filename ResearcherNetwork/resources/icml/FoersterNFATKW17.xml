@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FoersterNFATKW17" mdate="2019-04-03">
+<author>Jakob N. Foerster</author>
+<author>Nantas Nardelli</author>
+<author>Gregory Farquhar</author>
+<author>Triantafyllos Afouras</author>
+<author>Philip H. S. Torr</author>
+<author>Pushmeet Kohli</author>
+<author>Shimon Whiteson</author>
+<title>Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning.</title>
+<pages>1146-1155</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/foerster17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#FoersterNFATKW17</url>
+</inproceedings>
+</dblp>

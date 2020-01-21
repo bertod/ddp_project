@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangHLZ19" mdate="2019-09-25">
+<author>Mingliang Wang</author>
+<author>Jiashuang Huang</author>
+<author>Mingxia Liu</author>
+<author>Daoqiang Zhang</author>
+<title>Functional Connectivity Network Analysis with Discriminative Hub Detection for Brain Disease Identification.</title>
+<pages>1198-1205</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011198</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangHLZ19</url>
+</inproceedings></dblp>

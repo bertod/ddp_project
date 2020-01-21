@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Yao0KTJLGYL18" mdate="2018-10-22">
+<author>Huaxiu Yao</author>
+<author>Fei Wu 0007</author>
+<author>Jintao Ke</author>
+<author>Xianfeng Tang</author>
+<author>Yitian Jia</author>
+<author>Siyu Lu</author>
+<author>Pinghua Gong</author>
+<author>Jieping Ye</author>
+<author>Zhenhui Li</author>
+<title>Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16069</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#Yao0KTJLGYL18</url>
+<pages>2588-2595</pages>
+</inproceedings></dblp>

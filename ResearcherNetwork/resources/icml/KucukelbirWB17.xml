@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KucukelbirWB17" mdate="2019-04-03">
+<author>Alp Kucukelbir</author>
+<author>Yixin Wang</author>
+<author>David M. Blei</author>
+<title>Evaluating Bayesian Models with Posterior Dispersion Indices.</title>
+<pages>1925-1934</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kucukelbir17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KucukelbirWB17</url>
+</inproceedings>
+</dblp>

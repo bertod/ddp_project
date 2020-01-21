@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JiWZL19" mdate="2019-06-11">
+<author>Kaiyi Ji</author>
+<author>Zhe Wang</author>
+<author>Yi Zhou</author>
+<author>Yingbin Liang</author>
+<title>Improved Zeroth-Order Variance Reduced Algorithms and Analysis for Nonconvex Optimization.</title>
+<pages>3100-3109</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ji19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JiWZL19</url>
+</inproceedings></dblp>

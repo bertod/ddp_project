@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuZ019" mdate="2019-10-18">
+<author>Chang Liu 0030</author>
+<author>Jingwei Zhuo</author>
+<author>Jun Zhu 0001</author>
+<title>Understanding MCMC Dynamics as Flows on the Wasserstein Space.</title>
+<pages>4093-4103</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19j.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuZ019</url>
+</inproceedings>
+</dblp>

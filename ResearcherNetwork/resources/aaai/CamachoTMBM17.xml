@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CamachoTMBM17" mdate="2017-03-06">
+<author>Alberto Camacho</author>
+<author>Eleni Triantafillou</author>
+<author>Christian J. Muise</author>
+<author>Jorge A. Baier</author>
+<author>Sheila A. McIlraith</author>
+<title>Non-Deterministic Planning with Temporally Extended Goals: LTL over Finite and Infinite Traces.</title>
+<pages>3716-3724</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15026</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CamachoTMBM17</url>
+</inproceedings>
+</dblp>

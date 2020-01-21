@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BurtRW19" mdate="2019-06-11">
+<author>David R. Burt</author>
+<author>Carl Edward Rasmussen</author>
+<author>Mark van der Wilk</author>
+<title>Rates of Convergence for Sparse Variational Gaussian Process Regression.</title>
+<pages>862-871</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/burt19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BurtRW19</url>
+</inproceedings></dblp>

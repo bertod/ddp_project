@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/EllisSBA18" mdate="2018-10-22">
+<author>Jason B. Ellis</author>
+<author>Biplav Srivastava</author>
+<author>Rachel K. E. Bellamy</author>
+<author>Andy Aaron</author>
+<title>Water Advisor - A Data-Driven, Multi-Modal, Contextual Assistant to Help With Water Usage Decisions.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16643</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#EllisSBA18</url>
+<pages>8198-8199</pages>
+</inproceedings></dblp>

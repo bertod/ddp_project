@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0001FLH18" mdate="2018-10-22">
+<author>Qi Zhang 0001</author>
+<author>Jinlan Fu</author>
+<author>Xiaoyu Liu</author>
+<author>Xuanjing Huang</author>
+<title>Adaptive Co-attention Network for Named Entity Recognition in Tweets.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16432</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#0001FLH18</url>
+<pages>5674-5681</pages>
+</inproceedings></dblp>

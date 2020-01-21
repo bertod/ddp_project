@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VedantamDLRBP19" mdate="2019-06-11">
+<author>Ramakrishna Vedantam</author>
+<author>Karan Desai</author>
+<author>Stefan Lee</author>
+<author>Marcus Rohrbach</author>
+<author>Dhruv Batra</author>
+<author>Devi Parikh</author>
+<title>Probabilistic Neural Symbolic Models for Interpretable Visual Question Answering.</title>
+<pages>6428-6437</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/vedantam19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VedantamDLRBP19</url>
+</inproceedings></dblp>

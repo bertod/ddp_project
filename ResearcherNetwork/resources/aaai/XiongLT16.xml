@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiongLT16" mdate="2019-07-25">
+<author>Hao Xiong 0001</author>
+<author>Tongliang Liu</author>
+<author>Dacheng Tao</author>
+<title>Diversified Dynamical Gaussian Process Latent Variable Model for Video Repair.</title>
+<pages>3641-3647</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11992</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XiongLT16</url>
+</inproceedings>
+</dblp>

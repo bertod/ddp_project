@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Romoff0TOPB19" mdate="2019-06-11">
+<author>Joshua Romoff</author>
+<author>Peter Henderson 0002</author>
+<author>Ahmed Touati</author>
+<author>Yann Ollivier</author>
+<author>Joelle Pineau</author>
+<author>Emma Brunskill</author>
+<title>Separable value functions across time-scales.</title>
+<pages>5468-5477</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/romoff19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Romoff0TOPB19</url>
+</inproceedings></dblp>

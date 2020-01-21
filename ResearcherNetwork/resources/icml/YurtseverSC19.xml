@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YurtseverSC19" mdate="2019-06-11">
+<author>Alp Yurtsever</author>
+<author>Suvrit Sra</author>
+<author>Volkan Cevher</author>
+<title>Conditional Gradient Methods via Stochastic Path-Integrated Differential Estimator.</title>
+<pages>7282-7291</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yurtsever19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YurtseverSC19</url>
+</inproceedings></dblp>

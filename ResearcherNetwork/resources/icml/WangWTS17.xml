@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangWTS17" mdate="2019-07-25">
+<author>Yichen Wang 0001</author>
+<author>Grady Williams</author>
+<author>Evangelos A. Theodorou</author>
+<author>Le Song</author>
+<title>Variational Policy for Guiding Point Processes.</title>
+<pages>3684-3693</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17k.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangWTS17</url>
+</inproceedings>
+</dblp>

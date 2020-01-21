@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ParkSLS19" mdate="2019-06-11">
+<author>Daniel S. Park</author>
+<author>Jascha Sohl-Dickstein</author>
+<author>Quoc V. Le</author>
+<author>Samuel L. Smith</author>
+<title>The Effect of Network Width on Stochastic Gradient Descent and Generalization: an Empirical Study.</title>
+<pages>5042-5051</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/park19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ParkSLS19</url>
+</inproceedings></dblp>

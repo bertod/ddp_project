@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LehtinenMHLKAA18" mdate="2019-04-03">
+<author>Jaakko Lehtinen</author>
+<author>Jacob Munkberg</author>
+<author>Jon Hasselgren</author>
+<author>Samuli Laine</author>
+<author>Tero Karras</author>
+<author>Miika Aittala</author>
+<author>Timo Aila</author>
+<title>Noise2Noise: Learning Image Restoration without Clean Data.</title>
+<pages>2971-2980</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/lehtinen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LehtinenMHLKAA18</url>
+</inproceedings>
+</dblp>

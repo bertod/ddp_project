@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EstevesSLDM19" mdate="2019-06-11">
+<author>Carlos Esteves</author>
+<author>Avneesh Sud</author>
+<author>Zhengyi Luo</author>
+<author>Kostas Daniilidis</author>
+<author>Ameesh Makadia</author>
+<title>Cross-Domain 3D Equivariant Image Embeddings.</title>
+<pages>1812-1822</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/esteves19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#EstevesSLDM19</url>
+</inproceedings></dblp>

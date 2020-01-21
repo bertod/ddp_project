@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0002LID17" mdate="2017-03-06">
+<author>Radu Marinescu 0002</author>
+<author>Junkyu Lee</author>
+<author>Alexander T. Ihler</author>
+<author>Rina Dechter</author>
+<title>Anytime Best+Depth-First Search for Bounding Marginal MAP.</title>
+<pages>3775-3782</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14908</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#0002LID17</url>
+</inproceedings>
+</dblp>

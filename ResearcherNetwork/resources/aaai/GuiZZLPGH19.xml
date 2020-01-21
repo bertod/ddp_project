@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuiZZLPGH19" mdate="2019-09-25">
+<author>Tao Gui</author>
+<author>Qi Zhang 0001</author>
+<author>Lujun Zhao</author>
+<author>Yaosong Lin</author>
+<author>Minlong Peng</author>
+<author>Jingjing Gong</author>
+<author>Xuanjing Huang</author>
+<title>Long Short-Term Memory with Dynamic Skip Connections.</title>
+<pages>6481-6488</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016481</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuiZZLPGH19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangDLWZ19" mdate="2019-09-25">
+<author>Yueyang Wang</author>
+<author>Ziheng Duan</author>
+<author>Binbing Liao</author>
+<author>Fei Wu 0001</author>
+<author>Yueting Zhuang</author>
+<title>Heterogeneous Attributed Network Embedding with Graph Convolutional Networks.</title>
+<pages>10061-10062</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110061</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangDLWZ19</url>
+</inproceedings></dblp>

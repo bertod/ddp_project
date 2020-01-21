@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YaroslavtsevV18" mdate="2019-04-03">
+<author>Grigory Yaroslavtsev</author>
+<author>Adithya Vadapalli</author>
+<title>Massively Parallel Algorithms and Hardness for Single-Linkage Clustering under &#120001;<sub>p</sub> Distances.</title>
+<pages>5596-5605</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/yaroslavtsev18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#YaroslavtsevV18</url>
+</inproceedings>
+</dblp>

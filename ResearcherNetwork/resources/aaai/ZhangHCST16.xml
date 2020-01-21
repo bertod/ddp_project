@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangHCST16" mdate="2016-04-21">
+<author>Man Zhang</author>
+<author>Ran He</author>
+<author>Dong Cao</author>
+<author>Zhenan Sun</author>
+<author>Tieniu Tan</author>
+<title>Simultaneous Feature and Sample Reduction for Image-Set Classification.</title>
+<pages>1401-1407</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12023</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhangHCST16</url>
+</inproceedings>
+</dblp>

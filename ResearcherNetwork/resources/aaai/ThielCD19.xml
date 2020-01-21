@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ThielCD19" mdate="2019-09-25">
+<author>Erik Thiel</author>
+<author>Morteza Haghir Chehreghani</author>
+<author>Devdatt P. Dubhashi</author>
+<title>A Non-Convex Optimization Approach to Correlation Clustering.</title>
+<pages>5159-5166</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015159</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ThielCD19</url>
+</inproceedings></dblp>

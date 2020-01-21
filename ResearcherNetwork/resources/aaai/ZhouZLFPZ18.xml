@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhouZLFPZ18" mdate="2018-10-22">
+<author>Yi Zhou</author>
+<author>Junying Zhou</author>
+<author>Lu Liu</author>
+<author>Jiangtao Feng</author>
+<author>Haoyuan Peng</author>
+<author>Xiaoqing Zheng</author>
+<title>RNN-Based Sequence-Preserved Attention for Dependency Parsing.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17176</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhouZLFPZ18</url>
+<pages>5738-5746</pages>
+</inproceedings></dblp>

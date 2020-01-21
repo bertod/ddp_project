@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HouKZ16" mdate="2016-04-21">
+<author>Lu Hou</author>
+<author>James T. Kwok</author>
+<author>Jacek M. Zurada</author>
+<title>Efficient Learning of Timeseries Shapelets.</title>
+<pages>1209-1215</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12382</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HouKZ16</url>
+</inproceedings>
+</dblp>

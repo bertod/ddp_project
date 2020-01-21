@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KandasamyNZKSP19" mdate="2019-06-11">
+<author>Kirthevasan Kandasamy</author>
+<author>Willie Neiswanger</author>
+<author>Reed Zhang</author>
+<author>Akshay Krishnamurthy</author>
+<author>Jeff Schneider</author>
+<author>Barnab&#225;s P&#243;czos</author>
+<title>Myopic Posterior Sampling for Adaptive Goal Oriented Design of Experiments.</title>
+<pages>3222-3232</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kandasamy19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KandasamyNZKSP19</url>
+</inproceedings></dblp>

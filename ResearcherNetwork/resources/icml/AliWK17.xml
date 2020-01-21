@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AliWK17" mdate="2019-04-03">
+<author>Alnur Ali</author>
+<author>Eric Wong</author>
+<author>J. Zico Kolter</author>
+<title>A Semismooth Newton Method for Fast, Generic Convex Programming.</title>
+<pages>70-79</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/ali17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#AliWK17</url>
+</inproceedings>
+</dblp>

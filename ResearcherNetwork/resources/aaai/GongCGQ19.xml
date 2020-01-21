@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GongCGQ19" mdate="2019-09-25">
+<author>Jingjing Gong</author>
+<author>Xinchi Chen</author>
+<author>Tao Gui</author>
+<author>Xipeng Qiu</author>
+<title>Switch-LSTMs for Multi-Criteria Chinese Word Segmentation.</title>
+<pages>6457-6464</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016457</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GongCGQ19</url>
+</inproceedings></dblp>

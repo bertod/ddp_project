@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TomarSR19" mdate="2019-09-25">
+<author>Manan Tomar</author>
+<author>Akhil Sathuluri</author>
+<author>Balaraman Ravindran</author>
+<title>MaMiC: Macro and Micro Curriculum for Robotic Reinforcement Learning.</title>
+<pages>10053-10054</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110053</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TomarSR19</url>
+</inproceedings></dblp>

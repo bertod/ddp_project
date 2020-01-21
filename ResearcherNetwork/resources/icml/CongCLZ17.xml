@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CongCLZ17" mdate="2019-04-03">
+<author>Yulai Cong</author>
+<author>Bo Chen 0001</author>
+<author>Hongwei Liu</author>
+<author>Mingyuan Zhou</author>
+<title>Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC.</title>
+<pages>864-873</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/cong17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#CongCLZ17</url>
+</inproceedings></dblp>

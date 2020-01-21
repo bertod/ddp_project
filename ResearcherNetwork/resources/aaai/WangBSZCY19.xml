@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangBSZCY19" mdate="2019-09-25">
+<author>Ji Wang 0002</author>
+<author>Weidong Bao</author>
+<author>Lichao Sun</author>
+<author>Xiaomin Zhu</author>
+<author>Bokai Cao</author>
+<author>Philip S. Yu</author>
+<title>Private Model Compression via Knowledge Distillation.</title>
+<pages>1190-1197</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011190</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangBSZCY19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangBCZG19" mdate="2019-09-25">
+<author>Jianwen Jiang</author>
+<author>Di Bao</author>
+<author>Ziqiang Chen</author>
+<author>Xibin Zhao</author>
+<author>Yue Gao</author>
+<title>MLVCNN: Multi-Loop-View Convolutional Neural Network for 3D Shape Retrieval.</title>
+<pages>8513-8520</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018513</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JiangBCZG19</url>
+</inproceedings></dblp>

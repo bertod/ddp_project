@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChoromanskaCKLR19" mdate="2019-11-04">
+<author>Anna Choromanska</author>
+<author>Benjamin Cowen</author>
+<author>Sadhana Kumaravel</author>
+<author>Ronny Luss</author>
+<author>Mattia Rigotti</author>
+<author>Irina Rish</author>
+<author>Paolo Diachille</author>
+<author>Viatcheslav Gurev</author>
+<author>Brian Kingsbury</author>
+<author>Ravi Tejwani</author>
+<author>Djallel Bouneffouf 0001</author>
+<title>Beyond Backprop: Online Alternating Minimization with Auxiliary Variables.</title>
+<pages>1193-1202</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/choromanska19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChoromanskaCKLR19</url>
+</inproceedings></dblp>

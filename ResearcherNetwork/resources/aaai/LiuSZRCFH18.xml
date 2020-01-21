@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuSZRCFH18" mdate="2019-08-09">
+<author>Si Liu 0001</author>
+<author>Yao Sun</author>
+<author>Defa Zhu</author>
+<author>Guanghui Ren</author>
+<author>Yu Chen</author>
+<author>Jiashi Feng</author>
+<author>Jizhong Han</author>
+<title>Cross-Domain Human Parsing via Adversarial Feature and Label Adaptation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17058</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuSZRCFH18</url>
+<pages>7146-7153</pages>
+</inproceedings></dblp>

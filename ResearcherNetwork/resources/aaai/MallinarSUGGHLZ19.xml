@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MallinarSUGGHLZ19" mdate="2019-09-25">
+<author>Neil Mallinar</author>
+<author>Abhishek Shah</author>
+<author>Rajendra Ugrani</author>
+<author>Ayush Gupta</author>
+<author>Manikandan Gurusankar</author>
+<author>Tin Kam Ho</author>
+<author>Q. Vera Liao</author>
+<author>Yunfeng Zhang</author>
+<author>Rachel K. E. Bellamy</author>
+<author>Robert Yates</author>
+<author>Chris Desmarais</author>
+<author>Blake McGregor</author>
+<title>Bootstrapping Conversational Agents with Weak Supervision.</title>
+<pages>9528-9533</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019528</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#MallinarSUGGHLZ19</url>
+</inproceedings></dblp>

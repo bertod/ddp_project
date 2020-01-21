@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HallerSS18" mdate="2018-10-22">
+<author>Stefan Haller</author>
+<author>Paul Swoboda</author>
+<author>Bogdan Savchynskyy</author>
+<title>Exact MAP-Inference by Confining Combinatorial Search With LP Relaxation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16379</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HallerSS18</url>
+<pages>6581-6588</pages>
+</inproceedings></dblp>

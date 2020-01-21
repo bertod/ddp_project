@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuAAGH16" mdate="2019-08-05">
+<author>Miao Liu 0001</author>
+<author>Christopher Amato</author>
+<author>Emily P. Anesta</author>
+<author>John Daniel Griffith</author>
+<author>Jonathan P. How</author>
+<title>Learning for Decentralized Control of Multiagent Systems in Large, Partially-Observable Stochastic Environments.</title>
+<pages>2523-2529</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12452</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LiuAAGH16</url>
+</inproceedings>
+</dblp>

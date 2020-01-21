@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RavuriMRV18" mdate="2019-04-03">
+<author>Suman V. Ravuri</author>
+<author>Shakir Mohamed</author>
+<author>Mihaela Rosca</author>
+<author>Oriol Vinyals</author>
+<title>Learning Implicit Generative Models with the Method of Learned Moments.</title>
+<pages>4311-4320</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ravuri18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RavuriMRV18</url>
+</inproceedings>
+</dblp>

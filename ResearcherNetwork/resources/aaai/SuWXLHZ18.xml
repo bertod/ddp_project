@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SuWXLHZ18" mdate="2019-11-18">
+<author>Jinsong Su</author>
+<author>Shan Wu</author>
+<author>Deyi Xiong</author>
+<author>Yaojie Lu 0001</author>
+<author>Xianpei Han</author>
+<author>Biao Zhang 0002</author>
+<title>Variational Recurrent Neural Machine Translation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16791</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SuWXLHZ18</url>
+<pages>5488-5495</pages>
+</inproceedings>
+</dblp>

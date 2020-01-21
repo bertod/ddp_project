@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ByrdL19" mdate="2019-06-11">
+<author>Jonathon Byrd</author>
+<author>Zachary Chase Lipton</author>
+<title>What is the Effect of Importance Weighting in Deep Learning?</title>
+<pages>872-881</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/byrd19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ByrdL19</url>
+</inproceedings></dblp>

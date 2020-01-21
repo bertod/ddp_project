@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MirhoseiniPLSLZ17" mdate="2019-04-03">
+<author>Azalia Mirhoseini</author>
+<author>Hieu Pham</author>
+<author>Quoc V. Le</author>
+<author>Benoit Steiner</author>
+<author>Rasmus Larsen 0002</author>
+<author>Yuefeng Zhou</author>
+<author>Naveen Kumar</author>
+<author>Mohammad Norouzi 0002</author>
+<author>Samy Bengio</author>
+<author>Jeff Dean</author>
+<title>Device Placement Optimization with Reinforcement Learning.</title>
+<pages>2430-2439</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/mirhoseini17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MirhoseiniPLSLZ17</url>
+</inproceedings></dblp>

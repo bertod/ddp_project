@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Song0W18" mdate="2018-10-22">
+<author>Zhourui Song</author>
+<author>Zhenyu Liu 0001</author>
+<author>Dongsheng Wang</author>
+<title>Computation Error Analysis of Block Floating Point Arithmetic Oriented Convolution Neural Network Accelerator Design.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16057</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#Song0W18</url>
+<pages>816-823</pages>
+</inproceedings></dblp>

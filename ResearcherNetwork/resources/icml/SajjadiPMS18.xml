@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SajjadiPMS18" mdate="2019-04-03">
+<author>Mehdi S. M. Sajjadi</author>
+<author>Giambattista Parascandolo</author>
+<author>Arash Mehrjou</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<title>Tempered Adversarial Networks.</title>
+<pages>4448-4456</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sajjadi18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SajjadiPMS18</url>
+</inproceedings>
+</dblp>

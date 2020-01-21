@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TranKSK19" mdate="2019-06-27">
+<author>Ngoc B. Tran</author>
+<author>Daniel R. Kepple</author>
+<author>Sergey Shuvaev</author>
+<author>Alexei A. Koulakov</author>
+<title>DeepNose: Using artificial neural networks to represent the space of odorants.</title>
+<pages>6305-6314</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tran19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TranKSK19</url>
+</inproceedings>
+</dblp>

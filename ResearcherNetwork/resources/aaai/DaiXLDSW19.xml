@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DaiXLDSW19" mdate="2019-09-25">
+<author>Dai Dai</author>
+<author>Xinyan Xiao</author>
+<author>Yajuan Lyu</author>
+<author>Shan Dou</author>
+<author>Qiaoqiao She</author>
+<author>Haifeng Wang</author>
+<title>Joint Extraction of Entities and Overlapping Relations Using Position-Attentive Sequence Labeling.</title>
+<pages>6300-6308</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016300</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DaiXLDSW19</url>
+</inproceedings></dblp>

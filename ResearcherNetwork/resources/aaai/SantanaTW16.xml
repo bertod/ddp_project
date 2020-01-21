@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SantanaTW16" mdate="2017-03-01">
+<author>Pedro Henrique de Rodrigues Quemel e Assis Santana</author>
+<author>Sylvie Thi&#233;baux</author>
+<author>Brian Charles Williams</author>
+<title>RAO*: An Algorithm for Chance-Constrained POMDP's.</title>
+<pages>3308-3314</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12321</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SantanaTW16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SachanZS19" mdate="2019-09-25">
+<author>Devendra Singh Sachan</author>
+<author>Manzil Zaheer</author>
+<author>Ruslan Salakhutdinov</author>
+<title>Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function.</title>
+<pages>6940-6948</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016940</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SachanZS19</url>
+</inproceedings></dblp>

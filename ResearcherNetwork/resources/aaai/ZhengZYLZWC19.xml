@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhengZYLZWC19" mdate="2019-09-25">
+<author>Hao Zheng</author>
+<author>Yizhe Zhang</author>
+<author>Lin Yang 0003</author>
+<author>Peixian Liang</author>
+<author>Zhuo Zhao</author>
+<author>Chaoli Wang</author>
+<author>Danny Z. Chen</author>
+<title>A New Ensemble Learning Framework for 3D Biomedical Image Segmentation.</title>
+<pages>5909-5916</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015909</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhengZYLZWC19</url>
+</inproceedings></dblp>

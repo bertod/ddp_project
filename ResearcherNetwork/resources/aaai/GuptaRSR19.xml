@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuptaRSR19" mdate="2019-09-25">
+<author>Pankaj Gupta</author>
+<author>Subburam Rajaram</author>
+<author>Hinrich Sch&#252;tze</author>
+<author>Thomas A. Runkler</author>
+<title>Neural Relation Extraction within and across Sentence Boundaries.</title>
+<pages>6513-6520</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016513</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuptaRSR19</url>
+</inproceedings></dblp>

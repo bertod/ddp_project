@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KalchbrennerOSD17" mdate="2019-04-03">
+<author>Nal Kalchbrenner</author>
+<author>A&#228;ron van den Oord</author>
+<author>Karen Simonyan</author>
+<author>Ivo Danihelka</author>
+<author>Oriol Vinyals</author>
+<author>Alex Graves</author>
+<author>Koray Kavukcuoglu</author>
+<title>Video Pixel Networks.</title>
+<pages>1771-1779</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kalchbrenner17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KalchbrennerOSD17</url>
+</inproceedings>
+</dblp>

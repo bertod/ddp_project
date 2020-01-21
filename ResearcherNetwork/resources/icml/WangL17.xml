@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangL17" mdate="2019-04-03">
+<author>Po-An Wang</author>
+<author>Chi-Jen Lu</author>
+<title>Tensor Decomposition via Simultaneous Power Iteration.</title>
+<pages>3665-3673</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17i.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangL17</url>
+</inproceedings>
+</dblp>

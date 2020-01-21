@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuP16" mdate="2019-10-22">
+<author>Chao Zhu 0003</author>
+<author>Yuxin Peng</author>
+<title>Group Cost-Sensitive Boosting for Multi-Resolution Pedestrian Detection.</title>
+<pages>3676-3682</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11898</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhuP16</url>
+</inproceedings>
+</dblp>

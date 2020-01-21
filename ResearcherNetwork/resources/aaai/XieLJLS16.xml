@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieLJLS16" mdate="2020-01-08">
+<author>Ruobing Xie</author>
+<author>Zhiyuan Liu 0001</author>
+<author>Jia Jia 0001</author>
+<author>Huanbo Luan</author>
+<author>Maosong Sun</author>
+<title>Representation Learning of Knowledge Graphs with Entity Descriptions.</title>
+<pages>2659-2665</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XieLJLS16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KruengkraiTHKOT17" mdate="2017-03-06">
+<author>Canasai Kruengkrai</author>
+<author>Kentaro Torisawa</author>
+<author>Chikara Hashimoto</author>
+<author>Julien Kloetzer</author>
+<author>Jong-Hoon Oh</author>
+<author>Masahiro Tanaka</author>
+<title>Improving Event Causality Recognition with Multiple Background Knowledge Sources Using Multi-Column Convolutional Neural Networks.</title>
+<pages>3466-3473</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14502</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KruengkraiTHKOT17</url>
+</inproceedings>
+</dblp>

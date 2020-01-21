@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KangKY17" mdate="2017-03-06">
+<author>Chulmoo Kang</author>
+<author>Gunhee Kim</author>
+<author>Suk I. Yoo</author>
+<title>Detection and Recognition of Text Embedded in Online Images via Neural Context Models.</title>
+<pages>4103-4110</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14154</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KangKY17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Zhao0FYW18" mdate="2019-04-03">
+<author>Bo Zhao</author>
+<author>Xinwei Sun 0001</author>
+<author>Yanwei Fu</author>
+<author>Yuan Yao</author>
+<author>Yizhou Wang</author>
+<title>MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning.</title>
+<pages>5907-5916</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhao18c.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Zhao0FYW18</url>
+</inproceedings>
+</dblp>

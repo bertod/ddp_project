@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuLK17" mdate="2017-03-06">
+<author>Xiaotian Yu</author>
+<author>Michael R. Lyu</author>
+<author>Irwin King</author>
+<title>CBRAP: Contextual Bandits with RAndom Projection.</title>
+<pages>2859-2866</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14742</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YuLK17</url>
+</inproceedings>
+</dblp>

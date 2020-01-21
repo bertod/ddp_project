@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YaoZWJZZC17" mdate="2018-03-19">
+<author>Liang Yao</author>
+<author>Yin Zhang 0006</author>
+<author>Baogang Wei</author>
+<author>Zhe Jin</author>
+<author>Rui Zhang</author>
+<author>Yangyang Zhang</author>
+<author>Qinfei Chen</author>
+<title>Incorporating Knowledge Graph Embeddings into Topic Modeling.</title>
+<pages>3119-3126</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14170</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YaoZWJZZC17</url>
+</inproceedings></dblp>

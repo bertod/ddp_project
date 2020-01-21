@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HansenA16" mdate="2016-04-21">
+<author>Eric A. Hansen</author>
+<author>Ibrahim Abdoulahi</author>
+<title>General Error Bounds in Heuristic Search Algorithms for Stochastic Shortest Path Problems.</title>
+<pages>3130-3137</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12518</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HansenA16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ArjevaniS17" mdate="2019-04-03">
+<author>Yossi Arjevani</author>
+<author>Ohad Shamir</author>
+<title>Oracle Complexity of Second-Order Methods for Finite-Sum Problems.</title>
+<pages>205-213</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/arjevani17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ArjevaniS17</url>
+</inproceedings>
+</dblp>

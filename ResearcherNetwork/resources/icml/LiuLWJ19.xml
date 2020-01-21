@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuLWJ19" mdate="2019-10-25">
+<author>Hong Liu</author>
+<author>Mingsheng Long</author>
+<author>Jianmin Wang 0001</author>
+<author>Michael I. Jordan</author>
+<title>Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers.</title>
+<pages>4013-4022</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuLWJ19</url>
+</inproceedings>
+</dblp>

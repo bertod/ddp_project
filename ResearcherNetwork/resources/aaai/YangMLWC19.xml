@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangMLWC19" mdate="2019-09-25">
+<author>Xun Yang</author>
+<author>Yunshan Ma</author>
+<author>Lizi Liao</author>
+<author>Meng Wang 0001</author>
+<author>Tat-Seng Chua</author>
+<title>TransNFCM: Translation-Based Neural Fashion Compatibility Modeling.</title>
+<pages>403-410</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301403</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YangMLWC19</url>
+</inproceedings></dblp>

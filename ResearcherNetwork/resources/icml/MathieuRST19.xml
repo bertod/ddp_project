@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MathieuRST19" mdate="2019-07-19">
+<author>Emile Mathieu</author>
+<author>Tom Rainforth</author>
+<author>N. Siddharth 0001</author>
+<author>Yee Whye Teh</author>
+<title>Disentangling Disentanglement in Variational Autoencoders.</title>
+<pages>4402-4412</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mathieu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MathieuRST19</url>
+</inproceedings></dblp>

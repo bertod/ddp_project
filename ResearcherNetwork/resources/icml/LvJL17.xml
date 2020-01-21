@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LvJL17" mdate="2019-04-03">
+<author>Kaifeng Lv</author>
+<author>Shunhua Jiang</author>
+<author>Jian Li</author>
+<title>Learning Gradient Descent: Better Generalization and Longer Horizons.</title>
+<pages>2247-2255</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/lv17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LvJL17</url>
+</inproceedings>
+</dblp>

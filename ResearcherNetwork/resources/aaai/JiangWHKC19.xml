@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangWHKC19" mdate="2019-09-25">
+<author>Hansi Jiang</author>
+<author>Haoyu Wang</author>
+<author>Wenhao Hu</author>
+<author>Deovrat Kakde</author>
+<author>Arin Chaudhuri</author>
+<title>Fast Incremental SVDD Learning Algorithm with the Gaussian Kernel.</title>
+<pages>3991-3998</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013991</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JiangWHKC19</url>
+</inproceedings></dblp>

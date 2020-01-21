@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuWQL18" mdate="2018-10-22">
+<author>Haichao Zhu</author>
+<author>Furu Wei</author>
+<author>Bing Qin 0001</author>
+<author>Ting Liu 0001</author>
+<title>Hierarchical Attention Flow for Multiple-Choice Reading Comprehension.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16331</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhuWQL18</url>
+<pages>6077-6085</pages>
+</inproceedings></dblp>

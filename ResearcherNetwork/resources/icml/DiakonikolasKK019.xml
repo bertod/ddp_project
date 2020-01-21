@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DiakonikolasKK019" mdate="2019-09-11">
+<author>Ilias Diakonikolas</author>
+<author>Gautam Kamath 0001</author>
+<author>Daniel Kane</author>
+<author>Jerry Li 0001</author>
+<author>Jacob Steinhardt</author>
+<author>Alistair Stewart</author>
+<title>Sever: A Robust Meta-Algorithm for Stochastic Optimization.</title>
+<pages>1596-1606</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/diakonikolas19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DiakonikolasKK019</url>
+</inproceedings></dblp>

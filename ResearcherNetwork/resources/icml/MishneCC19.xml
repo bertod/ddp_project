@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MishneCC19" mdate="2019-06-11">
+<author>Gal Mishne</author>
+<author>Eric C. Chi</author>
+<author>Ronald R. Coifman</author>
+<title>Co-manifold learning with missing data.</title>
+<pages>4605-4614</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mishne19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MishneCC19</url>
+</inproceedings></dblp>

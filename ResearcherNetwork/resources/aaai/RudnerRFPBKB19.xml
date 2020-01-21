@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RudnerRFPBKB19" mdate="2019-09-25">
+<author>Tim G. J. Rudner</author>
+<author>Marc Ru&#223;wurm</author>
+<author>Jakub Fil</author>
+<author>Ramona Pelich</author>
+<author>Benjamin Bischke</author>
+<author>Veronika Kopackov&#225;</author>
+<author>Piotr Bilinski</author>
+<title>Multi3Net: Segmenting Flooded Buildings via Fusion of Multiresolution, Multisensor, and Multitemporal Satellite Imagery.</title>
+<pages>702-709</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301702</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RudnerRFPBKB19</url>
+</inproceedings></dblp>

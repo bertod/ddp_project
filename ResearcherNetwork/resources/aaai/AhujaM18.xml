@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AhujaM18" mdate="2018-10-22">
+<author>Chaitanya Ahuja</author>
+<author>Louis-Philippe Morency</author>
+<title>Lattice Recurrent Unit: Improving Convergence and Statistical Efficiency for Sequence Modeling.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17394</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#AhujaM18</url>
+<pages>4996-5003</pages>
+</inproceedings></dblp>

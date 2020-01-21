@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Hernandez-Lobato17" mdate="2019-04-03">
+<author>Jos&#233; Miguel Hern&#225;ndez-Lobato</author>
+<author>James Requeima</author>
+<author>Edward O. Pyzer-Knapp</author>
+<author>Al&#225;n Aspuru-Guzik</author>
+<title>Parallel and Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space.</title>
+<pages>1470-1479</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hernandez-lobato17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Hernandez-Lobato17</url>
+</inproceedings>
+</dblp>

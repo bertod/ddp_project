@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NaganoY0K19" mdate="2019-06-11">
+<author>Yoshihiro Nagano</author>
+<author>Shoichiro Yamaguchi</author>
+<author>Yasuhiro Fujita 0001</author>
+<author>Masanori Koyama</author>
+<title>A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning.</title>
+<pages>4693-4702</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nagano19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NaganoY0K19</url>
+</inproceedings></dblp>

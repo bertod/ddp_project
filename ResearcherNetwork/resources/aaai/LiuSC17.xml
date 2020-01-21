@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuSC17" mdate="2019-10-11">
+<author>Yuanyuan Liu 0001</author>
+<author>Fanhua Shang</author>
+<author>James Cheng</author>
+<title>Accelerated Variance Reduced Stochastic ADMM.</title>
+<pages>2287-2293</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14526</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuSC17</url>
+</inproceedings>
+</dblp>

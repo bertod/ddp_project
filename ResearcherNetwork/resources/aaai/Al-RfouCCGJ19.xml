@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Al-RfouCCGJ19" mdate="2019-09-25">
+<author>Rami Al-Rfou'</author>
+<author>Dokook Choe</author>
+<author>Noah Constant</author>
+<author>Mandy Guo</author>
+<author>Llion Jones</author>
+<title>Character-Level Language Modeling with Deeper Self-Attention.</title>
+<pages>3159-3166</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013159</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Al-RfouCCGJ19</url>
+</inproceedings></dblp>

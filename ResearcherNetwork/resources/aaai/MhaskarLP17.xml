@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MhaskarLP17" mdate="2017-03-06">
+<author>Hrushikesh Mhaskar</author>
+<author>Qianli Liao</author>
+<author>Tomaso A. Poggio</author>
+<title>When and Why Are Deep Networks Better Than Shallow Ones?</title>
+<pages>2343-2349</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14849</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MhaskarLP17</url>
+</inproceedings>
+</dblp>

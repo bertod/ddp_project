@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuZWY17" mdate="2019-04-21">
+<author>Lantao Yu</author>
+<author>Weinan Zhang 0001</author>
+<author>Jun Wang 0012</author>
+<author>Yong Yu 0001</author>
+<title>SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.</title>
+<pages>2852-2858</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YuZWY17</url>
+</inproceedings></dblp>

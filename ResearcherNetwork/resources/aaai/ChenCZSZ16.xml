@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenCZSZ16" mdate="2017-12-22">
+<author>Bei Chen</author>
+<author>Ning Chen</author>
+<author>Jun Zhu 0001</author>
+<author>Jiaming Song</author>
+<author>Bo Zhang 0010</author>
+<title>Discriminative Nonparametric Latent Feature Relational Models with Data Augmentation.</title>
+<pages>1153-1159</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12136</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenCZSZ16</url>
+</inproceedings></dblp>

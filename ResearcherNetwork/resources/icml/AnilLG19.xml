@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AnilLG19" mdate="2019-07-22">
+<author>Cem Anil</author>
+<author>James Lucas</author>
+<author>Roger B. Grosse</author>
+<title>Sorting Out Lipschitz Function Approximation.</title>
+<pages>291-301</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/anil19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AnilLG19</url>
+</inproceedings></dblp>

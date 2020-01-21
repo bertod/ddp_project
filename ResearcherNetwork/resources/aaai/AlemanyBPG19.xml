@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AlemanyBPG19" mdate="2019-09-25">
+<author>Sheila Alemany</author>
+<author>Jonathan Beltran</author>
+<author>Adri&#225;n P&#233;rez</author>
+<author>Sam Ganzfried</author>
+<title>Predicting Hurricane Trajectories Using a Recurrent Neural Network.</title>
+<pages>468-475</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301468</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#AlemanyBPG19</url>
+</inproceedings></dblp>

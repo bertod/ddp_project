@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Perez-OrtizTMH19" mdate="2019-09-25">
+<author>M. P&#233;rez-Ortiz</author>
+<author>Peter Ti&#241;o</author>
+<author>Rafal Mantiuk</author>
+<author>C&#233;sar Herv&#225;s-Mart&#237;nez</author>
+<title>Exploiting Synthetically Generated Data with Semi-Supervised Learning for Small and Imbalanced Datasets.</title>
+<pages>4715-4722</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014715</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Perez-OrtizTMH19</url>
+</inproceedings></dblp>

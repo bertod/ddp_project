@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZZDC19" mdate="2019-09-25">
+<author>Lei Zhang</author>
+<author>Shengyuan Zhou</author>
+<author>Tian Zhi</author>
+<author>Zidong Du</author>
+<author>Yunji Chen</author>
+<title>TDSNN: From Deep Neural Networks to Deep Spike Neural Networks with Temporal-Coding.</title>
+<pages>1319-1326</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011319</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZZDC19</url>
+</inproceedings></dblp>

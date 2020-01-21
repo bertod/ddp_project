@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoZSLLMS19" mdate="2019-11-18">
+<author>Lianli Gao</author>
+<author>Pengpeng Zeng</author>
+<author>Jingkuan Song</author>
+<author>Yuan-Fang Li</author>
+<author>Wu Liu</author>
+<author>Tao Mei 0001</author>
+<author>Heng Tao Shen</author>
+<title>Structured Two-Stream Attention Network for Video Question Answering.</title>
+<pages>6391-6398</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016391</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GaoZSLLMS19</url>
+</inproceedings></dblp>

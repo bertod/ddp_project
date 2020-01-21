@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XiaQCBYL17" mdate="2019-09-03">
+<author>Yingce Xia</author>
+<author>Tao Qin</author>
+<author>Wei Chen 0034</author>
+<author>Jiang Bian 0002</author>
+<author>Nenghai Yu</author>
+<author>Tie-Yan Liu</author>
+<title>Dual Supervised Learning.</title>
+<pages>3789-3798</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/xia17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#XiaQCBYL17</url>
+</inproceedings></dblp>

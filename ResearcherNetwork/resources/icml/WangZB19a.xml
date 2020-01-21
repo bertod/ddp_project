@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangZB19a" mdate="2019-06-11">
+<author>Shengjie Wang</author>
+<author>Tianyi Zhou</author>
+<author>Jeff A. Bilmes</author>
+<title>Jumpout : Improved Dropout for Deep Neural Networks with ReLUs.</title>
+<pages>6668-6676</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19q.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangZB19a</url>
+</inproceedings></dblp>

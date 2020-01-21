@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PrevitiMJM18" mdate="2018-10-22">
+<author>Alessandro Previti</author>
+<author>Carlos Menc&#237;a</author>
+<author>Matti J&#228;rvisalo</author>
+<author>Jo&#227;o Marques-Silva</author>
+<title>Premise Set Caching for Enumerating Minimal Correction Subsets.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17328</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#PrevitiMJM18</url>
+<pages>6633-6640</pages>
+</inproceedings></dblp>

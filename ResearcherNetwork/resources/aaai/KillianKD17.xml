@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KillianKD17" mdate="2019-11-19">
+<author>Taylor W. Killian</author>
+<author>George Dimitri Konidaris</author>
+<author>Finale Doshi-Velez</author>
+<title>Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes.</title>
+<pages>4949-4950</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14185</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KillianKD17</url>
+</inproceedings>
+</dblp>

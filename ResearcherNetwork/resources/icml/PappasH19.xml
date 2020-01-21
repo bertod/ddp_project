@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PappasH19" mdate="2019-11-18">
+<author>Nikolaos Pappas 0002</author>
+<author>James Henderson</author>
+<title>Deep Residual Output Layers for Neural Language Generation.</title>
+<pages>5000-5011</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/pappas19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PappasH19</url>
+</inproceedings></dblp>

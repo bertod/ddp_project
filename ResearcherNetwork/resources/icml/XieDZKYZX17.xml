@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XieDZKYZX17" mdate="2019-04-03">
+<author>Pengtao Xie</author>
+<author>Yuntian Deng</author>
+<author>Yi Zhou</author>
+<author>Abhimanu Kumar</author>
+<author>Yaoliang Yu</author>
+<author>James Zou</author>
+<author>Eric P. Xing</author>
+<title>Learning Latent Space Models with Angular Constraints.</title>
+<pages>3799-3810</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/xie17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#XieDZKYZX17</url>
+</inproceedings>
+</dblp>

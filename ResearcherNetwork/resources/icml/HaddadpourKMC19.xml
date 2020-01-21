@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HaddadpourKMC19" mdate="2019-06-11">
+<author>Farzin Haddadpour</author>
+<author>Mohammad Mahdi Kamani</author>
+<author>Mehrdad Mahdavi</author>
+<author>Viveck R. Cadambe</author>
+<title>Trading Redundancy for Communication: Speeding up Distributed SGD for Non-convex Optimization.</title>
+<pages>2545-2554</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/haddadpour19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HaddadpourKMC19</url>
+</inproceedings></dblp>

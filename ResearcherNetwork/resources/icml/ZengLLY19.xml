@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZengLLY19" mdate="2019-06-11">
+<author>Jinshan Zeng</author>
+<author>Tim Tsz-Kit Lau</author>
+<author>Shaobo Lin</author>
+<author>Yuan Yao</author>
+<title>Global Convergence of Block Coordinate Descent in Deep Learning.</title>
+<pages>7313-7323</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zeng19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZengLLY19</url>
+</inproceedings></dblp>

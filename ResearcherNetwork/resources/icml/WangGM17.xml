@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangGM17" mdate="2019-04-03">
+<author>Shusen Wang</author>
+<author>Alex Gittens</author>
+<author>Michael W. Mahoney</author>
+<title>Sketched Ridge Regression: Optimization Perspective, Statistical Perspective, and Model Averaging.</title>
+<pages>3608-3616</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangGM17</url>
+</inproceedings>
+</dblp>

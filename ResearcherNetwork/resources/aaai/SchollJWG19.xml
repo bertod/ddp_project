@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SchollJWG19" mdate="2019-09-25">
+<author>Christoph Scholl</author>
+<author>Jie-Hong Roland Jiang</author>
+<author>Ralf Wimmer</author>
+<author>Aile Ge-Ernst</author>
+<title>A PSPACE Subclass of Dependency Quantified Boolean Formulas and Its Effective Solving.</title>
+<pages>1584-1591</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011584</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SchollJWG19</url>
+</inproceedings></dblp>

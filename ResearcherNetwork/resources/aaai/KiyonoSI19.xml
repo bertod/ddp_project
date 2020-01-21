@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KiyonoSI19" mdate="2019-09-25">
+<author>Shun Kiyono</author>
+<author>Jun Suzuki</author>
+<author>Kentaro Inui</author>
+<title>Mixture of Expert/Imitator Networks: Scalable Semi-Supervised Learning Framework.</title>
+<pages>4073-4081</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014073</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KiyonoSI19</url>
+</inproceedings></dblp>

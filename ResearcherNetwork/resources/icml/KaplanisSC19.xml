@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KaplanisSC19" mdate="2019-06-11">
+<author>Christos Kaplanis</author>
+<author>Murray Shanahan</author>
+<author>Claudia Clopath</author>
+<title>Policy Consolidation for Continual Reinforcement Learning.</title>
+<pages>3242-3251</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kaplanis19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KaplanisSC19</url>
+</inproceedings></dblp>

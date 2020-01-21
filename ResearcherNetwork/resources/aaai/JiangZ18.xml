@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiangZ18" mdate="2018-10-22">
+<author>Yibo Jiang</author>
+<author>Zhou Zhao</author>
+<title>StackReader: An RNN-Free Reading Comprehension Model.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16641</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#JiangZ18</url>
+<pages>8091-8092</pages>
+</inproceedings></dblp>

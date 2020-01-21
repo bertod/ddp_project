@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/QiuCCS18" mdate="2019-04-03">
+<author>Qiang Qiu</author>
+<author>Xiuyuan Cheng</author>
+<author>A. Robert Calderbank</author>
+<author>Guillermo Sapiro</author>
+<title>DCFNet: Deep Neural Network with Decomposed Convolutional Filters.</title>
+<pages>4195-4204</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/qiu18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#QiuCCS18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TuR18" mdate="2019-04-03">
+<author>Stephen Tu</author>
+<author>Benjamin Recht</author>
+<title>Least-Squares Temporal Difference Learning for the Linear Quadratic Regulator.</title>
+<pages>5012-5021</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/tu18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#TuR18</url>
+</inproceedings>
+</dblp>

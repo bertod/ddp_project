@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Lyu0YZ018" mdate="2019-04-03">
+<author>Wenlong Lyu</author>
+<author>Fan Yang 0001</author>
+<author>Changhao Yan</author>
+<author>Dian Zhou</author>
+<author>Xuan Zeng 0001</author>
+<title>Batch Bayesian Optimization via Multi-objective Acquisition Ensemble for Automated Analog Circuit Design.</title>
+<pages>3312-3320</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/lyu18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Lyu0YZ018</url>
+</inproceedings>
+</dblp>

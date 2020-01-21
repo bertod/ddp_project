@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ClarkEKSTTK16" mdate="2016-04-21">
+<author>Peter Clark</author>
+<author>Oren Etzioni</author>
+<author>Tushar Khot</author>
+<author>Ashish Sabharwal</author>
+<author>Oyvind Tafjord</author>
+<author>Peter D. Turney</author>
+<author>Daniel Khashabi</author>
+<title>Combining Retrieval, Statistics, and Inference to Answer Elementary Science Questions.</title>
+<pages>2580-2586</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11963</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ClarkEKSTTK16</url>
+</inproceedings>
+</dblp>

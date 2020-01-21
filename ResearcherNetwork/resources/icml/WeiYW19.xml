@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WeiYW19" mdate="2019-06-11">
+<author>Xiaohan Wei</author>
+<author>Zhuoran Yang</author>
+<author>Zhaoran Wang</author>
+<title>On the statistical rate of nonlinear recovery in generative models with heavy-tailed data.</title>
+<pages>6697-6706</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wei19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WeiYW19</url>
+</inproceedings></dblp>

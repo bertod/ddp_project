@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BibautMVL19" mdate="2019-06-11">
+<author>Aur&#233;lien Bibaut</author>
+<author>Ivana Malenica</author>
+<author>Nikos Vlassis</author>
+<author>Mark J. van der Laan</author>
+<title>More Efficient Off-Policy Evaluation through Regularized Targeted Learning.</title>
+<pages>654-663</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bibaut19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BibautMVL19</url>
+</inproceedings></dblp>

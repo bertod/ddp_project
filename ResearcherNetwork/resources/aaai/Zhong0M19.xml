@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Zhong0M19" mdate="2019-09-25">
+<author>Peixiang Zhong</author>
+<author>Di Wang 0004</author>
+<author>Chunyan Miao</author>
+<title>An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss.</title>
+<pages>7492-7500</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017492</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Zhong0M19</url>
+</inproceedings></dblp>

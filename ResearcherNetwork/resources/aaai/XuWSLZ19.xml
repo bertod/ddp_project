@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XuWSLZ19" mdate="2019-09-25">
+<author>Kui Xu</author>
+<author>Zhe Wang 0006</author>
+<author>Jianping Shi</author>
+<author>Hongsheng Li</author>
+<author>Qiangfeng Cliff Zhang</author>
+<title>A2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes.</title>
+<pages>1230-1237</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011230</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XuWSLZ19</url>
+</inproceedings></dblp>

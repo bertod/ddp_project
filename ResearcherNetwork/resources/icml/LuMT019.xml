@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LuMT019" mdate="2019-06-11">
+<author>Sidi Lu</author>
+<author>Jiayuan Mao</author>
+<author>Joshua B. Tenenbaum</author>
+<author>Jiajun Wu 0001</author>
+<title>Neurally-Guided Structure Inference.</title>
+<pages>4144-4153</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LuMT019</url>
+</inproceedings></dblp>

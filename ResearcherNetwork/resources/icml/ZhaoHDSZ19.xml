@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhaoHDSZ19" mdate="2019-06-11">
+<author>Ritchie Zhao</author>
+<author>Yuwei Hu</author>
+<author>Jordan Dotzel</author>
+<author>Christopher De Sa</author>
+<author>Zhiru Zhang</author>
+<title>Improving Neural Network Quantization without Retraining using Outlier Channel Splitting.</title>
+<pages>7543-7552</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhao19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhaoHDSZ19</url>
+</inproceedings></dblp>

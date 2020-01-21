@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhouXG18" mdate="2019-09-10">
+<author>Dongruo Zhou</author>
+<author>Pan Xu 0002</author>
+<author>Quanquan Gu</author>
+<title>Stochastic Variance-Reduced Cubic Regularized Newton Method.</title>
+<pages>5985-5994</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/zhou18d.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ZhouXG18</url>
+</inproceedings>
+</dblp>

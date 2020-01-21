@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PetersonB0GR19" mdate="2019-06-11">
+<author>Joshua C. Peterson</author>
+<author>David Bourgin</author>
+<author>Daniel Reichman 0001</author>
+<author>Thomas L. Griffiths</author>
+<author>Stuart J. Russell</author>
+<title>Cognitive model priors for predicting human decisions.</title>
+<pages>5133-5141</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/peterson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PetersonB0GR19</url>
+</inproceedings></dblp>

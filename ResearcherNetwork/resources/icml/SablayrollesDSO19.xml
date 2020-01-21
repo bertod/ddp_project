@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SablayrollesDSO19" mdate="2019-07-24">
+<author>Alexandre Sablayrolles</author>
+<author>Matthijs Douze</author>
+<author>Cordelia Schmid</author>
+<author>Yann Ollivier</author>
+<author>Herv&#233; J&#233;gou</author>
+<title>White-box vs Black-box: Bayes Optimal Strategies for Membership Inference.</title>
+<pages>5558-5567</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/sablayrolles19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SablayrollesDSO19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuDLZ0S19" mdate="2019-10-11">
+<author>Yujie Wu</author>
+<author>Lei Deng 0003</author>
+<author>Guoqi Li</author>
+<author>Jun Zhu</author>
+<author>Yuan Xie 0001</author>
+<author>Luping Shi</author>
+<title>Direct Training for Spiking Neural Networks: Faster, Larger, Better.</title>
+<pages>1311-1318</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011311</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuDLZ0S19</url>
+</inproceedings></dblp>

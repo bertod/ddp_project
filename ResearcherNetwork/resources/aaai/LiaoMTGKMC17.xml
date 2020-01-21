@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiaoMTGKMC17" mdate="2017-03-06">
+<author>Rui Liao</author>
+<author>Shun Miao</author>
+<author>Pierre de Tournemire</author>
+<author>Sasa Grbic</author>
+<author>Ali Kamen</author>
+<author>Tommaso Mansi</author>
+<author>Dorin Comaniciu</author>
+<title>An Artificial Agent for Robust Image Registration.</title>
+<pages>4168-4175</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14751</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiaoMTGKMC17</url>
+</inproceedings>
+</dblp>

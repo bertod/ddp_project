@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0001JADYD18" mdate="2019-06-06">
+<author>Hoang Minh Le 0002</author>
+<author>Nan Jiang</author>
+<author>Alekh Agarwal</author>
+<author>Miroslav Dud&#237;k</author>
+<author>Yisong Yue</author>
+<author>Hal Daum&#233; III</author>
+<title>Hierarchical Imitation and Reinforcement Learning.</title>
+<pages>2923-2932</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/le18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#0001JADYD18</url>
+</inproceedings>
+</dblp>

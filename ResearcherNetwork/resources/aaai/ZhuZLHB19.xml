@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuZLHB19" mdate="2019-09-25">
+<author>Chun Jiang Zhu</author>
+<author>Tan Zhu</author>
+<author>Kam-yiu Lam</author>
+<author>Song Han</author>
+<author>Jinbo Bi</author>
+<title>Communication-Optimal Distributed Dynamic Graph Clustering.</title>
+<pages>5957-5964</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015957</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhuZLHB19</url>
+</inproceedings></dblp>

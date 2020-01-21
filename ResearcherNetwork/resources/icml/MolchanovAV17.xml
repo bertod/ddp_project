@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MolchanovAV17" mdate="2019-04-03">
+<author>Dmitry Molchanov</author>
+<author>Arsenii Ashukha</author>
+<author>Dmitry P. Vetrov</author>
+<title>Variational Dropout Sparsifies Deep Neural Networks.</title>
+<pages>2498-2507</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/molchanov17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MolchanovAV17</url>
+</inproceedings>
+</dblp>

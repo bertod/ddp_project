@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GhorbaniJM19" mdate="2019-06-11">
+<author>Behrooz Ghorbani</author>
+<author>Hamid Javadi</author>
+<author>Andrea Montanari</author>
+<title>An Instability in Variational Inference for Topic Models.</title>
+<pages>2221-2231</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ghorbani19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GhorbaniJM19</url>
+</inproceedings></dblp>

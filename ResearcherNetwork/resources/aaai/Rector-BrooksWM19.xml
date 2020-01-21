@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Rector-BrooksWM19" mdate="2019-09-25">
+<author>Jarrid Rector-Brooks</author>
+<author>Jun-Kun Wang</author>
+<author>Barzan Mozafari</author>
+<title>Revisiting Projection-Free Optimization for Strongly Convex Constraint Sets.</title>
+<pages>1576-1583</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011576</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Rector-BrooksWM19</url>
+</inproceedings></dblp>

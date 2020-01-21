@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Zhang0LZC18" mdate="2018-10-22">
+<author>Zhirui Zhang</author>
+<author>Shujie Liu 0001</author>
+<author>Mu Li</author>
+<author>Ming Zhou 0001</author>
+<author>Enhong Chen</author>
+<title>Joint Training for Neural Machine Translation Models with Monolingual Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16336</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#Zhang0LZC18</url>
+<pages>555-562</pages>
+</inproceedings></dblp>

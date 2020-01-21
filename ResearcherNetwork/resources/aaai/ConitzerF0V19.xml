@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ConitzerF0V19" mdate="2019-09-25">
+<author>Vincent Conitzer</author>
+<author>Rupert Freeman</author>
+<author>Nisarg Shah 0001</author>
+<author>Jennifer Wortman Vaughan</author>
+<title>Group Fairness for the Allocation of Indivisible Goods.</title>
+<pages>1853-1860</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011853</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ConitzerF0V19</url>
+</inproceedings></dblp>

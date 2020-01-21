@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShiLHL0Z19" mdate="2019-09-25">
+<author>Jiaxin Shi</author>
+<author>Chen Liang</author>
+<author>Lei Hou</author>
+<author>Juanzi Li</author>
+<author>Zhiyuan Liu 0001</author>
+<author>Hanwang Zhang</author>
+<title>DeepChannel: Salience Estimation by Contrastive Learning for Extractive Document Summarization.</title>
+<pages>6999-7006</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016999</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiLHL0Z19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DaoGRSSR19" mdate="2019-06-11">
+<author>Tri Dao</author>
+<author>Albert Gu</author>
+<author>Alexander Ratner</author>
+<author>Virginia Smith</author>
+<author>Chris De Sa</author>
+<author>Christopher R&#233;</author>
+<title>A Kernel Theory of Modern Data Augmentation.</title>
+<pages>1528-1537</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/dao19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DaoGRSSR19</url>
+</inproceedings></dblp>

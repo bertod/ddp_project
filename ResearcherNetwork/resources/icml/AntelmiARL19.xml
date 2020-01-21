@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AntelmiARL19" mdate="2019-06-11">
+<author>Luigi Antelmi</author>
+<author>Nicholas Ayache</author>
+<author>Philippe Robert</author>
+<author>Marco Lorenzi</author>
+<title>Sparse Multi-Channel Variational Autoencoder for the Joint Analysis of Heterogeneous Data.</title>
+<pages>302-311</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/antelmi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AntelmiARL19</url>
+</inproceedings></dblp>

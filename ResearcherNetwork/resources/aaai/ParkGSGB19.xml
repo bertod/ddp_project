@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ParkGSGB19" mdate="2019-09-25">
+<author>Hae Won Park</author>
+<author>Ishaan Grover</author>
+<author>Samuel Spaulding</author>
+<author>Louis Gomez</author>
+<author>Cynthia Breazeal</author>
+<title>A Model-Free Affective Reinforcement Learning Approach to Personalization of an Autonomous Social Robot Companion for Early Literacy Education.</title>
+<pages>687-694</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301687</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ParkGSGB19</url>
+</inproceedings></dblp>

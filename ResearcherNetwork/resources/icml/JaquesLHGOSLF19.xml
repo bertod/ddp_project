@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JaquesLHGOSLF19" mdate="2019-06-11">
+<author>Natasha Jaques</author>
+<author>Angeliki Lazaridou</author>
+<author>Edward Hughes</author>
+<author>&#199;aglar G&#252;l&#231;ehre</author>
+<author>Pedro A. Ortega</author>
+<author>DJ Strouse</author>
+<author>Joel Z. Leibo</author>
+<author>Nando de Freitas</author>
+<title>Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning.</title>
+<pages>3040-3049</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jaques19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JaquesLHGOSLF19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PratesALLV19" mdate="2019-12-27">
+<author>Marcelo O. R. Prates</author>
+<author>Pedro H. C. Avelar</author>
+<author>Henrique Lemos</author>
+<author orcid="0000-0003-1571-165X">Lu&#237;s C. Lamb</author>
+<author>Moshe Y. Vardi</author>
+<title>Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP.</title>
+<pages>4731-4738</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014731</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PratesALLV19</url>
+</inproceedings></dblp>

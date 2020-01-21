@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FranceschiNPH19" mdate="2019-06-11">
+<author>Luca Franceschi</author>
+<author>Mathias Niepert</author>
+<author>Massimiliano Pontil</author>
+<author>Xiao He</author>
+<title>Learning Discrete Structures for Graph Neural Networks.</title>
+<pages>1972-1982</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/franceschi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FranceschiNPH19</url>
+</inproceedings></dblp>

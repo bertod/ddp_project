@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RechtRSS19" mdate="2019-06-11">
+<author>Benjamin Recht</author>
+<author>Rebecca Roelofs</author>
+<author>Ludwig Schmidt</author>
+<author>Vaishaal Shankar</author>
+<title>Do ImageNet Classifiers Generalize to ImageNet?</title>
+<pages>5389-5400</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/recht19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RechtRSS19</url>
+</inproceedings></dblp>

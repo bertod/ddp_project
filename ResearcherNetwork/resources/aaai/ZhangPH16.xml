@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangPH16" mdate="2019-07-23">
+<author>Weinan Zhang 0001</author>
+<author>Ulrich Paquet</author>
+<author>Katja Hofmann</author>
+<title>Collective Noise Contrastive Estimation for Policy Transfer Learning.</title>
+<pages>1408-1414</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12004</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhangPH16</url>
+</inproceedings>
+</dblp>

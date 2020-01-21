@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuZZXZLS19" mdate="2020-01-05">
+<author>Bingzhe Wu</author>
+<author>Xiaolu Zhang</author>
+<author>Shiwan Zhao</author>
+<author>Lingxi Xie</author>
+<author>Caihong Zeng</author>
+<author>Zhihong Liu</author>
+<author>Guangyu Sun 0003</author>
+<title>G2C: A Generator-to-Classifier Framework Integrating Multi-Stained Visual Cues for Pathological Glomerulus Classification.</title>
+<pages>1214-1221</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011214</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WuZZXZLS19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HoCSDA19" mdate="2019-09-24">
+<author>Jonathan Ho</author>
+<author>Xi Chen 0022</author>
+<author>Aravind Srinivas</author>
+<author>Yan Duan</author>
+<author>Pieter Abbeel</author>
+<title>Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design.</title>
+<pages>2722-2730</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ho19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HoCSDA19</url>
+</inproceedings></dblp>

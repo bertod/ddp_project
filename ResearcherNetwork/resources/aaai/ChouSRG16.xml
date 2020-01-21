@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChouSRG16" mdate="2016-04-21">
+<author>Li Chou</author>
+<author>Somdeb Sarkhel</author>
+<author>Nicholas Ruozzi</author>
+<author>Vibhav Gogate</author>
+<title>On Parameter Tying by Quantization.</title>
+<pages>3241-3247</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12543</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChouSRG16</url>
+</inproceedings>
+</dblp>

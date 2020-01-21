@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiCW19" mdate="2019-06-11">
+<author>Tongyang Li</author>
+<author>Shouvanik Chakrabarti</author>
+<author>Xiaodi Wu</author>
+<title>Sublinear quantum algorithms for training linear and kernel-based classifiers.</title>
+<pages>3815-3824</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiCW19</url>
+</inproceedings></dblp>

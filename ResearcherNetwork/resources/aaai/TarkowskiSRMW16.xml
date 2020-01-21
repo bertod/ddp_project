@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TarkowskiSRMW16" mdate="2019-04-26">
+<author>Mateusz Krzysztof Tarkowski</author>
+<author>Piotr L. Szczepanski</author>
+<author>Talal Rahwan</author>
+<author>Tomasz P. Michalak</author>
+<author>Michael J. Wooldridge</author>
+<title>Closeness Centrality for Networks with Overlapping Community Structure.</title>
+<pages>622-629</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12149</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#TarkowskiSRMW16</url>
+</inproceedings>
+</dblp>

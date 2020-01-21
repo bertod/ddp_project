@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NayerNV19" mdate="2019-06-11">
+<author>Seyedehsara Nayer</author>
+<author>Praneeth Narayanamurthy</author>
+<author>Namrata Vaswani</author>
+<title>Phaseless PCA: Low-Rank Matrix Recovery from Column-wise Phaseless Measurements.</title>
+<pages>4762-4770</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nayer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NayerNV19</url>
+</inproceedings></dblp>

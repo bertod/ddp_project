@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangLXT19" mdate="2019-09-25">
+<author>Wenlong Huang</author>
+<author>Brian Lai</author>
+<author>Weijian Xu</author>
+<author>Zhuowen Tu</author>
+<title>3D Volumetric Modeling with Introspective Neural Networks.</title>
+<pages>8481-8488</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018481</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangLXT19</url>
+</inproceedings></dblp>

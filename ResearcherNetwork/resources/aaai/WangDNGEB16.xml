@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangDNGEB16" mdate="2017-07-12">
+<author>Xin Wang 0019</author>
+<author>Roger Donaldson</author>
+<author>Christopher Nell</author>
+<author>Peter Gorniak</author>
+<author>Martin Ester</author>
+<author>Jiajun Bu</author>
+<title>Recommending Groups to Users Using User-Group Engagement and Time-Dependent Matrix Factorization.</title>
+<pages>1331-1337</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12071</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangDNGEB16</url>
+</inproceedings></dblp>

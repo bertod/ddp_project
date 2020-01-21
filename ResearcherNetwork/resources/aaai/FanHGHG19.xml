@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FanHGHG19" mdate="2019-09-25">
+<author>Lijie Fan</author>
+<author>Wenbing Huang</author>
+<author>Chuang Gan</author>
+<author>Junzhou Huang</author>
+<author>Boqing Gong</author>
+<title>Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation.</title>
+<pages>3510-3517</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013510</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FanHGHG19</url>
+</inproceedings></dblp>

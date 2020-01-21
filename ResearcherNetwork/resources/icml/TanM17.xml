@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TanM17" mdate="2019-04-27">
+<author>Zilong Tan</author>
+<author>Sayan Mukherjee 0001</author>
+<title>Partitioned Tensor Factorizations for Learning Mixed Membership Models.</title>
+<pages>3358-3367</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/tan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TanM17</url>
+</inproceedings>
+</dblp>

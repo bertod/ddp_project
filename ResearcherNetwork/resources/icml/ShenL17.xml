@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShenL17" mdate="2019-04-03">
+<author>Jie Shen 0005</author>
+<author>Ping Li 0001</author>
+<title>On the Iteration Complexity of Support Recovery via Hard Thresholding Pursuit.</title>
+<pages>3115-3124</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/shen17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ShenL17</url>
+</inproceedings>
+</dblp>

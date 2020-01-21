@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LinC18a" mdate="2019-04-03">
+<author>Junhong Lin</author>
+<author>Volkan Cevher</author>
+<title>Optimal Rates of Sketched-regularized Algorithms for Least-Squares Regression over Hilbert Spaces.</title>
+<pages>3108-3117</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/lin18b.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#LinC18a</url>
+</inproceedings>
+</dblp>

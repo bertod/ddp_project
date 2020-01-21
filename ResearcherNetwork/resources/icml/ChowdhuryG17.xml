@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChowdhuryG17" mdate="2019-04-03">
+<author>Sayak Ray Chowdhury</author>
+<author>Aditya Gopalan</author>
+<title>On Kernelized Multi-armed Bandits.</title>
+<pages>844-853</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chowdhury17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChowdhuryG17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LawLSZ19" mdate="2019-06-11">
+<author>Marc Teva Law</author>
+<author>Renjie Liao</author>
+<author>Jake Snell</author>
+<author>Richard S. Zemel</author>
+<title>Lorentzian Distance Learning for Hyperbolic Representations.</title>
+<pages>3672-3681</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/law19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LawLSZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaoZCHW17" mdate="2019-03-05">
+<author>Cao Xiao</author>
+<author>Ping Zhang 0016</author>
+<author>W. Art Chaovalitwongse</author>
+<author>Jianying Hu</author>
+<author>Fei Wang 0001</author>
+<title>Adverse Drug Reaction Prediction with Symbolic Latent Dirichlet Allocation.</title>
+<pages>1590-1596</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14282</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#XiaoZCHW17</url>
+</inproceedings>
+</dblp>

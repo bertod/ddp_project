@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JiangMCSMG17" mdate="2019-04-03">
+<author>Shali Jiang</author>
+<author>Gustavo Malkomes</author>
+<author>Geoff Converse</author>
+<author>Alyssa Shofner</author>
+<author>Benjamin Moseley</author>
+<author>Roman Garnett</author>
+<title>Efficient Nonmyopic Active Search.</title>
+<pages>1714-1723</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/jiang17d.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#JiangMCSMG17</url>
+</inproceedings>
+</dblp>

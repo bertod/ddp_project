@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimP19" mdate="2019-06-11">
+<author>Gi-Soo Kim</author>
+<author>Myunghee Cho Paik</author>
+<title>Contextual Multi-armed Bandit Algorithm for Semiparametric Reward Model.</title>
+<pages>3389-3397</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kim19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KimP19</url>
+</inproceedings></dblp>

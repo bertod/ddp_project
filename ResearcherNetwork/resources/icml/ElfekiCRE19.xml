@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ElfekiCRE19" mdate="2019-06-11">
+<author>Mohamed Elfeki</author>
+<author>Camille Couprie</author>
+<author>Morgane Rivi&#232;re</author>
+<author>Mohamed Elhoseiny</author>
+<title>GDPP: Learning Diverse Generations using Determinantal Point Processes.</title>
+<pages>1774-1783</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/elfeki19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ElfekiCRE19</url>
+</inproceedings></dblp>

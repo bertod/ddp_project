@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JeongS19a" mdate="2019-06-11">
+<author>Yeonwoo Jeong</author>
+<author>Hyun Oh Song</author>
+<title>Learning Discrete and Continuous Factors of Data via Alternating Disentanglement.</title>
+<pages>3091-3099</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jeong19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JeongS19a</url>
+</inproceedings></dblp>

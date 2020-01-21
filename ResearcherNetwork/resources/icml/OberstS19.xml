@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OberstS19" mdate="2019-11-15">
+<author>Michael Oberst</author>
+<author>David A. Sontag</author>
+<title>Counterfactual Off-Policy Evaluation with Gumbel-Max Structural Causal Models.</title>
+<pages>4881-4890</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/oberst19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OberstS19</url>
+</inproceedings></dblp>

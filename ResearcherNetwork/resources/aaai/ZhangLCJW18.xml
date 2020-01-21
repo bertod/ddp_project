@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangLCJW18" mdate="2018-10-22">
+<author>Denghui Zhang</author>
+<author>Manling Li</author>
+<author>Pengshan Cai</author>
+<author>Yantao Jia</author>
+<author>Yuanzhuo Wang</author>
+<title>Path-Based Attention Neural Model for Fine-Grained Entity Typing.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16544</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhangLCJW18</url>
+<pages>8179-8180</pages>
+</inproceedings></dblp>

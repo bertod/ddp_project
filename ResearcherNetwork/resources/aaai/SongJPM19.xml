@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SongJPM19" mdate="2019-09-25">
+<author>Kyungwoo Song</author>
+<author>Mingi Ji</author>
+<author>Sungrae Park</author>
+<author>Il-Chul Moon</author>
+<title>Hierarchical Context Enabled Recurrent Neural Network for Recommendation.</title>
+<pages>4983-4991</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014983</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#SongJPM19</url>
+</inproceedings></dblp>

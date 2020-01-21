@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChengLLTP16" mdate="2016-04-21">
+<author>Peng Cheng</author>
+<author>Ivan Lee</author>
+<author>Li Li</author>
+<author>Kuo-Kun Tseng</author>
+<author>Jeng-Shyang Pan</author>
+<title>BRBA: A Blocking-Based Association Rule Hiding Method.</title>
+<pages>4200-4201</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12297</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChengLLTP16</url>
+</inproceedings>
+</dblp>

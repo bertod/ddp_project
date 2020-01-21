@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChandakTKJT19" mdate="2019-06-13">
+<author>Yash Chandak</author>
+<author>Georgios Theocharous</author>
+<author>James Kostas</author>
+<author>Scott M. Jordan</author>
+<author>Philip S. Thomas</author>
+<title>Learning Action Representations for Reinforcement Learning.</title>
+<pages>941-950</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chandak19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChandakTKJT19</url>
+</inproceedings>
+</dblp>

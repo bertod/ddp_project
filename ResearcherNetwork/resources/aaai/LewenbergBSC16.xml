@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LewenbergBSC16" mdate="2016-04-21">
+<author>Yoad Lewenberg</author>
+<author>Yoram Bachrach</author>
+<author>Sukrit Shankar</author>
+<author>Antonio Criminisi</author>
+<title>Predicting Personal Traits from Facial Images Using Convolutional Neural Networks Augmented with Facial Landmark Information.</title>
+<pages>4365-4366</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12384</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LewenbergBSC16</url>
+</inproceedings>
+</dblp>

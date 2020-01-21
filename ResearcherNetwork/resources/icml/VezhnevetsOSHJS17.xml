@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VezhnevetsOSHJS17" mdate="2019-04-03">
+<author>Alexander Sasha Vezhnevets</author>
+<author>Simon Osindero</author>
+<author>Tom Schaul</author>
+<author>Nicolas Heess</author>
+<author>Max Jaderberg</author>
+<author>David Silver</author>
+<author>Koray Kavukcuoglu</author>
+<title>FeUdal Networks for Hierarchical Reinforcement Learning.</title>
+<pages>3540-3549</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/vezhnevets17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#VezhnevetsOSHJS17</url>
+</inproceedings>
+</dblp>

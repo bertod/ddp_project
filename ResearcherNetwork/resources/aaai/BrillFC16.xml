@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrillFC16" mdate="2016-04-21">
+<author>Markus Brill</author>
+<author>Rupert Freeman</author>
+<author>Vincent Conitzer</author>
+<title>Computing Possible and Necessary Equilibrium Actions (and Bipartisan Set Winners).</title>
+<pages>369-375</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12480</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BrillFC16</url>
+</inproceedings>
+</dblp>

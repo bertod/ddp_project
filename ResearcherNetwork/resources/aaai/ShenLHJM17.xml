@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShenLHJM17" mdate="2019-09-12">
+<author>Li Shen</author>
+<author>Wei Liu 0005</author>
+<author>Junzhou Huang</author>
+<author>Yu-Gang Jiang</author>
+<author>Shiqian Ma</author>
+<title>Adaptive Proximal Average Approximation for Composite Convex Minimization.</title>
+<pages>2513-2519</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14678</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShenLHJM17</url>
+</inproceedings>
+</dblp>

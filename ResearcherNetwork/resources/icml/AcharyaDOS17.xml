@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AcharyaDOS17" mdate="2019-04-03">
+<author>Jayadev Acharya</author>
+<author>Hirakendu Das</author>
+<author>Alon Orlitsky</author>
+<author>Ananda Theertha Suresh</author>
+<title>A Unified Maximum Likelihood Approach for Estimating Symmetric Properties of Discrete Distributions.</title>
+<pages>11-21</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/acharya17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#AcharyaDOS17</url>
+</inproceedings>
+</dblp>

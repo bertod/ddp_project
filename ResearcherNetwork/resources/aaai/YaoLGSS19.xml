@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YaoLGSS19" mdate="2019-09-25">
+<author>Ziyu Yao</author>
+<author>Xiujun Li</author>
+<author>Jianfeng Gao</author>
+<author>Brian M. Sadler</author>
+<author>Huan Sun</author>
+<title>Interactive Semantic Parsing for If-Then Recipes via Hierarchical Reinforcement Learning.</title>
+<pages>2547-2554</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012547</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YaoLGSS19</url>
+</inproceedings></dblp>

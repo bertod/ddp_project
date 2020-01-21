@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FeraudAL19" mdate="2019-06-11">
+<author>Rapha&#235;l F&#233;raud</author>
+<author>R&#233;da Alami</author>
+<author>Romain Laroche</author>
+<title>Decentralized Exploration in Multi-Armed Bandits.</title>
+<pages>1901-1909</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/feraud19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FeraudAL19</url>
+</inproceedings></dblp>

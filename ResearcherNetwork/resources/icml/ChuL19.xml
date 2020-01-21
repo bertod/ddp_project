@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChuL19" mdate="2019-06-11">
+<author>Eric Chu</author>
+<author>Peter J. Liu</author>
+<title>MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization.</title>
+<pages>1223-1232</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChuL19</url>
+</inproceedings></dblp>

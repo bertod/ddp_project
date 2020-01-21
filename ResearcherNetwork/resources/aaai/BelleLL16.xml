@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BelleLL16" mdate="2016-04-21">
+<author>Vaishak Belle</author>
+<author>Gerhard Lakemeyer</author>
+<author>Hector J. Levesque</author>
+<title>A First-Order Logic of Probability and Only Knowing in Unbounded Domains.</title>
+<pages>893-899</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12271</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BelleLL16</url>
+</inproceedings>
+</dblp>

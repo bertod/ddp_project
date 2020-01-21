@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Granroth-Wilding16" mdate="2016-04-21">
+<author>Mark Granroth-Wilding</author>
+<author>Stephen Clark</author>
+<title>What Happens Next? Event Prediction Using a Compositional Neural Network Model.</title>
+<pages>2727-2733</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11995</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#Granroth-Wilding16</url>
+</inproceedings>
+</dblp>

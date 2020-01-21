@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Telgarsky17" mdate="2019-04-03">
+<author>Matus Telgarsky</author>
+<title>Neural Networks and Rational Functions.</title>
+<pages>3387-3393</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/telgarsky17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#Telgarsky17</url>
+</inproceedings>
+</dblp>

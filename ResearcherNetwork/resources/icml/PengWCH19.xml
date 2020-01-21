@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PengWCH19" mdate="2019-06-11">
+<author>Hanyu Peng</author>
+<author>Jiaxiang Wu</author>
+<author>Shifeng Chen</author>
+<author>Junzhou Huang</author>
+<title>Collaborative Channel Pruning for Deep Networks.</title>
+<pages>5113-5122</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/peng19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PengWCH19</url>
+</inproceedings></dblp>

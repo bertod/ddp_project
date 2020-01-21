@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangLSW17" mdate="2017-03-06">
+<author>Xiaodong Zhang</author>
+<author>Sujian Li</author>
+<author>Lei Sha</author>
+<author>Houfeng Wang</author>
+<title>Attentive Interactive Neural Networks for Answer Selection in Community Question Answering.</title>
+<pages>3525-3531</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14611</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangLSW17</url>
+</inproceedings>
+</dblp>

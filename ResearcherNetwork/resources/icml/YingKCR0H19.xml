@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YingKCR0H19" mdate="2019-06-11">
+<author>Chris Ying</author>
+<author>Aaron Klein</author>
+<author>Eric Christiansen</author>
+<author>Esteban Real</author>
+<author>Kevin Murphy 0002</author>
+<author>Frank Hutter</author>
+<title>NAS-Bench-101: Towards Reproducible Neural Architecture Search.</title>
+<pages>7105-7114</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ying19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YingKCR0H19</url>
+</inproceedings></dblp>

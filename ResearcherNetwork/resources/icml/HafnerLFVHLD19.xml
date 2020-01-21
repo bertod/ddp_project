@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HafnerLFVHLD19" mdate="2019-06-11">
+<author>Danijar Hafner</author>
+<author>Timothy P. Lillicrap</author>
+<author>Ian Fischer</author>
+<author>Ruben Villegas</author>
+<author>David Ha</author>
+<author>Honglak Lee</author>
+<author>James Davidson</author>
+<title>Learning Latent Dynamics for Planning from Pixels.</title>
+<pages>2555-2565</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hafner19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HafnerLFVHLD19</url>
+</inproceedings></dblp>

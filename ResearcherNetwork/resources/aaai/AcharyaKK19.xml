@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AcharyaKK19" mdate="2019-09-25">
+<author>Manoj Acharya</author>
+<author>Kushal Kafle</author>
+<author>Christopher Kanan</author>
+<title>TallyQA: Answering Complex Counting Questions.</title>
+<pages>8076-8084</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018076</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#AcharyaKK19</url>
+</inproceedings></dblp>

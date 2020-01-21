@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HeHWW16" mdate="2019-10-17">
+<author>Wei He 0014</author>
+<author>Zhongjun He</author>
+<author>Hua Wu 0003</author>
+<author>Haifeng Wang</author>
+<title>Improved Neural Machine Translation with SMT Features.</title>
+<pages>151-157</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12189</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#HeHWW16</url>
+</inproceedings>
+</dblp>

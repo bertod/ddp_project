@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/X19" mdate="2019-10-08">
+<editor>Yasin Abbasi-Yadkori</editor>
+<editor>Peter L. Bartlett</editor>
+<editor>Kush Bhatia</editor>
+<editor>Nevena Lazic</editor>
+<editor>Csaba Szepesv&#225;ri</editor>
+<editor>Gell&#233;rt Weisz</editor>
+<title>POLITEX: Regret Bounds for Policy Iteration using Expert Prediction.</title>
+<pages>3692-3702</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lazic19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#X19</url>
+</inproceedings>
+</dblp>

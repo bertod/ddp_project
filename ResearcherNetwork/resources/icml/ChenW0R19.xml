@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenW0R19" mdate="2019-06-11">
+<author>Pin-Yu Chen</author>
+<author>Lingfei Wu</author>
+<author>Sijia Liu 0001</author>
+<author>Indika Rajapakse</author>
+<title>Fast Incremental von Neumann Graph Entropy Computation: Theory, Algorithm, and Applications.</title>
+<pages>1091-1101</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19j.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenW0R19</url>
+</inproceedings></dblp>

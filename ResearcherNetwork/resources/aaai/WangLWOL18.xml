@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangLWOL18" mdate="2018-10-22">
+<author>Pichao Wang</author>
+<author>Wanqing Li</author>
+<author>Jun Wan 0001</author>
+<author>Philip Ogunbona</author>
+<author>Xinwang Liu</author>
+<title>Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16106</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangLWOL18</url>
+<pages>7404-7411</pages>
+</inproceedings></dblp>

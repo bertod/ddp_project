@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SadilekKDLPTS16" mdate="2016-04-21">
+<author>Adam Sadilek</author>
+<author>Henry A. Kautz</author>
+<author>Lauren DiPrete</author>
+<author>Brian Labus</author>
+<author>Eric Portman</author>
+<author>Jack Teitel</author>
+<author>Vincent Silenzio</author>
+<title>Deploying nEmesis: Preventing Foodborne Illness by Data Mining Social Media.</title>
+<pages>3982-3990</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/11823</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SadilekKDLPTS16</url>
+</inproceedings>
+</dblp>

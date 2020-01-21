@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KumarGV17" mdate="2019-04-03">
+<author>Ashish Kumar</author>
+<author>Saurabh Goyal</author>
+<author>Manik Varma</author>
+<title>Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things.</title>
+<pages>1935-1944</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kumar17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KumarGV17</url>
+</inproceedings>
+</dblp>

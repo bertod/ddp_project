@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuZLZ19" mdate="2019-10-07">
+<author>Lu Yu 0006</author>
+<author>Chuxu Zhang</author>
+<author>Shangsong Liang</author>
+<author>Xiangliang Zhang 0001</author>
+<title>Multi-Order Attentive Ranking Model for Sequential Recommendation.</title>
+<pages>5709-5716</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015709</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuZLZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NguyenDM17" mdate="2017-03-06">
+<author>Vu-Linh Nguyen</author>
+<author>S&#233;bastien Destercke</author>
+<author>Marie-H&#233;l&#232;ne Masson</author>
+<title>Querying Partially Labelled Data to Improve a K-nn Classifier.</title>
+<pages>2401-2407</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14364</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NguyenDM17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoTHQXL19" mdate="2019-09-25">
+<author>Junliang Guo</author>
+<author>Xu Tan</author>
+<author>Di He</author>
+<author>Tao Qin</author>
+<author>Linli Xu</author>
+<author>Tie-Yan Liu</author>
+<title>Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input.</title>
+<pages>3723-3730</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013723</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuoTHQXL19</url>
+</inproceedings></dblp>

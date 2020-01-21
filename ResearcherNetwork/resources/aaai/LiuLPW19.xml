@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuLPW19" mdate="2019-10-14">
+<author>Xiao Liu 0025</author>
+<author>Xiaoting Li</author>
+<author>Rupesh Prajapati</author>
+<author>Dinghao Wu</author>
+<title>DeepFuzz: Automatic Generation of Syntax Valid C Programs for Fuzz Testing.</title>
+<pages>1044-1051</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011044</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuLPW19</url>
+</inproceedings></dblp>

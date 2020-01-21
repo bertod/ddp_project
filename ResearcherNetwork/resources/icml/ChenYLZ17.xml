@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenYLZ17" mdate="2019-04-03">
+<author>Zhehui Chen</author>
+<author>Lin F. Yang</author>
+<author>Chris Junchi Li</author>
+<author>Tuo Zhao</author>
+<title>Online Partial Least Square Optimization: Dropping Convexity for Better Efficiency and Scalability.</title>
+<pages>777-786</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chen17h.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChenYLZ17</url>
+</inproceedings>
+</dblp>

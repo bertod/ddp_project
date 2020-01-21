@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GaninKBEV18" mdate="2019-04-03">
+<author>Yaroslav Ganin</author>
+<author>Tejas Kulkarni</author>
+<author>Igor Babuschkin</author>
+<author>S. M. Ali Eslami</author>
+<author>Oriol Vinyals</author>
+<title>Synthesizing Programs for Images using Reinforced Adversarial Learning.</title>
+<pages>1652-1661</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ganin18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#GaninKBEV18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangRXWW17" mdate="2019-11-13">
+<author>Xingchang Huang</author>
+<author>Yanghui Rao</author>
+<author>Haoran Xie 0001</author>
+<author>Tak-Lam Wong</author>
+<author>Fu Lee Wang</author>
+<title>Cross-Domain Sentiment Classification via Topic-Related TrAdaBoost.</title>
+<pages>4939-4940</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14580</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HuangRXWW17</url>
+</inproceedings>
+</dblp>

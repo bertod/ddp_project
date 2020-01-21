@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Skerry-RyanBXWS18" mdate="2019-04-03">
+<author>R. J. Skerry-Ryan</author>
+<author>Eric Battenberg</author>
+<author>Ying Xiao</author>
+<author>Yuxuan Wang</author>
+<author>Daisy Stanton</author>
+<author>Joel Shor</author>
+<author>Ron J. Weiss</author>
+<author>Rob Clark</author>
+<author>Rif A. Saurous</author>
+<title>Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron.</title>
+<pages>4700-4709</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/skerry-ryan18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Skerry-RyanBXWS18</url>
+</inproceedings>
+</dblp>

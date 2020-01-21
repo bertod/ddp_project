@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LaszkaLV16" mdate="2016-04-21">
+<author>Aron Laszka</author>
+<author>Jian Lou</author>
+<author>Yevgeniy Vorobeychik</author>
+<title>Multi-Defender Strategic Filtering Against Spear-Phishing Attacks.</title>
+<pages>537-543</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11876</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LaszkaLV16</url>
+</inproceedings>
+</dblp>

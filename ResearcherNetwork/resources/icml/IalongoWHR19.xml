@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/IalongoWHR19" mdate="2019-06-11">
+<author>Alessandro Davide Ialongo</author>
+<author>Mark van der Wilk</author>
+<author>James Hensman</author>
+<author>Carl Edward Rasmussen</author>
+<title>Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models.</title>
+<pages>2931-2940</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ialongo19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#IalongoWHR19</url>
+</inproceedings></dblp>

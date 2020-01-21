@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RobertsERHE18" mdate="2019-07-22">
+<author>Adam Roberts</author>
+<author>Jesse H. Engel</author>
+<author>Colin Raffel</author>
+<author>Curtis Hawthorne</author>
+<author>Douglas Eck</author>
+<title>A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music.</title>
+<pages>4361-4370</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/roberts18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RobertsERHE18</url>
+</inproceedings>
+</dblp>

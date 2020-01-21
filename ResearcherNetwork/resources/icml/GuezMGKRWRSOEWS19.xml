@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GuezMGKRWRSOEWS19" mdate="2019-06-11">
+<author>Arthur Guez</author>
+<author>Mehdi Mirza</author>
+<author>Karol Gregor</author>
+<author>Rishabh Kabra</author>
+<author>S&#233;bastien Racani&#232;re</author>
+<author>Theophane Weber</author>
+<author>David Raposo</author>
+<author>Adam Santoro</author>
+<author>Laurent Orseau</author>
+<author>Tom Eccles</author>
+<author>Greg Wayne</author>
+<author>David Silver</author>
+<author>Timothy P. Lillicrap</author>
+<title>An Investigation of Model-Free Planning.</title>
+<pages>2464-2473</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/guez19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GuezMGKRWRSOEWS19</url>
+</inproceedings></dblp>

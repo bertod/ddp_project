@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoL0L17" mdate="2019-07-09">
+<author>Yue Cao 0001</author>
+<author>Mingsheng Long</author>
+<author>Jianmin Wang 0001</author>
+<author>Shichen Liu</author>
+<title>Collective Deep Quantization for Efficient Cross-Modal Retrieval.</title>
+<pages>3974-3980</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14499</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CaoL0L17</url>
+</inproceedings>
+</dblp>

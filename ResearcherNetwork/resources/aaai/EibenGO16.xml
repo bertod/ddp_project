@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/EibenGO16" mdate="2016-04-21">
+<author>Eduard Eiben</author>
+<author>Robert Ganian</author>
+<author>Sebastian Ordyniak</author>
+<title>Using Decomposition-Parameters for QBF: Mind the Prefix!</title>
+<pages>964-970</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12420</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#EibenGO16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KangLKPC19" mdate="2019-09-25">
+<author>Younkook Kang</author>
+<author>Sungwon Lyu</author>
+<author>Jeeyung Kim</author>
+<author>Bongjoon Park</author>
+<author>Sungzoon Cho</author>
+<title>Dynamic Vehicle Traffic Control Using Deep Reinforcement Learning in Automated Material Handling System.</title>
+<pages>9949-9950</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019949</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KangLKPC19</url>
+</inproceedings></dblp>

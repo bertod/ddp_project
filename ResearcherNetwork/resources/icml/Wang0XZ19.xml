@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Wang0XZ19" mdate="2019-06-11">
+<author>Chaojie Wang</author>
+<author>Bo Chen 0001</author>
+<author>Sucheng Xiao</author>
+<author>Mingyuan Zhou</author>
+<title>Convolutional Poisson Gamma Belief Network.</title>
+<pages>6515-6525</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Wang0XZ19</url>
+</inproceedings></dblp>

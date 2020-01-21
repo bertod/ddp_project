@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BalduzziMB17" mdate="2019-04-03">
+<author>David Balduzzi</author>
+<author>Brian McWilliams</author>
+<author>Tony Butler-Yeoman</author>
+<title>Neural Taylor Approximations: Convergence and Exploration in Rectifier Networks.</title>
+<pages>351-360</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/balduzzi17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BalduzziMB17</url>
+</inproceedings>
+</dblp>

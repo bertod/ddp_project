@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuSX19" mdate="2019-06-11">
+<author>Hao Liu</author>
+<author>Richard Socher</author>
+<author>Caiming Xiong</author>
+<title>Taming MAML: Efficient unbiased meta-reinforcement learning.</title>
+<pages>4061-4071</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19g.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuSX19</url>
+</inproceedings></dblp>

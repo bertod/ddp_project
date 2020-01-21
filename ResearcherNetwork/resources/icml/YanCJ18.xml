@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YanCJ18" mdate="2019-04-03">
+<author>Songbai Yan</author>
+<author>Kamalika Chaudhuri</author>
+<author>Tara Javidi</author>
+<title>Active Learning with Logged Data.</title>
+<pages>5517-5526</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/yan18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#YanCJ18</url>
+</inproceedings>
+</dblp>

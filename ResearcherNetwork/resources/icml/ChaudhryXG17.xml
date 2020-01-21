@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChaudhryXG17" mdate="2019-09-10">
+<author>Aditya Chaudhry</author>
+<author>Pan Xu 0002</author>
+<author>Quanquan Gu</author>
+<title>Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference.</title>
+<pages>684-693</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chaudhry17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChaudhryXG17</url>
+</inproceedings>
+</dblp>

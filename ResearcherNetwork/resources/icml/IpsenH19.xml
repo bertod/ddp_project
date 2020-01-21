@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/IpsenH19" mdate="2019-06-11">
+<author>Niels Bruun Ipsen</author>
+<author>Lars Kai Hansen</author>
+<title>Phase transition in PCA with missing data: Reduced signal-to-noise ratio, not sample size!</title>
+<pages>2951-2960</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ipsen19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#IpsenH19</url>
+</inproceedings></dblp>

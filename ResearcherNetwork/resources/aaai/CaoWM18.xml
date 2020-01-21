@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoWM18" mdate="2018-10-22">
+<author>Zhu Cao</author>
+<author>Linlin Wang</author>
+<author>Gerard de Melo</author>
+<title>Link Prediction via Subgraph Embedding-Based Convex Matrix Completion.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16442</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#CaoWM18</url>
+<pages>2803-2810</pages>
+</inproceedings></dblp>

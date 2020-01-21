@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PerraultPV19" mdate="2019-06-11">
+<author>Pierre Perrault</author>
+<author>Vianney Perchet</author>
+<author>Michal Valko</author>
+<title>Exploiting structure of uncertainty for efficient matroid semi-bandits.</title>
+<pages>5123-5132</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/perrault19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PerraultPV19</url>
+</inproceedings></dblp>

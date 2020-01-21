@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuQL18" mdate="2018-10-22">
+<author>Zuozhu Liu</author>
+<author>Tony Q. S. Quek</author>
+<author>Shaowei Lin</author>
+<title>Variational Probability Flow for Biologically Plausible Training of Deep Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16606</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiuQL18</url>
+<pages>3698-3705</pages>
+</inproceedings></dblp>

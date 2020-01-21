@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangCWZ17" mdate="2017-03-06">
+<author>Quanshi Zhang</author>
+<author>Ruiming Cao</author>
+<author>Ying Nian Wu</author>
+<author>Song-Chun Zhu</author>
+<title>Growing Interpretable Part Graphs on ConvNets via Multi-Shot Learning.</title>
+<pages>2898-2906</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14909</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangCWZ17</url>
+</inproceedings>
+</dblp>

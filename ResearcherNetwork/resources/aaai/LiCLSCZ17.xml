@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiCLSCZ17" mdate="2019-05-07">
+<author>Dongsheng Li</author>
+<author>Chao Chen 0016</author>
+<author>Qin Lv</author>
+<author>Li Shang</author>
+<author>Stephen M. Chu</author>
+<author>Hongyuan Zha</author>
+<title>ERMMA: Expected Risk Minimization for Matrix Approximation-based Recommender Systems.</title>
+<pages>1403-1409</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14625</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiCLSCZ17</url>
+</inproceedings>
+</dblp>

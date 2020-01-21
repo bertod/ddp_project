@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JagielskiKMORSU19" mdate="2019-10-08">
+<author>Matthew Jagielski</author>
+<author>Michael J. Kearns</author>
+<author>Jieming Mao</author>
+<author>Alina Oprea</author>
+<author>Aaron Roth 0001</author>
+<author>Saeed Sharifi-Malvajerdi</author>
+<author>Jonathan Ullman</author>
+<title>Differentially Private Fair Learning.</title>
+<pages>3000-3008</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jagielski19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JagielskiKMORSU19</url>
+</inproceedings></dblp>

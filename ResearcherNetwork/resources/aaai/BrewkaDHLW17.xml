@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrewkaDHLW17" mdate="2017-03-06">
+<author>Gerhard Brewka</author>
+<author>Martin Diller</author>
+<author>Georg Heissenberger</author>
+<author>Thomas Linsbichler</author>
+<author>Stefan Woltran</author>
+<title>Solving Advanced Argumentation Problems with Answer-Set Programming.</title>
+<pages>1077-1083</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14369</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BrewkaDHLW17</url>
+</inproceedings>
+</dblp>

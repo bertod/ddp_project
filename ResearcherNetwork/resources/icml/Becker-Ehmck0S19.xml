@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Becker-Ehmck0S19" mdate="2019-06-11">
+<author>Philip Becker-Ehmck</author>
+<author>Jan Peters 0001</author>
+<author>Patrick van der Smagt</author>
+<title>Switching Linear Dynamics for Variational Bayes Filtering.</title>
+<pages>553-562</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/becker-ehmck19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Becker-Ehmck0S19</url>
+</inproceedings></dblp>

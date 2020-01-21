@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieLJX19" mdate="2019-09-25">
+<author>Lele Xie</author>
+<author>Yuliang Liu</author>
+<author>Lianwen Jin</author>
+<author>Zecheng Xie</author>
+<title>DeRPN: Taking a Further Step toward More General Object Detection.</title>
+<pages>9046-9053</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019046</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XieLJX19</url>
+</inproceedings></dblp>

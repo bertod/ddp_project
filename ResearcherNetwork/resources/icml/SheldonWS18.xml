@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SheldonWS18" mdate="2019-04-03">
+<author>Daniel Sheldon</author>
+<author>Kevin Winner</author>
+<author>Debora Sujono</author>
+<title>Learning in Integer Latent Variable Models with Nested Automatic Differentiation.</title>
+<pages>4622-4630</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sheldon18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SheldonWS18</url>
+</inproceedings>
+</dblp>

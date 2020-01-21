@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NarayanLL17" mdate="2017-03-06">
+<author>Akshay Narayan</author>
+<author>Zhuoru Li</author>
+<author>Tze-Yun Leong</author>
+<title>SEAPoT-RL: Selective Exploration Algorithm for Policy Transfer in RL.</title>
+<pages>4975-4976</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14729</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NarayanLL17</url>
+</inproceedings>
+</dblp>

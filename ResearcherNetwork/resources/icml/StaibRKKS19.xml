@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/StaibRKKS19" mdate="2019-06-11">
+<author>Matthew Staib</author>
+<author>Sashank J. Reddi</author>
+<author>Satyen Kale</author>
+<author>Sanjiv Kumar</author>
+<author>Suvrit Sra</author>
+<title>Escaping Saddle Points with Adaptive Gradient Methods.</title>
+<pages>5956-5965</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/staib19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#StaibRKKS19</url>
+</inproceedings></dblp>

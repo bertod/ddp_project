@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuLLY16" mdate="2018-08-24">
+<author>Canyi Lu</author>
+<author>Huan Li 0007</author>
+<author>Zhouchen Lin</author>
+<author>Shuicheng Yan</author>
+<title>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting.</title>
+<pages>739-745</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11883</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LuLLY16</url>
+</inproceedings></dblp>

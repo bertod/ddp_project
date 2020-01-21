@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShperbergCCKRS19" mdate="2019-09-25">
+<author>Shahaf S. Shperberg</author>
+<author>Andrew Coles</author>
+<author>Bence Cserna</author>
+<author>Erez Karpas</author>
+<author>Wheeler Ruml</author>
+<author>Solomon Eyal Shimony</author>
+<title>Allocating Planning Effort When Actions Expire.</title>
+<pages>2371-2378</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012371</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShperbergCCKRS19</url>
+</inproceedings></dblp>

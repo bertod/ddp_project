@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HorakBP17" mdate="2017-03-06">
+<author>Karel Hor&#225;k</author>
+<author>Branislav Bosansk&#253;</author>
+<author>Michal Pechoucek</author>
+<title>Heuristic Search Value Iteration for One-Sided Partially Observable Stochastic Games.</title>
+<pages>558-564</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14739</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HorakBP17</url>
+</inproceedings>
+</dblp>

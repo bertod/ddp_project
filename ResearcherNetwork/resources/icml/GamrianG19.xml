@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GamrianG19" mdate="2019-06-11">
+<author>Shani Gamrian</author>
+<author>Yoav Goldberg</author>
+<title>Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation.</title>
+<pages>2063-2072</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gamrian19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GamrianG19</url>
+</inproceedings></dblp>

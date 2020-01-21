@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangGMO19" mdate="2019-09-05">
+<author>Han Zhang 0010</author>
+<author>Ian J. Goodfellow</author>
+<author>Dimitris N. Metaxas</author>
+<author>Augustus Odena</author>
+<title>Self-Attention Generative Adversarial Networks.</title>
+<pages>7354-7363</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangGMO19</url>
+</inproceedings></dblp>

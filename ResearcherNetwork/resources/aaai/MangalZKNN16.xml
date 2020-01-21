@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MangalZKNN16" mdate="2016-04-21">
+<author>Ravi Mangal</author>
+<author>Xin Zhang</author>
+<author>Aditya Kamath</author>
+<author>Aditya V. Nori</author>
+<author>Mayur Naik</author>
+<title>Scaling Relational Inference Using Proofs and Refutations.</title>
+<pages>3278-3286</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12466</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MangalZKNN16</url>
+</inproceedings>
+</dblp>

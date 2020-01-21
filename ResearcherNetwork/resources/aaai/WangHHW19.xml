@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangHHW19" mdate="2019-09-25">
+<author>Chuan Wang</author>
+<author>Haibin Huang</author>
+<author>Xiaoguang Han</author>
+<author>Jue Wang</author>
+<title>Video Inpainting by Jointly Learning Temporal Structure and Spatial Details.</title>
+<pages>5232-5239</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015232</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangHHW19</url>
+</inproceedings></dblp>

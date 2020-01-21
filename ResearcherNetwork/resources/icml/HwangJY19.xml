@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HwangJY19" mdate="2019-06-11">
+<author>Uiwon Hwang</author>
+<author>Dahuin Jung</author>
+<author>Sungroh Yoon</author>
+<title>HexaGAN: Generative Adversarial Nets for Real World Classification.</title>
+<pages>2921-2930</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hwang19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HwangJY19</url>
+</inproceedings></dblp>

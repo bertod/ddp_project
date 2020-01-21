@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BreroLS19" mdate="2019-09-25">
+<author>Gianluca Brero</author>
+<author>S&#233;bastien Lahaie</author>
+<author>Sven Seuken</author>
+<title>Fast Iterative Combinatorial Auctions via Bayesian Learning.</title>
+<pages>1820-1828</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011820</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BreroLS19</url>
+</inproceedings></dblp>

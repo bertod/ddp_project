@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangHCZH16" mdate="2016-04-21">
+<author>Yizhe Zhang</author>
+<author>Ricardo Henao</author>
+<author>Lawrence Carin</author>
+<author>Jianling Zhong</author>
+<author>Alexander J. Hartemink</author>
+<title>Learning a Hybrid Architecture for Sequence Regression and Annotation.</title>
+<pages>1415-1421</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11869</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhangHCZH16</url>
+</inproceedings>
+</dblp>

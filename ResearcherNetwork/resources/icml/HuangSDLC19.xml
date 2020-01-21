@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HuangSDLC19" mdate="2019-06-11">
+<author>Chin-Wei Huang</author>
+<author>Kris Sankaran</author>
+<author>Eeshan Dhekane</author>
+<author>Alexandre Lacoste</author>
+<author>Aaron C. Courville</author>
+<title>Hierarchical Importance Weighted Autoencoders.</title>
+<pages>2869-2878</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/huang19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HuangSDLC19</url>
+</inproceedings></dblp>

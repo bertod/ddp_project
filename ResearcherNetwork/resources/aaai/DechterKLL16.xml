@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DechterKLL16" mdate="2016-04-21">
+<author>Rina Dechter</author>
+<author>Kalev Kask</author>
+<author>William Lam</author>
+<author>Javier Larrosa</author>
+<title>Look-Ahead with Mini-Bucket Heuristics for MPE.</title>
+<pages>694-701</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12094</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#DechterKLL16</url>
+</inproceedings>
+</dblp>

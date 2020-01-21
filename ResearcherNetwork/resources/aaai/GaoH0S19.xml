@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoH0S19" mdate="2019-09-25">
+<author>Tianyu Gao</author>
+<author>Xu Han</author>
+<author>Zhiyuan Liu 0001</author>
+<author>Maosong Sun</author>
+<title>Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification.</title>
+<pages>6407-6414</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016407</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GaoH0S19</url>
+</inproceedings></dblp>

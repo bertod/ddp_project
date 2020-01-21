@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Ghili0K19" mdate="2019-10-19">
+<author>Soheil Ghili</author>
+<author orcid="0000-0001-8427-054X">Ehsan Kazemi 0001</author>
+<author>Amin Karbasi</author>
+<title>Eliminating Latent Discrimination: Train Then Mask.</title>
+<pages>3672-3680</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013672</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Ghili0K19</url>
+</inproceedings></dblp>

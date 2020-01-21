@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LingLJ16" mdate="2016-04-21">
+<author>Chun Kai Ling</author>
+<author>Kian Hsiang Low</author>
+<author>Patrick Jaillet</author>
+<title>Gaussian Process Planning with Lipschitz Continuous Reward Functions: Towards Unifying Bayesian Optimization, Active Learning, and Beyond.</title>
+<pages>1860-1866</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11881</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LingLJ16</url>
+</inproceedings>
+</dblp>

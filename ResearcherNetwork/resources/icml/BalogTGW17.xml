@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BalogTGW17" mdate="2019-04-03">
+<author>Matej Balog</author>
+<author>Nilesh Tripuraneni</author>
+<author>Zoubin Ghahramani</author>
+<author>Adrian Weller</author>
+<title>Lost Relatives of the Gumbel Trick.</title>
+<pages>371-379</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/balog17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BalogTGW17</url>
+</inproceedings>
+</dblp>

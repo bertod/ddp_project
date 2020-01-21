@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TonioloGGG18" mdate="2018-10-22">
+<author>Stefano Toniolo</author>
+<author>J&#233;r&#244;me Guzzi</author>
+<author>Luca Maria Gambardella</author>
+<author>Alessandro Giusti</author>
+<title>Learning an Image-based Obstacle Detector With Automatic Acquisition of Training Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16374</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TonioloGGG18</url>
+<pages>8220-8221</pages>
+</inproceedings></dblp>

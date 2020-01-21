@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WeiszGS19" mdate="2019-06-11">
+<author>Gell&#233;rt Weisz</author>
+<author>Andr&#225;s Gy&#246;rgy</author>
+<author>Csaba Szepesv&#225;ri</author>
+<title>CapsAndRuns: An Improved Method for Approximately Optimal Algorithm Configuration.</title>
+<pages>6707-6715</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/weisz19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WeiszGS19</url>
+</inproceedings></dblp>

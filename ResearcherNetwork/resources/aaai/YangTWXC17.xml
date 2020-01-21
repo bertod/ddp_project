@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangTWXC17" mdate="2018-02-23">
+<author>Min Yang 0007</author>
+<author>Wenting Tu</author>
+<author>Jingxuan Wang</author>
+<author>Fei Xu</author>
+<author>Xiaojun Chen 0006</author>
+<title>Attention Based LSTM for Target Dependent Sentiment Classification.</title>
+<pages>5013-5014</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14151</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YangTWXC17</url>
+</inproceedings></dblp>

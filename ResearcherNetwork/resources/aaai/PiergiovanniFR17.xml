@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PiergiovanniFR17" mdate="2017-03-06">
+<author>A. J. Piergiovanni</author>
+<author>Chenyou Fan</author>
+<author>Michael S. Ryoo</author>
+<title>Title Learning Latent Subevents in Activity Videos Using Temporal Attention Filters.</title>
+<pages>4247-4254</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15005</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PiergiovanniFR17</url>
+</inproceedings>
+</dblp>

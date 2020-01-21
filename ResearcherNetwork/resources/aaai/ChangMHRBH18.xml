@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChangMHRBH18" mdate="2018-10-22">
+<author>Bo Chang</author>
+<author>Lili Meng</author>
+<author>Eldad Haber</author>
+<author>Lars Ruthotto</author>
+<author>David Begert</author>
+<author>Elliot Holtham</author>
+<title>Reversible Architectures for Arbitrarily Deep Residual Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16517</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChangMHRBH18</url>
+<pages>2811-2818</pages>
+</inproceedings></dblp>

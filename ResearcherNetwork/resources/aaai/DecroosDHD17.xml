@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DecroosDHD17" mdate="2017-03-06">
+<author>Tom Decroos</author>
+<author>Vladimir Dzyuba</author>
+<author>Jan Van Haaren</author>
+<author>Jesse Davis</author>
+<title>Predicting Soccer Highlights from Spatio-Temporal Match Event Streams.</title>
+<pages>1302-1308</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14743</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DecroosDHD17</url>
+</inproceedings>
+</dblp>

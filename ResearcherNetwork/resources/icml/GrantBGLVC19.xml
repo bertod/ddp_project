@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GrantBGLVC19" mdate="2019-06-11">
+<author>James A. Grant</author>
+<author>Alexis Boukouvalas</author>
+<author>Ryan-Rhys Griffiths</author>
+<author>David S. Leslie</author>
+<author>Sattar Vakili</author>
+<author>Enrique Munoz de Cote</author>
+<title>Adaptive Sensor Placement for Continuous Spaces.</title>
+<pages>2385-2393</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/grant19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GrantBGLVC19</url>
+</inproceedings></dblp>

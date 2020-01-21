@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0004LLH19" mdate="2019-09-25">
+<author>Jing Xiao 0004</author>
+<author>Liang Liao</author>
+<author>Qiegen Liu</author>
+<author>Ruimin Hu</author>
+<title>CISI-net: Explicit Latent Content Inference and Imitated Style Rendering for Image Inpainting.</title>
+<pages>354-362</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301354</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0004LLH19</url>
+</inproceedings></dblp>

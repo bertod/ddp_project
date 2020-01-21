@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaeharaKSTK17" mdate="2017-03-06">
+<author>Takanori Maehara</author>
+<author>Yasushi Kawase</author>
+<author>Hanna Sumita</author>
+<author>Katsuya Tono</author>
+<author>Ken-ichi Kawarabayashi</author>
+<title>Optimal Pricing for Submodular Valuations with Bounded Curvature.</title>
+<pages>622-628</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14562</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MaeharaKSTK17</url>
+</inproceedings>
+</dblp>

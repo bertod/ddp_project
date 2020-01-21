@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TongZYC19" mdate="2019-09-25">
+<author>Ziye Tong</author>
+<author>Junwei Zhou</author>
+<author>Yanchao Yang</author>
+<author>Lee-Ming Cheng</author>
+<title>Robust Facial Landmark Localization Based on Two-Stage Cascaded Pose Regression.</title>
+<pages>10055-10056</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110055</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#TongZYC19</url>
+</inproceedings></dblp>

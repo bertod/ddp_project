@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangZCZWZ18" mdate="2018-10-22">
+<author>YaoSheng Yang</author>
+<author>Meishan Zhang</author>
+<author>Wenliang Chen</author>
+<author>Wei Zhang</author>
+<author>Haofen Wang</author>
+<author>Min Zhang 0005</author>
+<title>Adversarial Learning for Chinese NER From Crowd Annotations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16427</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#YangZCZWZ18</url>
+<pages>1627-1635</pages>
+</inproceedings></dblp>

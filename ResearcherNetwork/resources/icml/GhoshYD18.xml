@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GhoshYD18" mdate="2019-04-03">
+<author>Soumya Ghosh</author>
+<author>Jiayu Yao</author>
+<author>Finale Doshi-Velez</author>
+<title>Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors.</title>
+<pages>1739-1748</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ghosh18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#GhoshYD18</url>
+</inproceedings>
+</dblp>

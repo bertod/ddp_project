@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhengPR18" mdate="2018-10-22">
+<author>Kaiyu Zheng</author>
+<author>Andrzej Pronobis</author>
+<author>Rajesh P. N. Rao</author>
+<title>Learning Graph-Structured Sum-Product Networks for Probabilistic Semantic Maps.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16923</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhengPR18</url>
+<pages>4547-4555</pages>
+</inproceedings></dblp>

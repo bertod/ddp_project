@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BaiQL19" mdate="2019-09-25">
+<author>Wenjun Bai</author>
+<author>Changqin Quan</author>
+<author>Zhi-Wei Luo</author>
+<title>Learning Flexible Latent Representations via Encapsulated Variational Encoders.</title>
+<pages>9913-9914</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019913</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BaiQL19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FinnRKL19" mdate="2019-07-23">
+<author>Chelsea Finn</author>
+<author>Aravind Rajeswaran</author>
+<author>Sham M. Kakade</author>
+<author>Sergey Levine</author>
+<title>Online Meta-Learning.</title>
+<pages>1920-1930</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/finn19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FinnRKL19</url>
+</inproceedings></dblp>

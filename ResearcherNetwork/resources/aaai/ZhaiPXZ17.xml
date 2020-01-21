@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaiPXZ17" mdate="2017-03-06">
+<author>Feifei Zhai</author>
+<author>Saloni Potdar</author>
+<author>Bing Xiang</author>
+<author>Bowen Zhou</author>
+<title>Neural Models for Sequence Chunking.</title>
+<pages>3365-3371</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14776</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhaiPXZ17</url>
+</inproceedings>
+</dblp>

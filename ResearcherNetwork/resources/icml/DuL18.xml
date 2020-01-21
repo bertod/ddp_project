@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuL18" mdate="2019-04-03">
+<author>Simon S. Du</author>
+<author>Jason D. Lee</author>
+<title>On the Power of Over-parametrization in Neural Networks with Quadratic Activation.</title>
+<pages>1328-1337</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/du18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#DuL18</url>
+</inproceedings>
+</dblp>

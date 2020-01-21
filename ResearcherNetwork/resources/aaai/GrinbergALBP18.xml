@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GrinbergALBP18" mdate="2018-10-22">
+<author>Yuri Grinberg</author>
+<author>Hossein Aboutalebi</author>
+<author>Melanie Lyman-Abramovitch</author>
+<author>Borja Balle</author>
+<author>Doina Precup</author>
+<title>Learning Predictive State Representations From Non-Uniform Sampling.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16931</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GrinbergALBP18</url>
+<pages>3061-3068</pages>
+</inproceedings></dblp>

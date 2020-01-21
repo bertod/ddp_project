@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LuYFZ019" mdate="2019-06-11">
+<author>Sidi Lu</author>
+<author>Lantao Yu</author>
+<author>Siyuan Feng</author>
+<author>Yaoming Zhu</author>
+<author>Weinan Zhang 0001</author>
+<title>CoT: Cooperative Training for Generative Modeling of Discrete Data.</title>
+<pages>4164-4172</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lu19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LuYFZ019</url>
+</inproceedings></dblp>

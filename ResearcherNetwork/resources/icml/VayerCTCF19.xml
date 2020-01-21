@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VayerCTCF19" mdate="2019-06-11">
+<author>Titouan Vayer</author>
+<author>Nicolas Courty</author>
+<author>Romain Tavenard</author>
+<author>Laetitia Chapel</author>
+<author>R&#233;mi Flamary</author>
+<title>Optimal Transport for structured data with application on graphs.</title>
+<pages>6275-6284</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/titouan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VayerCTCF19</url>
+</inproceedings></dblp>

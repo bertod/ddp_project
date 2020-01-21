@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TayPTH18" mdate="2018-10-22">
+<author>Yi Tay</author>
+<author>Minh C. Phan</author>
+<author>Luu Anh Tuan</author>
+<author>Siu Cheung Hui</author>
+<title>SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16431</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#TayPTH18</url>
+<pages>5948-5955</pages>
+</inproceedings></dblp>

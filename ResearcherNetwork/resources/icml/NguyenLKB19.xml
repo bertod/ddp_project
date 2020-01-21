@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NguyenLKB19" mdate="2019-06-11">
+<author>Duc Tam Nguyen</author>
+<author>Zhongyu Lou</author>
+<author>Michael Klar</author>
+<author>Thomas Brox</author>
+<title>Anomaly Detection With Multiple-Hypotheses Predictions.</title>
+<pages>4800-4809</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nguyen19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NguyenLKB19</url>
+</inproceedings></dblp>

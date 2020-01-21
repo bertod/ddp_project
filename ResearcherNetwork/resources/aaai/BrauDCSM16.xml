@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrauDCSM16" mdate="2016-04-21">
+<author>Ernesto Brau</author>
+<author>Colin Reimer Dawson</author>
+<author>Alfredo Carrillo</author>
+<author>David Sidi</author>
+<author>Clayton T. Morrison</author>
+<title>Bayesian Inference of Recursive Sequences of Group Activities from Tracks.</title>
+<pages>1129-1137</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12513</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#BrauDCSM16</url>
+</inproceedings>
+</dblp>

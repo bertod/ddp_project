@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChierichettiG0L17" mdate="2019-04-03">
+<author>Flavio Chierichetti</author>
+<author>Sreenivas Gollapudi</author>
+<author>Ravi Kumar 0001</author>
+<author>Silvio Lattanzi</author>
+<author>Rina Panigrahy</author>
+<author>David P. Woodruff</author>
+<title>Algorithms for $\ell_p$ Low-Rank Approximation.</title>
+<pages>806-814</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chierichetti17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChierichettiG0L17</url>
+</inproceedings>
+</dblp>

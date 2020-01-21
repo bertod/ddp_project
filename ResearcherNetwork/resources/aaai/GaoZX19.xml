@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoZX19" mdate="2019-09-25">
+<author>Junyu Gao</author>
+<author>Tianzhu Zhang</author>
+<author>Changsheng Xu</author>
+<title>I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs.</title>
+<pages>8303-8311</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018303</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GaoZX19</url>
+</inproceedings></dblp>

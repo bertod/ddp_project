@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/QiYC17" mdate="2017-03-06">
+<author>Xiaoyu Qi</author>
+<author>Deshun Yang</author>
+<author>Xiaoou Chen</author>
+<title>Audio Feature Learning with Triplet-Based Embedding Network.</title>
+<pages>4979-4980</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14235</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#QiYC17</url>
+</inproceedings>
+</dblp>

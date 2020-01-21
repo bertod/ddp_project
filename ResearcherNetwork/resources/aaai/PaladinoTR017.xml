@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PaladinoTR017" mdate="2017-03-06">
+<author>Stefano Paladino</author>
+<author>Francesco Trov&#242;</author>
+<author>Marcello Restelli</author>
+<author>Nicola Gatti 0001</author>
+<title>Unimodal Thompson Sampling for Graph-Structured Arms.</title>
+<pages>2457-2463</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14325</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PaladinoTR017</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaoRLCWF19" mdate="2019-09-25">
+<author>Yun Xiao</author>
+<author>Pengzhen Ren</author>
+<author>Zhihui Li</author>
+<author>Xiaojiang Chen</author>
+<author>Xin Wang</author>
+<author>Dingyi Fang</author>
+<title>RS3CIS: Robust Single-Step Spectral Clustering with Intrinsic Subspace.</title>
+<pages>5482-5489</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015482</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XiaoRLCWF19</url>
+</inproceedings></dblp>

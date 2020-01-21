@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WuRL19" mdate="2019-06-11">
+<author>Yan Wu</author>
+<author>Mihaela Rosca</author>
+<author>Timothy P. Lillicrap</author>
+<title>Deep Compressed Sensing.</title>
+<pages>6850-6860</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuRL19</url>
+</inproceedings></dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CohenB19" mdate="2019-06-11">
+<author>Eldan Cohen</author>
+<author>J. Christopher Beck</author>
+<title>Empirical Analysis of Beam Search Performance Degradation in Neural Sequence Models.</title>
+<pages>1290-1299</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cohen19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CohenB19</url>
+</inproceedings></dblp>

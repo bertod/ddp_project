@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/StergiouSWT17" mdate="2017-03-06">
+<author>Stergios Stergiou</author>
+<author>Zygimantas Straznickas</author>
+<author>Rolina Wu</author>
+<author>Kostas Tsioutsiouliklis</author>
+<title>Distributed Negative Sampling for Word Embeddings.</title>
+<pages>2569-2575</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14956</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#StergiouSWT17</url>
+</inproceedings>
+</dblp>

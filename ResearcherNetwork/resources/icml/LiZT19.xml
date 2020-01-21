@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiZT19" mdate="2019-06-11">
+<author>Qiuwei Li</author>
+<author>Zhihui Zhu</author>
+<author>Gongguo Tang</author>
+<title>Alternating Minimizations Converge to Second-Order Optimal Solutions.</title>
+<pages>3935-3943</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19n.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiZT19</url>
+</inproceedings></dblp>

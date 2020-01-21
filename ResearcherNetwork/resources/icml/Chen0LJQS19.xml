@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Chen0LJQS19" mdate="2019-06-11">
+<author>Xinshi Chen</author>
+<author>Shuang Li 0002</author>
+<author>Hui Li</author>
+<author>Shaohua Jiang</author>
+<author>Yuan Qi</author>
+<author>Le Song</author>
+<title>Generative Adversarial User Model for Reinforcement Learning Based Recommendation System.</title>
+<pages>1052-1061</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Chen0LJQS19</url>
+</inproceedings></dblp>

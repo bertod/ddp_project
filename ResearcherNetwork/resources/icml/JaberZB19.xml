@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JaberZB19" mdate="2019-06-11">
+<author>Amin Jaber</author>
+<author>Jiji Zhang</author>
+<author>Elias Bareinboim</author>
+<title>Causal Identification under Markov Equivalence: Completeness Results.</title>
+<pages>2981-2989</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jaber19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JaberZB19</url>
+</inproceedings></dblp>

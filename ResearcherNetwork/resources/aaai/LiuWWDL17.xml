@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuWWDL17" mdate="2019-10-14">
+<author>Xiao Liu 0022</author>
+<author>Jiang Wang</author>
+<author>Shilei Wen</author>
+<author>Errui Ding</author>
+<author>Yuanqing Lin</author>
+<title>Localizing by Describing: Attribute-Guided Attention Localization for Fine-Grained Recognition.</title>
+<pages>4190-4196</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14323</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuWWDL17</url>
+</inproceedings>
+</dblp>

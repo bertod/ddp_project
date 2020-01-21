@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YuTRKSAZL19" mdate="2019-09-18">
+<author>Chen Yu</author>
+<author>Hanlin Tang</author>
+<author>C&#233;dric Renggli</author>
+<author>Simon Kassing</author>
+<author>Ankit Singla</author>
+<author>Dan Alistarh</author>
+<author>Ce Zhang</author>
+<author>Ji Liu 0002</author>
+<title>Distributed Learning over Unreliable Networks.</title>
+<pages>7202-7212</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yu19f.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YuTRKSAZL19</url>
+</inproceedings>
+</dblp>

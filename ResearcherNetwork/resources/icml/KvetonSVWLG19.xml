@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KvetonSVWLG19" mdate="2019-06-11">
+<author>Branislav Kveton</author>
+<author>Csaba Szepesv&#225;ri</author>
+<author>Sharan Vaswani</author>
+<author>Zheng Wen</author>
+<author>Tor Lattimore</author>
+<author>Mohammad Ghavamzadeh</author>
+<title>Garbage In, Reward Out: Bootstrapping Exploration in Multi-Armed Bandits.</title>
+<pages>3601-3610</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kveton19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KvetonSVWLG19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangKT17" mdate="2019-04-03">
+<author>Yinchong Yang</author>
+<author>Denis Krompass</author>
+<author>Volker Tresp</author>
+<title>Tensor-Train Recurrent Neural Networks for Video Classification.</title>
+<pages>3891-3900</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/yang17e.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YangKT17</url>
+</inproceedings>
+</dblp>

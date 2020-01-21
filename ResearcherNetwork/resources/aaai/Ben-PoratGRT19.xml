@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Ben-PoratGRT19" mdate="2019-09-25">
+<author>Omer Ben-Porat</author>
+<author>Gregory Goren</author>
+<author>Itay Rosenberg</author>
+<author>Moshe Tennenholtz</author>
+<title>From Recommendation Systems to Facility Location Games.</title>
+<pages>1772-1779</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011772</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Ben-PoratGRT19</url>
+</inproceedings></dblp>

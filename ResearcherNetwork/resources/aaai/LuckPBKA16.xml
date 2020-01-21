@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuckPBKA16" mdate="2016-04-21">
+<author>Kevin Sebastian Luck</author>
+<author>Joni Pajarinen</author>
+<author>Erik Berger</author>
+<author>Ville Kyrki</author>
+<author>Heni Ben Amor</author>
+<title>Sparse Latent Space Policy Search.</title>
+<pages>1911-1918</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12275</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LuckPBKA16</url>
+</inproceedings>
+</dblp>

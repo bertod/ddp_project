@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiWCDFR19" mdate="2019-09-25">
+<author>Shihui Li</author>
+<author>Yi Wu</author>
+<author>Xinyue Cui</author>
+<author>Honghua Dong</author>
+<author>Fei Fang</author>
+<author>Stuart J. Russell</author>
+<title>Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradient.</title>
+<pages>4213-4220</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014213</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiWCDFR19</url>
+</inproceedings></dblp>

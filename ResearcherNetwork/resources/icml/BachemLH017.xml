@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BachemLH017" mdate="2019-04-03">
+<author>Olivier Bachem</author>
+<author>Mario Lucic</author>
+<author>S. Hamed Hassani</author>
+<author>Andreas Krause 0001</author>
+<title>Uniform Deviation Bounds for k-Means Clustering.</title>
+<pages>283-291</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/bachem17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BachemLH017</url>
+</inproceedings>
+</dblp>

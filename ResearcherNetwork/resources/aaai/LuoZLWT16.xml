@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuoZLWT16" mdate="2019-12-10">
+<author>Ping Luo 0002</author>
+<author>Zhenyao Zhu</author>
+<author>Ziwei Liu 0002</author>
+<author>Xiaogang Wang 0001</author>
+<author>Xiaoou Tang</author>
+<title>Face Model Compression by Distilling Knowledge from Neurons.</title>
+<pages>3560-3566</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LuoZLWT16</url>
+</inproceedings></dblp>

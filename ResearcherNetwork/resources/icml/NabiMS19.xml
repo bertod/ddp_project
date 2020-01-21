@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NabiMS19" mdate="2019-06-11">
+<author>Razieh Nabi</author>
+<author>Daniel Malinsky</author>
+<author>Ilya Shpitser</author>
+<title>Learning Optimal Fair Policies.</title>
+<pages>4674-4682</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nabi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NabiMS19</url>
+</inproceedings></dblp>

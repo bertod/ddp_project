@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Chatterjee0PRZ17" mdate="2017-03-06">
+<author>Krishnendu Chatterjee</author>
+<author>Petr Novotn&#253; 0001</author>
+<author>Guillermo A. P&#233;rez</author>
+<author>Jean-Fran&#231;ois Raskin</author>
+<author>Dorde Zikelic</author>
+<title>Optimizing Expectation with Guarantees in POMDPs.</title>
+<pages>3725-3732</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14354</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#Chatterjee0PRZ17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaLTZS17" mdate="2017-03-06">
+<author>Chunpeng Ma</author>
+<author>Lemao Liu</author>
+<author>Akihiro Tamura</author>
+<author>Tiejun Zhao</author>
+<author>Eiichiro Sumita</author>
+<title>Deterministic Attention for Sequence-to-Sequence Constituent Parsing.</title>
+<pages>3237-3243</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14317</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MaLTZS17</url>
+</inproceedings>
+</dblp>

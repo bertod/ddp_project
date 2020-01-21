@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenWP19" mdate="2019-09-25">
+<author>Shangyu Chen</author>
+<author>Wenya Wang</author>
+<author>Sinno Jialin Pan</author>
+<title>Deep Neural Network Quantization via Layer-Wise Optimization Using Limited Training Data.</title>
+<pages>3329-3336</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013329</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenWP19</url>
+</inproceedings></dblp>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MacGlashanHLPWR17" mdate="2019-04-03">
+<author>James MacGlashan</author>
+<author>Mark K. Ho</author>
+<author>Robert Tyler Loftin</author>
+<author>Bei Peng</author>
+<author>Guan Wang</author>
+<author>David L. Roberts</author>
+<author>Matthew E. Taylor</author>
+<author>Michael L. Littman</author>
+<title>Interactive Learning from Policy-Dependent Human Feedback.</title>
+<pages>2285-2294</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/macglashan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MacGlashanHLPWR17</url>
+</inproceedings>
+</dblp>

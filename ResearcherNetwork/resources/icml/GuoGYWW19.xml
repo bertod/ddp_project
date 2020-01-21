@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GuoGYWW19" mdate="2019-06-11">
+<author>Chuan Guo</author>
+<author>Jacob R. Gardner</author>
+<author>Yurong You</author>
+<author>Andrew Gordon Wilson</author>
+<author>Kilian Q. Weinberger</author>
+<title>Simple Black-box Adversarial Attacks.</title>
+<pages>2484-2493</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/guo19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GuoGYWW19</url>
+</inproceedings></dblp>

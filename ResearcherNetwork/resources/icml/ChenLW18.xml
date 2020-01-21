@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenLW18" mdate="2019-04-03">
+<author>Yichen Chen</author>
+<author>Lihong Li 0001</author>
+<author>Mengdi Wang</author>
+<title>Scalable Bilinear Learning Using State and Action Features.</title>
+<pages>833-842</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chen18e.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ChenLW18</url>
+</inproceedings>
+</dblp>

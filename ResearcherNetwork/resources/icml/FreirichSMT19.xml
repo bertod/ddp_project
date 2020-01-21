@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FreirichSMT19" mdate="2019-06-11">
+<author>Dror Freirich</author>
+<author>Tzahi Shimkin</author>
+<author>Ron Meir</author>
+<author>Aviv Tamar</author>
+<title>Distributional Multivariate Policy Evaluation and Exploration with the Bellman GAN.</title>
+<pages>1983-1992</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/freirich19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FreirichSMT19</url>
+</inproceedings></dblp>

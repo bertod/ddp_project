@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AlijaniFGST17" mdate="2017-03-06">
+<author>Reza Alijani</author>
+<author>Majid Farhadi</author>
+<author>Mohammad Ghodsi</author>
+<author>Masoud Seddighin</author>
+<author>Ahmad S. Tajik</author>
+<title>Envy-Free Mechanisms with Minimum Number of Cuts.</title>
+<pages>312-318</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14608</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#AlijaniFGST17</url>
+</inproceedings>
+</dblp>

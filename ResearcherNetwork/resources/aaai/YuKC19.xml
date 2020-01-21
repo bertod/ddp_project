@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YuKC19" mdate="2019-09-25">
+<author>Joonsang Yu</author>
+<author>Sungbum Kang</author>
+<author>Kiyoung Choi</author>
+<title>Network Recasting: A Universal Method for Network Architecture Transformation.</title>
+<pages>5701-5708</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015701</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YuKC19</url>
+</inproceedings></dblp>

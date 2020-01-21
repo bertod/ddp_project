@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SohnKK16" mdate="2019-05-28">
+<author>SungRyull Sohn</author>
+<author>Hyunwoo Kim</author>
+<author>Junmo Kim</author>
+<title>Supervised Hashing via Uncorrelated Component Analysis.</title>
+<pages>236-242</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11748</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SohnKK16</url>
+</inproceedings>
+</dblp>

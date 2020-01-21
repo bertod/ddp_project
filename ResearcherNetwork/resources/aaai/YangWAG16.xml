@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangWAG16" mdate="2016-04-21">
+<author>Yingxiang Yang</author>
+<author>Peter Widhalm</author>
+<author>Shounak Athavale</author>
+<author>Marta C. Gonz&#225;lez</author>
+<title>Mobility Sequence Extraction and Labeling Using Sparse Cell Phone Data.</title>
+<pages>4276-4277</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11862</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YangWAG16</url>
+</inproceedings>
+</dblp>

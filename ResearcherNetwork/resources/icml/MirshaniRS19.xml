@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MirshaniRS19" mdate="2019-10-08">
+<author>Ardalan Mirshani</author>
+<author>Matthew Reimherr</author>
+<author>Aleksandra B. Slavkovic</author>
+<title>Formal Privacy for Functional Data with Gaussian Perturbations.</title>
+<pages>4595-4604</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mirshani19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MirshaniRS19</url>
+</inproceedings></dblp>

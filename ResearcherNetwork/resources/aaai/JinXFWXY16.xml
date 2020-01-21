@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinXFWXY16" mdate="2016-04-21">
+<author>Xiaojie Jin</author>
+<author>Chunyan Xu</author>
+<author>Jiashi Feng</author>
+<author>Yunchao Wei</author>
+<author>Junjun Xiong</author>
+<author>Shuicheng Yan</author>
+<title>Deep Learning with S-Shaped Rectified Linear Activation Units.</title>
+<pages>1737-1743</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12358</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JinXFWXY16</url>
+</inproceedings>
+</dblp>

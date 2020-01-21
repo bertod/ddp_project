@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenBBGGMO19" mdate="2019-06-11">
+<author>Wilson Ye Chen</author>
+<author>Alessandro Barp</author>
+<author>Fran&#231;ois-Xavier Briol</author>
+<author>Jackson Gorham</author>
+<author>Mark A. Girolami</author>
+<author>Lester W. Mackey</author>
+<author>Chris J. Oates</author>
+<title>Stein Point Markov Chain Monte Carlo.</title>
+<pages>1011-1021</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chen19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChenBBGGMO19</url>
+</inproceedings></dblp>

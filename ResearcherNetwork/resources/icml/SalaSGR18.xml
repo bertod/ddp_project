@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SalaSGR18" mdate="2019-04-03">
+<author>Frederic Sala</author>
+<author>Christopher De Sa</author>
+<author>Albert Gu</author>
+<author>Christopher R&#233;</author>
+<title>Representation Tradeoffs for Hyperbolic Embeddings.</title>
+<pages>4457-4466</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/sala18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SalaSGR18</url>
+</inproceedings>
+</dblp>

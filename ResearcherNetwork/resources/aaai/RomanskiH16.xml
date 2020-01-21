@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RomanskiH16" mdate="2016-04-21">
+<author>Julia Romanski</author>
+<author>Pascal Van Hentenryck</author>
+<title>Benders Decomposition for Large-Scale Prescriptive Evacuations.</title>
+<pages>3894-3900</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11949</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#RomanskiH16</url>
+</inproceedings>
+</dblp>

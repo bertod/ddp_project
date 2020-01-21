@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GhoshSBGP19" mdate="2019-10-19">
+<author orcid="0000-0003-3654-4141">Susobhan Ghosh</author>
+<author>Easwar Subramanian</author>
+<author>Sanjay P. Bhat</author>
+<author>Sujit Gujar</author>
+<author>Praveen Paruchuri</author>
+<title>VidyutVanika: A Reinforcement Learning Based Broker Agent for a Power Trading Competition.</title>
+<pages>914-921</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301914</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GhoshSBGP19</url>
+</inproceedings></dblp>

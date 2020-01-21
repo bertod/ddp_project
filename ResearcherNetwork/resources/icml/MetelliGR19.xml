@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MetelliGR19" mdate="2019-06-11">
+<author>Alberto Maria Metelli</author>
+<author>Emanuele Ghelfi</author>
+<author>Marcello Restelli</author>
+<title>Reinforcement Learning in Configurable Continuous Environments.</title>
+<pages>4546-4555</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/metelli19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MetelliGR19</url>
+</inproceedings></dblp>

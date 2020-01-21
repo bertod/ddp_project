@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MaoSC17" mdate="2019-04-03">
+<author>Xueyu Mao 0001</author>
+<author>Purnamrita Sarkar</author>
+<author>Deepayan Chakrabarti</author>
+<title>On Mixed Memberships and Symmetric Nonnegative Matrix Factorizations.</title>
+<pages>2324-2333</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/mao17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MaoSC17</url>
+</inproceedings>
+</dblp>

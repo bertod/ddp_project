@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MaMXLD17" mdate="2019-04-03">
+<author>Fan Ma</author>
+<author>Deyu Meng</author>
+<author>Qi Xie</author>
+<author>Zina Li</author>
+<author>Xuanyi Dong</author>
+<title>Self-Paced Co-training.</title>
+<pages>2275-2284</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/ma17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MaMXLD17</url>
+</inproceedings>
+</dblp>

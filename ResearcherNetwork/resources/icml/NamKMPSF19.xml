@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NamKMPSF19" mdate="2019-06-11">
+<author>Jinseok Nam</author>
+<author>Young-Bum Kim</author>
+<author>Eneldo Loza Menc&#237;a</author>
+<author>Sunghyun Park</author>
+<author>Ruhi Sarikaya</author>
+<author>Johannes F&#252;rnkranz</author>
+<title>Learning Context-dependent Label Permutations for Multi-label Classification.</title>
+<pages>4733-4742</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nam19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NamKMPSF19</url>
+</inproceedings></dblp>

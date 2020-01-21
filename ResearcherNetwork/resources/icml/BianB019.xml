@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BianB019" mdate="2019-12-13">
+<author>Yatao An Bian</author>
+<author>Joachim M. Buhmann</author>
+<author>Andreas Krause 0001</author>
+<title>Optimal Continuous DR-Submodular Maximization and Applications to Provable Mean Field Inference.</title>
+<pages>644-653</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/bian19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BianB019</url>
+</inproceedings>
+</dblp>

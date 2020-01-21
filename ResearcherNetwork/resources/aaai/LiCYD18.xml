@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiCYD18" mdate="2018-10-22">
+<author>Zeming Li</author>
+<author>Yilun Chen</author>
+<author>Gang Yu</author>
+<author>Yangdong Deng</author>
+<title>R-FCN++: Towards Accurate Region-Based Fully Convolutional Networks for Object Detection.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16463</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiCYD18</url>
+<pages>7073-7080</pages>
+</inproceedings></dblp>

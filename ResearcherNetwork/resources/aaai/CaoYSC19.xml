@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoYSC19" mdate="2019-09-25">
+<author>Nan Cao</author>
+<author>Xin Yan</author>
+<author>Yang Shi</author>
+<author>Chaoran Chen</author>
+<title>AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches.</title>
+<pages>2564-2571</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012564</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CaoYSC19</url>
+</inproceedings></dblp>

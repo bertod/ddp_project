@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GolinskiWR19" mdate="2019-06-11">
+<author>Adam Golinski</author>
+<author>Frank Wood</author>
+<author>Tom Rainforth</author>
+<title>Amortized Monte Carlo Integration.</title>
+<pages>2309-2318</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/golinski19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GolinskiWR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CrawfordP19" mdate="2019-09-25">
+<author>Eric Crawford</author>
+<author>Joelle Pineau</author>
+<title>Spatially Invariant Unsupervised Object Detection with Convolutional Neural Networks.</title>
+<pages>3412-3420</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013412</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CrawfordP19</url>
+</inproceedings></dblp>

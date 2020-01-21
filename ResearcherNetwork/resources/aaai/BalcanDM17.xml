@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BalcanDM17" mdate="2017-03-06">
+<author>Maria-Florina Balcan</author>
+<author>Travis Dick</author>
+<author>Yishay Mansour</author>
+<title>Label Efficient Learning by Exploiting Multi-Class Output Codes.</title>
+<pages>1735-1741</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14814</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BalcanDM17</url>
+</inproceedings>
+</dblp>

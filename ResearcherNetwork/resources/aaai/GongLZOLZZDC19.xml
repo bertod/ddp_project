@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GongLZOLZZDC19" mdate="2019-09-25">
+<author>Yu Gong</author>
+<author>Xusheng Luo</author>
+<author>Yu Zhu</author>
+<author>Wenwu Ou</author>
+<author>Zhao Li</author>
+<author>Muhua Zhu</author>
+<author>Kenny Q. Zhu</author>
+<author>Lu Duan</author>
+<author>Xi Chen</author>
+<title>Deep Cascade Multi-Task Learning for Slot Filling in Online Shopping Assistant.</title>
+<pages>6465-6472</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016465</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GongLZOLZZDC19</url>
+</inproceedings></dblp>

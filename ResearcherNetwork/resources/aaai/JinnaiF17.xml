@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinnaiF17" mdate="2017-03-06">
+<author>Yuu Jinnai</author>
+<author>Alex S. Fukunaga</author>
+<title>Learning to Prune Dominated Action Sequences in Online Black-Box Planning.</title>
+<pages>839-845</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14915</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#JinnaiF17</url>
+</inproceedings>
+</dblp>

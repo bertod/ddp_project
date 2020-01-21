@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZablockiPSG18" mdate="2018-10-22">
+<author>Eloi Zablocki</author>
+<author>Benjamin Piwowarski</author>
+<author>Laure Soulier</author>
+<author>Patrick Gallinari</author>
+<title>Learning Multi-Modal Word Representation Grounded in Visual Context.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16113</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZablockiPSG18</url>
+<pages>5626-5633</pages>
+</inproceedings></dblp>

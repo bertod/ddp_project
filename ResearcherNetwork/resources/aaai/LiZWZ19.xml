@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiZWZ19" mdate="2019-09-25">
+<author>Zhongnian Li</author>
+<author>Tao Zhang</author>
+<author>Peng Wan</author>
+<author>Daoqiang Zhang</author>
+<title>SEGAN: Structure-Enhanced Generative Adversarial Network for Compressed Sensing MRI Reconstruction.</title>
+<pages>1012-1019</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011012</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiZWZ19</url>
+</inproceedings></dblp>

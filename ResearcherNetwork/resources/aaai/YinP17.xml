@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YinP17" mdate="2017-03-06">
+<author>Haiyan Yin</author>
+<author>Sinno Jialin Pan</author>
+<title>Knowledge Transfer for Deep Reinforcement Learning with Hierarchical Experience Replay.</title>
+<pages>1640-1646</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14478</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#YinP17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZQ17" mdate="2018-05-03">
+<author>Junbo Zhang</author>
+<author>Yu Zheng 0004</author>
+<author>Dekang Qi</author>
+<title>Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.</title>
+<pages>1655-1661</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14501</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhangZQ17</url>
+</inproceedings></dblp>

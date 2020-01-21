@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LehnertLS18" mdate="2018-10-22">
+<author>Lucas Lehnert</author>
+<author>Romain Laroche</author>
+<author>Harm van Seijen</author>
+<title>On Value Function Representation of Long Horizon Problems.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16388</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LehnertLS18</url>
+<pages>3457-3465</pages>
+</inproceedings></dblp>

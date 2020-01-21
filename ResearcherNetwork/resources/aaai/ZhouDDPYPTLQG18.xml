@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhouDDPYPTLQG18" mdate="2019-06-06">
+<author>Joey Tianyi Zhou</author>
+<author>Kai Di</author>
+<author>Jiawei Du</author>
+<author>Xi Peng 0001</author>
+<author>Hao Yang</author>
+<author>Sinno Jialin Pan</author>
+<author>Ivor W. Tsang</author>
+<author>Yong Liu</author>
+<author>Zheng Qin</author>
+<author>Rick Siow Mong Goh</author>
+<title>SC2Net: Sparse LSTMs for Sparse Coding.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16822</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ZhouDDPYPTLQG18</url>
+<pages>4588-4595</pages>
+</inproceedings>
+</dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XiaTTQYL18" mdate="2019-04-03">
+<author>Yingce Xia</author>
+<author>Xu Tan</author>
+<author>Fei Tian</author>
+<author>Tao Qin</author>
+<author>Nenghai Yu</author>
+<author>Tie-Yan Liu</author>
+<title>Model-Level Dual Learning.</title>
+<pages>5379-5388</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/xia18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#XiaTTQYL18</url>
+</inproceedings>
+</dblp>

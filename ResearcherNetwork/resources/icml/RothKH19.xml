@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RothKH19" mdate="2019-06-11">
+<author>Kevin Roth</author>
+<author>Yannic Kilcher</author>
+<author>Thomas Hofmann</author>
+<title>The Odds are Odd: A Statistical Test for Detecting Adversarial Examples.</title>
+<pages>5498-5507</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/roth19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RothKH19</url>
+</inproceedings></dblp>

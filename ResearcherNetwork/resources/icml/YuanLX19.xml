@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YuanLX19" mdate="2019-06-11">
+<author>Jinyang Yuan</author>
+<author>Bin Li</author>
+<author>Xiangyang Xue</author>
+<title>Generative Modeling of Infinite Occluded Objects for Compositional Scene Representation.</title>
+<pages>7222-7231</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yuan19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YuanLX19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HoangHLK19" mdate="2019-06-11">
+<author>Quang Minh Hoang</author>
+<author>Trong Nghia Hoang</author>
+<author>Bryan Kian Hsiang Low</author>
+<author>Carl Kingsford</author>
+<title>Collective Model Fusion for Multiple Black-Box Experts.</title>
+<pages>2742-2750</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/hoang19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HoangHLK19</url>
+</inproceedings></dblp>

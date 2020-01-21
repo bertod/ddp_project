@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhouJSLS19" mdate="2019-09-25">
+<author>Yiyi Zhou</author>
+<author>Rongrong Ji</author>
+<author>Jinsong Su</author>
+<author>Xiangming Li</author>
+<author>Xiaoshuai Sun</author>
+<title>Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning.</title>
+<pages>9316-9323</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019316</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhouJSLS19</url>
+</inproceedings></dblp>

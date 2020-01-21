@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZMXP19" mdate="2019-09-25">
+<author>Yingying Zhang</author>
+<author>Qiaoyong Zhong</author>
+<author>Liang Ma</author>
+<author>Di Xie</author>
+<author>Shiliang Pu</author>
+<title>Learning Incremental Triplet Margin for Person Re-Identification.</title>
+<pages>9243-9250</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019243</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZMXP19</url>
+</inproceedings></dblp>

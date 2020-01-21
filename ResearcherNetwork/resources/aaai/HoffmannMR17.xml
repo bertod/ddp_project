@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HoffmannMR17" mdate="2017-03-06">
+<author>Ruth Hoffmann</author>
+<author>Ciaran McCreesh</author>
+<author>Craig Reilly</author>
+<title>Between Subgraph Isomorphism and Maximum Common Subgraph.</title>
+<pages>3907-3914</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14948</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HoffmannMR17</url>
+</inproceedings>
+</dblp>

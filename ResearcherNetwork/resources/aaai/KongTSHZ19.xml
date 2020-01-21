@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KongTSHZ19" mdate="2019-09-25">
+<author>Xiang Kong</author>
+<author>Zhaopeng Tu</author>
+<author>Shuming Shi</author>
+<author>Eduard H. Hovy</author>
+<author>Tong Zhang</author>
+<title>Neural Machine Translation with Adequacy-Oriented Learning.</title>
+<pages>6618-6625</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016618</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KongTSHZ19</url>
+</inproceedings></dblp>

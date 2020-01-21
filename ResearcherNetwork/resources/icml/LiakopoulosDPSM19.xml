@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiakopoulosDPSM19" mdate="2019-06-11">
+<author>Nikolaos Liakopoulos</author>
+<author>Apostolos Destounis</author>
+<author>Georgios S. Paschos</author>
+<author>Thrasyvoulos Spyropoulos</author>
+<author>Panayotis Mertikopoulos</author>
+<title>Cautious Regret Minimization: Online Optimization with Long-Term Budget Constraints.</title>
+<pages>3944-3952</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liakopoulos19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiakopoulosDPSM19</url>
+</inproceedings></dblp>

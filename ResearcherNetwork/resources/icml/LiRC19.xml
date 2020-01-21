@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiRC19" mdate="2019-11-29">
+<author>Yuan Li 0012</author>
+<author>Benjamin I. P. Rubinstein</author>
+<author>Trevor Cohn</author>
+<title>Exploiting Worker Correlation for Label Aggregation in Crowdsourcing.</title>
+<pages>3886-3895</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19i.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiRC19</url>
+</inproceedings></dblp>

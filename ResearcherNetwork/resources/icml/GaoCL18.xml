@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GaoCL18" mdate="2019-04-03">
+<author>Yuanxiang Gao</author>
+<author>Li Chen 0019</author>
+<author>Baochun Li</author>
+<title>Spotlight: Optimizing Device Placement for Training Deep Neural Networks.</title>
+<pages>1662-1670</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/gao18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#GaoCL18</url>
+</inproceedings></dblp>

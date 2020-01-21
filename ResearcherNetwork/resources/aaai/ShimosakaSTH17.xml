@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShimosakaSTH17" mdate="2017-03-06">
+<author>Masamichi Shimosaka</author>
+<author>Junichi Sato</author>
+<author>Kazuhito Takenaka</author>
+<author>Kentarou Hitomi</author>
+<title>Fast Inverse Reinforcement Learning with Interval Consistent Graph for Driving Behavior Prediction.</title>
+<pages>1532-1538</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14918</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShimosakaSTH17</url>
+</inproceedings>
+</dblp>

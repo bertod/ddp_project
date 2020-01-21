@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RosenbergM19" mdate="2019-06-22">
+<author>Aviv Rosenberg 0002</author>
+<author>Yishay Mansour</author>
+<title>Online Convex Optimization in Adversarial Markov Decision Processes.</title>
+<pages>5478-5486</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rosenberg19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RosenbergM19</url>
+</inproceedings>
+</dblp>

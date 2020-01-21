@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LimLHW19" mdate="2019-09-25">
+<author>Zhan Wei Lim</author>
+<author>Mong-Li Lee</author>
+<author>Wynne Hsu</author>
+<author>Tien Yin Wong</author>
+<title>Building Trust in Deep Learning System towards Automated Disease Detection.</title>
+<pages>9516-9521</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019516</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LimLHW19</url>
+</inproceedings></dblp>

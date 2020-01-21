@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VladimirovaVMA19" mdate="2019-06-11">
+<author>Mariia Vladimirova</author>
+<author>Jakob Verbeek</author>
+<author>Pablo Mesejo</author>
+<author>Julyan Arbel</author>
+<title>Understanding Priors in Bayesian Neural Networks at the Unit Level.</title>
+<pages>6458-6467</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/vladimirova19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VladimirovaVMA19</url>
+</inproceedings></dblp>

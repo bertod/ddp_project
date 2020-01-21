@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GempTG17" mdate="2017-03-06">
+<author>Ian Gemp</author>
+<author>Georgios Theocharous</author>
+<author>Mohammad Ghavamzadeh</author>
+<title>Automated Data Cleansing through Meta-Learning.</title>
+<pages>4760-4761</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14236</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GempTG17</url>
+</inproceedings>
+</dblp>

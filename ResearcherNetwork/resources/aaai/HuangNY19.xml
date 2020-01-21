@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangNY19" mdate="2019-09-25">
+<author>Kun Huang</author>
+<author>Bingbing Ni</author>
+<author>Xiaokang Yang</author>
+<title>Efficient Quantization for Neural Networks with Binary Weights and Low Bitwidth Activations.</title>
+<pages>3854-3861</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013854</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangNY19</url>
+</inproceedings></dblp>

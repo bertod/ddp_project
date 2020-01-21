@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MishraKNDB17" mdate="2017-03-06">
+<author>Abhijit Mishra</author>
+<author>Diptesh Kanojia</author>
+<author>Seema Nagar</author>
+<author>Kuntal Dey</author>
+<author>Pushpak Bhattacharyya</author>
+<title>Scanpath Complexity: Modeling Reading Effort Using Gaze Information.</title>
+<pages>4429-4436</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14867</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MishraKNDB17</url>
+</inproceedings>
+</dblp>

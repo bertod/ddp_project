@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NagamineM17" mdate="2019-04-03">
+<author>Tasha Nagamine</author>
+<author>Nima Mesgarani</author>
+<title>Understanding the Representation and Computation of Multilayer Perceptrons: A Case Study in Speech Recognition.</title>
+<pages>2564-2573</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/nagamine17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#NagamineM17</url>
+</inproceedings>
+</dblp>

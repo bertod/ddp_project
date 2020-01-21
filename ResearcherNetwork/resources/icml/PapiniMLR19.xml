@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PapiniMLR19" mdate="2019-06-11">
+<author>Matteo Papini</author>
+<author>Alberto Maria Metelli</author>
+<author>Lorenzo Lupo</author>
+<author>Marcello Restelli</author>
+<title>Optimistic Policy Optimization via Multiple Importance Sampling.</title>
+<pages>4989-4999</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/papini19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PapiniMLR19</url>
+</inproceedings></dblp>

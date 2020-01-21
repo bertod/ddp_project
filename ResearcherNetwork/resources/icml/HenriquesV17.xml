@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HenriquesV17" mdate="2019-04-03">
+<author>Jo&#227;o F. Henriques</author>
+<author>Andrea Vedaldi</author>
+<title>Warped Convolutions: Efficient Invariance to Spatial Transformations.</title>
+<pages>1461-1469</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/henriques17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HenriquesV17</url>
+</inproceedings>
+</dblp>

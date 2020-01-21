@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SchmittBHR17" mdate="2017-03-06">
+<author>Felix Schmitt</author>
+<author>Hans-Joachim Bieg</author>
+<author>Michael Herman</author>
+<author>Constantin A. Rothkopf</author>
+<title>I See What You See: Inferring Sensor and Policy Models of Human Real-World Motor Behavior.</title>
+<pages>3797-3803</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14497</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SchmittBHR17</url>
+</inproceedings>
+</dblp>

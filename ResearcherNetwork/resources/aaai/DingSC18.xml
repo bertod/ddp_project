@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DingSC18" mdate="2018-10-22">
+<author>Hui Ding</author>
+<author>Kumar Sricharan</author>
+<author>Rama Chellappa</author>
+<title>ExprGAN: Facial Expression Editing With Controllable Expression Intensity.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16527</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#DingSC18</url>
+<pages>6781-6788</pages>
+</inproceedings></dblp>

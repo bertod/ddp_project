@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ErolWLR17" mdate="2017-03-06">
+<author>Yusuf Bugra Erol</author>
+<author>Yi Wu</author>
+<author>Lei Li</author>
+<author>Stuart J. Russell</author>
+<title>A Nearly-Black-Box Online Algorithm for Joint Parameter and State Estimation in Temporal Models.</title>
+<pages>1861-1869</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14486</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ErolWLR17</url>
+</inproceedings>
+</dblp>

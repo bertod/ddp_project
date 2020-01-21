@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WichersVEL18" mdate="2019-04-03">
+<author>Nevan Wichers</author>
+<author>Ruben Villegas</author>
+<author>Dumitru Erhan</author>
+<author>Honglak Lee</author>
+<title>Hierarchical Long-term Video Prediction without Supervision.</title>
+<pages>6033-6041</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/wichers18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#WichersVEL18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PanCZPDHHT19" mdate="2019-09-25">
+<author>Feiyang Pan</author>
+<author>Qingpeng Cai</author>
+<author>Anxiang Zeng</author>
+<author>Chun-Xiang Pan</author>
+<author>Qing Da</author>
+<author>Hua-Lin He</author>
+<author>Qing He</author>
+<author>Pingzhong Tang</author>
+<title>Policy Optimization with Model-Based Explorations.</title>
+<pages>4675-4682</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014675</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PanCZPDHHT19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AraiMXS16" mdate="2016-04-21">
+<author>Hiromasa Arai</author>
+<author>Crystal Maung</author>
+<author>Ke Xu</author>
+<author>Haim Schweitzer</author>
+<title>Unsupervised Feature Selection by Heuristic Search with Provable Bounds on Suboptimality.</title>
+<pages>666-672</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12541</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#AraiMXS16</url>
+</inproceedings>
+</dblp>

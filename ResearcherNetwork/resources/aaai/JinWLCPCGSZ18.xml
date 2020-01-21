@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JinWLCPCGSZ18" mdate="2018-10-22">
+<author>Xin Jin</author>
+<author>Le Wu</author>
+<author>Xiaodong Li</author>
+<author>Siyu Chen</author>
+<author>Siwei Peng</author>
+<author>Jingying Chi</author>
+<author>Shiming Ge</author>
+<author>Chenggen Song</author>
+<author>Geng Zhao</author>
+<title>Predicting Aesthetic Score Distribution Through Cumulative Jensen-Shannon Divergence.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16074</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#JinWLCPCGSZ18</url>
+<pages>77-84</pages>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ImBM16" mdate="2016-04-21">
+<author>Daniel Jiwoong Im</author>
+<author>Mohamed Ishmael Diwan Belghazi</author>
+<author>Roland Memisevic</author>
+<title>Conservativeness of Untied Auto-Encoders.</title>
+<pages>1694-1700</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12241</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ImBM16</url>
+</inproceedings>
+</dblp>

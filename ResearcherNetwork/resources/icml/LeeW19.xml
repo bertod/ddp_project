@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeeW19" mdate="2019-06-11">
+<author>Ching-Pei Lee</author>
+<author>Stephen Wright</author>
+<title>First-Order Algorithms Converge Faster than $O(1/k)$ on Convex Problems.</title>
+<pages>3754-3762</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lee19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LeeW19</url>
+</inproceedings></dblp>

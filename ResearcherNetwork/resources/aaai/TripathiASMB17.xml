@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TripathiASMB17" mdate="2017-03-06">
+<author>Samarth Tripathi</author>
+<author>Shrinivas Acharya</author>
+<author>Ranti Dev Sharma</author>
+<author>Sudhanshu Mittal</author>
+<author>Samit Bhattacharya</author>
+<title>Using Deep and Convolutional Neural Networks for Accurate Emotion Classification on DEAP Dataset.</title>
+<pages>4746-4752</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/15007</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#TripathiASMB17</url>
+</inproceedings>
+</dblp>

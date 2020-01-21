@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ArazoOAOM19" mdate="2019-06-11">
+<author>Eric Arazo</author>
+<author>Diego Ortego</author>
+<author>Paul Albert</author>
+<author>Noel E. O'Connor</author>
+<author>Kevin McGuinness</author>
+<title>Unsupervised Label Noise Modeling and Loss Correction.</title>
+<pages>312-321</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/arazo19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ArazoOAOM19</url>
+</inproceedings></dblp>

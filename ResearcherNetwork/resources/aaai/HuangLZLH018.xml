@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangLZLH018" mdate="2018-10-22">
+<author>Jingjia Huang</author>
+<author>Nannan Li</author>
+<author>Tao Zhang</author>
+<author>Ge Li</author>
+<author>Tiejun Huang</author>
+<author>Wen Gao 0001</author>
+<title>SAP: Self-Adaptive Proposal Model for Temporal Action Detection Based on Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16109</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuangLZLH018</url>
+<pages>6951-6958</pages>
+</inproceedings></dblp>

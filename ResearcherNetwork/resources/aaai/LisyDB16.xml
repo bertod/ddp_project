@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LisyDB16" mdate="2016-04-21">
+<author>Viliam Lis&#253;</author>
+<author>Trevor Davis</author>
+<author>Michael H. Bowling</author>
+<title>Counterfactual Regret Minimization in Sequential Security Games.</title>
+<pages>544-550</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12469</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#LisyDB16</url>
+</inproceedings>
+</dblp>

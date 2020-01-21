@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WuDSYHSRK19" mdate="2019-06-11">
+<author>Shanshan Wu</author>
+<author>Alex Dimakis</author>
+<author>Sujay Sanghavi</author>
+<author>Felix X. Yu</author>
+<author>Daniel Niels Holtmann-Rice</author>
+<author>Dmitry Storcheus</author>
+<author>Afshin Rostamizadeh</author>
+<author>Sanjiv Kumar</author>
+<title>Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling.</title>
+<pages>6828-6839</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WuDSYHSRK19</url>
+</inproceedings></dblp>

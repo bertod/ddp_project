@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeiJBJ17" mdate="2019-07-19">
+<author>Tao Lei 0001</author>
+<author>Wengong Jin</author>
+<author>Regina Barzilay</author>
+<author>Tommi S. Jaakkola</author>
+<title>Deriving Neural Architectures from Sequence and Graph Kernels.</title>
+<pages>2024-2033</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/lei17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LeiJBJ17</url>
+</inproceedings>
+</dblp>

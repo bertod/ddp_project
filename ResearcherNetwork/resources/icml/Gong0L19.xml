@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Gong0L19" mdate="2019-07-19">
+<author>ChengYue Gong</author>
+<author>Jian Peng 0001</author>
+<author>Qiang Liu 0001</author>
+<title>Quantile Stein Variational Gradient Descent for Batch Bayesian Optimization.</title>
+<pages>2347-2356</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gong19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Gong0L19</url>
+</inproceedings></dblp>

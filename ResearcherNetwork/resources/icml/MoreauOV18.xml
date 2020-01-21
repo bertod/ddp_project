@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MoreauOV18" mdate="2019-04-03">
+<author>Thomas Moreau</author>
+<author>Laurent Oudre</author>
+<author>Nicolas Vayatis</author>
+<title>DICOD: Distributed Convolutional Coordinate Descent for Convolutional Sparse Coding.</title>
+<pages>3623-3631</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/moreau18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#MoreauOV18</url>
+</inproceedings>
+</dblp>

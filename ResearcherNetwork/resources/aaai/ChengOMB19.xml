@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChengOMB19" mdate="2019-09-25">
+<author>Richard Cheng</author>
+<author>G&#225;bor Orosz</author>
+<author>Richard M. Murray</author>
+<author>Joel W. Burdick</author>
+<title>End-to-End Safe Reinforcement Learning through Barrier Functions for Safety-Critical Continuous Control Tasks.</title>
+<pages>3387-3395</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013387</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChengOMB19</url>
+</inproceedings></dblp>

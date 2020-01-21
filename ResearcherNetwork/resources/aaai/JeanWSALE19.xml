@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JeanWSALE19" mdate="2019-09-25">
+<author>Neal Jean</author>
+<author>Sherrie Wang</author>
+<author>Anshul Samar</author>
+<author>George Azzari</author>
+<author>David B. Lobell</author>
+<author>Stefano Ermon</author>
+<title>Tile2Vec: Unsupervised Representation Learning for Spatially Distributed Data.</title>
+<pages>3967-3974</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013967</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#JeanWSALE19</url>
+</inproceedings></dblp>

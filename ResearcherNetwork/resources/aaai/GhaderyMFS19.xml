@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GhaderyMFS19" mdate="2019-09-25">
+<author>Erfan Ghadery</author>
+<author>Sajad Movahedi</author>
+<author>Heshaam Faili</author>
+<author>Azadeh Shakery</author>
+<title>MNCN: A Multilingual Ngram-Based Convolutional Network for Aspect Category Detection in Online Reviews.</title>
+<pages>6441-6448</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016441</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GhaderyMFS19</url>
+</inproceedings></dblp>

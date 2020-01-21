@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SternCKU19" mdate="2019-06-11">
+<author>Mitchell Stern</author>
+<author>William Chan</author>
+<author>Jamie Kiros</author>
+<author>Jakob Uszkoreit</author>
+<title>Insertion Transformer: Flexible Sequence Generation via Insertion Operations.</title>
+<pages>5976-5985</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/stern19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SternCKU19</url>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoASFSJK19" mdate="2019-09-25">
+<author>Yizheng Zhao</author>
+<author>Ghadah Alghamdi</author>
+<author>Renate A. Schmidt</author>
+<author>Hao Feng</author>
+<author>Giorgos Stoilos</author>
+<author>Damir Juric</author>
+<author>Mohammad Khodadadi</author>
+<title>Tracking Logical Difference in Large-Scale Ontologies: A Forgetting-Based Approach.</title>
+<pages>3116-3124</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013116</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoASFSJK19</url>
+</inproceedings></dblp>

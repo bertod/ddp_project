@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangTQLLSL18" mdate="2018-10-22">
+<author>Jingang Wang</author>
+<author>Junfeng Tian</author>
+<author>Long Qiu</author>
+<author>Sheng Li</author>
+<author>Jun Lang</author>
+<author>Luo Si</author>
+<author>Man Lan</author>
+<title>A Multi-Task Learning Approach for Improving Product Title Compression with User Search Log Data.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16766</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#WangTQLLSL18</url>
+<pages>451-458</pages>
+</inproceedings></dblp>

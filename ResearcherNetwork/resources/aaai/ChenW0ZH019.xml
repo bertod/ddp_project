@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenW0ZH019" mdate="2019-09-25">
+<author>Chen Chen 0043</author>
+<author>Haobo Wang</author>
+<author>Weiwei Liu 0003</author>
+<author>Xingyuan Zhao</author>
+<author>Tianlei Hu</author>
+<author>Gang Chen 0001</author>
+<title>Two-Stage Label Embedding via Neural Factorization Machine for Multi-Label Classification.</title>
+<pages>3304-3311</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013304</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChenW0ZH019</url>
+</inproceedings></dblp>

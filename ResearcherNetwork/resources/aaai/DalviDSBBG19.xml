@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DalviDSBBG19" mdate="2019-09-25">
+<author>Fahim Dalvi</author>
+<author>Nadir Durrani</author>
+<author>Hassan Sajjad</author>
+<author>Yonatan Belinkov</author>
+<author>Anthony Bau</author>
+<author>James R. Glass</author>
+<title>What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models.</title>
+<pages>6309-6317</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016309</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DalviDSBBG19</url>
+</inproceedings></dblp>

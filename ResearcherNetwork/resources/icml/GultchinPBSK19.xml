@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GultchinPBSK19" mdate="2019-06-11">
+<author>Limor Gultchin</author>
+<author>Genevieve Patterson</author>
+<author>Nancy Baym</author>
+<author>Nathaniel Swinger</author>
+<author>Adam Kalai</author>
+<title>Humor in Word Embeddings: Cockamamie Gobbledegook for Nincompoops.</title>
+<pages>2474-2483</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gultchin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GultchinPBSK19</url>
+</inproceedings></dblp>

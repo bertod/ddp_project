@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DalviNBBSDG19" mdate="2019-09-25">
+<author>Fahim Dalvi</author>
+<author>Avery Nortonsmith</author>
+<author>Anthony Bau</author>
+<author>Yonatan Belinkov</author>
+<author>Hassan Sajjad</author>
+<author>Nadir Durrani</author>
+<author>James R. Glass</author>
+<title>NeuroX: A Toolkit for Analyzing Individual Neurons in Neural Networks.</title>
+<pages>9851-9852</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019851</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#DalviNBBSDG19</url>
+</inproceedings></dblp>

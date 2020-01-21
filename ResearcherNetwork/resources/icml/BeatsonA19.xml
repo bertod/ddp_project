@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BeatsonA19" mdate="2019-06-11">
+<author>Alex Beatson</author>
+<author>Ryan P. Adams</author>
+<title>Efficient optimization of loops and limits with randomized telescoping sums.</title>
+<pages>534-543</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/beatson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BeatsonA19</url>
+</inproceedings></dblp>

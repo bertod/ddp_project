@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShumKLT19" mdate="2019-09-25">
+<author>Michael Shum</author>
+<author>Max Kleiman-Weiner</author>
+<author>Michael L. Littman</author>
+<author>Joshua B. Tenenbaum</author>
+<title>Theory of Minds: Understanding Behavior in Groups through Inverse Planning.</title>
+<pages>6163-6170</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016163</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShumKLT19</url>
+</inproceedings></dblp>

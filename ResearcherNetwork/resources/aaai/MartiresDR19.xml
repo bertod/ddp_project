@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MartiresDR19" mdate="2019-09-25">
+<author>Pedro Zuidberg Dos Martires</author>
+<author>Anton Dries</author>
+<author>Luc De Raedt</author>
+<title>Exact and Approximate Weighted Model Integration with Probability Density Functions Using Knowledge Compilation.</title>
+<pages>7825-7833</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017825</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#MartiresDR19</url>
+</inproceedings></dblp>

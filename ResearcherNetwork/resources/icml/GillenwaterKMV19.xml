@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GillenwaterKMV19" mdate="2019-06-11">
+<author>Jennifer Gillenwater</author>
+<author>Alex Kulesza</author>
+<author>Zelda Mariet</author>
+<author>Sergei Vassilvitskii</author>
+<title>A Tree-Based Method for Fast Repeated Sampling of Determinantal Point Processes.</title>
+<pages>2260-2268</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gillenwater19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GillenwaterKMV19</url>
+</inproceedings></dblp>

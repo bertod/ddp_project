@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/StefaniEUV16" mdate="2016-04-21">
+<author>Lorenzo De Stefani</author>
+<author>Alessandro Epasto</author>
+<author>Eli Upfal</author>
+<author>Fabio Vandin</author>
+<title>Reconstructing Hidden Permutations Using the Average-Precision (AP) Correlation Statistic.</title>
+<pages>1526-1532</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12046</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#StefaniEUV16</url>
+</inproceedings>
+</dblp>

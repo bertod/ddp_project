@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuDZLWHL19" mdate="2019-09-25">
+<author>Dan Liu</author>
+<author>Dawei Du</author>
+<author>Libo Zhang</author>
+<author>Tiejian Luo</author>
+<author>Yanjun Wu</author>
+<author>Feiyue Huang</author>
+<author>Siwei Lyu</author>
+<title>Scale Invariant Fully Convolutional Network: Detecting Hands Efficiently.</title>
+<pages>4344-4351</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014344</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LiuDZLWHL19</url>
+</inproceedings></dblp>

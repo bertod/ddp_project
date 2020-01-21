@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JoulaniGS16" mdate="2016-04-21">
+<author>Pooria Joulani</author>
+<author>Andr&#225;s Gy&#246;rgy</author>
+<author>Csaba Szepesv&#225;ri</author>
+<title>Delay-Tolerant Online Convex Optimization: Unified Analysis and Adaptive-Gradient Algorithms.</title>
+<pages>1744-1750</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12549</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JoulaniGS16</url>
+</inproceedings>
+</dblp>

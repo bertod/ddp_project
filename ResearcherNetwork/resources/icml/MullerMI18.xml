@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MullerMI18" mdate="2019-04-03">
+<author>Lorenz K. M&#252;ller</author>
+<author>Julien N. P. Martel</author>
+<author>Giacomo Indiveri</author>
+<title>Kernelized Synaptic Weight Matrices.</title>
+<pages>3651-3660</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/muller18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#MullerMI18</url>
+</inproceedings>
+</dblp>

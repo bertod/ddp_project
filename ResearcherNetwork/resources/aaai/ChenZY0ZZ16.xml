@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZY0ZZ16" mdate="2018-06-12">
+<author>Bei Chen</author>
+<author>Jun Zhu 0001</author>
+<author>Nan Yang 0002</author>
+<author>Tian Tian 0001</author>
+<author>Ming Zhou 0001</author>
+<author>Bo Zhang 0010</author>
+<title>Jointly Modeling Topics and Intents with Global Order Structure.</title>
+<pages>2711-2717</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12142</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenZY0ZZ16</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TangYLZL19" mdate="2020-01-07">
+<author>Hanlin Tang</author>
+<author>Chen Yu</author>
+<author>Xiangru Lian</author>
+<author>Tong Zhang</author>
+<author>Ji Liu 0002</author>
+<title>DoubleSqueeze: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression.</title>
+<pages>6155-6165</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tang19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TangYLZL19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoZLW18" mdate="2018-10-22">
+<author>Dan Guo</author>
+<author>Wengang Zhou</author>
+<author>Houqiang Li</author>
+<author>Meng Wang</author>
+<title>Hierarchical LSTM for Sign Language Translation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16177</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#GuoZLW18</url>
+<pages>6845-6852</pages>
+</inproceedings></dblp>

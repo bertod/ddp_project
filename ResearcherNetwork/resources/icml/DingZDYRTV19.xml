@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DingZDYRTV19" mdate="2019-06-11">
+<author>Tianyu Ding</author>
+<author>Zhihui Zhu</author>
+<author>Tianjiao Ding</author>
+<author>Yunchen Yang</author>
+<author>Daniel P. Robinson</author>
+<author>Manolis C. Tsakiris</author>
+<author>Ren&#233; Vidal</author>
+<title>Noisy Dual Principal Component Pursuit.</title>
+<pages>1617-1625</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ding19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DingZDYRTV19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DunckerBBS19" mdate="2019-06-11">
+<author>Lea Duncker</author>
+<author>Gergo Bohner</author>
+<author>Julien Boussard</author>
+<author>Maneesh Sahani</author>
+<title>Learning interpretable continuous-time models of latent stochastic dynamical systems.</title>
+<pages>1726-1734</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/duncker19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DunckerBBS19</url>
+</inproceedings></dblp>

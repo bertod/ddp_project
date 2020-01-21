@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GhassamiSKB18" mdate="2019-04-03">
+<author>AmirEmad Ghassami</author>
+<author>Saber Salehkaleybar</author>
+<author>Negar Kiyavash</author>
+<author>Elias Bareinboim</author>
+<title>Budgeted Experiment Design for Causal Structure Learning.</title>
+<pages>1719-1728</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ghassami18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#GhassamiSKB18</url>
+</inproceedings>
+</dblp>

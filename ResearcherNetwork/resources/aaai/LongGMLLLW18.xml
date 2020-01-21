@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LongGMLLLW18" mdate="2019-10-14">
+<author>Xiang Long</author>
+<author>Chuang Gan</author>
+<author>Gerard de Melo</author>
+<author>Xiao Liu 0022</author>
+<author>Yandong Li</author>
+<author>Fu Li</author>
+<author>Shilei Wen</author>
+<title>Multimodal Keyless Attention Fusion for Video Classification.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17054</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LongGMLLLW18</url>
+<pages>7202-7209</pages>
+</inproceedings></dblp>

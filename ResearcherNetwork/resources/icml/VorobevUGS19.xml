@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/VorobevUGS19" mdate="2019-06-11">
+<author>Aleksandr Vorobev</author>
+<author>Aleksei Ustimenko</author>
+<author>Gleb Gusev</author>
+<author>Pavel Serdyukov</author>
+<title>Learning to select for a predefined ranking.</title>
+<pages>6477-6486</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/vorobev19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#VorobevUGS19</url>
+</inproceedings></dblp>

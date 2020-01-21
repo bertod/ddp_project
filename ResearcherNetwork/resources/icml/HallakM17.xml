@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HallakM17" mdate="2019-04-03">
+<author>Assaf Hallak</author>
+<author>Shie Mannor</author>
+<title>Consistent On-Line Off-Policy Evaluation.</title>
+<pages>1372-1383</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hallak17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HallakM17</url>
+</inproceedings>
+</dblp>

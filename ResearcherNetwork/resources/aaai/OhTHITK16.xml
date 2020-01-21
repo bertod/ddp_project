@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/OhTHITK16" mdate="2016-04-21">
+<author>Jong-Hoon Oh</author>
+<author>Kentaro Torisawa</author>
+<author>Chikara Hashimoto</author>
+<author>Ryu Iida</author>
+<author>Masahiro Tanaka</author>
+<author>Julien Kloetzer</author>
+<title>A Semi-Supervised Learning Approach to Why-Question Answering.</title>
+<pages>3022-3029</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12208</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#OhTHITK16</url>
+</inproceedings>
+</dblp>

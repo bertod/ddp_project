@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OglicG17" mdate="2019-12-05">
+<author>Dino Oglic</author>
+<author>Thomas G&#228;rtner 0001</author>
+<title>Nystr&#246;m Method with Kernel K-means++ Samples as Landmarks.</title>
+<pages>2652-2660</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/oglic17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#OglicG17</url>
+</inproceedings>
+</dblp>

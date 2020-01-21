@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HanSDXWSLZ19" mdate="2019-06-11">
+<author>Lei Han</author>
+<author>Peng Sun</author>
+<author>Yali Du</author>
+<author>Jiechao Xiong</author>
+<author>Qing Wang</author>
+<author>Xinghai Sun</author>
+<author>Han Liu</author>
+<author>Tong Zhang</author>
+<title>Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI.</title>
+<pages>2576-2585</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/han19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HanSDXWSLZ19</url>
+</inproceedings></dblp>

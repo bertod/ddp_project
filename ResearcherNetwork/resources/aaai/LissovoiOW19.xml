@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LissovoiOW19" mdate="2019-09-25">
+<author>Andrei Lissovoi</author>
+<author>Pietro Simone Oliveto</author>
+<author>John Alasdair Warwicker</author>
+<title>On the Time Complexity of Algorithm Selection Hyper-Heuristics for Multimodal Optimisation.</title>
+<pages>2322-2329</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012322</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LissovoiOW19</url>
+</inproceedings></dblp>

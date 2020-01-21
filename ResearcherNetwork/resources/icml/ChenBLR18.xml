@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenBLR18" mdate="2019-09-13">
+<author>Zhao Chen 0006</author>
+<author>Vijay Badrinarayanan</author>
+<author>Chen-Yu Lee</author>
+<author>Andrew Rabinovich</author>
+<title>GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks.</title>
+<pages>793-802</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/chen18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#ChenBLR18</url>
+</inproceedings>
+</dblp>

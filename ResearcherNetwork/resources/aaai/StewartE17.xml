@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/StewartE17" mdate="2017-03-06">
+<author>Russell Stewart</author>
+<author>Stefano Ermon</author>
+<title>Label-Free Supervision of Neural Networks with Physics and Domain Knowledge.</title>
+<pages>2576-2582</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14967</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#StewartE17</url>
+</inproceedings>
+</dblp>

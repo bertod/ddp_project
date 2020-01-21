@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RezaeiG19" mdate="2019-06-11">
+<author>Alireza Rezaei</author>
+<author>Shayan Oveis Gharan</author>
+<title>A Polynomial Time MCMC Method for Sampling from Continuous Determinantal Point Processes.</title>
+<pages>5438-5447</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rezaei19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RezaeiG19</url>
+</inproceedings></dblp>

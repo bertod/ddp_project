@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GhoshLB19" mdate="2019-09-25">
+<author>Partha Ghosh</author>
+<author>Arpan Losalka</author>
+<author>Michael J. Black</author>
+<title>Resisting Adversarial Attacks Using Gaussian Mixture Variational Autoencoders.</title>
+<pages>541-548</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301541</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GhoshLB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DonahueLM17" mdate="2019-07-22">
+<author>Chris Donahue</author>
+<author>Zachary C. Lipton</author>
+<author>Julian J. McAuley</author>
+<title>Dance Dance Convolution.</title>
+<pages>1039-1048</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/donahue17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DonahueLM17</url>
+</inproceedings>
+</dblp>

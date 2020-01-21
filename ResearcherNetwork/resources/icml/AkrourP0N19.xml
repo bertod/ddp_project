@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AkrourP0N19" mdate="2019-06-11">
+<author>Riad Akrour</author>
+<author>Joni Pajarinen</author>
+<author>Jan Peters 0001</author>
+<author>Gerhard Neumann</author>
+<title>Projections for Approximate Policy Iteration Algorithms.</title>
+<pages>181-190</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/akrour19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AkrourP0N19</url>
+</inproceedings></dblp>

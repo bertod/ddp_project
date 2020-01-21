@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShenS18" mdate="2019-09-24">
+<author>Xiaoyu Shen 0001</author>
+<author>Hui Su</author>
+<title>Towards Better Variational Encoder-Decoders in Seq2Seq Tasks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16506</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ShenS18</url>
+<pages>8155-8156</pages>
+</inproceedings></dblp>

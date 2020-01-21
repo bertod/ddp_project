@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RenZ00M19" mdate="2019-12-10">
+<author>Shuo Ren</author>
+<author>Zhirui Zhang</author>
+<author>Shujie Liu 0001</author>
+<author>Ming Zhou 0001</author>
+<author>Shuai Ma 0001</author>
+<title>Unsupervised Neural Machine Translation with SMT as Posterior Regularization.</title>
+<pages>241-248</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301241</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#RenZ00M19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LucibelloSL19" mdate="2019-06-11">
+<author>Carlo Lucibello</author>
+<author>Luca Saglietti</author>
+<author>Yue M. Lu</author>
+<title>Generalized Approximate Survey Propagation for High-Dimensional Estimation.</title>
+<pages>4173-4182</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lucibello19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LucibelloSL19</url>
+</inproceedings></dblp>

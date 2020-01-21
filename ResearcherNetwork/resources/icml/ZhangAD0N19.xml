@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangAD0N19" mdate="2019-06-11">
+<author>Chicheng Zhang</author>
+<author>Alekh Agarwal</author>
+<author>Hal Daum&#233; III</author>
+<author>John Langford 0001</author>
+<author>Sahand Negahban</author>
+<title>Warm-starting Contextual Bandits: Robustly Combining Supervised and Bandit Feedback.</title>
+<pages>7335-7344</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangAD0N19</url>
+</inproceedings></dblp>

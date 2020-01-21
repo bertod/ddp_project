@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ScamanBBLM17" mdate="2019-04-03">
+<author>Kevin Scaman</author>
+<author>Francis R. Bach</author>
+<author>S&#233;bastien Bubeck</author>
+<author>Yin Tat Lee</author>
+<author>Laurent Massouli&#233;</author>
+<title>Optimal Algorithms for Smooth and Strongly Convex Distributed Optimization in Networks.</title>
+<pages>3027-3036</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/scaman17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ScamanBBLM17</url>
+</inproceedings>
+</dblp>

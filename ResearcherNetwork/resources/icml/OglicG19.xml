@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OglicG19" mdate="2019-12-05">
+<author>Dino Oglic</author>
+<author>Thomas G&#228;rtner 0001</author>
+<title>Scalable Learning in Reproducing Kernel Krein Spaces.</title>
+<pages>4912-4921</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/oglic19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OglicG19</url>
+</inproceedings></dblp>

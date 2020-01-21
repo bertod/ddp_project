@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NguyenLST17" mdate="2019-04-03">
+<author>Lam M. Nguyen</author>
+<author>Jie Liu</author>
+<author>Katya Scheinberg</author>
+<author>Martin Tak&#225;c</author>
+<title>SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient.</title>
+<pages>2613-2621</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/nguyen17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#NguyenLST17</url>
+</inproceedings>
+</dblp>

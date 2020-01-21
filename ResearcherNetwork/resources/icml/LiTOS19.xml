@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiTOS19" mdate="2019-06-11">
+<author>Zhu Li</author>
+<author>Jean-Francois Ton</author>
+<author>Dino Oglic</author>
+<author>Dino Sejdinovic</author>
+<title>Towards a Unified Analysis of Random Fourier Features.</title>
+<pages>3905-3914</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/li19k.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiTOS19</url>
+</inproceedings></dblp>

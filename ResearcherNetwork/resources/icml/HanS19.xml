@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HanS19" mdate="2019-06-11">
+<author>Seungyul Han</author>
+<author>Youngchul Sung</author>
+<title>Dimension-Wise Importance Sampling Weight Clipping for Sample-Efficient Reinforcement Learning.</title>
+<pages>2586-2595</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/han19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HanS19</url>
+</inproceedings></dblp>

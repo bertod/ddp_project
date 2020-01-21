@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimNKKK19" mdate="2019-06-11">
+<author>Youngjin Kim</author>
+<author>Wontae Nam</author>
+<author>Hyunwoo Kim</author>
+<author>Ji-Hoon Kim</author>
+<author>Gunhee Kim</author>
+<title>Curiosity-Bottleneck: Exploration By Distilling Task-Specific Novelty.</title>
+<pages>3379-3388</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kim19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KimNKKK19</url>
+</inproceedings></dblp>

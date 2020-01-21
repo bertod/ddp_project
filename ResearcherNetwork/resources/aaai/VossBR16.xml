@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/VossBR16" mdate="2016-04-21">
+<author>James R. Voss</author>
+<author>Mikhail Belkin</author>
+<author>Luis Rademacher</author>
+<title>The Hidden Convexity of Spectral Clustering.</title>
+<pages>2108-2114</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12307</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#VossBR16</url>
+</inproceedings>
+</dblp>

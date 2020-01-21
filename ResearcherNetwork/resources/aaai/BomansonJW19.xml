@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BomansonJW19" mdate="2019-09-25">
+<author>Jori Bomanson</author>
+<author>Tomi Janhunen</author>
+<author>Antonius Weinzierl</author>
+<title>Enhancing Lazy Grounding with Lazy Normalization in Answer-Set Programming.</title>
+<pages>2694-2702</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012694</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#BomansonJW19</url>
+</inproceedings></dblp>

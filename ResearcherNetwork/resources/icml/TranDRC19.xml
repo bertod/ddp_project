@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TranDRC19" mdate="2019-06-11">
+<author>Toan Tran</author>
+<author>Thanh-Toan Do</author>
+<author>Ian D. Reid 0001</author>
+<author>Gustavo Carneiro</author>
+<title>Bayesian Generative Active Deep Learning.</title>
+<pages>6295-6304</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tran19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TranDRC19</url>
+</inproceedings></dblp>

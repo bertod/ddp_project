@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimPKH17" mdate="2019-04-03">
+<author>Juyong Kim</author>
+<author>Yookoon Park</author>
+<author>Gunhee Kim</author>
+<author>Sung Ju Hwang</author>
+<title>SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization.</title>
+<pages>1866-1874</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kim17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KimPKH17</url>
+</inproceedings>
+</dblp>

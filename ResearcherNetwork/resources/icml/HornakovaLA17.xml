@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HornakovaLA17" mdate="2019-04-03">
+<author>Andrea Horn&#225;kov&#225;</author>
+<author>Jan-Hendrik Lange</author>
+<author>Bjoern Andres</author>
+<title>Analysis and Optimization of Graph Decompositions by Lifted Multicuts.</title>
+<pages>1539-1548</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/hornakova17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HornakovaLA17</url>
+</inproceedings>
+</dblp>

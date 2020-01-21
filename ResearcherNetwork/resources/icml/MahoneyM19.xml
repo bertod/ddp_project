@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MahoneyM19" mdate="2019-07-30">
+<author>Michael W. Mahoney</author>
+<author>Charles Martin</author>
+<title>Traditional and Heavy Tailed Self Regularization in Neural Network Models.</title>
+<pages>4284-4293</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mahoney19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MahoneyM19</url>
+</inproceedings></dblp>

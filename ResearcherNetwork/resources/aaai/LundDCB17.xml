@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LundDCB17" mdate="2017-03-06">
+<author>Kyle Lund</author>
+<author>Sam Dietrich</author>
+<author>Scott Chow</author>
+<author>James C. Boerkoel</author>
+<title>Robust Execution of Probabilistic Temporal Plans.</title>
+<pages>3597-3604</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14641</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LundDCB17</url>
+</inproceedings>
+</dblp>

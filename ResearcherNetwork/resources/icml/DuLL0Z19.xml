@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DuLL0Z19" mdate="2019-06-11">
+<author>Simon S. Du</author>
+<author>Jason D. Lee</author>
+<author>Haochuan Li</author>
+<author>Liwei Wang 0001</author>
+<author>Xiyu Zhai</author>
+<title>Gradient Descent Finds Global Minima of Deep Neural Networks.</title>
+<pages>1675-1685</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/du19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#DuLL0Z19</url>
+</inproceedings></dblp>

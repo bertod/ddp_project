@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SongQLC18" mdate="2018-10-22">
+<author>Youyi Song</author>
+<author>Jing Qin 0001</author>
+<author>Baiying Lei</author>
+<author>Kup-Sze Choi</author>
+<title>Automated Segmentation of Overlapping Cytoplasm in Cervical Smear Images via Contour Fragments.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16458</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SongQLC18</url>
+<pages>168-175</pages>
+</inproceedings></dblp>

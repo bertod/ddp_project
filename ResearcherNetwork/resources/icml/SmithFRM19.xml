@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SmithFRM19" mdate="2019-06-11">
+<author>Edward J. Smith</author>
+<author>Scott Fujimoto</author>
+<author>Adriana Romero</author>
+<author>David Meger</author>
+<title>GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects.</title>
+<pages>5866-5876</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/smith19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SmithFRM19</url>
+</inproceedings></dblp>

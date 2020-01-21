@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KuoLZ019" mdate="2019-06-11">
+<author>Han-Wen Kuo</author>
+<author>Yenson Lau</author>
+<author>Yuqian Zhang</author>
+<author>John Wright 0001</author>
+<title>Geometry and Symmetry in Short-and-Sparse Deconvolution.</title>
+<pages>3570-3580</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kuo19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KuoLZ019</url>
+</inproceedings></dblp>

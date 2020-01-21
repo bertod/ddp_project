@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SinglaWFF19" mdate="2019-06-17">
+<author>Sahil Singla 0002</author>
+<author>Eric Wallace</author>
+<author>Shi Feng</author>
+<author>Soheil Feizi</author>
+<title>Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation.</title>
+<pages>5848-5856</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/singla19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SinglaWFF19</url>
+</inproceedings>
+</dblp>

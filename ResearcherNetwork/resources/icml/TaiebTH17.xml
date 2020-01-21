@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TaiebTH17" mdate="2019-04-03">
+<author>Souhaib Ben Taieb</author>
+<author>James W. Taylor</author>
+<author>Rob J. Hyndman</author>
+<title>Coherent Probabilistic Forecasts for Hierarchical Time Series.</title>
+<pages>3348-3357</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/taieb17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TaiebTH17</url>
+</inproceedings>
+</dblp>

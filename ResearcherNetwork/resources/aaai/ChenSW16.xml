@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenSW16" mdate="2016-04-21">
+<author>Taolue Chen</author>
+<author>Fu Song</author>
+<author>Zhilin Wu</author>
+<title>Global Model Checking on Pushdown Multi-Agent Systems.</title>
+<pages>2459-2465</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11984</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenSW16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhengSM17" mdate="2017-03-06">
+<author>Zizhan Zheng</author>
+<author>Ness B. Shroff</author>
+<author>Prasant Mohapatra</author>
+<title>When to Reset Your Keys: Optimal Timing of Security Updates via Learning.</title>
+<pages>3679-3685</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14978</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhengSM17</url>
+</inproceedings>
+</dblp>

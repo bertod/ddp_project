@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuFY19" mdate="2019-11-25">
+<author>Yanli Liu 0003</author>
+<author>Fei Feng</author>
+<author>Wotao Yin</author>
+<title>Acceleration of SVRG and Katyusha X by Inexact Preconditioning.</title>
+<pages>4003-4012</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuFY19</url>
+</inproceedings>
+</dblp>

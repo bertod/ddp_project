@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0002KP19" mdate="2019-09-25">
+<author>Tarun Gupta 0002</author>
+<author>Akshat Kumar</author>
+<author>Praveen Paruchuri</author>
+<title>Successor Features Based Multi-Agent RL for Event-Based Decentralized MDPs.</title>
+<pages>6054-6061</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016054</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0002KP19</url>
+</inproceedings></dblp>

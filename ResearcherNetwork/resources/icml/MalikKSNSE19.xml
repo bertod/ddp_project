@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MalikKSNSE19" mdate="2019-06-11">
+<author>Ali Malik</author>
+<author>Volodymyr Kuleshov</author>
+<author>Jiaming Song</author>
+<author>Danny Nemer</author>
+<author>Harlan Seymour</author>
+<author>Stefano Ermon</author>
+<title>Calibrated Model-Based Deep Reinforcement Learning.</title>
+<pages>4314-4323</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/malik19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MalikKSNSE19</url>
+</inproceedings></dblp>

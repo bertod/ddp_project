@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangGKSFL17" mdate="2019-07-23">
+<author>Haichuan Yang</author>
+<author>Shupeng Gui</author>
+<author>Chuyang Ke</author>
+<author>Daniel Stefankovic</author>
+<author>Ryohei Fujimaki</author>
+<author>Ji Liu 0002</author>
+<title>On The Projection Operator to A Three-view Cardinality Constrained Set.</title>
+<pages>3871-3880</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/yang17c.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YangGKSFL17</url>
+</inproceedings>
+</dblp>

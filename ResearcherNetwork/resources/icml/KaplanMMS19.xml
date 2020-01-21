@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KaplanMMS19" mdate="2019-06-11">
+<author>Haim Kaplan</author>
+<author>Yishay Mansour</author>
+<author>Yossi Matias</author>
+<author>Uri Stemmer</author>
+<title>Differentially Private Learning of Geometric Concepts.</title>
+<pages>3233-3241</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kaplan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KaplanMMS19</url>
+</inproceedings></dblp>

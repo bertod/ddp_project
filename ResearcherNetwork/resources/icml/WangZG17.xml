@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangZG17" mdate="2019-04-03">
+<author>Lingxiao Wang</author>
+<author>Xiao Zhang</author>
+<author>Quanquan Gu</author>
+<title>A Unified Variance Reduction-Based Framework for Nonconvex Low-Rank Matrix Recovery.</title>
+<pages>3712-3721</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17n.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangZG17</url>
+</inproceedings>
+</dblp>

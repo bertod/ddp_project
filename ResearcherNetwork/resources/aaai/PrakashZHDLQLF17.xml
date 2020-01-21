@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PrakashZHDLQLF17" mdate="2017-04-07">
+<author>Aaditya Prakash</author>
+<author>Siyuan Zhao</author>
+<author>Sadid A. Hasan</author>
+<author>Vivek V. Datla</author>
+<author>Kathy Lee</author>
+<author>Ashequl Qadir</author>
+<author>Joey Liu</author>
+<author>Oladimeji Farri</author>
+<title>Condensed Memory Networks for Clinical Diagnostic Inferencing.</title>
+<pages>3274-3280</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14223</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PrakashZHDLQLF17</url>
+</inproceedings>
+</dblp>

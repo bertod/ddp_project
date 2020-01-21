@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangP019" mdate="2019-09-25">
+<author>Shaoqi Wang</author>
+<author>Aidi Pi</author>
+<author>Xiaobo Zhou 0002</author>
+<title>Scalable Distributed DL Training: Batching Communication and Computation.</title>
+<pages>5289-5296</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015289</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangP019</url>
+</inproceedings></dblp>

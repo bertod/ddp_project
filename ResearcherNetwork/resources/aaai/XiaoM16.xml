@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XiaoM16" mdate="2016-07-30">
+<author>Chenjun Xiao</author>
+<author>Martin M&#252;ller 0003</author>
+<title>Factorization Ranking Model for Move Prediction in the Game of Go.</title>
+<pages>1359-1365</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12455</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#XiaoM16</url>
+</inproceedings>
+</dblp>

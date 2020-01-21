@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZaheerAS17" mdate="2019-04-03">
+<author>Manzil Zaheer</author>
+<author>Amr Ahmed</author>
+<author>Alexander J. Smola</author>
+<title>Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data.</title>
+<pages>3967-3976</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zaheer17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZaheerAS17</url>
+</inproceedings>
+</dblp>

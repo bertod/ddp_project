@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PanSLWT18" mdate="2019-12-10">
+<author>Xingang Pan</author>
+<author>Jianping Shi</author>
+<author>Ping Luo 0002</author>
+<author>Xiaogang Wang 0001</author>
+<author>Xiaoou Tang</author>
+<title>Spatial as Deep: Spatial CNN for Traffic Scene Understanding.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16802</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#PanSLWT18</url>
+<pages>7276-7283</pages>
+</inproceedings></dblp>

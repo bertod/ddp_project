@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CotterGJSSWWY19" mdate="2019-06-11">
+<author>Andrew Cotter</author>
+<author>Maya R. Gupta</author>
+<author>Heinrich Jiang</author>
+<author>Nathan Srebro</author>
+<author>Karthik Sridharan</author>
+<author>Serena Wang</author>
+<author>Blake E. Woodworth</author>
+<author>Seungil You</author>
+<title>Training Well-Generalizing Classifiers for Fairness Metrics and Other Data-Dependent Constraints.</title>
+<pages>1397-1405</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cotter19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CotterGJSSWWY19</url>
+</inproceedings></dblp>

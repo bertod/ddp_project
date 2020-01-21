@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YouYL19" mdate="2019-06-11">
+<author>Jiaxuan You</author>
+<author>Rex Ying</author>
+<author>Jure Leskovec</author>
+<title>Position-aware Graph Neural Networks.</title>
+<pages>7134-7143</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/you19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YouYL19</url>
+</inproceedings></dblp>

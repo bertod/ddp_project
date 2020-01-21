@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YasunagaKZFLFR19" mdate="2019-11-26">
+<author>Michihiro Yasunaga</author>
+<author>Jungo Kasai</author>
+<author>Rui Zhang 0037</author>
+<author>Alexander R. Fabbri</author>
+<author>Irene Li</author>
+<author>Dan Friedman</author>
+<author>Dragomir R. Radev</author>
+<title>ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks.</title>
+<pages>7386-7393</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017386</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#YasunagaKZFLFR19</url>
+</inproceedings></dblp>

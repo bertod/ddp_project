@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GaoL0O19" mdate="2019-06-11">
+<author>Weihao Gao</author>
+<author>Yu-Han Liu</author>
+<author>Chong Wang 0002</author>
+<author>Sewoong Oh</author>
+<title>Rate Distortion For Model Compression: From Theory To Practice.</title>
+<pages>2102-2111</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gao19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GaoL0O19</url>
+</inproceedings></dblp>

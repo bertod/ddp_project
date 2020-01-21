@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhuHL0ZHZ17" mdate="2019-12-17">
+<author>Xiaofeng Zhu 0001</author>
+<author>Wei He 0017</author>
+<author>Yonggang Li</author>
+<author>Yang Yang 0002</author>
+<author>Shichao Zhang</author>
+<author>Rongyao Hu</author>
+<author>Yonghua Zhu</author>
+<title>One-Step Spectral Clustering via Dynamically Learning Affinity Matrix and Subspace.</title>
+<pages>2963-2969</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14221</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ZhuHL0ZHZ17</url>
+</inproceedings>
+</dblp>

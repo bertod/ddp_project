@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GanSN17" mdate="2017-03-06">
+<author>Chuang Gan</author>
+<author>Chen Sun</author>
+<author>Ram Nevatia</author>
+<title>DECK: Discovering Event Composition Knowledge from Web Images for Zero-Shot Event Detection and Recounting in Videos.</title>
+<pages>4032-4038</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14624</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GanSN17</url>
+</inproceedings>
+</dblp>

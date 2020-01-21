@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuWPHYL19" mdate="2019-11-05">
+<author>Minghao Hu</author>
+<author>Furu Wei</author>
+<author>Yuxing Peng</author>
+<author>Zhen Huang 0006</author>
+<author>Nan Yang 0002</author>
+<author>Dongsheng Li</author>
+<title>Read + Verify: Machine Reading Comprehension with Unanswerable Questions.</title>
+<pages>6529-6537</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016529</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuWPHYL19</url>
+</inproceedings></dblp>

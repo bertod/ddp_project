@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuangZH19" mdate="2019-09-25">
+<author>Wenzhen Huang</author>
+<author>Junge Zhang</author>
+<author>Kaiqi Huang</author>
+<title>Bootstrap Estimated Uncertainty of the Environment Model for Model-Based Reinforcement Learning.</title>
+<pages>3870-3877</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013870</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HuangZH19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZYL16" mdate="2016-04-21">
+<author>Yan-Ming Zhang</author>
+<author>Xu-Yao Zhang</author>
+<author>Xiao-Tong Yuan</author>
+<author>Cheng-Lin Liu</author>
+<title>Large-Scale Graph-Based Semi-Supervised Learning via Tree Laplacian Solver.</title>
+<pages>2344-2350</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11943</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZhangZYL16</url>
+</inproceedings>
+</dblp>

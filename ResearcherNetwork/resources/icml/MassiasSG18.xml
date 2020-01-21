@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MassiasSG18" mdate="2019-04-03">
+<author>Mathurin Massias</author>
+<author>Joseph Salmon</author>
+<author>Alexandre Gramfort</author>
+<title>Celer: a Fast Solver for the Lasso with Dual Extrapolation.</title>
+<pages>3321-3330</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/massias18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#MassiasSG18</url>
+</inproceedings>
+</dblp>

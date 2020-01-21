@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TavaresBMSR19" mdate="2019-06-11">
+<author>Zenna Tavares</author>
+<author>Javier Burroni</author>
+<author>Edgar Minasyan</author>
+<author>Armando Solar-Lezama</author>
+<author>Rajesh Ranganath</author>
+<title>Predicate Exchange: Inference with Declarative Knowledge.</title>
+<pages>6186-6195</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/tavares19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#TavaresBMSR19</url>
+</inproceedings></dblp>

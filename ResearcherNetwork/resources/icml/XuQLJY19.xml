@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XuQLJY19" mdate="2019-06-11">
+<author>Yi Xu</author>
+<author>Qi Qi</author>
+<author>Qihang Lin</author>
+<author>Rong Jin</author>
+<author>Tianbao Yang</author>
+<title>Stochastic Optimization for DC Functions and Non-smooth Non-convex Regularizers with Non-asymptotic Convergence.</title>
+<pages>6942-6951</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xu19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XuQLJY19</url>
+</inproceedings></dblp>

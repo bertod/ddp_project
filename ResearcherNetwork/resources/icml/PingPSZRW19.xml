@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/PingPSZRW19" mdate="2019-06-11">
+<author>Luo Ping</author>
+<author>Zhanglin Peng</author>
+<author>Wenqi Shao</author>
+<author>Ruimao Zhang</author>
+<author>Jiamin Ren</author>
+<author>Lingyun Wu</author>
+<title>Differentiable Dynamic Normalization for Learning Deep Representation.</title>
+<pages>4203-4211</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/luo19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#PingPSZRW19</url>
+</inproceedings></dblp>

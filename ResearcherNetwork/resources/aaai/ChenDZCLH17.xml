@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenDZCLH17" mdate="2017-03-06">
+<author>Minghai Chen</author>
+<author>Guiguang Ding</author>
+<author>Sicheng Zhao</author>
+<author>Hui Chen</author>
+<author>Qiang Liu</author>
+<author>Jungong Han</author>
+<title>Reference Based LSTM for Image Captioning.</title>
+<pages>3981-3987</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14249</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ChenDZCLH17</url>
+</inproceedings>
+</dblp>

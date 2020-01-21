@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LinLCLZ19" mdate="2019-09-25">
+<author>Zhijie Lin</author>
+<author>Kaiyang Lin</author>
+<author>Shiling Chen</author>
+<author>Linlin Li</author>
+<author>Zhou Zhao</author>
+<title>Location-Based End-to-End Speech Recognition with Multiple Language Models.</title>
+<pages>9975-9976</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019975</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LinLCLZ19</url>
+</inproceedings></dblp>

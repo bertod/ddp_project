@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HesselMHSODHPAS18" mdate="2018-10-22">
+<author>Matteo Hessel</author>
+<author>Joseph Modayil</author>
+<author>Hado van Hasselt</author>
+<author>Tom Schaul</author>
+<author>Georg Ostrovski</author>
+<author>Will Dabney</author>
+<author>Dan Horgan</author>
+<author>Bilal Piot</author>
+<author>Mohammad Gheshlaghi Azar</author>
+<author>David Silver</author>
+<title>Rainbow: Combining Improvements in Deep Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17204</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HesselMHSODHPAS18</url>
+<pages>3215-3222</pages>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoAHE19" mdate="2019-09-25">
+<author>Tingran Gao</author>
+<author>Shahab Asoodeh</author>
+<author>Yi Huang</author>
+<author>James Evans</author>
+<title>Wasserstein Soft Label Propagation on Hypergraphs: Algorithm and Generalization Error Bounds.</title>
+<pages>3630-3637</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013630</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GaoAHE19</url>
+</inproceedings></dblp>

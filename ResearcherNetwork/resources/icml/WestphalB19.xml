@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WestphalB19" mdate="2019-06-11">
+<author>Max Westphal</author>
+<author>Werner Brannath</author>
+<title>Improving Model Selection by Employing the Test Data.</title>
+<pages>6747-6756</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/westphal19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WestphalB19</url>
+</inproceedings></dblp>

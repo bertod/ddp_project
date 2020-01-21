@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PinedaWZ17" mdate="2017-03-06">
+<author>Luis Enrique Pineda</author>
+<author>Kyle Hollins Wray</author>
+<author>Shlomo Zilberstein</author>
+<title>Fast SSP Solvers Using Short-Sighted Labeling.</title>
+<pages>3629-3635</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14991</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#PinedaWZ17</url>
+</inproceedings>
+</dblp>

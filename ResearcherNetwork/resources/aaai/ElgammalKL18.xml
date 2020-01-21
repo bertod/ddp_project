@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ElgammalKL18" mdate="2018-10-22">
+<author>Ahmed Elgammal</author>
+<author>Yan Kang</author>
+<author>Milko Den Leeuw</author>
+<title>Picasso, Matisse, or a Fake? Automated Analysis of Drawings at the Stroke Level for Attribution and Authentication.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17356</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ElgammalKL18</url>
+<pages>42-50</pages>
+</inproceedings></dblp>

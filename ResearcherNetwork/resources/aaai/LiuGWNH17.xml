@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiuGWNH17" mdate="2019-06-24">
+<author>Yun Liu</author>
+<author>Yiming Guo</author>
+<author>Hua Wang 0007</author>
+<author>Feiping Nie</author>
+<author>Heng Huang</author>
+<title>Semi-Supervised Classifications via Elastic and Robust Embedding.</title>
+<pages>2294-2300</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15033</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LiuGWNH17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LondonVWY18" mdate="2018-10-22">
+<author>Palma London</author>
+<author>Shai Vardi</author>
+<author>Adam Wierman</author>
+<author>Hanling Yi</author>
+<title>A Parallelizable Acceleration Framework for Packing Linear Programs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17118</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LondonVWY18</url>
+<pages>3706-3713</pages>
+</inproceedings></dblp>

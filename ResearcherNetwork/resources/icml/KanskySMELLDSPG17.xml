@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KanskySMELLDSPG17" mdate="2019-04-03">
+<author>Ken Kansky</author>
+<author>Tom Silver</author>
+<author>David A. M&#233;ly</author>
+<author>Mohamed Eldawy</author>
+<author>Miguel L&#225;zaro-Gredilla</author>
+<author>Xinghua Lou</author>
+<author>Nimrod Dorfman</author>
+<author>Szymon Sidor</author>
+<author>D. Scott Phoenix</author>
+<author>Dileep George</author>
+<title>Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics.</title>
+<pages>1809-1818</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/kansky17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#KanskySMELLDSPG17</url>
+</inproceedings>
+</dblp>

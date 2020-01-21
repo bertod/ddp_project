@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BouchacourtTN18" mdate="2018-10-22">
+<author>Diane Bouchacourt</author>
+<author>Ryota Tomioka</author>
+<author>Sebastian Nowozin</author>
+<title>Multi-Level Variational Autoencoder: Learning Disentangled Representations From Grouped Observations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16521</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BouchacourtTN18</url>
+<pages>2095-2102</pages>
+</inproceedings></dblp>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KalchbrennerESN18" mdate="2019-04-03">
+<author>Nal Kalchbrenner</author>
+<author>Erich Elsen</author>
+<author>Karen Simonyan</author>
+<author>Seb Noury</author>
+<author>Norman Casagrande</author>
+<author>Edward Lockhart</author>
+<author>Florian Stimberg</author>
+<author>A&#228;ron van den Oord</author>
+<author>Sander Dieleman</author>
+<author>Koray Kavukcuoglu</author>
+<title>Efficient Neural Audio Synthesis.</title>
+<pages>2415-2424</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/kalchbrenner18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#KalchbrennerESN18</url>
+</inproceedings>
+</dblp>

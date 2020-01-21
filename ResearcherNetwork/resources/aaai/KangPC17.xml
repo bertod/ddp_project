@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KangPC17" mdate="2017-03-06">
+<author>Zhao Kang</author>
+<author>Chong Peng</author>
+<author>Qiang Cheng</author>
+<title>Twin Learning for Similarity and Clustering: A Unified Kernel Approach.</title>
+<pages>2080-2086</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14569</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KangPC17</url>
+</inproceedings>
+</dblp>

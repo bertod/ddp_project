@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MuzellecNPN17" mdate="2017-03-06">
+<author>Boris Muzellec</author>
+<author>Richard Nock</author>
+<author>Giorgio Patrini</author>
+<author>Frank Nielsen</author>
+<title>Tsallis Regularized Optimal Transport and Ecological Inference.</title>
+<pages>2387-2393</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14584</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MuzellecNPN17</url>
+</inproceedings>
+</dblp>

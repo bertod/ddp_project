@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0005HMZ17" mdate="2019-09-03">
+<author>Han Xiao 0005</author>
+<author>Minlie Huang</author>
+<author>Lian Meng</author>
+<author>Xiaoyan Zhu 0001</author>
+<title>SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions.</title>
+<pages>3104-3110</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14306</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#0005HMZ17</url>
+</inproceedings>
+</dblp>

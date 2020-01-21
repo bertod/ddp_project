@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RuizTDB18" mdate="2019-04-03">
+<author>Francisco J. R. Ruiz</author>
+<author>Michalis K. Titsias</author>
+<author>Adji B. Dieng</author>
+<author>David M. Blei</author>
+<title>Augment and Reduce: Stochastic Inference for Large Categorical Distributions.</title>
+<pages>4400-4409</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/ruiz18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RuizTDB18</url>
+</inproceedings>
+</dblp>

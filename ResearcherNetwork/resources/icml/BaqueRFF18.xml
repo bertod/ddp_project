@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BaqueRFF18" mdate="2019-04-03">
+<author>Pierre Baqu&#233;</author>
+<author>Edoardo Remelli</author>
+<author>Fran&#231;ois Fleuret</author>
+<author>Pascal Fua</author>
+<title>Geodesic Convolutional Shape Optimization.</title>
+<pages>481-490</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/baque18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#BaqueRFF18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZolnaGC19" mdate="2019-09-25">
+<author>Konrad Zolna</author>
+<author>Krzysztof J. Geras</author>
+<author>Kyunghyun Cho</author>
+<title>Classifier-Agnostic Saliency Map Extraction.</title>
+<pages>10087-10088</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.330110087</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZolnaGC19</url>
+</inproceedings></dblp>

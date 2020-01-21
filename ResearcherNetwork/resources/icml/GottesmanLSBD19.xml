@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GottesmanLSBD19" mdate="2019-12-14">
+<author>Omer Gottesman</author>
+<author>Yao Liu 0009</author>
+<author>Scott Sussex</author>
+<author>Emma Brunskill</author>
+<author>Finale Doshi-Velez</author>
+<title>Combining parametric and nonparametric models for off-policy evaluation.</title>
+<pages>2366-2375</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gottesman19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GottesmanLSBD19</url>
+</inproceedings>
+</dblp>

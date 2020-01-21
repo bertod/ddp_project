@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimJSR16" mdate="2019-11-15">
+<author>Yoon Kim</author>
+<author>Yacine Jernite</author>
+<author>David A. Sontag</author>
+<author>Alexander M. Rush</author>
+<title>Character-Aware Neural Language Models.</title>
+<pages>2741-2749</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12489</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KimJSR16</url>
+</inproceedings>
+</dblp>

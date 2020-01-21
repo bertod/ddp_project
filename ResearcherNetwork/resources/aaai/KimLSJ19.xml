@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimLSJ19" mdate="2019-09-25">
+<author>Yanghoon Kim</author>
+<author>Hwanhee Lee</author>
+<author>Joongbo Shin</author>
+<author>Kyomin Jung</author>
+<title>Improving Neural Question Generation Using Answer Separation.</title>
+<pages>6602-6609</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016602</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KimLSJ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/VallatiMSCM16" mdate="2016-04-21">
+<author>Mauro Vallati</author>
+<author>Daniele Magazzeni</author>
+<author>Bart De Schutter</author>
+<author>Luk&#225;s Chrpa</author>
+<author>Thomas Leo McCluskey</author>
+<title>Efficient Macroscopic Urban Traffic Models for Reducing Congestion: A PDDL+ Planning Approach.</title>
+<pages>3188-3194</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11985</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#VallatiMSCM16</url>
+</inproceedings>
+</dblp>

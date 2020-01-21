@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiSSG19" mdate="2019-06-11">
+<author>Wenliang Li</author>
+<author>Dougal J. Sutherland</author>
+<author>Heiko Strathmann</author>
+<author>Arthur Gretton</author>
+<title>Learning deep kernels for exponential family densities.</title>
+<pages>6737-6746</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wenliang19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiSSG19</url>
+</inproceedings></dblp>

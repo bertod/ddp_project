@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShiL0TH19" mdate="2019-12-27">
+<author>Shu-Ting Shi</author>
+<author>Ming Li 0005</author>
+<author orcid="0000-0002-4367-7201">David Lo 0001</author>
+<author>Ferdian Thung</author>
+<author>Xuan Huo</author>
+<title>Automatic Code Review by Learning the Revision of Source Code.</title>
+<pages>4910-4917</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014910</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ShiL0TH19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AnconaOG19" mdate="2019-06-11">
+<author>Marco Ancona</author>
+<author>Cengiz &#214;ztireli</author>
+<author>Markus H. Gross</author>
+<title>Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Value Approximation.</title>
+<pages>272-281</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ancona19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#AnconaOG19</url>
+</inproceedings></dblp>

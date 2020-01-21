@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BallingerHSSWTM18" mdate="2018-10-22">
+<author>Brandon Ballinger</author>
+<author>Johnson Hsieh</author>
+<author>Avesh Singh</author>
+<author>Nimit Sohoni</author>
+<author>Jack Wang 0001</author>
+<author>Geoffrey H. Tison</author>
+<author>Gregory M. Marcus</author>
+<author>Jose M. Sanchez</author>
+<author>Carol Maguire</author>
+<author>Jeffrey E. Olgin</author>
+<author>Mark J. Pletcher</author>
+<title>DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk Prediction.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16967</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BallingerHSSWTM18</url>
+<pages>2079-2086</pages>
+</inproceedings></dblp>

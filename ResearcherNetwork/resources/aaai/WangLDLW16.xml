@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangLDLW16" mdate="2016-04-21">
+<author>Guangrun Wang</author>
+<author>Liang Lin</author>
+<author>Shengyong Ding</author>
+<author>Ya Li</author>
+<author>Qing Wang</author>
+<title>DARI: Distance Metric and Representation Integration for Person Verification.</title>
+<pages>3611-3617</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12220</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangLDLW16</url>
+</inproceedings>
+</dblp>

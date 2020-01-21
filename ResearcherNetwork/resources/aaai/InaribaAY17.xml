@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/InaribaAY17" mdate="2017-03-06">
+<author>Wataru Inariba</author>
+<author>Takuya Akiba</author>
+<author>Yuichi Yoshida</author>
+<title>Random-Radius Ball Method for Estimating Closeness Centrality.</title>
+<pages>125-131</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14863</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#InaribaAY17</url>
+</inproceedings>
+</dblp>

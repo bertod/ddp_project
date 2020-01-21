@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuLZH0LD19" mdate="2019-09-25">
+<author>Jiaxin Gu</author>
+<author>Ce Li</author>
+<author>Baochang Zhang</author>
+<author>Jungong Han</author>
+<author>Xianbin Cao 0001</author>
+<author>Jianzhuang Liu</author>
+<author>David S. Doermann</author>
+<title>Projection Convolutional Neural Networks for 1-bit CNNs via Discrete Back Propagation.</title>
+<pages>8344-8351</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018344</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuLZH0LD19</url>
+</inproceedings></dblp>

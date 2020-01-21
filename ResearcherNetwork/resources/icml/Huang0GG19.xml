@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Huang0GG19" mdate="2019-06-11">
+<author>Biwei Huang</author>
+<author>Kun Zhang 0001</author>
+<author>Mingming Gong</author>
+<author>Clark Glymour</author>
+<title>Causal Discovery and Forecasting in Nonstationary Environments with State-Space Models.</title>
+<pages>2901-2910</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/huang19g.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Huang0GG19</url>
+</inproceedings></dblp>

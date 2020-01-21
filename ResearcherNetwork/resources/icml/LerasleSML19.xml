@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LerasleSML19" mdate="2019-06-11">
+<author>Matthieu Lerasle</author>
+<author>Zolt&#225;n Szab&#243;</author>
+<author>Timoth&#233;e Mathieu</author>
+<author>Guillaume Lecu&#233;</author>
+<title>MONK Outlier-Robust Mean Embedding Estimation by Median-of-Means.</title>
+<pages>3782-3793</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/lerasle19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LerasleSML19</url>
+</inproceedings></dblp>

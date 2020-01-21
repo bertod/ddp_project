@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChiquetRM19" mdate="2019-06-11">
+<author>Julien Chiquet</author>
+<author>St&#233;phane Robin</author>
+<author>Mahendra Mariadassou</author>
+<title>Variational Inference for sparse network reconstruction from count data.</title>
+<pages>1162-1171</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chiquet19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChiquetRM19</url>
+</inproceedings></dblp>

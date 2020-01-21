@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Pike-Burke0SG18" mdate="2019-04-03">
+<author>Ciara Pike-Burke</author>
+<author>Shipra Agrawal 0001</author>
+<author>Csaba Szepesv&#225;ri</author>
+<author>Steffen Gr&#252;new&#228;lder</author>
+<title>Bandits with Delayed, Aggregated Anonymous Feedback.</title>
+<pages>4102-4110</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/pike-burke18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#Pike-Burke0SG18</url>
+</inproceedings>
+</dblp>

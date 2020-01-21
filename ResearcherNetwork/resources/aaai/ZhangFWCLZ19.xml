@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangFWCLZ19" mdate="2019-09-25">
+<author>Yao Zhang</author>
+<author>Wen-Ping Fan</author>
+<author>Xuan Wu</author>
+<author>Hua Chen</author>
+<author>Bin-Yang Li</author>
+<author>Min-Ling Zhang</author>
+<title>CAFE: Adaptive VDI Workload Prediction with Multi-Grained Features.</title>
+<pages>5821-5828</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015821</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangFWCLZ19</url>
+</inproceedings></dblp>

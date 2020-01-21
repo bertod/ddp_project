@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CornishVBDD19" mdate="2019-06-11">
+<author>Robert Cornish</author>
+<author>Paul Vanetti</author>
+<author>Alexandre Bouchard-C&#244;t&#233;</author>
+<author>George Deligiannidis</author>
+<author>Arnaud Doucet</author>
+<title>Scalable Metropolis-Hastings for Exact Bayesian Inference with Large Datasets.</title>
+<pages>1351-1360</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cornish19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CornishVBDD19</url>
+</inproceedings></dblp>

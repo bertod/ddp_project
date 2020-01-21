@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangUC19" mdate="2019-12-14">
+<author>Hao Wang 0063</author>
+<author>Berk Ustun</author>
+<author>Fl&#225;vio P. Calmon</author>
+<title>Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions.</title>
+<pages>6618-6627</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19l.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangUC19</url>
+</inproceedings>
+</dblp>

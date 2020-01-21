@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangZKBWS19" mdate="2019-06-11">
+<author>Guandao Yang</author>
+<author>Tianyi Zhang</author>
+<author>Polina Kirichenko</author>
+<author>Junwen Bai</author>
+<author>Andrew Gordon Wilson</author>
+<author>Christopher De Sa</author>
+<title>SWALP : Stochastic Weight Averaging in Low Precision Training.</title>
+<pages>7015-7024</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yang19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YangZKBWS19</url>
+</inproceedings></dblp>

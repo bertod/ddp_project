@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YinYZ19" mdate="2019-06-11">
+<author>Mingzhang Yin</author>
+<author>Yuguang Yue</author>
+<author>Mingyuan Zhou</author>
+<title>ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables.</title>
+<pages>7095-7104</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yin19c.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YinYZ19</url>
+</inproceedings></dblp>

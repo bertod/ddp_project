@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BehpourLZ19" mdate="2019-06-11">
+<author>Sima Behpour</author>
+<author>Anqi Liu</author>
+<author>Brian D. Ziebart</author>
+<title>Active Learning for Probabilistic Structured Prediction of Cuts and Matchings.</title>
+<pages>563-572</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/behpour19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BehpourLZ19</url>
+</inproceedings></dblp>

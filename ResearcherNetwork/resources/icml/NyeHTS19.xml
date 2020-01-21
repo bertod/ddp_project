@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NyeHTS19" mdate="2019-06-11">
+<author>Maxwell I. Nye</author>
+<author>Luke B. Hewitt</author>
+<author>Joshua B. Tenenbaum</author>
+<author>Armando Solar-Lezama</author>
+<title>Learning to Infer Program Sketches.</title>
+<pages>4861-4870</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/nye19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NyeHTS19</url>
+</inproceedings></dblp>

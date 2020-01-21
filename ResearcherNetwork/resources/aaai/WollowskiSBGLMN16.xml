@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WollowskiSBGLMN16" mdate="2016-10-25">
+<author>Michael Wollowski</author>
+<author>Robert Selkowitz</author>
+<author>Laura E. Brown</author>
+<author>Ashok K. Goel 0001</author>
+<author>George Luger</author>
+<author>Jim Marshall</author>
+<author>Andrew Neel</author>
+<author>Todd W. Neller</author>
+<author>Peter Norvig</author>
+<title>A Survey of Current Practice and Teaching of AI.</title>
+<pages>4119-4125</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12444</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WollowskiSBGLMN16</url>
+</inproceedings>
+</dblp>

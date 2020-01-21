@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KrishnanSS17" mdate="2019-11-15">
+<author>Rahul G. Krishnan</author>
+<author>Uri Shalit</author>
+<author>David A. Sontag</author>
+<title>Structured Inference Networks for Nonlinear State Space Models.</title>
+<pages>2101-2109</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14215</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#KrishnanSS17</url>
+</inproceedings>
+</dblp>

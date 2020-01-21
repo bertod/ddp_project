@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangAD17" mdate="2019-04-03">
+<author>Yu-Xiang Wang</author>
+<author>Alekh Agarwal</author>
+<author>Miroslav Dud&#237;k</author>
+<title>Optimal and Adaptive Off-policy Evaluation in Contextual Bandits.</title>
+<pages>3589-3597</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/wang17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#WangAD17</url>
+</inproceedings>
+</dblp>

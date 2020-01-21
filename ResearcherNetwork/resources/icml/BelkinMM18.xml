@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BelkinMM18" mdate="2019-04-03">
+<author>Mikhail Belkin</author>
+<author>Siyuan Ma</author>
+<author>Soumik Mandal</author>
+<title>To Understand Deep Learning We Need to Understand Kernel Learning.</title>
+<pages>540-548</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/belkin18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#BelkinMM18</url>
+</inproceedings>
+</dblp>

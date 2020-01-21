@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RaghunathanCJ19" mdate="2019-06-11">
+<author>Arvind U. Raghunathan</author>
+<author>Anoop Cherian</author>
+<author>Devesh K. Jha</author>
+<title>Game Theoretic Optimization via Gradient-based Nikaido-Isoda Function.</title>
+<pages>5291-5300</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/raghunathan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RaghunathanCJ19</url>
+</inproceedings></dblp>

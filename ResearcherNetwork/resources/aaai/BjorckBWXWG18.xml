@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BjorckBWXWG18" mdate="2018-10-22">
+<author>Johan Bjorck</author>
+<author>Yiwei Bai</author>
+<author>Xiaojian Wu</author>
+<author>Yexiang Xue</author>
+<author>Mark C. Whitmore</author>
+<author>Carla P. Gomes</author>
+<title>Scalable Relaxations of Sparse Packing Constraints: Optimal Biocontrol in Predator-Prey Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16665</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BjorckBWXWG18</url>
+<pages>748-756</pages>
+</inproceedings></dblp>

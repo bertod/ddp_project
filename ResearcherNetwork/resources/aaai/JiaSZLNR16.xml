@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/JiaSZLNR16" mdate="2016-04-21">
+<author>Yongpo Jia</author>
+<author>Xuemeng Song</author>
+<author>Jingbo Zhou</author>
+<author>Li Liu</author>
+<author>Liqiang Nie</author>
+<author>David S. Rosenblum</author>
+<title>Fusing Social Networks with Deep Learning for Volunteerism Tendency Prediction.</title>
+<pages>165-171</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12229</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#JiaSZLNR16</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BeckerKP17" mdate="2017-03-06">
+<author>Stephen Becker</author>
+<author>Ban Kawas</author>
+<author>Marek Petrik</author>
+<title>Robust Partially-Compressed Least-Squares.</title>
+<pages>1742-1748</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14992</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BeckerKP17</url>
+</inproceedings>
+</dblp>

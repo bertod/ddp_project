@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LanYC17" mdate="2017-03-06">
+<author>Xiangyuan Lan</author>
+<author>Pong C. Yuen</author>
+<author>Rama Chellappa</author>
+<title>Robust MIL-Based Feature Template Learning for Object Tracking.</title>
+<pages>4118-4125</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14512</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#LanYC17</url>
+</inproceedings>
+</dblp>

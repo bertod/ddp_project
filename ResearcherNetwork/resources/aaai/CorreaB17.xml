@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CorreaB17" mdate="2017-03-06">
+<author>Juan D. Correa</author>
+<author>Elias Bareinboim</author>
+<title>Causal Effect Identification by Adjustment under Confounding and Selection Biases.</title>
+<pages>3740-3746</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15037</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CorreaB17</url>
+</inproceedings>
+</dblp>

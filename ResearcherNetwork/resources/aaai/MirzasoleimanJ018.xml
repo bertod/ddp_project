@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MirzasoleimanJ018" mdate="2018-10-22">
+<author>Baharan Mirzasoleiman</author>
+<author>Stefanie Jegelka</author>
+<author>Andreas Krause 0001</author>
+<title>Streaming Non-Monotone Submodular Maximization: Personalized Video Summarization on the Fly.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17014</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#MirzasoleimanJ018</url>
+<pages>1379-1386</pages>
+</inproceedings></dblp>

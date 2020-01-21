@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YurochkinAGGHK19" mdate="2019-06-11">
+<author>Mikhail Yurochkin</author>
+<author>Mayank Agarwal</author>
+<author>Soumya Ghosh</author>
+<author>Kristjan H. Greenewald</author>
+<author>Trong Nghia Hoang</author>
+<author>Yasaman Khazaeni</author>
+<title>Bayesian Nonparametric Federated Learning of Neural Networks.</title>
+<pages>7252-7261</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yurochkin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YurochkinAGGHK19</url>
+</inproceedings></dblp>

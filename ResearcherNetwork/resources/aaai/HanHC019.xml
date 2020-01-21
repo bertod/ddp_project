@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HanHC019" mdate="2019-09-25">
+<author>Kyoohyung Han</author>
+<author>Seungwan Hong</author>
+<author>Jung Hee Cheon</author>
+<author>Daejun Park 0001</author>
+<title>Logistic Regression on Homomorphic Encrypted Data at Scale.</title>
+<pages>9466-9471</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019466</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HanHC019</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/0002VBB19" mdate="2019-06-11">
+<author>Wen Sun 0002</author>
+<author>Anirudh Vemula</author>
+<author>Byron Boots</author>
+<author>Drew Bagnell</author>
+<title>Provably Efficient Imitation Learning from Observation Alone.</title>
+<pages>6036-6045</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/sun19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#0002VBB19</url>
+</inproceedings></dblp>

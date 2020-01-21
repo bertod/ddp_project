@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CimattiMR17" mdate="2017-03-06">
+<author>Alessandro Cimatti</author>
+<author>Andrea Micheli</author>
+<author>Marco Roveri</author>
+<title>Validating Domains and Plans for Temporal Planning via Encoding into Infinite-State Linear Temporal Logic.</title>
+<pages>3547-3554</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14311</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#CimattiMR17</url>
+</inproceedings>
+</dblp>

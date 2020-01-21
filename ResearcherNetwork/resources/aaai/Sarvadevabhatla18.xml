@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Sarvadevabhatla18" mdate="2018-10-22">
+<author>Ravi Kiran Sarvadevabhatla</author>
+<author>Shiv Surya</author>
+<author>Trisha Mittal</author>
+<author>R. Venkatesh Babu</author>
+<title>Game of Sketches: Deep Recurrent Models of Pictionary-Style Word Guessing.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16486</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#Sarvadevabhatla18</url>
+<pages>7331-7338</pages>
+</inproceedings></dblp>

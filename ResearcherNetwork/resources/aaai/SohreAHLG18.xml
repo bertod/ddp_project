@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SohreAHLG18" mdate="2018-10-22">
+<author>Nicholas Sohre</author>
+<author>Moses Adeagbo</author>
+<author>Nathaniel Helwig</author>
+<author>Sofia Lyford-Pike</author>
+<author>Stephen J. Guy</author>
+<title>PVL: A Framework for Navigating the Precision-Variety Trade-Off in Automated Animation of Smiles.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17315</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#SohreAHLG18</url>
+<pages>884-893</pages>
+</inproceedings></dblp>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaoKSLHA16" mdate="2016-11-03">
+<author>Le-le Cao</author>
+<author>Kotagiri Ramamohanarao</author>
+<author>Fuchun Sun</author>
+<author>Hongbo Li</author>
+<author>Wen-bing Huang</author>
+<author>Zay Maung Maung Aye</author>
+<title>Efficient Spatio-Temporal Tactile Object Recognition with Randomized Tiling Convolutional Networks in a Hierarchical Fusion Strategy.</title>
+<pages>3337-3345</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12008</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#CaoKSLHA16</url>
+</inproceedings>
+</dblp>

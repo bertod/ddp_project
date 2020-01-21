@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BeckerPGZTN19" mdate="2019-06-11">
+<author>Philipp Becker</author>
+<author>Harit Pandya</author>
+<author>Gregor H. W. Gebhardt</author>
+<author>Cheng Zhao</author>
+<author>C. James Taylor</author>
+<author>Gerhard Neumann</author>
+<title>Recurrent Kalman Networks: Factorized Inference in High-Dimensional Deep Feature Spaces.</title>
+<pages>544-552</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/becker19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BeckerPGZTN19</url>
+</inproceedings></dblp>

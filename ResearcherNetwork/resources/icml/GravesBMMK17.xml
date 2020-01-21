@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GravesBMMK17" mdate="2019-04-03">
+<author>Alex Graves</author>
+<author>Marc G. Bellemare</author>
+<author>Jacob Menick</author>
+<author>R&#233;mi Munos</author>
+<author>Koray Kavukcuoglu</author>
+<title>Automated Curriculum Learning for Neural Networks.</title>
+<pages>1311-1320</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/graves17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#GravesBMMK17</url>
+</inproceedings>
+</dblp>

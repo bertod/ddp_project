@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/OymakS19" mdate="2019-06-11">
+<author>Samet Oymak</author>
+<author>Mahdi Soltanolkotabi</author>
+<title>Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?</title>
+<pages>4951-4960</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/oymak19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#OymakS19</url>
+</inproceedings></dblp>

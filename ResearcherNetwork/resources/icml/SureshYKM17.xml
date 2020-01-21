@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SureshYKM17" mdate="2019-04-03">
+<author>Ananda Theertha Suresh</author>
+<author>Felix X. Yu</author>
+<author>Sanjiv Kumar</author>
+<author>H. Brendan McMahan</author>
+<title>Distributed Mean Estimation with Limited Communication.</title>
+<pages>3329-3337</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/suresh17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#SureshYKM17</url>
+</inproceedings>
+</dblp>

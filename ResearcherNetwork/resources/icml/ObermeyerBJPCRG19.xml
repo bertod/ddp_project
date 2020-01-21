@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ObermeyerBJPCRG19" mdate="2019-06-11">
+<author>Fritz Obermeyer</author>
+<author>Eli Bingham</author>
+<author>Martin Jankowiak</author>
+<author>Neeraj Pradhan</author>
+<author>Justin Chiu</author>
+<author>Alexander M. Rush</author>
+<author>Noah Goodman</author>
+<title>Tensor Variable Elimination for Plated Factor Graphs.</title>
+<pages>4871-4880</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/obermeyer19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ObermeyerBJPCRG19</url>
+</inproceedings></dblp>

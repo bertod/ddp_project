@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JainiSY19" mdate="2019-06-11">
+<author>Priyank Jaini</author>
+<author>Kira A. Selby</author>
+<author>Yaoliang Yu</author>
+<title>Sum-of-Squares Polynomial Flow.</title>
+<pages>3009-3018</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jaini19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JainiSY19</url>
+</inproceedings></dblp>

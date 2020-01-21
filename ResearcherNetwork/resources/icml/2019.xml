@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<proceedings key="conf/icml/2019" mdate="2019-06-11">
+<editor>Kamalika Chaudhuri</editor>
+<editor>Ruslan Salakhutdinov</editor>
+<title>Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA</title>
+<booktitle>ICML</booktitle>
+<publisher>PMLR</publisher>
+<series href="db/series/jmlr/index.html">Proceedings of Machine Learning Research</series>
+<volume>97</volume>
+<ee type="oa">http://proceedings.mlr.press/v97/</ee>
+<year>2019</year>
+<url>db/conf/icml/icml2019.html</url>
+</proceedings></dblp>

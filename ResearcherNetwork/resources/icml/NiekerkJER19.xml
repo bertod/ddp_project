@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NiekerkJER19" mdate="2019-06-11">
+<author>Benjamin van Niekerk</author>
+<author>Steven James</author>
+<author>Adam Christopher Earle</author>
+<author>Benjamin Rosman</author>
+<title>Composing Value Functions in Reinforcement Learning.</title>
+<pages>6401-6409</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/van-niekerk19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#NiekerkJER19</url>
+</inproceedings></dblp>

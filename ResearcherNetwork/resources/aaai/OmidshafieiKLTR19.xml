@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/OmidshafieiKLTR19" mdate="2019-09-25">
+<author>Shayegan Omidshafiei</author>
+<author>Dong-Ki Kim</author>
+<author>Miao Liu 0001</author>
+<author>Gerald Tesauro</author>
+<author>Matthew Riemer</author>
+<author>Christopher Amato</author>
+<author>Murray Campbell</author>
+<author>Jonathan P. How</author>
+<title>Learning to Teach in Cooperative Multiagent Reinforcement Learning.</title>
+<pages>6128-6136</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016128</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#OmidshafieiKLTR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CalderonJLR18" mdate="2018-10-22">
+<author>Diego Calderon</author>
+<author>Brendan Juba</author>
+<author>Zongyi Li</author>
+<author>Lisa Ruan</author>
+<title>Conditional Linear Regression.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17416</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#CalderonJLR18</url>
+<pages>8055-8056</pages>
+</inproceedings></dblp>

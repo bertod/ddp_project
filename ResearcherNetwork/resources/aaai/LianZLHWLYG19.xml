@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LianZLHWLYG19" mdate="2019-09-25">
+<author>Dongze Lian</author>
+<author>Ziheng Zhang</author>
+<author>Weixin Luo</author>
+<author>Lina Hu</author>
+<author>Minye Wu</author>
+<author>Zechao Li</author>
+<author>Jingyi Yu</author>
+<author>Shenghua Gao</author>
+<title>RGBD Based Gaze Estimation via Multi-Task CNN.</title>
+<pages>2488-2495</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012488</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LianZLHWLYG19</url>
+</inproceedings></dblp>

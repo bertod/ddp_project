@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangY19" mdate="2019-06-11">
+<author>Chenyang Zhang</author>
+<author>Guosheng Yin</author>
+<title>Fast and Stable Maximum Likelihood Estimation for Incomplete Multinomial Models.</title>
+<pages>7463-7471</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19o.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangY19</url>
+</inproceedings></dblp>

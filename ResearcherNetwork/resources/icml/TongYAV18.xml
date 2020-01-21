@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TongYAV18" mdate="2019-04-03">
+<author>Liang Tong</author>
+<author>Sixie Yu</author>
+<author>Scott Alfeld</author>
+<author>Yevgeniy Vorobeychik</author>
+<title>Adversarial Regression with Multiple Learners.</title>
+<pages>4953-4961</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/tong18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#TongYAV18</url>
+</inproceedings>
+</dblp>

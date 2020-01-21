@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HoangHOL18" mdate="2018-10-22">
+<author>Trong Nghia Hoang</author>
+<author>Quang Minh Hoang</author>
+<author>Ruofei Ouyang</author>
+<author>Kian Hsiang Low</author>
+<title>Decentralized High-Dimensional Bayesian Optimization With Factor Graphs.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17163</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HoangHOL18</url>
+<pages>3231-3238</pages>
+</inproceedings></dblp>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HoulsbyGJMLGAG19" mdate="2019-06-11">
+<author>Neil Houlsby</author>
+<author>Andrei Giurgiu</author>
+<author>Stanislaw Jastrzebski</author>
+<author>Bruna Morrone</author>
+<author>Quentin de Laroussilhe</author>
+<author>Andrea Gesmundo</author>
+<author>Mona Attariyan</author>
+<author>Sylvain Gelly</author>
+<title>Parameter-Efficient Transfer Learning for NLP.</title>
+<pages>2790-2799</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/houlsby19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#HoulsbyGJMLGAG19</url>
+</inproceedings></dblp>

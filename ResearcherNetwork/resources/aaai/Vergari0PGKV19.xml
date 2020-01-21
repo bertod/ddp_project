@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Vergari0PGKV19" mdate="2019-09-25">
+<author>Antonio Vergari</author>
+<author>Alejandro Molina 0001</author>
+<author>Robert Peharz</author>
+<author>Zoubin Ghahramani</author>
+<author>Kristian Kersting</author>
+<author>Isabel Valera</author>
+<title>Automatic Bayesian Density Analysis.</title>
+<pages>5207-5215</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015207</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Vergari0PGKV19</url>
+</inproceedings></dblp>

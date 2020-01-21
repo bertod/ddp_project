@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ClarksonWW19" mdate="2019-06-11">
+<author>Kenneth L. Clarkson</author>
+<author>Ruosong Wang</author>
+<author>David P. Woodruff</author>
+<title>Dimensionality Reduction for Tukey Regression.</title>
+<pages>1262-1271</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/clarkson19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ClarksonWW19</url>
+</inproceedings></dblp>

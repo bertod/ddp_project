@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BuchnikCHM19" mdate="2019-06-11">
+<author>Eliav Buchnik</author>
+<author>Edith Cohen</author>
+<author>Avinatan Hassidim</author>
+<author>Yossi Matias</author>
+<title>Self-similar Epochs: Value in arrangement.</title>
+<pages>841-850</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/buchnik19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BuchnikCHM19</url>
+</inproceedings></dblp>

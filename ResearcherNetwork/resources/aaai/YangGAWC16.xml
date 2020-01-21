@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/YangGAWC16" mdate="2016-07-14">
+<author>Shangdong Yang</author>
+<author>Yang Gao</author>
+<author>Bo An</author>
+<author>Hao Wang 0013</author>
+<author>Xingguo Chen</author>
+<title>Efficient Average Reward Reinforcement Learning Using Constant Shifting Values.</title>
+<pages>2258-2264</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12346</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#YangGAWC16</url>
+</inproceedings>
+</dblp>

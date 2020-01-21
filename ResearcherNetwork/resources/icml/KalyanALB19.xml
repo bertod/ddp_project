@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KalyanALB19" mdate="2019-06-11">
+<author>Ashwin Kalyan</author>
+<author>Peter Anderson</author>
+<author>Stefan Lee</author>
+<author>Dhruv Batra</author>
+<title>Trainable Decoding of Sets of Sequences for Neural Sequence Models.</title>
+<pages>3211-3221</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kalyan19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KalyanALB19</url>
+</inproceedings></dblp>

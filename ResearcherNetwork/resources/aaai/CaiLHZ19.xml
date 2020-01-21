@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CaiLHZ19" mdate="2019-09-25">
+<author>Yijun Cai</author>
+<author>Haoxin Li</author>
+<author>Jianfang Hu</author>
+<author>Wei-Shi Zheng</author>
+<title>Action Knowledge Transfer for Action Prediction with Partial Videos.</title>
+<pages>8118-8125</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018118</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CaiLHZ19</url>
+</inproceedings></dblp>

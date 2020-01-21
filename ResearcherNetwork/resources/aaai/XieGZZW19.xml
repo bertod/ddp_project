@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XieGZZW19" mdate="2019-09-25">
+<author>Jianwen Xie</author>
+<author>Ruiqi Gao</author>
+<author>Zilong Zheng</author>
+<author>Song-Chun Zhu</author>
+<author>Ying Nian Wu</author>
+<title>Learning Dynamic Generator Model by Alternating Back-Propagation through Time.</title>
+<pages>5498-5507</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015498</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#XieGZZW19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GreenbergNM19" mdate="2019-06-11">
+<author>David S. Greenberg</author>
+<author>Marcel Nonnenmacher</author>
+<author>Jakob H. Macke</author>
+<title>Automatic Posterior Transformation for Likelihood-Free Inference.</title>
+<pages>2404-2414</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/greenberg19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GreenbergNM19</url>
+</inproceedings></dblp>

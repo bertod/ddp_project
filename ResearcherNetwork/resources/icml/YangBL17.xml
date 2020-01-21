@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangBL17" mdate="2019-04-03">
+<author>Zhuoran Yang</author>
+<author>Krishnakumar Balasubramanian</author>
+<author>Han Liu 0001</author>
+<title>High-dimensional Non-Gaussian Single Index Models via Thresholded Score Function Estimation.</title>
+<pages>3851-3860</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/yang17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#YangBL17</url>
+</inproceedings></dblp>

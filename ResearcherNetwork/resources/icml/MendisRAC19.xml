@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MendisRAC19" mdate="2019-06-11">
+<author>Charith Mendis</author>
+<author>Alex Renda</author>
+<author>Saman P. Amarasinghe</author>
+<author>Michael Carbin</author>
+<title>Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks.</title>
+<pages>4505-4515</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mendis19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MendisRAC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuptaCBS19" mdate="2019-09-25">
+<author>Pankaj Gupta</author>
+<author>Yatin Chaudhary</author>
+<author>Florian Buettner</author>
+<author>Hinrich Sch&#252;tze</author>
+<title>Document Informed Neural Autoregressive Topic Models with Distributional Prior.</title>
+<pages>6505-6512</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016505</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#GuptaCBS19</url>
+</inproceedings></dblp>

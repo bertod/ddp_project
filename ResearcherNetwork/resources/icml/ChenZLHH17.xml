@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChenZLHH17" mdate="2019-04-03">
+<author>Guangyong Chen</author>
+<author>Shengyu Zhang</author>
+<author>Di Lin</author>
+<author>Hui Huang 0004</author>
+<author>Pheng-Ann Heng</author>
+<title>Learning to Aggregate Ordinal Labels by Maximizing Separating Width.</title>
+<pages>787-796</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/chen17i.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ChenZLHH17</url>
+</inproceedings>
+</dblp>

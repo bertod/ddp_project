@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NarodytskaKRSW18" mdate="2018-10-22">
+<author>Nina Narodytska</author>
+<author>Shiva Prasad Kasiviswanathan</author>
+<author>Leonid Ryzhyk</author>
+<author>Mooly Sagiv</author>
+<author>Toby Walsh</author>
+<title>Verifying Properties of Binarized Deep Neural Networks.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16898</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#NarodytskaKRSW18</url>
+<pages>6615-6624</pages>
+</inproceedings></dblp>

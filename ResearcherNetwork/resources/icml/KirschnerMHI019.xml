@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KirschnerMHI019" mdate="2019-06-11">
+<author>Johannes Kirschner</author>
+<author>Mojmir Mutny</author>
+<author>Nicole Hiller</author>
+<author>Rasmus Ischebeck</author>
+<author>Andreas Krause 0001</author>
+<title>Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces.</title>
+<pages>3429-3438</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kirschner19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KirschnerMHI019</url>
+</inproceedings></dblp>

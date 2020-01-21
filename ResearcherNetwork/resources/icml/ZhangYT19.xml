@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangYT19" mdate="2019-06-11">
+<author>Yunbo Zhang</author>
+<author>Wenhao Yu</author>
+<author>Greg Turk</author>
+<title>Learning Novel Policies For Tasks.</title>
+<pages>7483-7492</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19q.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangYT19</url>
+</inproceedings></dblp>

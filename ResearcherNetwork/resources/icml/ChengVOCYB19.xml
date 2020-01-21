@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChengVOCYB19" mdate="2019-06-11">
+<author>Richard Cheng</author>
+<author>Abhinav Verma</author>
+<author>G&#225;bor Orosz</author>
+<author>Swarat Chaudhuri</author>
+<author>Yisong Yue</author>
+<author>Joel Burdick</author>
+<title>Control Regularization for Reduced Variance Reinforcement Learning.</title>
+<pages>1141-1150</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cheng19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChengVOCYB19</url>
+</inproceedings></dblp>

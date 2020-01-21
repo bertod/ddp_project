@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DempseyMSDGMR17" mdate="2019-04-03">
+<author>Walter H. Dempsey</author>
+<author>Alexander Moreno</author>
+<author>Christy K. Scott</author>
+<author>Michael L. Dennis</author>
+<author>David H. Gustafson</author>
+<author>Susan A. Murphy</author>
+<author>James M. Rehg</author>
+<title>iSurvive: An Interpretable, Event-time Prediction Model for mHealth.</title>
+<pages>970-979</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/dempsey17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DempseyMSDGMR17</url>
+</inproceedings>
+</dblp>

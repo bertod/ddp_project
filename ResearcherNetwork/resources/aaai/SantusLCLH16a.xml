@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SantusLCLH16a" mdate="2019-10-31">
+<author>Enrico Santus</author>
+<author>Alessandro Lenci</author>
+<author>Tin-Shing Chiu</author>
+<author>Qin Lu 0001</author>
+<author>Chu-Ren Huang</author>
+<title>ROOT13: Spotting Hypernyms, Co-Hyponyms and Randoms.</title>
+<pages>4262-4263</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11934</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#SantusLCLH16a</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DuLZZZ18" mdate="2018-10-23">
+<author>Chao Du</author>
+<author>Chongxuan Li</author>
+<author>Yin Zheng</author>
+<author>Jun Zhu 0001</author>
+<author>Bo Zhang 0010</author>
+<title>Collaborative Filtering With User-Item Co-Autoregressive Models.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16758</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#DuLZZZ18</url>
+<pages>2175-2182</pages>
+</inproceedings>
+</dblp>

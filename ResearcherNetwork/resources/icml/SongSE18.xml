@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SongSE18" mdate="2019-04-03">
+<author>Yang Song</author>
+<author>Jiaming Song</author>
+<author>Stefano Ermon</author>
+<title>Accelerating Natural Gradient with Higher-Order Invariance.</title>
+<pages>4720-4729</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/song18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#SongSE18</url>
+</inproceedings>
+</dblp>

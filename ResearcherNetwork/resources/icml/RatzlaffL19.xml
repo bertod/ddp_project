@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RatzlaffL19" mdate="2019-06-11">
+<author>Neale Ratzlaff</author>
+<author>Fuxin Li</author>
+<title>HyperGAN: A Generative Model for Diverse, Performant Neural Networks.</title>
+<pages>5361-5369</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/ratzlaff19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RatzlaffL19</url>
+</inproceedings></dblp>

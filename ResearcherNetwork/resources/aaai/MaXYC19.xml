@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MaXYC19" mdate="2019-11-21">
+<author>Ke Ma 0001</author>
+<author>Qianqian Xu</author>
+<author>Zhiyong Yang</author>
+<author>Xiaochun Cao</author>
+<title>Less but Better: Generalization Enhancement of Ordinal Embedding via Distributional Margin.</title>
+<pages>2978-2985</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33012978</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#MaXYC19</url>
+</inproceedings>
+</dblp>

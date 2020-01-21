@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HarbBKP18" mdate="2018-10-22">
+<author>Jean Harb</author>
+<author>Pierre-Luc Bacon</author>
+<author>Martin Klissarov</author>
+<author>Doina Precup</author>
+<title>When Waiting Is Not an Option: Learning Options With a Deliberation Cost.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17421</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HarbBKP18</url>
+<pages>3165-3172</pages>
+</inproceedings></dblp>

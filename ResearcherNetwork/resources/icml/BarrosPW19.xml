@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BarrosPW19" mdate="2019-06-11">
+<author>Pablo V. A. Barros</author>
+<author>German Ignacio Parisi</author>
+<author>Stefan Wermter</author>
+<title>A Personalized Affective Memory Model for Improving Emotion Recognition.</title>
+<pages>485-494</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/barros19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BarrosPW19</url>
+</inproceedings></dblp>

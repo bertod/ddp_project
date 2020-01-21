@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CotterGJLMNWZ19" mdate="2019-06-11">
+<author>Andrew Cotter</author>
+<author>Maya R. Gupta</author>
+<author>Heinrich Jiang</author>
+<author>Erez Louidor</author>
+<author>James Muller</author>
+<author>Taman Narayan</author>
+<author>Serena Wang</author>
+<author>Tao Zhu</author>
+<title>Shape Constraints for Set Functions.</title>
+<pages>1388-1396</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cotter19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CotterGJLMNWZ19</url>
+</inproceedings></dblp>

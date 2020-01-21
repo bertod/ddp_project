@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KolarijaniEK18" mdate="2019-04-03">
+<author>Arman Sharifi Kolarijani</author>
+<author>Peyman Mohajerin Esfahani</author>
+<author>Tam&#225;s Keviczky</author>
+<title>Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework.</title>
+<pages>2733-2741</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/kolarijani18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#KolarijaniEK18</url>
+</inproceedings>
+</dblp>

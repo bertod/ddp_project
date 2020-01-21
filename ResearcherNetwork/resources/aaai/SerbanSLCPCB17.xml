@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/SerbanSLCPCB17" mdate="2017-03-06">
+<author>Iulian Vlad Serban</author>
+<author>Alessandro Sordoni</author>
+<author>Ryan Lowe</author>
+<author>Laurent Charlin</author>
+<author>Joelle Pineau</author>
+<author>Aaron C. Courville</author>
+<author>Yoshua Bengio</author>
+<title>A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues.</title>
+<pages>3295-3301</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14567</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#SerbanSLCPCB17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HuMH18" mdate="2018-10-22">
+<author>Pan Hu</author>
+<author>Boris Motik</author>
+<author>Ian Horrocks</author>
+<title>Optimised Maintenance of Datalog Materialisations.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16785</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HuMH18</url>
+<pages>1871-1879</pages>
+</inproceedings></dblp>

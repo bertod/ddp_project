@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/TanYWHTS16" mdate="2018-11-20">
+<author>Mingkui Tan</author>
+<author>Yan Yan 0006</author>
+<author>Li Wang 0033</author>
+<author>Anton van den Hengel</author>
+<author>Ivor W. Tsang</author>
+<author>Qinfeng (Javen) Shi</author>
+<title>Learning Sparse Confidence-Weighted Classifier on Very High Dimensional Data.</title>
+<pages>2080-2086</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12329</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#TanYWHTS16</url>
+</inproceedings></dblp>

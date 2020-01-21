@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LocatelloBLRGSB19" mdate="2019-06-11">
+<author>Francesco Locatello</author>
+<author>Stefan Bauer</author>
+<author>Mario Lucic</author>
+<author>Gunnar R&#228;tsch</author>
+<author>Sylvain Gelly</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<author>Olivier Bachem</author>
+<title>Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations.</title>
+<pages>4114-4124</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/locatello19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LocatelloBLRGSB19</url>
+</inproceedings></dblp>

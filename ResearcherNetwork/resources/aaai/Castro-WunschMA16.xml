@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Castro-WunschMA16" mdate="2016-04-21">
+<author>Karo Castro-Wunsch</author>
+<author>William Maga</author>
+<author>Calin Anton</author>
+<title>BeeMo, a Monte Carlo Simulation Agent for Playing Parameterized Poker Squares.</title>
+<pages>4071-4074</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12405</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#Castro-WunschMA16</url>
+</inproceedings>
+</dblp>

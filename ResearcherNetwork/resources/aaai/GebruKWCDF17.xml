@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GebruKWCDF17" mdate="2019-07-22">
+<author>Timnit Gebru</author>
+<author>Jonathan Krause</author>
+<author>Yilun Wang</author>
+<author>Duyun Chen</author>
+<author>Jia Deng</author>
+<author>Li Fei-Fei 0001</author>
+<title>Fine-Grained Car Detection for Visual Census Estimation.</title>
+<pages>4502-4508</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14583</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GebruKWCDF17</url>
+</inproceedings>
+</dblp>

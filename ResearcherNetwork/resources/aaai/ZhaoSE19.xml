@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhaoSE19" mdate="2019-09-25">
+<author>Shengjia Zhao</author>
+<author>Jiaming Song</author>
+<author>Stefano Ermon</author>
+<title>InfoVAE: Balancing Learning and Inference in Variational Autoencoders.</title>
+<pages>5885-5892</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015885</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhaoSE19</url>
+</inproceedings></dblp>

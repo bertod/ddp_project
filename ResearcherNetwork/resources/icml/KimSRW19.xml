@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimSRW19" mdate="2019-06-11">
+<author>Jisu Kim</author>
+<author>Jaehyeok Shin</author>
+<author>Alessandro Rinaldo</author>
+<author>Larry A. Wasserman</author>
+<title>Uniform Convergence Rate of the Kernel Density Estimator Adaptive to Intrinsic Volume Dimension.</title>
+<pages>3398-3407</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kim19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KimSRW19</url>
+</inproceedings></dblp>

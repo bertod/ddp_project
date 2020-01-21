@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/FriedmanGPS19" mdate="2019-09-25">
+<author>Eric J. Friedman</author>
+<author>Vasilis Gkatzelis</author>
+<author>Christos-Alexandros Psomas</author>
+<author>Scott Shenker</author>
+<title>Fair and Efficient Memory Sharing: Confronting Free Riders.</title>
+<pages>1965-1972</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011965</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#FriedmanGPS19</url>
+</inproceedings></dblp>

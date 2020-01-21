@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ChaiTOG19" mdate="2019-06-11">
+<author>Henry Chai</author>
+<author>Jean-Francois Ton</author>
+<author>Michael A. Osborne</author>
+<author>Roman Garnett</author>
+<title>Automated Model Selection with Bayesian Quadrature.</title>
+<pages>931-940</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/chai19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ChaiTOG19</url>
+</inproceedings></dblp>

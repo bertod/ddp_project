@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DiakonikolasKK017" mdate="2019-09-11">
+<author>Ilias Diakonikolas</author>
+<author>Gautam Kamath 0001</author>
+<author>Daniel M. Kane</author>
+<author>Jerry Li 0001</author>
+<author>Ankur Moitra</author>
+<author>Alistair Stewart</author>
+<title>Being Robust (in High Dimensions) Can Be Practical.</title>
+<pages>999-1008</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/diakonikolas17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DiakonikolasKK017</url>
+</inproceedings>
+</dblp>

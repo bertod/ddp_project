@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/UrschelBMR17" mdate="2019-04-03">
+<author>John Urschel</author>
+<author>Victor-Emmanuel Brunel</author>
+<author>Ankur Moitra</author>
+<author>Philippe Rigollet</author>
+<title>Learning Determinantal Point Processes with Moments and Cycles.</title>
+<pages>3511-3520</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/urschel17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#UrschelBMR17</url>
+</inproceedings>
+</dblp>

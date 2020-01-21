@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/GilboaB019" mdate="2019-06-11">
+<author>Dar Gilboa</author>
+<author>Sam Buchanan</author>
+<author>John Wright 0001</author>
+<title>Efficient Dictionary Learning with Gradient Descent.</title>
+<pages>2252-2259</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/gilboa19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#GilboaB019</url>
+</inproceedings></dblp>

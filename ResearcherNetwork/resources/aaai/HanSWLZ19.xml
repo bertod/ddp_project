@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HanSWLZ19" mdate="2019-09-25">
+<author>Zhizhong Han</author>
+<author>Mingyang Shang</author>
+<author>Xiyang Wang</author>
+<author>Yu-Shen Liu</author>
+<author>Matthias Zwicker</author>
+<title>Y2Seq2Seq: Cross-Modal Representation Learning for 3D Shape and Text by Joint Reconstruction and Prediction of View and Word Sequences.</title>
+<pages>126-133</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301126</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#HanSWLZ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LinFLLJ19" mdate="2019-09-25">
+<author>Ziqian Lin</author>
+<author>Jie Feng</author>
+<author>Ziyang Lu</author>
+<author>Yong Li 0008</author>
+<author>Depeng Jin</author>
+<title>DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis.</title>
+<pages>1020-1027</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011020</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#LinFLLJ19</url>
+</inproceedings></dblp>

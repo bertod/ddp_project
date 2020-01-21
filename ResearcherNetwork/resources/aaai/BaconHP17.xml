@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BaconHP17" mdate="2017-03-06">
+<author>Pierre-Luc Bacon</author>
+<author>Jean Harb</author>
+<author>Doina Precup</author>
+<title>The Option-Critic Architecture.</title>
+<pages>1726-1734</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14858</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#BaconHP17</url>
+</inproceedings>
+</dblp>

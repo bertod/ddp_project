@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/XuRDLF19" mdate="2019-06-11">
+<author>Kelvin Xu</author>
+<author>Ellis Ratner</author>
+<author>Anca D. Dragan</author>
+<author>Sergey Levine</author>
+<author>Chelsea Finn</author>
+<title>Learning a Prior over Intent via Meta-Inverse Reinforcement Learning.</title>
+<pages>6952-6962</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/xu19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#XuRDLF19</url>
+</inproceedings></dblp>

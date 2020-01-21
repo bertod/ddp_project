@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GantiRBWN17" mdate="2017-03-06">
+<author>Ravi Ganti</author>
+<author>Nikhil S. Rao</author>
+<author>Laura Balzano</author>
+<author>Rebecca Willett</author>
+<author>Robert D. Nowak</author>
+<title>On Learning High Dimensional Structured Single Index Models.</title>
+<pages>1898-1904</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14480</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GantiRBWN17</url>
+</inproceedings>
+</dblp>

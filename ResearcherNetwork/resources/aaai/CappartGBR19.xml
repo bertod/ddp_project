@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/CappartGBR19" mdate="2019-09-25">
+<author>Quentin Cappart</author>
+<author>Emmanuel Goutierre</author>
+<author>David Bergman</author>
+<author>Louis-Martin Rousseau</author>
+<title>Improving Optimization Bounds Using Machine Learning: Decision Diagrams Meet Deep Reinforcement Learning.</title>
+<pages>1443-1451</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011443</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#CappartGBR19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/AraiXMS16" mdate="2016-04-21">
+<author>Hiromasa Arai</author>
+<author>Ke Xu</author>
+<author>Crystal Maung</author>
+<author>Haim Schweitzer</author>
+<title>Weighted A* Algorithms for Unsupervised Feature Selection with Provable Bounds on Suboptimality.</title>
+<pages>4194-4195</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12299</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#AraiXMS16</url>
+</inproceedings>
+</dblp>

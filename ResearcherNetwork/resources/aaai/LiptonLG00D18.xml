@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LiptonLG00D18" mdate="2018-10-22">
+<author>Zachary C. Lipton</author>
+<author>Xiujun Li</author>
+<author>Jianfeng Gao</author>
+<author>Lihong Li 0001</author>
+<author>Faisal Ahmed 0001</author>
+<author>Li Deng 0001</author>
+<title>BBQ-Networks: Efficient Exploration in Deep Reinforcement Learning for Task-Oriented Dialogue Systems.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16189</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LiptonLG00D18</url>
+<pages>5237-5244</pages>
+</inproceedings></dblp>

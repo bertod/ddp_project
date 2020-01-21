@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TangLYZL18" mdate="2019-11-20">
+<author>Hanlin Tang</author>
+<author>Xiangru Lian</author>
+<author>Ming Yan 0006</author>
+<author>Ce Zhang</author>
+<author>Ji Liu 0002</author>
+<title>D<sup>2</sup>: Decentralized Training over Decentralized Data.</title>
+<pages>4855-4863</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/tang18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#TangLYZL18</url>
+</inproceedings>
+</dblp>

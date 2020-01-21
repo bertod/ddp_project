@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ShekarpourMAS17" mdate="2017-03-06">
+<author>Saeedeh Shekarpour</author>
+<author>Edgard Marx</author>
+<author>S&#246;ren Auer</author>
+<author>Amit P. Sheth</author>
+<title>RQUERY: Rewriting Natural Language Queries on Knowledge Graphs to Alleviate the Vocabulary Mismatch Problem.</title>
+<pages>3936-3943</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14638</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#ShekarpourMAS17</url>
+</inproceedings>
+</dblp>

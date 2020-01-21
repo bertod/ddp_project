@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZimmertLW19" mdate="2019-06-11">
+<author>Julian Zimmert</author>
+<author>Haipeng Luo</author>
+<author>Chen-Yu Wei</author>
+<title>Beating Stochastic and Adversarial Semi-bandits Optimally and Simultaneously.</title>
+<pages>7683-7692</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zimmert19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZimmertLW19</url>
+</inproceedings></dblp>

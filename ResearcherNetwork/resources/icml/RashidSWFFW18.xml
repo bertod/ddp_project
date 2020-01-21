@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RashidSWFFW18" mdate="2019-04-03">
+<author>Tabish Rashid</author>
+<author>Mikayel Samvelyan</author>
+<author>Christian Schr&#246;der de Witt</author>
+<author>Gregory Farquhar</author>
+<author>Jakob N. Foerster</author>
+<author>Shimon Whiteson</author>
+<title>QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning.</title>
+<pages>4292-4301</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/rashid18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#RashidSWFFW18</url>
+</inproceedings>
+</dblp>

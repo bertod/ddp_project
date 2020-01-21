@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TompsonSSP17" mdate="2019-04-03">
+<author>Jonathan Tompson</author>
+<author>Kristofer Schlachter</author>
+<author>Pablo Sprechmann</author>
+<author>Ken Perlin</author>
+<title>Accelerating Eulerian Fluid Simulation With Convolutional Networks.</title>
+<pages>3424-3433</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/tompson17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TompsonSSP17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/Simon-GabrielOB19" mdate="2019-06-11">
+<author>Carl-Johann Simon-Gabriel</author>
+<author>Yann Ollivier</author>
+<author>L&#233;on Bottou</author>
+<author>Bernhard Sch&#246;lkopf</author>
+<author>David Lopez-Paz</author>
+<title>First-Order Adversarial Vulnerability of Neural Networks and Input Dimension.</title>
+<pages>5809-5817</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/simon-gabriel19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#Simon-GabrielOB19</url>
+</inproceedings></dblp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhangS19" mdate="2019-06-11">
+<author>Fei Zhang</author>
+<author>Guangming Shi</author>
+<title>Co-Representation Network for Generalized Zero-Shot Learning.</title>
+<pages>7434-7443</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/zhang19l.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ZhangS19</url>
+</inproceedings></dblp>

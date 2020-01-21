@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HatanoFMK17" mdate="2017-03-06">
+<author>Daisuke Hatano</author>
+<author>Takuro Fukunaga</author>
+<author>Takanori Maehara</author>
+<author>Ken-ichi Kawarabayashi</author>
+<title>Scalable Algorithm for Higher-Order Co-Clustering via Random Sampling.</title>
+<pages>1992-1999</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14850</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#HatanoFMK17</url>
+</inproceedings>
+</dblp>

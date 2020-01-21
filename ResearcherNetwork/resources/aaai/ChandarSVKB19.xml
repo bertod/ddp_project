@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChandarSVKB19" mdate="2019-09-25">
+<author>Sarath Chandar</author>
+<author>Chinnadhurai Sankar</author>
+<author>Eugene Vorontsov</author>
+<author>Samira Ebrahimi Kahou</author>
+<author>Yoshua Bengio</author>
+<title>Towards Non-Saturating Recurrent Units for Modelling Long-Term Dependencies.</title>
+<pages>3280-3287</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33013280</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ChandarSVKB19</url>
+</inproceedings></dblp>

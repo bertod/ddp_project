@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/KimKJLS19" mdate="2019-06-11">
+<author>Hyoungseok Kim</author>
+<author>Jaekyeom Kim</author>
+<author>Yeonwoo Jeong</author>
+<author>Sergey Levine</author>
+<author>Hyun Oh Song</author>
+<title>EMI: Exploration with Mutual Information.</title>
+<pages>3360-3369</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/kim19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#KimKJLS19</url>
+</inproceedings></dblp>

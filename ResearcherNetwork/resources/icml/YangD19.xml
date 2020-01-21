@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/YangD19" mdate="2019-06-11">
+<author>Kaiyu Yang</author>
+<author>Jia Deng</author>
+<title>Learning to Prove Theorems via Interacting with Proof Assistants.</title>
+<pages>6984-6994</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/yang19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#YangD19</url>
+</inproceedings></dblp>

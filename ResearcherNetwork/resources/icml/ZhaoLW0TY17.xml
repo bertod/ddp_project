@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ZhaoLW0TY17" mdate="2019-04-03">
+<author>Liang Zhao</author>
+<author>Siyu Liao</author>
+<author>Yanzhi Wang</author>
+<author>Zhe Li 0001</author>
+<author>Jian Tang 0008</author>
+<author>Bo Yuan 0001</author>
+<title>Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank.</title>
+<pages>4082-4090</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/zhao17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#ZhaoLW0TY17</url>
+</inproceedings></dblp>

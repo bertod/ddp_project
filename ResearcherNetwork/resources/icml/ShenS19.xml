@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShenS19" mdate="2019-06-11">
+<author>Yanyao Shen</author>
+<author>Sujay Sanghavi</author>
+<title>Learning with Bad Training Data via Iterative Trimmed Loss Minimization.</title>
+<pages>5739-5748</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shen19e.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShenS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MavrinYKWY19" mdate="2019-06-11">
+<author>Borislav Mavrin</author>
+<author>Hengshuai Yao</author>
+<author>Linglong Kong</author>
+<author>Kaiwen Wu</author>
+<author>Yaoliang Yu</author>
+<title>Distributional Reinforcement Learning for Efficient Exploration.</title>
+<pages>4424-4434</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mavrin19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MavrinYKWY19</url>
+</inproceedings></dblp>

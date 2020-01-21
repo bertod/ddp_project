@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/0001ZFCW19" mdate="2019-09-25">
+<author>Yu Lu 0001</author>
+<author>Xi Zhang</author>
+<author>Xianghua Fu</author>
+<author>Fangxiong Chen</author>
+<author>Kelvin K. L. Wong</author>
+<title>Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age.</title>
+<pages>9522-9527</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33019522</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#0001ZFCW19</url>
+</inproceedings></dblp>

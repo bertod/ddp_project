@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JeongKKN19" mdate="2019-06-11">
+<author>Dasaem Jeong</author>
+<author>Taegyun Kwon</author>
+<author>Yoojin Kim</author>
+<author>Juhan Nam</author>
+<title>Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance.</title>
+<pages>3060-3070</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/jeong19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#JeongKKN19</url>
+</inproceedings></dblp>

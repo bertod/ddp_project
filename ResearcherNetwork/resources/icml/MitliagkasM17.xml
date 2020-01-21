@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MitliagkasM17" mdate="2019-04-03">
+<author>Ioannis Mitliagkas</author>
+<author>Lester W. Mackey</author>
+<title>Improving Gibbs Sampler Scan Quality with DoGS.</title>
+<pages>2469-2477</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/mitliagkas17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#MitliagkasM17</url>
+</inproceedings>
+</dblp>

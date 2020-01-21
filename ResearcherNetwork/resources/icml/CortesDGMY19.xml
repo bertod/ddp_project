@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CortesDGMY19" mdate="2019-06-11">
+<author>Corinna Cortes</author>
+<author>Giulia DeSalvo</author>
+<author>Claudio Gentile</author>
+<author>Mehryar Mohri</author>
+<author>Scott Yang</author>
+<title>Online Learning with Sleeping Experts and Feedback Graphs.</title>
+<pages>1370-1378</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cortes19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CortesDGMY19</url>
+</inproceedings></dblp>

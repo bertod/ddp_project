@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Li00K19" mdate="2019-09-25">
+<author>Bowen Li</author>
+<author>Jianpeng Cheng 0001</author>
+<author>Yang Liu 0124</author>
+<author>Frank Keller</author>
+<title>Dependency Grammar Induction with a Neural Variational Transition-Based Parser.</title>
+<pages>6658-6665</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33016658</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Li00K19</url>
+</inproceedings></dblp>

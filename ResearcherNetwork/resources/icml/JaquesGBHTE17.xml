@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/JaquesGBHTE17" mdate="2019-04-03">
+<author>Natasha Jaques</author>
+<author>Shixiang Gu</author>
+<author>Dzmitry Bahdanau</author>
+<author>Jos&#233; Miguel Hern&#225;ndez-Lobato</author>
+<author>Richard E. Turner</author>
+<author>Douglas Eck</author>
+<title>Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control.</title>
+<pages>1645-1654</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/jaques17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#JaquesGBHTE17</url>
+</inproceedings>
+</dblp>

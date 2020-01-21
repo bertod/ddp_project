@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GlassGVO16" mdate="2016-04-21">
+<author>Jesse Glass</author>
+<author>Mohamed F. Ghalwash</author>
+<author>Milan Vukicevic</author>
+<author>Zoran Obradovic</author>
+<title>Extending the Modelling Capacity of Gaussian Conditional Random Fields while Learning Faster.</title>
+<pages>1596-1602</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12411</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GlassGVO16</url>
+</inproceedings>
+</dblp>

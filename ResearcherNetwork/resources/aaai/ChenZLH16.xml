@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenZLH16" mdate="2018-01-26">
+<author>Jifan Chen</author>
+<author>Qi Zhang 0001</author>
+<author>Pengfei Liu</author>
+<author>Xuanjing Huang</author>
+<title>Discourse Relations Detection via a Mixed Generative-Discriminative Framework.</title>
+<pages>2921-2927</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11815</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ChenZLH16</url>
+</inproceedings></dblp>

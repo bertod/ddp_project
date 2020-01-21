@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MandelLBP16" mdate="2016-04-21">
+<author>Travis Mandel</author>
+<author>Yun-En Liu</author>
+<author>Emma Brunskill</author>
+<author>Zoran Popovic</author>
+<title>Offline Evaluation of Online Reinforcement Learning Algorithms.</title>
+<pages>1926-1933</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12475</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#MandelLBP16</url>
+</inproceedings>
+</dblp>

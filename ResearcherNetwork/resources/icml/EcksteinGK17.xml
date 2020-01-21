@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/EcksteinGK17" mdate="2019-04-03">
+<author>Jonathan Eckstein</author>
+<author>Noam Goldberg</author>
+<author>Ai Kagawa</author>
+<title>Rule-Enhanced Penalized Regression by Column Generation using Rectangular Maximum Agreement.</title>
+<pages>1059-1067</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/eckstein17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#EcksteinGK17</url>
+</inproceedings>
+</dblp>

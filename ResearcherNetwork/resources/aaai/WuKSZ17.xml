@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WuKSZ17" mdate="2017-03-06">
+<author>XiaoJian Wu</author>
+<author>Akshat Kumar</author>
+<author>Daniel Sheldon</author>
+<author>Shlomo Zilberstein</author>
+<title>Robust Optimization for Tree-Structured Stochastic Network Design.</title>
+<pages>4545-4551</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14821</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#WuKSZ17</url>
+</inproceedings>
+</dblp>

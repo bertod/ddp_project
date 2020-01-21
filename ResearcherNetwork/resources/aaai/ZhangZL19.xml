@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangZL19" mdate="2019-12-01">
+<author>Yudong Zhang</author>
+<author>Wenhao Zheng</author>
+<author>Ming Li 0005</author>
+<title>Learning Uniform Semantic Features for Natural Language and Programming Language Globally, Locally and Sequentially.</title>
+<pages>5845-5852</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33015845</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangZL19</url>
+</inproceedings>
+</dblp>

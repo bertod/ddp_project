@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/XueBBRBBLSDGG17" mdate="2017-03-06">
+<author>Yexiang Xue</author>
+<author>Junwen Bai</author>
+<author>Ronan Le Bras</author>
+<author>Brendan Rappazzo</author>
+<author>Richard Bernstein</author>
+<author>Johan Bjorck</author>
+<author>Liane Longpre</author>
+<author>Santosh K. Suram</author>
+<author>Robert Bruce van Dover</author>
+<author>John M. Gregoire</author>
+<author>Carla P. Gomes</author>
+<title>Phase-Mapper: An AI Platform to Accelerate High Throughput Materials Discovery.</title>
+<pages>4635-4643</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14799</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#XueBBRBBLSDGG17</url>
+</inproceedings>
+</dblp>

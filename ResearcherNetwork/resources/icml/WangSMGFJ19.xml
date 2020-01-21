@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/WangSMGFJ19" mdate="2019-06-11">
+<author>Yuyang Wang</author>
+<author>Alex Smola</author>
+<author>Danielle C. Maddix</author>
+<author>Jan Gasthaus</author>
+<author>Dean Foster</author>
+<author>Tim Januschowski</author>
+<title>Deep Factors for Forecasting.</title>
+<pages>6607-6617</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/wang19k.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#WangSMGFJ19</url>
+</inproceedings></dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/HaoZG18" mdate="2018-10-22">
+<author>Wang-Li Hao</author>
+<author>Zhaoxiang Zhang</author>
+<author>He Guan</author>
+<title>CMCGAN: A Uniform Framework for Cross-Modal Visual-Audio Mutual Generation.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17153</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#HaoZG18</url>
+<pages>6886-6893</pages>
+</inproceedings></dblp>

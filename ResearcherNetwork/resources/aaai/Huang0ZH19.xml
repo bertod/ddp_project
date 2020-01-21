@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/Huang0ZH19" mdate="2019-09-25">
+<author>Yuanjun Huang</author>
+<author>Xianbin Cao 0001</author>
+<author>Xiantong Zhen</author>
+<author>Jungong Han</author>
+<title>Attentive Temporal Pyramid Network for Dynamic Scene Classification.</title>
+<pages>8497-8504</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33018497</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#Huang0ZH19</url>
+</inproceedings></dblp>

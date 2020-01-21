@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/NguyenNDRST18" mdate="2019-04-03">
+<author>Lam M. Nguyen</author>
+<author>Phuong Ha Nguyen</author>
+<author>Marten van Dijk</author>
+<author>Peter Richt&#225;rik</author>
+<author>Katya Scheinberg</author>
+<author>Martin Tak&#225;c</author>
+<title>SGD and Hogwild! Convergence Without the Bounded Gradients Assumption.</title>
+<pages>3747-3755</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/nguyen18c.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#NguyenNDRST18</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/IgnatievNM19" mdate="2019-10-02">
+<author>Alexey Ignatiev</author>
+<author>Nina Narodytska</author>
+<author>Joao Marques-Silva</author>
+<title>Abduction-Based Explanations for Machine Learning Models.</title>
+<pages>1511-1519</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011511</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#IgnatievNM19</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/FuLTL19" mdate="2019-12-21">
+<author>Szu-Wei Fu</author>
+<author>Chien-Feng Liao</author>
+<author>Yu Tsao 0001</author>
+<author>Shou-De Lin</author>
+<title>MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement.</title>
+<pages>2031-2041</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/fu19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#FuLTL19</url>
+</inproceedings>
+</dblp>

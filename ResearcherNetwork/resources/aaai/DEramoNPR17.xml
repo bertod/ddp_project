@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/DEramoNPR17" mdate="2017-03-06">
+<author>Carlo D'Eramo</author>
+<author>Alessandro Nuara</author>
+<author>Matteo Pirotta</author>
+<author>Marcello Restelli</author>
+<title>Estimating the Maximum Expected Value in Continuous Reinforcement Learning Problems.</title>
+<pages>1840-1846</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14740</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#DEramoNPR17</url>
+</inproceedings>
+</dblp>

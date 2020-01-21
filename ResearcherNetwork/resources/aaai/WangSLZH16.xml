@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangSLZH16" mdate="2017-10-22">
+<author>Chenguang Wang</author>
+<author>Yangqiu Song</author>
+<author>Haoran Li</author>
+<author>Ming Zhang 0004</author>
+<author>Jiawei Han 0001</author>
+<title>Text Classification with Heterogeneous Information Network Kernels.</title>
+<pages>2130-2136</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12392</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#WangSLZH16</url>
+</inproceedings>
+</dblp>

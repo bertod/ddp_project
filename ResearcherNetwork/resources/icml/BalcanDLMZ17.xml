@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BalcanDLMZ17" mdate="2019-04-03">
+<author>Maria-Florina Balcan</author>
+<author>Travis Dick</author>
+<author>Yingyu Liang</author>
+<author>Wenlong Mou</author>
+<author>Hongyang Zhang 0001</author>
+<title>Differentially Private Clustering in High-Dimensional Euclidean Spaces.</title>
+<pages>322-331</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/balcan17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#BalcanDLMZ17</url>
+</inproceedings></dblp>

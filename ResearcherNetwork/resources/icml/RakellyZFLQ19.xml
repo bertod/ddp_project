@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/RakellyZFLQ19" mdate="2019-06-11">
+<author>Kate Rakelly</author>
+<author>Aurick Zhou</author>
+<author>Chelsea Finn</author>
+<author>Sergey Levine</author>
+<author>Deirdre Quillen</author>
+<title>Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables.</title>
+<pages>5331-5340</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/rakelly19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#RakellyZFLQ19</url>
+</inproceedings></dblp>

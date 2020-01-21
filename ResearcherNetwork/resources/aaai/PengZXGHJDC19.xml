@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/PengZXGHJDC19" mdate="2019-09-25">
+<author>Minlong Peng</author>
+<author>Qi Zhang 0001</author>
+<author>Xiaoyu Xing</author>
+<author>Tao Gui</author>
+<author>Xuanjing Huang</author>
+<author>Yu-Gang Jiang</author>
+<author>Keyu Ding</author>
+<author>Zhigang Chen</author>
+<title>Trainable Undersampling for Class-Imbalance Learning.</title>
+<pages>4707-4714</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33014707</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#PengZXGHJDC19</url>
+</inproceedings></dblp>

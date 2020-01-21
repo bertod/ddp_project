@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/BaranchukPSB19" mdate="2019-06-11">
+<author>Dmitry Baranchuk</author>
+<author>Dmitry Persiyanov</author>
+<author>Anton Sinitsin</author>
+<author>Artem Babenko</author>
+<title>Learning to Route in Similarity Graphs.</title>
+<pages>475-484</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/baranchuk19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#BaranchukPSB19</url>
+</inproceedings></dblp>

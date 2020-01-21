@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/RenYNLYZ17" mdate="2017-03-06">
+<author>Zhe Ren</author>
+<author>Junchi Yan</author>
+<author>Bingbing Ni</author>
+<author>Bin Liu</author>
+<author>Xiaokang Yang</author>
+<author>Hongyuan Zha</author>
+<title>Unsupervised Deep Learning for Optical Flow Estimation.</title>
+<pages>1495-1501</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14388</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#RenYNLYZ17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/CortesDMZG19" mdate="2019-06-11">
+<author>Corinna Cortes</author>
+<author>Giulia DeSalvo</author>
+<author>Mehryar Mohri</author>
+<author>Ningshan Zhang</author>
+<author>Claudio Gentile</author>
+<title>Active Learning with Disagreement Graphs.</title>
+<pages>1379-1387</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/cortes19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#CortesDMZG19</url>
+</inproceedings></dblp>

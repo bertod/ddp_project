@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/SuW19" mdate="2019-06-11">
+<author>Bing Su</author>
+<author>Ying Wu</author>
+<title>Learning Distance for Sequences by Learning a Ground Metric.</title>
+<pages>6015-6025</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/su19b.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#SuW19</url>
+</inproceedings></dblp>

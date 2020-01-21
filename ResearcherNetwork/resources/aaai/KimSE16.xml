@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KimSE16" mdate="2016-04-21">
+<author>Carolyn Kim</author>
+<author>Ashish Sabharwal</author>
+<author>Stefano Ermon</author>
+<title>Exact Sampling with Integer Linear Programs and Random Perturbations.</title>
+<pages>3248-3254</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12105</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#KimSE16</url>
+</inproceedings>
+</dblp>

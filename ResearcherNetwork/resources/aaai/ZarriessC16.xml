@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZarriessC16" mdate="2016-04-21">
+<author>Benjamin Zarrie&#223;</author>
+<author>Jens Cla&#223;en</author>
+<title>Decidable Verification of Golog Programs over Non-Local Effect Actions.</title>
+<pages>1109-1115</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12283</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#ZarriessC16</url>
+</inproceedings>
+</dblp>

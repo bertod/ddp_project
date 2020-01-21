@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/MehtaCR19" mdate="2019-06-11">
+<author>Nikhil Mehta</author>
+<author>Lawrence Carin</author>
+<author>Piyush Rai</author>
+<title>Stochastic Blockmodels meet Graph Neural Networks.</title>
+<pages>4466-4474</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/mehta19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#MehtaCR19</url>
+</inproceedings></dblp>

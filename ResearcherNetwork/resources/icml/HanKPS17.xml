@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/HanKPS17" mdate="2019-04-03">
+<author>Insu Han</author>
+<author>Prabhanjan Kambadur</author>
+<author>KyoungSoo Park</author>
+<author>Jinwoo Shin</author>
+<title>Faster Greedy MAP Inference for Determinantal Point Processes.</title>
+<pages>1384-1393</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/han17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#HanKPS17</url>
+</inproceedings>
+</dblp>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/MengCYWML17" mdate="2018-03-08">
+<author>Qi Meng</author>
+<author>Wei Chen 0034</author>
+<author>Jingcheng Yu</author>
+<author>Taifeng Wang</author>
+<author>Zhiming Ma</author>
+<author>Tie-Yan Liu</author>
+<title>Asynchronous Stochastic Proximal Optimization Algorithms with Variance Reduction.</title>
+<pages>2329-2335</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14835</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#MengCYWML17</url>
+</inproceedings></dblp>

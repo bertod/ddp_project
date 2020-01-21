@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/WangKMYTACFMMW19" mdate="2019-09-25">
+<author>Xiaoyan Wang</author>
+<author>Pavan Kapanipathi</author>
+<author>Ryan Musa</author>
+<author>Mo Yu</author>
+<author>Kartik Talamadupula</author>
+<author>Ibrahim Abdelaziz</author>
+<author>Maria Chang</author>
+<author>Achille Fokoue</author>
+<author>Bassem Makni</author>
+<author>Nicholas Mattei</author>
+<author>Michael Witbrock</author>
+<title>Improving Natural Language Inference Using External Knowledge in the Science Questions Domain.</title>
+<pages>7208-7215</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33017208</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#WangKMYTACFMMW19</url>
+</inproceedings></dblp>

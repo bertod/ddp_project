@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/ShiK019" mdate="2019-06-11">
+<author>Jiaxin Shi</author>
+<author>Mohammad Emtiyaz Khan</author>
+<author>Jun Zhu 0001</author>
+<title>Scalable Training of Inference Networks for Gaussian-Process Models.</title>
+<pages>5758-5768</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/shi19a.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#ShiK019</url>
+</inproceedings></dblp>

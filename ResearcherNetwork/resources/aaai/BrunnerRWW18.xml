@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/BrunnerRWW18" mdate="2019-06-07">
+<author>Gino Brunner</author>
+<author>Oliver Richter</author>
+<author>Yuyi Wang 0001</author>
+<author>Roger Wattenhofer</author>
+<title>Teaching a Machine to Read Maps With Deep Reinforcement Learning.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16387</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#BrunnerRWW18</url>
+<pages>2763-2770</pages>
+</inproceedings></dblp>

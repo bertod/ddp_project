@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ZhangSCFLCNZCC19" mdate="2019-09-25">
+<author>Chuxu Zhang</author>
+<author>Dongjin Song</author>
+<author>Yuncong Chen</author>
+<author>Xinyang Feng</author>
+<author>Cristian Lumezanu</author>
+<author>Wei Cheng</author>
+<author>Jingchao Ni</author>
+<author>Bo Zong</author>
+<author>Haifeng Chen</author>
+<author>Nitesh V. Chawla</author>
+<title>A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data.</title>
+<pages>1409-1416</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.33011409</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#ZhangSCFLCNZCC19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GuoDWJ16" mdate="2016-04-21">
+<author>Yuchen Guo</author>
+<author>Guiguang Ding</author>
+<author>Yuqi Wang</author>
+<author>Xiaoming Jin</author>
+<title>Active Learning with Cross-Class Knowledge Transfer.</title>
+<pages>1624-1630</pages>
+<year>2016</year>
+<booktitle>AAAI</booktitle>
+<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11976</ee>
+<crossref>conf/aaai/2016</crossref>
+<url>db/conf/aaai/aaai2016.html#GuoDWJ16</url>
+</inproceedings>
+</dblp>

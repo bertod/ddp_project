@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/TangGD17" mdate="2019-04-03">
+<author>Junqi Tang</author>
+<author>Mohammad Golbabaee</author>
+<author>Mike E. Davies</author>
+<title>Gradient Projection Iterative Sketch for Large-Scale Constrained Least-Squares.</title>
+<pages>3377-3386</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/tang17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#TangGD17</url>
+</inproceedings>
+</dblp>

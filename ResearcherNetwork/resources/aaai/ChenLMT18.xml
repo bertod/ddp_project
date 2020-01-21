@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/ChenLMT18" mdate="2019-03-12">
+<author>Changhao Chen</author>
+<author>Xiaoxuan Lu 0001</author>
+<author>Andrew Markham</author>
+<author>Niki Trigoni</author>
+<title>IONet: Learning to Cure the Curse of Drift in Inertial Odometry.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16658</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#ChenLMT18</url>
+<pages>6468-6476</pages>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/KumarSTPS19" mdate="2019-11-15">
+<author>Sawan Kumar</author>
+<author>Varsha Sreenivasan</author>
+<author>Partha P. Talukdar</author>
+<author>Franco Pestilli</author>
+<author>Devarajan Sridharan</author>
+<title>ReAl-LiFE: Accelerating the Discovery of Individualized Brain Connectomes on GPUs.</title>
+<pages>630-638</pages>
+<year>2019</year>
+<booktitle>AAAI</booktitle>
+<ee>https://doi.org/10.1609/aaai.v33i01.3301630</ee>
+<crossref>conf/aaai/2019</crossref>
+<url>db/conf/aaai/aaai2019.html#KumarSTPS19</url>
+</inproceedings></dblp>

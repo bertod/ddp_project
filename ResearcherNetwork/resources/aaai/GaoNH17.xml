@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/GaoNH17" mdate="2017-03-06">
+<author>Hongchang Gao</author>
+<author>Feiping Nie</author>
+<author>Heng Huang</author>
+<title>Local Centroids Structured Non-Negative Matrix Factorization.</title>
+<pages>1905-1911</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15027</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#GaoNH17</url>
+</inproceedings>
+</dblp>

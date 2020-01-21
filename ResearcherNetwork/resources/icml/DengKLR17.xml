@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/DengKLR17" mdate="2019-04-03">
+<author>Yuntian Deng</author>
+<author>Anssi Kanervisto</author>
+<author>Jeffrey Ling</author>
+<author>Alexander M. Rush</author>
+<title>Image-to-Markup Generation with Coarse-to-Fine Attention.</title>
+<pages>980-989</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/deng17a.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#DengKLR17</url>
+</inproceedings>
+</dblp>

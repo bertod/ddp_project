@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/NijsWWS17" mdate="2017-03-06">
+<author>Frits de Nijs</author>
+<author>Erwin Walraven</author>
+<author>Mathijs Michiel de Weerdt</author>
+<author>Matthijs T. J. Spaan</author>
+<title>Bounding the Probability of Resource Constraint Violations in Multi-Agent MDPs.</title>
+<pages>3562-3568</pages>
+<year>2017</year>
+<booktitle>AAAI</booktitle>
+<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/15009</ee>
+<crossref>conf/aaai/2017</crossref>
+<url>db/conf/aaai/aaai2017.html#NijsWWS17</url>
+</inproceedings>
+</dblp>

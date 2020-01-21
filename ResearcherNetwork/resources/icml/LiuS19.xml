@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LiuS19" mdate="2019-06-11">
+<author>Weiwei Liu</author>
+<author>Xiaobo Shen 0004</author>
+<title>Sparse Extreme Multi-label Learning with Oracle Property.</title>
+<pages>4032-4041</pages>
+<year>2019</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v97/liu19d.html</ee>
+<crossref>conf/icml/2019</crossref>
+<url>db/conf/icml/icml2019.html#LiuS19</url>
+</inproceedings></dblp>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/aaai/LuCYDC18" mdate="2018-10-22">
+<author>Xuequan Lu</author>
+<author>Honghua Chen</author>
+<author>Sai-Kit Yeung</author>
+<author>Zhigang Deng</author>
+<author>Wenzhi Chen</author>
+<title>Unsupervised Articulated Skeleton Extraction From Point Set Sequences Captured by a Single Depth Camera.</title>
+<year>2018</year>
+<booktitle>AAAI</booktitle>
+<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16833</ee>
+<crossref>conf/aaai/2018</crossref>
+<url>db/conf/aaai/aaai2018.html#LuCYDC18</url>
+<pages>7226-7234</pages>
+</inproceedings></dblp>

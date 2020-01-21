@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/AmodioK18" mdate="2019-04-03">
+<author>Matthew Amodio</author>
+<author>Smita Krishnaswamy</author>
+<title>MAGAN: Aligning Biological Manifolds.</title>
+<pages>215-223</pages>
+<year>2018</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v80/amodio18a.html</ee>
+<crossref>conf/icml/2018</crossref>
+<url>db/conf/icml/icml2018.html#AmodioK18</url>
+</inproceedings>
+</dblp>

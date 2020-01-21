@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icml/LeiYWDR17" mdate="2019-04-03">
+<author>Qi Lei</author>
+<author>Ian En-Hsu Yen</author>
+<author>Chao-Yuan Wu</author>
+<author>Inderjit S. Dhillon</author>
+<author>Pradeep Ravikumar</author>
+<title>Doubly Greedy Primal-Dual Coordinate Descent for Sparse Empirical Risk Minimization.</title>
+<pages>2034-2042</pages>
+<year>2017</year>
+<booktitle>ICML</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v70/lei17b.html</ee>
+<crossref>conf/icml/2017</crossref>
+<url>db/conf/icml/icml2017.html#LeiYWDR17</url>
+</inproceedings>
+</dblp>
