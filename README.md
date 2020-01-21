@@ -84,6 +84,7 @@ how to change the test working directory in PyCharm.
     _We decided to make optional this requirements due to the difficulty in installing and running it in a Windows environment.
     However, it is easy to install under Linux and Mac OS. 
     Despite the possible compatibility issue with Windows, it has really good performance in rendering graphs and in exploration of them._
+    _(read the last paragraph of this document before starting use graph-tool)_
 ## The Process
 The entire project process (including design and development phases) was composed by two iterations and
 it was supported by a Kanban Board for tracking User Stories and relatives Tasks.
@@ -249,14 +250,14 @@ those tasks with networkX or bokeh library.
 Just to have an idea, we recorded the time you need to wait until your graph is ready
 
     Static Visualization:
-    - networkx: more than 5 minutes
+    - networkx: around 5 minutes
     - graph-tool: 1 minute and 40 seconds
     
     This test was conducted on 13063 authors, so 13063 nodes to build and connect in the graph.
     
     Interactive Visualization:
     - networkx and bokeh: more than 5 minutes
-    - graph-tool: 15 seconds!
+    - graph-tool: 2 minutes and 50 seconds
     
     This test was conducted on 9509 authors, so 9509 nodes to build and connect in the graph.
     
@@ -285,3 +286,28 @@ We think that our project has a good level of reusability of components, since t
 they are loosely coupled.
 In addition, the develop of the project follows a modular design which increase this
 non functional quality.
+
+## Graph Tool 
+#### How To Use the interactive window
+Once the graph is completely rendered, you can explore it:
+- use mouse wheel to zoom in and out
+- keep pressed the mouse wheel to drag and move into the window
+- press the key "r" on the keyboard to recenter the graph
+- you can select a single node and move it with mouse left button
+- you can select a group of nodes using you mouse and keeping pressed SHIFT key
+- you can cancel your selection pressing the mouse right button
+- once you selected a group, you can press "z" key to make the layout zoomed to fit the selected vertices only.
+
+#### Rendering
+After the module starts rendering (i.e. it opens an interactive window) it might takes some minutes
+(depending on your hardware capabilities) to finish.
+You understand it has finished because it stops to operates on the graph 
+(e.g. it stops with moving and zooming). 
+Then, you are able  now to explore how explained above.
+
+_Tips: we suggest you to keep you laptop plugged to power in order to
+leverage on the full power of the machine_
+
+#### Installation
+We reported again the link to 
+[intructions](https://git.skewed.de/count0/graph-tool/-/wikis/installation-instructions) for installing the library.
