@@ -27,6 +27,10 @@ showing baseline statistics and static graph representations (if you ask it to b
 ```bash
 cd ddp_project
 ```
+- install all the requirements
+```
+pip install -r requirements.txt
+```
 - run the project main script
 
 
@@ -264,11 +268,14 @@ Just to have an idea, we recorded the time you need to wait until your graph is 
     The environment used for testing was the same for both:
     - Intel Core i5-8265U, 1.6 Ghz
     - RAM 8GB 
-    - Ubuntu 18.04 Bionic
+    - Ubuntu 18.04 Bionic (windows subsystem for linux)
 
 As we can notice from the records above, graph tool is really better in term of
 computing speed. On the other hand, it is also more resource heavy respect to both 
 networkx and bokeh.
+
+Please notice that on a native Ubuntu installation the whole process is faster than on Windows,
+which seems to slow down the generation of both static and interactive visualizations.
 
 ##### Maintainability
 We think the software allows to easily extend the set of possible Data Source from which
