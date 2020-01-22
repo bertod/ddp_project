@@ -13,9 +13,9 @@ class ParserCreator:
         product = self.factory_method()
         product.fast_iter(context, product.process_element, collab, *args, **kwargs)
 
-    def run_process_element(self, elem, fout):
+    def run_process_element(self, elem, **kwargs):
         product = self.factory_method()
-        product.process_element(elem, fout)
+        product.process_element(elem, **kwargs)
 
 
 class Parser(ABC):
