@@ -53,7 +53,7 @@ def run(datasource="dblp",
         for file in sorted(os.listdir(scraper_output_path + folder)):
             context = etree.iterparse(scraper_output_path + folder + "/" + file,
                                       load_dtd=True, html=True, events=["start", "end"])
-            source_analyzer.parts['parser'].run_fast_iter(context, fout=fout)
+            source_analyzer.parts['parser'].run_fast_iter(context, fout=fout, years=year_list)
     fout.close()
 
     g = GraphBuilder(output_file_path, output=scraper_output_path)  # output_file_path is the parser output file

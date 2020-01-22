@@ -25,7 +25,7 @@ class Parser(ABC):
         pass
 
     @abstractmethod
-    def process_element(self, elem, fout):
+    def process_element(self, elem, **kwargs):
         pass
 
 
@@ -50,6 +50,7 @@ class ConcreteParserDblp(Parser):
         title = ''
         journal = ''
         year = 0
+        years_list = kwargs['years']
         tag = ''
         book = ''
         collaborations = collab
@@ -80,7 +81,7 @@ class ConcreteParserDblp(Parser):
             if elem.tag == 'booktitle' and event == 'start':
                 book = unidecode(elem.text)
 
-            if elem.tag in collaborations and event == "end":
+            if elem.tag in collaborations and year in years_list and event == "end":
                 if len(author_array) is not 0 and title is not '':
                     # rejected paper has no author or title
                     # it should be check
@@ -122,14 +123,14 @@ class ConcreteParserDblp(Parser):
     # @param elem : parsed data of chunk
     # @param fout : file name to write
     # @desc: It is handler to write content. just write content to file
-    def process_element(self, elem, fout):
+    def process_element(self, elem, **kwargs):
         """
         :param elem: output row to be written
         :param fout: output file reference
         :return:
         """
         print("writing ... " + elem)
-        print(elem, file=fout)
+        print(elem, file=kwargs["fout"])
 
 
 class ConcreteParserDblpCreator(ParserCreator):
